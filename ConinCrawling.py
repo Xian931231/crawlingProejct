@@ -1,11 +1,23 @@
 import time
 import json
+
+import os
+from openai import OpenAI
+
 from datetime import datetime, timedelta
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.chrome.options import Options
 from zoneinfo import ZoneInfo
+from dotenv import load_dotenv
+
+# .env 파일 로드
+load_dotenv()
+
+client = OpenAI(
+  api_key= os.getenv('OPENAI_API_KEY')
+)
 
 # 미국 뉴욕 기준 어제 날짜
 yesterday_str = (datetime.now(ZoneInfo("America/New_York")) - timedelta(days=1)).strftime("%Y-%m-%d")
@@ -75,11 +87,30 @@ try:
     results = []
     for summary in news_summaries:
         content = get_article_content_by_selenium(driver, summary["link"])
+
+        completion = client.chat.completions.create(
+            model="gpt-4o-mini",
+            store=True,
+            messages=[
+                {
+                    "role":"system",
+                    "content":"당신은 번역가 이면서 기자야, 이제부터 영어로 된 기사를 최대한 분석해서 한국기자처럼 번역해줘"
+                },
+                {
+                    "role": "user", "content": content
+                }
+            ]
+            )
+
+        kr_content = completion.choices[0].message.content
+        print("번역 : ", kr_content)
+
         results.append({
             "title": summary["title"],
             "link": summary["link"],
             "date": summary["date"],
-            "content": content
+            "content": content ,
+            "kr_content": kr_content
         })
 
     # 저장
