@@ -7,7 +7,7 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.chrome.options import Options
 from zoneinfo import ZoneInfo
 
-# 🔧 미국 뉴욕 기준 어제 날짜
+# 미국 뉴욕 기준 어제 날짜
 yesterday_str = (datetime.now(ZoneInfo("America/New_York")) - timedelta(days=1)).strftime("%Y-%m-%d")
 print("기준 날짜 (미국 기준 어제):", yesterday_str)
 
