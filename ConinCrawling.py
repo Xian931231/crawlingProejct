@@ -23,6 +23,9 @@ client = OpenAI(
 yesterday_str = (datetime.now(ZoneInfo("America/New_York")) - timedelta(days=1)).strftime("%Y-%m-%d")
 print("기준 날짜 (미국 기준 어제):", yesterday_str)
 
+
+
+
 # 크롬 드라이버 옵션 설정
 chrome_options = Options()
 # chrome_options.add_argument("--headless")  # 필요 시 주석 해제
