@@ -1,9 +1,7 @@
 import time
 import json
-
 import os
 from openai import OpenAI
-
 from datetime import datetime, timedelta
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -16,15 +14,12 @@ from dotenv import load_dotenv
 load_dotenv()
 
 client = OpenAI(
-  api_key= os.getenv('OPENAI_API_KEY')
+    api_key=os.getenv('OPENAI_API_KEY')
 )
 
 # 미국 뉴욕 기준 어제 날짜
 yesterday_str = (datetime.now(ZoneInfo("America/New_York")) - timedelta(days=1)).strftime("%Y-%m-%d")
 print("기준 날짜 (미국 기준 어제):", yesterday_str)
-
-
-
 
 # 크롬 드라이버 옵션 설정
 chrome_options = Options()
@@ -75,7 +70,8 @@ try:
             if link and link.startswith("/"):
                 link = "https://cointelegraph.com" + link
             date = item.find_element(By.CSS_SELECTOR, "time.post-card-inline__date").get_attribute("datetime")
-        except:
+        except Exception as e:
+            print(f"기사 정보 추출 실패: {e}")
             continue
 
         if date == yesterday_str:
@@ -89,32 +85,63 @@ try:
     # 2차로 본문 추가 수집
     results = []
     for summary in news_summaries:
-        content = get_article_content_by_selenium(driver, summary["link"])
+        try:
+            content = get_article_content_by_selenium(driver, summary["link"])
 
-        completion = client.chat.completions.create(
-            model="gpt-4o-mini",
-            store=True,
-            messages=[
-                {
-                    "role":"system",
-                    "content":"당신은 번역가 이면서 기자야, 이제부터 영어로 된 기사를 최대한 분석해서 한국기자처럼 번역해줘"
-                },
-                {
-                    "role": "user", "content": content
-                }
-            ]
+            system_content = """당신은 블록체인 뉴스 기사를 작성하는 전문가입니다. 최신 기술과 관련된 뉴스를 작성하고, 심층 분석과 의견을 제공하며, 독자들이 이해하기 쉽게 설명합니다.
+
+### 기사 작성 요구사항:
+1. 핵심 내용 요약:
+   - 기사 맨 앞에 3줄로 핵심 내용을 요약
+   - 요약은 서로 자연스럽게 이어지도록 작성
+   - "###핵심내용요약" 제목으로 시작
+
+2. 기사 구조:
+   - SEO 최적화된 뉴스 기사 형식의 제목
+   - 리드 문장 (전체 내용을 함축하는 첫 문장)
+   - 본문 첫 문단은 "15일(현지시간) 크립토슬레이트에 따르면,"으로 시작
+   - 소주제 없이 자연스러운 문맥 흐름
+   - 영어 원문과 비슷한 분량 유지
+
+3. 키워드:
+   - 주요 키워드 3개 (한글로만 작성, 숫자 제외)
+   - "###주요키워드" 제목으로 시작
+
+4. 기타 지침:
+   - 모든 답변은 한국어로 작성
+   - 명확하고 간결한 문체 사용
+   - 영어는 한국어 정식 표기나 음역으로 변환
+   - 금액은 '숫자 달러'로 표기
+   - 인용문 앞에 문맥 제공
+   - 전문 용어는 설명 추가"""
+
+            completion = client.chat.completions.create(
+                model="gpt-4-turbo-preview",
+                messages=[
+                    {
+                        "role": "system",
+                        "content": system_content
+                    },
+                    {
+                        "role": "user",
+                        "content": content
+                    }
+                ]
             )
 
-        kr_content = completion.choices[0].message.content
-        print("번역 : ", kr_content)
+            kr_content = completion.choices[0].message.content
+            print("번역 : ", kr_content)
 
-        results.append({
-            "title": summary["title"],
-            "link": summary["link"],
-            "date": summary["date"],
-            "content": content ,
-            "kr_content": kr_content
-        })
+            results.append({
+                "title": summary["title"],
+                "link": summary["link"],
+                "date": summary["date"],
+                "content": content,
+                "kr_content": kr_content
+            })
+        except Exception as e:
+            print(f"기사 처리 중 오류 발생: {e}")
+            continue
 
     # 저장
     file_name = f"cointelegraph_yesterday_{yesterday_str}.json"
@@ -122,6 +149,9 @@ try:
         json.dump(results, f, ensure_ascii=False, indent=2)
 
     print(f"\n총 {len(results)}개의 뉴스를 저장했습니다: {file_name}")
+
+except Exception as e:
+    print(f"프로그램 실행 중 오류 발생: {e}")
 
 finally:
     driver.quit()
