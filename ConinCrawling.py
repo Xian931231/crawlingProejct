@@ -52,6 +52,11 @@ def get_article_content_by_selenium(driver, url):
         return ""
 
 try:
+    # prompt.txt 파일에서 시스템 프롬프트 읽기
+    with open('prompt.txt', 'r', encoding='utf-8') as f:
+        system_prompt = f.read()
+
+
     url = "https://cointelegraph.com/tags/markets"
     driver.get(url)
     time.sleep(2)
