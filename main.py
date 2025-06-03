@@ -69,7 +69,11 @@ def translate_and_format(news_content):
 
         # GPT-3.5-turbo를 사용하여 번역 (GPT-4 대신)
         completion = client.chat.completions.create(
-            model="gpt-3.5-turbo",  # GPT-4에서 변경
+            
+            # model="gpt-3.5-turbo",  
+            model="gpt-4",
+
+
             messages=[
                 {
                     "role": "system",
@@ -97,22 +101,38 @@ def translate_and_format(news_content):
             if 'title:' in kr_content:
                 title_parts = kr_content.split('lead:')
                 title = title_parts[0].replace('title:', '').strip()
+            elif '### 제목' in kr_content:
+                title_parts = kr_content.split('### 리드' if '### 리드' in kr_content else '### 본문')
+                title = title_parts[0].split('### 제목')[-1].strip()
             
             # lead 추출
             if 'lead:' in kr_content:
                 lead_parts = kr_content.split('content:')
                 lead = lead_parts[0].split('lead:')[1].strip()
+            elif '### 리드' in kr_content:
+                lead_parts = kr_content.split('### 본문')
+                lead = lead_parts[0].split('### 리드')[-1].strip()
             
             # content 추출
             if 'content:' in kr_content:
                 content = kr_content.split('content:')[1].strip()
+            elif '### 본문' in kr_content:
+                content_parts = kr_content.split('### 본문')
+                if len(content_parts) > 1:
+                    content = content_parts[1].strip()
+                    # 다음 섹션이 있다면 그 전까지만 추출
+                    next_section = content.find('###')
+                    if next_section != -1:
+                        content = content[:next_section].strip()
+            
+            print("\n=== 파싱 결과 ===")
+            print(f"제목: {title}")
+            print(f"리드: {lead}")
+            print(f"본문: {content[:100]}...")  # 본문은 처음 100자만 출력
         except Exception as parsing_error:
             print(f"번역 결과 파싱 중 오류 발생: {parsing_error}")
             print(f"원본 번역 결과: {kr_content}")
             
-        print(f"title: {title}")
-        print(f"lead: {lead}")
-        print(f"content: {content}")
 
         if not all([title, lead, content]):
             print("경고: 일부 필드가 비어 있습니다.")

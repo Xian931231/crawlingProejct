@@ -1,48 +1,56 @@
 ### 제목
-Blockchain Group adds $68M in Bitcoin to corporate treasury
+Texas Rep. Brandon Gill under fire over late $500K Bitcoin disclosures
 
 ### 링크
-https://cointelegraph.com/news/eu-blockchain-group-68m-bitcoin-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/texas-rep-brandon-gill-bitcoin-disclosures-stock-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 
 ### 본문
-Paris-based cryptocurrency firm Blockchain Group has acquired $68 million of Bitcoin, joining a growing wave of European institutions adding BTC to their balance sheets.
+Texas Republican Representative Brandon Gill is facing scrutiny after filing late disclosures for up to $500,000 in Bitcoin purchases, potentially violating federal law.
 
-The Blockchain Group, which claims to be Europe’s first Bitcoin treasury firm, has acquired 624 Bitcoin (BTC) for 60.2 million euros ($68.7 million).
+Gill, a first-term House member known for his bill proposing President Donald Trump’s face on the $100 bill, has reported two Bitcoin (BTC) purchases, each valued between $100,001 and $250,000, made on Jan. 29 and Feb. 27.
 
-The latest acquisition brings the firm’s total holdings to 1,471 Bitcoin, or over $154 million, with a BTC yield of 1,097.6% YTD, the Blockchain Group announced in a June 3 X post.
+However, both trades were disclosed weeks past the 45-day deadline required by the Stop Trading on Congressional Knowledge (STOCK) Act, a law aimed at curbing insider trading and financial conflicts among lawmakers.
 
-Institutional interest has grown since the US approved spot Bitcoin exchange-traded funds in January 2024, introducing the first fully regulated BTC investment vehicles for traditional investors.
+Notably, Gill’s late January purchase occurred shortly after Trump signed an executive order promoting US leadership in digital assets. His late February buy came just ahead of Trump’s announcement of a “strategic Bitcoin reserve.”
 
-Corporate appetite saw another significant uptick on March 7 after US President Donald Trump issued an executive order outlining a plan to create a Bitcoin reserve using crypto seized in criminal cases.
+Bitcoin traded around $102,000 and $85,000, respectively, on those dates. At the time of writing, Bitcoin traded above $105,000, according to data from CoinMarketCap.
 
-Related: European lawmakers silent on US Bitcoin reserve amid digital euro push
+Related: US Congress introduces the CLARITY Act for digital assets
 
-Despite Bitcoin’s economic model favoring the early adopters, only a few European companies have displayed Bitcoin treasury ambitions. These include French banking giant BNP Paribas, Swiss firm 21Shares AG, VanEck Europe, Malta-based Jacobi Asset Management and Austrian fintech firm Bitpanda.
+Gill discloses more Bitcoin purchases
 
-The Czech National Bank has also publicly explored using Bitcoin as a diversification strategy for its foreign exchange reserves.
+In the disclosure, Gill also revealed two additional Bitcoin purchases from May, one for up to $250,000 and another for up to $100,000, both filed on time.
 
-Related: Swedish MP proposes Bitcoin reserve to finance minister
+Beyond crypto, Gill also disclosed positions in the Invesco S&P 500 Equal Weight ETF (RSP) and holdings in the TOIXX money market fund, all filed on time.
 
-In the market, Bitcoin is set to “consolidate between $103,000 and $108,000” after reaching the $112,000 all-time high on May 22, according to Ryan Lee, chief analyst at Bitget Research.
+Notably, the fine for late STOCK Act filings is typically just $200. In a June 2 post on X, investment research firm Quiver Quantitative called the penalty a “joke.”
 
-“Still, onchain data shows continued whale accumulation, which shows a bullish signal; this frames any further corrections as a potential entry point,” the analyst told Cointelegraph.
+“We have seen thousands of STOCK Act violations since we started writing code to track congressional stock trading,” Quiver Quantitative added.
 
-Bitcoin’s corporate treasury adoption is on the rise worldwide
+Cointelegraph was unable to contact Gill’s office for comment.
 
-Bitcoin treasury firms like Michael Saylor’s Strategy have spearheaded global Bitcoin adoption efforts.
+Notably, Gill serves on the Committee on Oversight and Government Reform, which is the main investigative committee of the US House of Representatives. He also serves on two other House committees, including Budget and Judiciary.
 
-Strategy, the world’s largest corporate Bitcoin holder, with over $60.5 billion worth of BTC, is now about $8.3 billion away from surpassing BlackRock’s iShares Bitcoin Trust ETF, currently worth over $68.9 billion, according to Arkham Intelligence.
+The 31-year-old congressman has been a vocal crypto supporter. “Cryptocurrency plays a vital role in today’s monetary system. It offers permission-less peer-to-peer transactions in the same form as cash transactions,” he previously wrote on X.
 
-Strategy bought $75 million worth of Bitcoin between May 26 and 30, at an average price of $106,495 per BTC.
+In addition to his Bitcoin activity, Gill is the sponsor of legislation promoting government transparency, including the “Putting Trust in Transparency Act,” which would require public disclosure of nonprofit contributors.
 
-On June 2, Strategy announced plans to raise $250 million through an initial public offering of a new class of perpetual preferred stocks to fund its future Bitcoin acquisitions.
+Related: Tuttle Capital’s latest ETF aims to copy Congress’ stock picks
 
-Meanwhile, Metaplanet, also known as “Asia’s MicroStrategy,” became the world’s eighth-largest Bitcoin holder after a $118 million Bitcoin investment on June 2, Cointelegraph reported.
+Gill has deep ties to Trump’s inner circle
 
-Magazine: Bitcoiner sex trap extortion? BTS firm’s blockchain disaster: Asia Express
+Gill’s ties to Trump’s inner circle run deep. He is the son-in-law of conservative filmmaker Dinesh D’Souza, who was pardoned by Trump in 2018 after a campaign finance conviction. Employees of D’Souza Media were among Gill’s top donors in 2024.
+
+Trump has also faced mounting scrutiny over his personal use of cryptocurrency, with critics questioning whether his promotion of crypto projects could present conflicts of interest or be used for personal financial gain.
+
+Gill joins a growing list of lawmakers who have violated the STOCK Act this year. Several others, including Representatives Jamie Raskin, Dwight Evans and Neal Dunn, have also filed late trade disclosures.
+
+Meanwhile, a bipartisan push to ban members of Congress and their families from trading individual stocks and cryptocurrencies is gaining momentum on Capitol Hill.
+
+Magazine: Move to Portugal to become a crypto digital nomad — Everybody else is
 
 ### 발행일
-2025-06-03T09:11:47+00:00
+2025-06-03T09:35:05+00:00
 
 ### 출처
 CoinTelegraph
