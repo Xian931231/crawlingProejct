@@ -1,51 +1,89 @@
-Adam Back leads $2.2M raise for Swedish health firm’s Bitcoin buys
-Bitcoin cypherpunk Adam Back has backed a $2.2 million funding round for H100 AB Group to help the Swedish health tech firm buy Bitcoin.
+### 제목
+FCA-registered BCP launches British pound stablecoin
 
-3992
-Total views
-Listen to article
+### 링크
+https://cointelegraph.com/news/gpb-stablecoin-fca-registered-bcp-tgbp-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 
-2:50
-Adam Back leads $2.2M raise for Swedish health firm’s Bitcoin buys
-News
-COINTELEGRAPH IN YOUR SOCIAL FEED
-Follow our
-Subscribe on
-Blockstream CEO Adam Back has led a 21 million Swedish krona ($2.2 million) funding round in the Swedish health tech company H100 Group AB, which last week said it would start buying Bitcoin.
+### 본문
+BCP Technologies, a United Kingdom-registered cryptocurrency firm, has launched a new British pound-backed stablecoin following a 14-month review in the Financial Conduct Authority’s (FCA) regulatory sandbox.
 
-H100 said on May 25 that the funds, secured through 0% interest convertible loans, will be used to purchase Bitcoin 
-BTC
-$109,716
- in line with its Bitcoin-buying pivot announced on May 22.
+The company revealed the rollout of its Tokenised GBP (tGBP) stablecoin in an announcement shared with Cointelegraph on June 3.
 
-Back, a longtime Bitcoin cypherpunk, contributed around $1.4 million, while the remaining $800,000 came from investment firms Morten Klein, Alundo Invest AS, Race Venture Scandinavia AB and Crafoord Capital Partners.
+TGBP is now live on BCB Technologies-operated crypto trading platform, BCP Markets, and is available to customers who pass Know Your Customer checks, with major exchanges expected to list tGBP in the coming weeks.
 
-The raise would allow H100 to buy around 20.18 Bitcoin at current market prices, which would add to the 4.39 Bitcoin that it purchased on May 22 and bring its total stash to roughly 24.57 Bitcoin.
+“There are two large exchanges that we are finalising details with. We are hoping to be able to announce these in the following weeks,” BCP Technologies CEO Benoit Marzouk told Cointelegraph.
+
+TGBP’s launch comes days after the FCA launched a public consultation on proposed new rules for stablecoin issuers and crypto custody providers on May 28.
+
+According to Marzouk, BCP Technologies is in a unique situation where tGBP might be considered a “live proof-of-concept for future FCA stablecoin regulation.”
+
+“BCP works closely with the FCA, and will participate in the FCA roundtable discussion on July 4 on the recently published consultation paper,” the CEO said.
+
+TGBP is backed fully with cash held in a segregated bank account, with each token minted representing 1 British pound. The stablecoin is launched as an ERC-20 token, meaning that it is initially issued on the Ethereum blockchain.
+
+“BCP proposes in the future to back tGBP with short-term UK government bonds, in line with the FCA discussion paper,” Marzouk told Cointelegraph.
+
+Acting as the issuer, BCP Technologies has been an FCA-registered crypto asset service provider since 2021, formerly known as BitcoinPoint, according to official FCA records.
+
+“Historically, it was a platform ‘BitcoinPoint’ to democratise access to Bitcoin, where anyone could buy Bitcoin easily,” Marzouk said, adding:
+
+At launch, tGBP targets a broad range of use cases, including self-custody for retail and corporations as an alternative to banks, cross-border payments, institutional collateral management and decentralized finance lending.
+
+The new stablecoin is also expected to be used as the main pound rail for settling tokenised assets like bonds, securities or real estate, Marzouk said.
+
+Related: UK-listed IG Group launches crypto trading to retail investors
+
+“Stablecoins enable open, instant, and frictionless transfers, free from volatility. Our vision is to abstract the complexity of blockchain with the familiarity of a GBP denomination, ultimately replacing GBP e-money with our GBP stablecoin,” the CEO stated in the announcement.
+
+BCP’s launch enters a market with limited competition.
+
+According to data from CoinGecko, there are only two tracked pound stablecoins at the time of writing, including VNX British Pound (VGBP) and Celo British Pound (CGBP), with a combined market cap of less than $500,000.
+
+Other pound stablecoin projects include the “poundtoken” (GBPT) stablecoin launched by Blackfridge in 2022 and a pound (GBPA) stablecoin developed by the Digital Pound Foundation member Agant.
+
+Tether, issuer of the world’s largest stablecoin USDt (USDT), attempted to launch a pound stablecoin in 2022, but it has not achieved significant adoption in the market.
+
+Magazine: Crypto wanted to overthrow banks, now it’s becoming them in stablecoin fight
+
+### 발행일
+2025-06-03T08:20:53+00:00
+
+### 출처
+CoinTelegraph
+
+--------------------------------------------------------------------------------
+
+### 제목
+Ripple’s Stablecoin, RLUSD, Gets Stamp of Approval in Dubai
+
+### 링크
+https://www.coindesk.com/markets/2025/06/03/ripples-stablecoin-rlusd-gets-stamp-of-approval-in-dubai
+
+### 본문
 
 
-Source: H100
-Advertisement
-Trade 275+ cryptocurrencies with zero fees on your first $10K using the Kraken App. World-class security and 24/7 support. Learn more at kraken.com/legal/disclosures.
+### 발행일
+2025-06-03T08:15:58+00:00
 
-Ad
+### 출처
+CoinDesk
 
-H100 said the convertible loans bear no interest and will mature on June 15, 2028. The loan may be converted into shares at any time at a conversion rate of 1.3 Swedish krona (11 US cents) per share.
+--------------------------------------------------------------------------------
 
-If H100’s share price maintains a volume-weighted average price of more than 33% above the conversion price for a cumulative total of 60 trading days, H100 has the right to mandate a conversion of the loan into equity.
+### 제목
+Revealed: UK uni appeals to agents to cut MRes numbers
 
-A full conversion would result in the issuance of roughly 16,153,900 new shares, corresponding to a dilution of approximately 12%.
+### 링크
+https://thepienews.com/revealed-uk-uni-appeals-to-agents-to-cut-mres-numbers/
 
-H100 shares bounced on Bitcoin buy
-Shares in H100 jumped 37% on the firm’s May 22 announcement and rose another 5.33% the following day to 1.29 SEK (14 US cents), Bloomberg data shows.
+### 본문
 
-Related: Cardone Capital launches 10X Miami River Bitcoin Fund
 
-H100 sells health tools for individuals who don’t want to rely on the “reactive health system,” the company’s CEO, Sander Andersen, said in a May 22 X post.
+### 발행일
+2025-06-02T16:51:47+00:00
 
-Andersen believes “the values of individual sovereignty highly present in the Bitcoin community aligns well with, and will appeal to, the customers and communities we are building the H100 platform for.”
+### 출처
+ThePieNews
 
-According to H100, the move makes it the first public company in Sweden to adopt a Bitcoin treasury policy and one of the first in Europe.
+--------------------------------------------------------------------------------
 
-The number of companies buying Bitcoin as a treasury asset is on the rise, with 112 public firms now holding the cryptocurrency, according to BitcoinTreasuries.NET data.
-
-Ten of those corporate Bitcoin holding companies are based in Europe, making H100 one of the first in the region to adopt the trend.
