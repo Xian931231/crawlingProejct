@@ -1,62 +1,48 @@
 ### 제목
-FCA-registered BCP launches British pound stablecoin
+Blockchain Group adds $68M in Bitcoin to corporate treasury
 
 ### 링크
-https://cointelegraph.com/news/gpb-stablecoin-fca-registered-bcp-tgbp-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/eu-blockchain-group-68m-bitcoin-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 
 ### 본문
-BCP Technologies, a United Kingdom-registered cryptocurrency firm, has launched a new British pound-backed stablecoin following a 14-month review in the Financial Conduct Authority’s (FCA) regulatory sandbox.
+Paris-based cryptocurrency firm Blockchain Group has acquired $68 million of Bitcoin, joining a growing wave of European institutions adding BTC to their balance sheets.
 
-The company revealed the rollout of its Tokenised GBP (tGBP) stablecoin in an announcement shared with Cointelegraph on June 3.
+The Blockchain Group, which claims to be Europe’s first Bitcoin treasury firm, has acquired 624 Bitcoin (BTC) for 60.2 million euros ($68.7 million).
 
-TGBP is now live on BCB Technologies-operated crypto trading platform, BCP Markets, and is available to customers who pass Know Your Customer checks, with major exchanges expected to list tGBP in the coming weeks.
+The latest acquisition brings the firm’s total holdings to 1,471 Bitcoin, or over $154 million, with a BTC yield of 1,097.6% YTD, the Blockchain Group announced in a June 3 X post.
 
-“There are two large exchanges that we are finalising details with. We are hoping to be able to announce these in the following weeks,” BCP Technologies CEO Benoit Marzouk told Cointelegraph.
+Institutional interest has grown since the US approved spot Bitcoin exchange-traded funds in January 2024, introducing the first fully regulated BTC investment vehicles for traditional investors.
 
-“Live proof-of-concept for future FCA stablecoin regulation”
+Corporate appetite saw another significant uptick on March 7 after US President Donald Trump issued an executive order outlining a plan to create a Bitcoin reserve using crypto seized in criminal cases.
 
-TGBP’s launch comes days after the FCA launched a public consultation on proposed new rules for stablecoin issuers and crypto custody providers on May 28.
+Related: European lawmakers silent on US Bitcoin reserve amid digital euro push
 
-According to Marzouk, BCP Technologies is in a unique situation where tGBP might be considered a “live proof-of-concept for future FCA stablecoin regulation.”
+Despite Bitcoin’s economic model favoring the early adopters, only a few European companies have displayed Bitcoin treasury ambitions. These include French banking giant BNP Paribas, Swiss firm 21Shares AG, VanEck Europe, Malta-based Jacobi Asset Management and Austrian fintech firm Bitpanda.
 
-“BCP works closely with the FCA, and will participate in the FCA roundtable discussion on July 4 on the recently published consultation paper,” the CEO said.
+The Czech National Bank has also publicly explored using Bitcoin as a diversification strategy for its foreign exchange reserves.
 
-1:1 stablecoin issued on Ethereum
+Related: Swedish MP proposes Bitcoin reserve to finance minister
 
-TGBP is backed fully with cash held in a segregated bank account, with each token minted representing 1 British pound. The stablecoin is launched as an ERC-20 token, meaning that it is initially issued on the Ethereum blockchain.
+In the market, Bitcoin is set to “consolidate between $103,000 and $108,000” after reaching the $112,000 all-time high on May 22, according to Ryan Lee, chief analyst at Bitget Research.
 
-“BCP proposes in the future to back tGBP with short-term UK government bonds, in line with the FCA discussion paper,” Marzouk told Cointelegraph.
+“Still, onchain data shows continued whale accumulation, which shows a bullish signal; this frames any further corrections as a potential entry point,” the analyst told Cointelegraph.
 
-Acting as the issuer, BCP Technologies has been an FCA-registered crypto asset service provider since 2021, formerly known as BitcoinPoint, according to official FCA records.
+Bitcoin’s corporate treasury adoption is on the rise worldwide
 
-“Historically, it was a platform ‘BitcoinPoint’ to democratise access to Bitcoin, where anyone could buy Bitcoin easily,” Marzouk said, adding:
+Bitcoin treasury firms like Michael Saylor’s Strategy have spearheaded global Bitcoin adoption efforts.
 
-“When the regulation came in 2020, BCP had to stop cash and pivoted into a more standard ‘buy online’ app. BCP was the first crypto company to implement open banking; you could buy Bitcoin by linking your bank account instantly.”
+Strategy, the world’s largest corporate Bitcoin holder, with over $60.5 billion worth of BTC, is now about $8.3 billion away from surpassing BlackRock’s iShares Bitcoin Trust ETF, currently worth over $68.9 billion, according to Arkham Intelligence.
 
-Multiple use cases
+Strategy bought $75 million worth of Bitcoin between May 26 and 30, at an average price of $106,495 per BTC.
 
-At launch, tGBP targets a broad range of use cases, including self-custody for retail and corporations as an alternative to banks, cross-border payments, institutional collateral management and decentralized finance lending.
+On June 2, Strategy announced plans to raise $250 million through an initial public offering of a new class of perpetual preferred stocks to fund its future Bitcoin acquisitions.
 
-The new stablecoin is also expected to be used as the main pound rail for settling tokenised assets like bonds, securities or real estate, Marzouk said.
+Meanwhile, Metaplanet, also known as “Asia’s MicroStrategy,” became the world’s eighth-largest Bitcoin holder after a $118 million Bitcoin investment on June 2, Cointelegraph reported.
 
-Related: UK-listed IG Group launches crypto trading to retail investors
-
-“Stablecoins enable open, instant, and frictionless transfers, free from volatility. Our vision is to abstract the complexity of blockchain with the familiarity of a GBP denomination, ultimately replacing GBP e-money with our GBP stablecoin,” the CEO stated in the announcement.
-
-Limited availability of pound stablecoins
-
-BCP’s launch enters a market with limited competition.
-
-According to data from CoinGecko, there are only two tracked pound stablecoins at the time of writing, including VNX British Pound (VGBP) and Celo British Pound (CGBP), with a combined market cap of less than $500,000.
-
-Other pound stablecoin projects include the “poundtoken” (GBPT) stablecoin launched by Blackfridge in 2022 and a pound (GBPA) stablecoin developed by the Digital Pound Foundation member Agant.
-
-Tether, issuer of the world’s largest stablecoin USDt (USDT), attempted to launch a pound stablecoin in 2022, but it has not achieved significant adoption in the market.
-
-Magazine: Crypto wanted to overthrow banks, now it’s becoming them in stablecoin fight
+Magazine: Bitcoiner sex trap extortion? BTS firm’s blockchain disaster: Asia Express
 
 ### 발행일
-2025-06-03T08:20:53+00:00
+2025-06-03T09:11:47+00:00
 
 ### 출처
 CoinTelegraph
@@ -64,38 +50,38 @@ CoinTelegraph
 --------------------------------------------------------------------------------
 
 ### 제목
-Ripple’s Stablecoin, RLUSD, Gets Stamp of Approval in Dubai
+Strategy Expands Capital Stack With Launch of High-Yield STRD Preferred Shares
 
 ### 링크
-https://www.coindesk.com/markets/2025/06/03/ripples-stablecoin-rlusd-gets-stamp-of-approval-in-dubai
+https://www.coindesk.com/markets/2025/06/03/strategy-expands-capital-stack-with-launch-of-high-yield-strd-preferred-shares
 
 ### 본문
-The move opens doors to the usage of RLUSD in the Dubai agency's payments platform, Ripple said.
+New 10% non-cumulative perpetual preferred sits below STRF and STRK in seniority, offering investors long-duration yield exposure with zero fees.
 
-Ripple’s U.S dollar pegged RLUSD has received regulatory approval from Dubai’s financial watchdog, clearing the way for its use within the Dubai International Financial Centre (DIFC), the company said Tuesday.
+Strategy (MSTR) has launched its third perpetual preferred instrument, the Series A Stride Preferred Stock (STRD), as it continues building out a structured yield curve for its capital stack.
 
-The Dubai Financial Services Authority’s decision means RLUSD can now be integrated into Ripple’s licensed payments platform and potentially leveraged by other DFSA-registered entities.
+With a 10.00% non-cumulative fixed dividend and perpetual duration, STRD aims to provide long-term, high-yield exposure positioned between the firm's senior preferred (STRF) and convertible preferred (STRK) offerings.
 
-That development could help expand Ripple’s footprint in the region’s fast-growing digital asset ecosystem, where regulatory clarity has been a key factor driving adoption.
+Unlike STRF, which offers a senior claim and is designed to be overcollateralized with lower volatility—comparable to investment-grade securities STRD is junior in seniority but delivers the highest yield of Strategy’s preferred offerings.
 
-“This approval reinforces RLUSD’s position as a stablecoin built with regulatory compliance and transparency at its core,” Ripple said in a statement.
+STRK, by contrast, sits between the two in both risk and return, offering an 8% fixed dividend and convertibility. At the base of the capital stack lies MSTR, the firm’s common stock and primary vehicle for leveraged bitcoin exposure.
 
-RLUSD is 1:1 backed by U.S. dollars held in high-quality liquid assets and subject to third-party audits, a move aimed at addressing institutional concerns around stablecoin reserves.
+According to Strategy, STRD is non-callable under normal conditions, but may be repurchased upon a “fundamental change” or select tax events. Its quarterly dividends are discretionary and paid in cash only when declared by the board.
 
-However, questions remain about real-world adoption. While RLUSD’s approval theoretically allows DFSA-regulated firms to use the token, it’s unclear how many will actually integrate the stablecoin into their systems.
+In the broader market, STRD compares favorably against other preferred equity and high-yield bond funds. With a 10% yield and zero management fees, STRD offers a compelling alternative to ETFs like PFF (7% yield, 0.46% fee) and USHY (8% yield, 0.08% fee), while maintaining comparable volatility levels.
 
-The approval comes as Ripple continues to build its presence in the UAE. Recent partnerships include agreements with local banks and payments firms like Zand Bank and Mamo, and the company has also teamed up with Ctrl Alt on a real estate tokenization project for Dubai’s Land Department.
+The STRD offering supports Strategy’s broader initiative to offer diversified, structured exposures that span from stable yield to high-conviction digital asset plays anchoring a new approach to capital structuring in the digital era.
 
-Institutional stablecoin adoption has grown rapidly in the UAE, with Ripple citing a 55% year-over-year increase in transactions.
+James Van Straten is a Senior Analyst at CoinDesk, specializing in Bitcoin and its interplay with the macroeconomic environment. Previously, James worked as a Research Analyst at Saidler & Co., a Swiss hedge fund, where he developed expertise in on-chain analytics. His work focuses on monitoring flows to analyze Bitcoin's role within the broader financial system.
 
-Shaurya is the Co-Leader of the CoinDesk tokens and data team in Asia with a focus on crypto derivatives, DeFi, market microstructure, and protocol analysis.Shaurya holds over $1,000 in BTC, ETH, SOL, AVAX, SUSHI, CRV, NEAR, YFI, YFII, SHIB, DOGE, USDT, USDC, BNB, MANA, MLN, LINK, XMR, ALGO, VET, CAKE, AAVE, COMP, ROOK, TRX, SNX, RUNE, FTM, ZIL, KSM, ENJ, CKB, JOE, GHST, PERP, BTRFLY, OHM, BANANA, ROME, BURGER, SPIRIT, and ORCA.He provides over $1,000 to liquidity pools on Compound, Curve, SushiSwap, PancakeSwap, BurgerSwap, Orca, AnySwap, SpiritSwap, Rook Protocol, Yearn Finance, Synthetix, Harvest, Redacted Cartel, OlympusDAO, Rome, Trader Joe, and SUN.
+In addition to his professional endeavors, James serves as an advisor to Coinsilium, a UK publicly traded company, where he provides guidance on their Bitcoin treasury strategy. He also holds investments in Bitcoin and Strategy (MSTR).
 
 About
 
 Contact
 
 ### 발행일
-2025-06-03T08:15:58+00:00
+2025-06-03T08:39:05+00:00
 
 ### 출처
 CoinDesk
@@ -103,90 +89,122 @@ CoinDesk
 --------------------------------------------------------------------------------
 
 ### 제목
-Revealed: UK uni appeals to agents to cut MRes numbers
+US visa interview freeze threatens incoming students
 
 ### 링크
-https://thepienews.com/revealed-uk-uni-appeals-to-agents-to-cut-mres-numbers/
+https://thepienews.com/us-visa-interview-freeze-threatens-incoming-international-students/
 
 ### 본문
 <div class="summary-container bg-orange-200 px-4 py-[22px]">
 	<div class="prose max-w-none dark:prose-invert text-black">
 
 <ul class="wp-block-list">
-<li>University pushes for &#8220;more diverse applicant profile&#8221; as it closes MRes programs to new applications.</li>
+<li>Uncertainty grows for students as some receive visas mid-freeze and others see visa appointments cancelled.</li>
 
 
 
-<li>Agents frustrated as they are forced to withdraw CAS issuance for MRes students as demand for postgraduate research courses soars.</li>
+<li>Stricter social media vetting policy currently only rolled out to Harvard students amid Donald Trump&#8217;s ongoing feud with the US&#8217;s oldest university, with possibility of being adopted nationwide in the future.</li>
 
 
 
-<li>Move comes as the university requests an increased CAS allowance from UKVI.</li>
+<li>Speculation grows about duration of the pause, as State Department spokesperson indicates it might end &#8220;sooner rather than later&#8221;.</li>
 </ul>
 
 </div>
 </div>
 
 
-<p>Communications shared with <em>The PIE News</em> show the unnamed UK university has asked agent partners to draw-up a priority lists for CAS issuance, due to sky-rocketing demand specifically for Master of Research (MRes) courses. The action is linked to a request made to the UKVI for further CAS allocation.<br /><br />The university has written to its official agent network to inform representatives to prioritise recruiting a &#8220;more diverse applicant profile&#8221;, stating that all “MRes courses are now closed to new applications&#8221; due to the &#8220;high volume of applications already received&#8221;.<br /><br />It reads: “We kindly ask your team to begin compiling a list of applicants based on the CAS allocation; MRes applications should not exceed 25% of your total CAS usage.”<br /><br />The action appears to be linked to the University requesting an increase in CAS allocation mid-cycle, rather than a response to the new Basic Compliance Assessment (BCA) reforms outlined in the immigration <a href="https://thepienews.com/uk-prepares-for-impact-of-arbitrary-bca-reforms/" rel="noreferrer noopener" target="_blank">white paper</a>.<br /><br />The PIE has previously <a href="https://thepienews.com/interest-spikes-in-uk-mres-courses-as-route-to-bring-dependants/" rel="noreferrer noopener" target="_blank">reported</a> on the increasing interest in MRes courses as a route for students bringing dependants to the UK on a study visa.  </p>
+<p>US stakeholders have issued grave warnings about the State Department’s ongoing pause of the scheduling of new student visa interviews, urging the government to lift the freeze and end the uncertainty for students due to enrol in summer and fall cycles of 2025. &nbsp;</p>
 
 
 
-<p>While this study route legitimately allows for dependant visas, with postgraduate research courses not under the same restrictions as other programs, direct promotion of MRes courses as a way to bring family to the UK has been frowned upon by the UKVI.</p>
+<p>“We encourage the State Department to act expeditiously to implement any new vetting measures so new student visas can continue to be quickly and efficiently processed,” wrote the American Council on Education (ACE) president Ted Mitchell, in a letter to secretary of state Marco Rubio. &nbsp;</p>
 
 
 
-<p>The communications seen by The PIE show the university reminding agents that &#8220;all advertisements or promotional materials for MRes courses must be approved [by the university]&#8221; and that &#8220;under no circumstances should MRes be promoted as a route for bringing dependants to the UK&#8221;.  </p>
+<p>It comes after the administration <a href="https://thepienews.com/us-trump-pauses-new-student-visa-interviews/" rel="noreferrer noopener" target="_blank">ordered US consulates</a> around the world to stop scheduling new visa appointments for international students while it expands its social media vetting processes, according to a State Department cable on May 27. &nbsp;&nbsp;</p>
 
 
 
-<p>The timing of this action, however, has caused huge frustration for agents – who have supported large numbers of students successfully applying to MRes courses in previous intakes.</p>
+<p>Currently, the policy has only been rolled out to prospective Harvard students, who are being vetted for antisemitism in what the state department has called a <a href="https://www.politico.com/news/2025/05/30/state-implements-reviews-of-harvard-visa-applicants-social-media-accounts-00375921" rel="noreferrer noopener" target="_blank">pilot project</a> that could be rolled out nationwide, according to a cable obtained by <em>Politico. </em> </p>
 
 
 
-<p>As one agent who wished to remain anonymous told The PIE: “A lot of us [agents] are really frustrated about this. It’s easy for the university to simply close courses when they are full. But we, dealing with students and families, now have hundreds of offers for September that we now have to withdraw.&#8221;</p>
+<p>The letter, co-signed by 38 US organisations including the likes of NAFSA and the Presidents’ Alliance, emphasises the severe damage of the pause not only for students already due to come to the US, but also for the country’s international standing.&nbsp;</p>
+
+
+
+<p>“We are concerned that imposing a broad pause on all student visas would send a message that our nation no longer welcomes talented students and scholars from other countries,” it said, while reaffirming the sector’s willingness to address the administration’s “security concerns” about international students. &nbsp;</p>
+
+
+
+<p>Amid growing fears of an extended delay, Mitchell called on the State Department to “take proactive actions to quickly process student visa applications after the pause” in the lead up to the 2025/26 academic year.&nbsp;</p>
+
+
+
+<p>Speaking to <em>The PIE News </em>at the NAFSA conference 2025, Presidents’ Alliance CEO Miriam Fledblum said the timing of the pause was particularly concerning, coming at peak time for students applying for visa interviews to give them time to arrive before the fall semester.  </p>
+
+
+
+<p>“Even if they quickly reverse course, already damage has been done. Those slots for visa interviews may no longer be available,” said Feldblum.&nbsp;</p>
+
+
+
+<p>“This is not theoretical, this is not some time in the future. This is now and this is consequential,” she added.</p>
+
+
+
+<p>NAFSA CEO, Fanta Aw, called Rubio’s order another “misguided” and “troubling” attack on international students in the US, which coincided with international stakeholders convening in San Diego for the first day of NAFSA 2025. &nbsp;</p>
+
+
+
+<p>According to Rubio’s May 27 cable, the pause in visa interviews applied from the day it was announced “until further guidance” with stakeholders reassuring students who already had appointments that they would remain in place.&nbsp;</p>
+
+
+
+<p>While some students have received visas since the pause, elsewhere visa appointments have been cancelled, with uncertainty growing each day the freeze continues. &nbsp;</p>
 
 
 
 <blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p>It’s easy for the university to simply close courses when they are full. But we, dealing with students and families, now have hundreds of offers for September that we now have to withdraw<br /><strong><sup><sub>Anonymous agent</sub></sup></strong></p>
-</blockquote>
+<p>This is not theoretical, this is not some time in the future. This is now and this is consequential.</p>
+<cite>Miriam Feldblum, Presidents&#8217; Alliance</cite></blockquote>
 
 
 
-<p>“How are we supposed to pick the 25% that are more worthy of a place than others? It’s not fair and is very poor planning from the university,” they added.</p>
+<p>Stakeholders have bemoaned the lack of clarity and transparency of State Department communications, with Mitchell and the co-signatories on ACE’s letter appealing for clearer policy guidance from the government. &nbsp;</p>
 
 
 
-<p>The university in question offers a wide portfolio of MRes courses in subject areas such as business and management and public health that are popular in markets more likely to attract dependant applications such as Nigeria, India, Bangladesh and Pakistan.</p>
+<p>Meanwhile, a televised <a href="https://www.state.gov/briefings/department-press-briefing-may-29-2025/" rel="noreferrer noopener" target="_blank">press briefing</a> last week fuelled further speculation about the duration of the pause, after State Department spokesperson Tammy Bruce said she thought the freeze would be lifted “sooner rather than later”.&nbsp;</p>
 
 
 
-<p>The action appears to be linked to a request for increased CAS allocation, an action that usually triggers a UKVI audit to better understand the nature of the increased demand.</p>
+<p>“But [what] I’m told to encourage people to do is to regularly check to see when those spaces open, and I would not be recommending that if it was going to be weeks or months,” Bruce told reporters.  </p>
 
 
 
-<p>University communications state that the institution &#8220;has been successfully granted an additional CAS allocation for the upcoming September intake&#8221;.<br /><br />&#8220;However, We would like to remind you that from September 2025 onwards, Medium of Instruction (MOI) letters will no longer be accepted as evidence of English language proficiency for applications to our MRes programmes,” the communications add.</p>
+<p>Learning from the administration’s past actions, Alliance for International Exchange CEO Mark Overmann urged NAFSA delegates to plan for the possibility of an extended freeze, reminding them about the previous apparent <a href="https://thepienews.com/us-state-department-pauses-study-abroad-funding/" rel="noreferrer noopener" target="_blank">15-day pause</a> on study abroad funding, which lasted for nearly two months. </p>
 
 
 
-<p>No specific mention of MRes or MOI usages was included in last month&#8217;s <a href="https://thepienews.com/breaking-uk-graduate-route-reduced-to-18-months-under-immigration-white-paper/" rel="noreferrer noopener" target="_blank">white paper</a> or <a href="https://thepienews.com/uk-prepares-for-impact-of-arbitrary-bca-reforms/">proposed BCA reforms</a>.<br /><br />Currently, sponsors of international students must have a visa refusal rate of less than 10%; an enrolment rate of at least 90%; and a course completion rate of at least 85% in order to successfully pass their annual BCA and retain their student sponsor status. </p>
+<p>“We need to make clear about why this is so disruptive and how likely it is that it will cause chaos,” urged Feldblum. “What I hear from institutional leaders is we were very concerned about the decline in yield because of what has happened up to now. </p>
 
 
 
-<p>However, under proposals in the immigration white paper, each compliance threshold would be raised by five percentage points as the government moves to crack down on &#8220;abuse and exploitation&#8221; within the system.</p>
+<p>“This will certainly just instil further uncertainty among prospective international students so we’re even more likely to see declines in acceptances,” she warned. &nbsp;&nbsp;</p>
 
 
 
-<p>It remains to be seen if the action taken by the unnamed university is a way of trying to bring the institution in line with the proposed new compliance levels.</p>
+<p>When pressed for more details, State Department officials maintained that social media vetting was not new: “Since 2019, the Department of State has required visa applicants to provide social media identifiers on immigrant and non-immigrant applications,” they said, referring all other questions to consular officials.  </p>
 
 
 
-<p></p>
-<p>The post <a href="https://thepienews.com/revealed-uk-uni-appeals-to-agents-to-cut-mres-numbers/">Revealed: UK uni appeals to agents to cut MRes numbers</a> appeared first on <a href="https://thepienews.com">The PIE News</a>.</p>
+<p>Despite this, recent months have seen “extreme vetting” of those who may have participated in pro-Palestinian protests, with the expectation that this will be rolled out to all international applicants down the line. &nbsp;</p>
+<p>The post <a href="https://thepienews.com/us-visa-interview-freeze-threatens-incoming-international-students/">US visa interview freeze threatens incoming students</a> appeared first on <a href="https://thepienews.com">The PIE News</a>.</p>
 
 ### 발행일
-2025-06-02T16:51:47+00:00
+2025-06-03T09:29:39+00:00
 
 ### 출처
 ThePieNews
