@@ -60,47 +60,128 @@ def get_yesterday_articles(rss_url, source_name):
                 # 각 뉴스 소스별 본문 추출 로직
                 if source_name == 'CoinTelegraph':
                     # 메인 컨텐츠 영역 찾기
-                    article_div = soup.find('div', {'class': ['post__content', 'post-content', 'content']})
+                    article_div = soup.find('div', class_='post-content')
+                    if not article_div:
+                        article_div = soup.find('div', class_='post__content')
                     if not article_div:
                         article_div = soup.find('div', {'data-role': 'article-content'})
                     if article_div:
                         # 불필요한 요소 제거
-                        for div in article_div.find_all(['div', 'script', 'style']):
-                            div.decompose()
+                        for elem in article_div.find_all(['script', 'style', 'iframe', 'figure']):
+                            elem.decompose()
                         # 본문 텍스트 추출
-                        paragraphs = article_div.find_all('p')
+                        paragraphs = article_div.find_all(['p', 'h2', 'h3', 'blockquote'])
                         article_content = '\n\n'.join([p.get_text().strip() for p in paragraphs if p.get_text().strip()])
                 
                 elif source_name == 'CoinDesk':
                     # 메인 컨텐츠 영역 찾기
-                    article_div = soup.find('div', {'class': ['article-body', 'article-body-text']})
-                    if not article_div:
-                        article_div = soup.find('div', {'data-article-content': True})
-                    if article_div:
-                        # 불필요한 요소 제거
-                        for div in article_div.find_all(['div', 'script', 'style']):
-                            div.decompose()
-                        # 본문 텍스트 추출
-                        paragraphs = article_div.find_all('p')
-                        article_content = '\n\n'.join([p.get_text().strip() for p in paragraphs if p.get_text().strip()])
+                    article_content = ""
+                    # 먼저 article 태그 내에서 찾기
+                    article_tag = soup.find('article')
+                    if article_tag:
+                        # 본문 영역 찾기 시도
+                        content_div = article_tag.find('div', {'class': ['article-body', 'article-body-text', 'article-content']})
+                        if not content_div:
+                            content_div = article_tag
+                        
+                        if content_div:
+                            # 불필요한 요소 제거
+                            for elem in content_div.find_all(['script', 'style', 'iframe', 'figure', 'aside', 'div', 'section']):
+                                if 'article-body' not in elem.get('class', []):
+                                    elem.decompose()
+                            
+                            # 본문 텍스트 추출
+                            paragraphs = content_div.find_all(['p', 'h2', 'h3', 'blockquote'])
+                            article_content = '\n\n'.join([p.get_text().strip() for p in paragraphs if p.get_text().strip()])
+                    
+                    # article 태그에서 찾지 못한 경우 다른 방법 시도
+                    if not article_content.strip():
+                        main_content = soup.find('main')
+                        if main_content:
+                            paragraphs = main_content.find_all(['p', 'h2', 'h3', 'blockquote'])
+                            article_content = '\n\n'.join([p.get_text().strip() for p in paragraphs if p.get_text().strip()])
                 
                 elif source_name == 'ThePieNews':
                     # 메인 컨텐츠 영역 찾기
-                    article_div = soup.find('div', {'class': ['entry-content', 'article-content']})
-                    if not article_div:
-                        article_div = soup.find('article')
-                    if article_div:
-                        # 불필요한 요소 제거
-                        for div in article_div.find_all(['div', 'script', 'style', 'aside']):
-                            div.decompose()
-                        # 본문 텍스트 추출
-                        paragraphs = article_div.find_all('p')
-                        article_content = '\n\n'.join([p.get_text().strip() for p in paragraphs if p.get_text().strip()])
+                    article_content = ""
+                    
+                    # 1. article 태그 찾기
+                    article = soup.find('article')
+                    if article:
+                        # 2. article 내에서 entry-content 클래스를 가진 div 찾기
+                        content_div = article.find('div', class_='entry-content')
+                        
+                        if content_div:
+                            # 3. 불필요한 요소 제거
+                            # 소셜 미디어 버튼 제거
+                            for social in content_div.find_all('div', class_=['jp-relatedposts', 'sharedaddy', 'social-share']):
+                                social.decompose()
+                            
+                            # 광고 제거
+                            for ad in content_div.find_all('div', class_=['advertisement', 'ad-container']):
+                                ad.decompose()
+                            
+                            # 관련 기사 섹션 제거
+                            for related in content_div.find_all('div', class_=['related-posts', 'yarpp-related']):
+                                related.decompose()
+                            
+                            # 4. 본문 텍스트 추출
+                            paragraphs = []
+                            
+                            # 모든 텍스트 컨테이너 찾기
+                            for elem in content_div.find_all(['p', 'h2', 'h3', 'h4', 'blockquote', 'ul', 'ol']):
+                                # 광고나 불필요한 텍스트 필터링
+                                text = elem.get_text().strip()
+                                if text and not any(skip in text.lower() for skip in [
+                                    'advertisement', 
+                                    'related articles', 
+                                    'sponsored',
+                                    'share this article',
+                                    'follow us',
+                                    'subscribe to our newsletter'
+                                ]):
+                                    # ul/ol 태그의 경우 각 항목을 별도로 처리
+                                    if elem.name in ['ul', 'ol']:
+                                        items = [li.get_text().strip() for li in elem.find_all('li')]
+                                        paragraphs.extend([f"• {item}" for item in items if item])
+                                    else:
+                                        paragraphs.append(text)
+                            
+                            article_content = '\n\n'.join(paragraphs)
+                    
+                    # 내용이 없으면 대체 방법 시도
+                    if not article_content.strip():
+                        # RSS 피드의 전체 내용 시도
+                        if hasattr(entry, 'content') and entry.content:
+                            article_content = entry.content[0].value
+                        # description이나 summary 시도
+                        elif hasattr(entry, 'description'):
+                            article_content = entry.description
+                        elif hasattr(entry, 'summary'):
+                            article_content = entry.summary
+
+                    # 디버그를 위한 정보 출력
+                    if not article_content.strip():
+                        print(f"\nThePieNews 기사 추출 실패: {entry.link}")
+                        print("HTML 구조:")
+                        if article:
+                            print("Article 태그 찾음")
+                            if content_div:
+                                print("Entry-content div 찾음")
+                                print("사용 가능한 태그들:")
+                                for tag in content_div.find_all(['p', 'h2', 'h3', 'h4', 'blockquote', 'ul', 'ol']):
+                                    print(f"- {tag.name}: {tag.get_text()[:100]}...")
                 
                 # 내용이 비어있으면 디버그 정보 출력
                 if not article_content.strip():
-                    print(f"Warning: 기사 내용을 찾을 수 없습니다. ({entry.link})")
-                    print(f"페이지 HTML 구조: {soup.prettify()[:500]}...")
+                    print(f"\nWarning: 기사 내용을 찾을 수 없습니다. ({entry.link})")
+                    print(f"소스: {source_name}")
+                    # HTML 구조 출력
+                    print("\n페이지 HTML 구조 일부:")
+                    print(soup.prettify()[:1500])
+                    
+                    # 대체 내용으로 RSS 피드의 설명 사용
+                    article_content = entry.get('description', '') or entry.get('summary', '')
                 
                 # 과도한 요청 방지를 위한 딜레이
                 time.sleep(2)

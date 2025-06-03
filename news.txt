@@ -13,11 +13,15 @@ TGBP is now live on BCB Technologies-operated crypto trading platform, BCP Marke
 
 “There are two large exchanges that we are finalising details with. We are hoping to be able to announce these in the following weeks,” BCP Technologies CEO Benoit Marzouk told Cointelegraph.
 
+“Live proof-of-concept for future FCA stablecoin regulation”
+
 TGBP’s launch comes days after the FCA launched a public consultation on proposed new rules for stablecoin issuers and crypto custody providers on May 28.
 
 According to Marzouk, BCP Technologies is in a unique situation where tGBP might be considered a “live proof-of-concept for future FCA stablecoin regulation.”
 
 “BCP works closely with the FCA, and will participate in the FCA roundtable discussion on July 4 on the recently published consultation paper,” the CEO said.
+
+1:1 stablecoin issued on Ethereum
 
 TGBP is backed fully with cash held in a segregated bank account, with each token minted representing 1 British pound. The stablecoin is launched as an ERC-20 token, meaning that it is initially issued on the Ethereum blockchain.
 
@@ -27,6 +31,10 @@ Acting as the issuer, BCP Technologies has been an FCA-registered crypto asset s
 
 “Historically, it was a platform ‘BitcoinPoint’ to democratise access to Bitcoin, where anyone could buy Bitcoin easily,” Marzouk said, adding:
 
+“When the regulation came in 2020, BCP had to stop cash and pivoted into a more standard ‘buy online’ app. BCP was the first crypto company to implement open banking; you could buy Bitcoin by linking your bank account instantly.”
+
+Multiple use cases
+
 At launch, tGBP targets a broad range of use cases, including self-custody for retail and corporations as an alternative to banks, cross-border payments, institutional collateral management and decentralized finance lending.
 
 The new stablecoin is also expected to be used as the main pound rail for settling tokenised assets like bonds, securities or real estate, Marzouk said.
@@ -34,6 +42,8 @@ The new stablecoin is also expected to be used as the main pound rail for settli
 Related: UK-listed IG Group launches crypto trading to retail investors
 
 “Stablecoins enable open, instant, and frictionless transfers, free from volatility. Our vision is to abstract the complexity of blockchain with the familiarity of a GBP denomination, ultimately replacing GBP e-money with our GBP stablecoin,” the CEO stated in the announcement.
+
+Limited availability of pound stablecoins
 
 BCP’s launch enters a market with limited competition.
 
@@ -60,7 +70,29 @@ Ripple’s Stablecoin, RLUSD, Gets Stamp of Approval in Dubai
 https://www.coindesk.com/markets/2025/06/03/ripples-stablecoin-rlusd-gets-stamp-of-approval-in-dubai
 
 ### 본문
+The move opens doors to the usage of RLUSD in the Dubai agency's payments platform, Ripple said.
 
+Ripple’s U.S dollar pegged RLUSD has received regulatory approval from Dubai’s financial watchdog, clearing the way for its use within the Dubai International Financial Centre (DIFC), the company said Tuesday.
+
+The Dubai Financial Services Authority’s decision means RLUSD can now be integrated into Ripple’s licensed payments platform and potentially leveraged by other DFSA-registered entities.
+
+That development could help expand Ripple’s footprint in the region’s fast-growing digital asset ecosystem, where regulatory clarity has been a key factor driving adoption.
+
+“This approval reinforces RLUSD’s position as a stablecoin built with regulatory compliance and transparency at its core,” Ripple said in a statement.
+
+RLUSD is 1:1 backed by U.S. dollars held in high-quality liquid assets and subject to third-party audits, a move aimed at addressing institutional concerns around stablecoin reserves.
+
+However, questions remain about real-world adoption. While RLUSD’s approval theoretically allows DFSA-regulated firms to use the token, it’s unclear how many will actually integrate the stablecoin into their systems.
+
+The approval comes as Ripple continues to build its presence in the UAE. Recent partnerships include agreements with local banks and payments firms like Zand Bank and Mamo, and the company has also teamed up with Ctrl Alt on a real estate tokenization project for Dubai’s Land Department.
+
+Institutional stablecoin adoption has grown rapidly in the UAE, with Ripple citing a 55% year-over-year increase in transactions.
+
+Shaurya is the Co-Leader of the CoinDesk tokens and data team in Asia with a focus on crypto derivatives, DeFi, market microstructure, and protocol analysis.Shaurya holds over $1,000 in BTC, ETH, SOL, AVAX, SUSHI, CRV, NEAR, YFI, YFII, SHIB, DOGE, USDT, USDC, BNB, MANA, MLN, LINK, XMR, ALGO, VET, CAKE, AAVE, COMP, ROOK, TRX, SNX, RUNE, FTM, ZIL, KSM, ENJ, CKB, JOE, GHST, PERP, BTRFLY, OHM, BANANA, ROME, BURGER, SPIRIT, and ORCA.He provides over $1,000 to liquidity pools on Compound, Curve, SushiSwap, PancakeSwap, BurgerSwap, Orca, AnySwap, SpiritSwap, Rook Protocol, Yearn Finance, Synthetix, Harvest, Redacted Cartel, OlympusDAO, Rome, Trader Joe, and SUN.
+
+About
+
+Contact
 
 ### 발행일
 2025-06-03T08:15:58+00:00
@@ -77,7 +109,81 @@ Revealed: UK uni appeals to agents to cut MRes numbers
 https://thepienews.com/revealed-uk-uni-appeals-to-agents-to-cut-mres-numbers/
 
 ### 본문
+<div class="summary-container bg-orange-200 px-4 py-[22px]">
+	<div class="prose max-w-none dark:prose-invert text-black">
 
+<ul class="wp-block-list">
+<li>University pushes for &#8220;more diverse applicant profile&#8221; as it closes MRes programs to new applications.</li>
+
+
+
+<li>Agents frustrated as they are forced to withdraw CAS issuance for MRes students as demand for postgraduate research courses soars.</li>
+
+
+
+<li>Move comes as the university requests an increased CAS allowance from UKVI.</li>
+</ul>
+
+</div>
+</div>
+
+
+<p>Communications shared with <em>The PIE News</em> show the unnamed UK university has asked agent partners to draw-up a priority lists for CAS issuance, due to sky-rocketing demand specifically for Master of Research (MRes) courses. The action is linked to a request made to the UKVI for further CAS allocation.<br /><br />The university has written to its official agent network to inform representatives to prioritise recruiting a &#8220;more diverse applicant profile&#8221;, stating that all “MRes courses are now closed to new applications&#8221; due to the &#8220;high volume of applications already received&#8221;.<br /><br />It reads: “We kindly ask your team to begin compiling a list of applicants based on the CAS allocation; MRes applications should not exceed 25% of your total CAS usage.”<br /><br />The action appears to be linked to the University requesting an increase in CAS allocation mid-cycle, rather than a response to the new Basic Compliance Assessment (BCA) reforms outlined in the immigration <a href="https://thepienews.com/uk-prepares-for-impact-of-arbitrary-bca-reforms/" rel="noreferrer noopener" target="_blank">white paper</a>.<br /><br />The PIE has previously <a href="https://thepienews.com/interest-spikes-in-uk-mres-courses-as-route-to-bring-dependants/" rel="noreferrer noopener" target="_blank">reported</a> on the increasing interest in MRes courses as a route for students bringing dependants to the UK on a study visa.  </p>
+
+
+
+<p>While this study route legitimately allows for dependant visas, with postgraduate research courses not under the same restrictions as other programs, direct promotion of MRes courses as a way to bring family to the UK has been frowned upon by the UKVI.</p>
+
+
+
+<p>The communications seen by The PIE show the university reminding agents that &#8220;all advertisements or promotional materials for MRes courses must be approved [by the university]&#8221; and that &#8220;under no circumstances should MRes be promoted as a route for bringing dependants to the UK&#8221;.  </p>
+
+
+
+<p>The timing of this action, however, has caused huge frustration for agents – who have supported large numbers of students successfully applying to MRes courses in previous intakes.</p>
+
+
+
+<p>As one agent who wished to remain anonymous told The PIE: “A lot of us [agents] are really frustrated about this. It’s easy for the university to simply close courses when they are full. But we, dealing with students and families, now have hundreds of offers for September that we now have to withdraw.&#8221;</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>It’s easy for the university to simply close courses when they are full. But we, dealing with students and families, now have hundreds of offers for September that we now have to withdraw<br /><strong><sup><sub>Anonymous agent</sub></sup></strong></p>
+</blockquote>
+
+
+
+<p>“How are we supposed to pick the 25% that are more worthy of a place than others? It’s not fair and is very poor planning from the university,” they added.</p>
+
+
+
+<p>The university in question offers a wide portfolio of MRes courses in subject areas such as business and management and public health that are popular in markets more likely to attract dependant applications such as Nigeria, India, Bangladesh and Pakistan.</p>
+
+
+
+<p>The action appears to be linked to a request for increased CAS allocation, an action that usually triggers a UKVI audit to better understand the nature of the increased demand.</p>
+
+
+
+<p>University communications state that the institution &#8220;has been successfully granted an additional CAS allocation for the upcoming September intake&#8221;.<br /><br />&#8220;However, We would like to remind you that from September 2025 onwards, Medium of Instruction (MOI) letters will no longer be accepted as evidence of English language proficiency for applications to our MRes programmes,” the communications add.</p>
+
+
+
+<p>No specific mention of MRes or MOI usages was included in last month&#8217;s <a href="https://thepienews.com/breaking-uk-graduate-route-reduced-to-18-months-under-immigration-white-paper/" rel="noreferrer noopener" target="_blank">white paper</a> or <a href="https://thepienews.com/uk-prepares-for-impact-of-arbitrary-bca-reforms/">proposed BCA reforms</a>.<br /><br />Currently, sponsors of international students must have a visa refusal rate of less than 10%; an enrolment rate of at least 90%; and a course completion rate of at least 85% in order to successfully pass their annual BCA and retain their student sponsor status. </p>
+
+
+
+<p>However, under proposals in the immigration white paper, each compliance threshold would be raised by five percentage points as the government moves to crack down on &#8220;abuse and exploitation&#8221; within the system.</p>
+
+
+
+<p>It remains to be seen if the action taken by the unnamed university is a way of trying to bring the institution in line with the proposed new compliance levels.</p>
+
+
+
+<p></p>
+<p>The post <a href="https://thepienews.com/revealed-uk-uni-appeals-to-agents-to-cut-mres-numbers/">Revealed: UK uni appeals to agents to cut MRes numbers</a> appeared first on <a href="https://thepienews.com">The PIE News</a>.</p>
 
 ### 발행일
 2025-06-02T16:51:47+00:00
