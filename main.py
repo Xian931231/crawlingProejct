@@ -25,7 +25,7 @@ def validate_environment():
     if not all([wp_url, wp_user, wp_pass]):
         raise ValueError("WordPress 인증 정보가 .env 파일에 설정되어 있지 않습니다.")
 
-def post_to_wordpress(title, content, lead, status='draft'):
+def post_to_wordpress(title, content, lead, keyword, status='draft'):
     """WordPress에 포스트를 업로드하는 함수"""
     api_url = f"{wp_url}/wp-json/wp/v2/posts"
     
@@ -38,6 +38,8 @@ def post_to_wordpress(title, content, lead, status='draft'):
         'content': content,
         'excerpt': lead,
         'status': status,
+        'categories': [2],
+    
     }
     
     try:
@@ -67,7 +69,7 @@ def translate_and_format(news_content):
         with open('prompt.txt', 'r', encoding='utf-8') as f:
             system_prompt = f.read()
 
-        # GPT-3.5-turbo를 사용하여 번역 (GPT-4 대신)
+        # GPT를 사용하여 번역 (GPT-4 대신)
         completion = client.chat.completions.create(
             
             # model="gpt-3.5-turbo",  
@@ -125,10 +127,24 @@ def translate_and_format(news_content):
                     if next_section != -1:
                         content = content[:next_section].strip()
             
+            # keyword 추출
+            if 'keyword:' in kr_content:
+                keyword_parts = kr_content.split('keyword:')
+                keyword = keyword_parts[0].split('keyword:')[1].strip()
+            elif '### 키워드' in kr_content:
+                keyword_parts = kr_content.split('### 키워드')
+                keyword = keyword_parts[0].split('### 키워드')[-1].strip()
+
+
+
+
             print("\n=== 파싱 결과 ===")
             print(f"제목: {title}")
+            print(f"키워드: {keyword}")
             print(f"리드: {lead}")
             print(f"본문: {content[:100]}...")  # 본문은 처음 100자만 출력
+
+
         except Exception as parsing_error:
             print(f"번역 결과 파싱 중 오류 발생: {parsing_error}")
             print(f"원본 번역 결과: {kr_content}")
@@ -136,9 +152,9 @@ def translate_and_format(news_content):
 
         if not all([title, lead, content]):
             print("경고: 일부 필드가 비어 있습니다.")
-            print(f"비어있는 필드: {[field for field, value in {'title': title, 'lead': lead, 'content': content}.items() if not value]}")
+            print(f"비어있는 필드: {[field for field, value in {'title': title, 'lead': lead, 'content': content, 'keyword': keyword}.items() if not value]}")
 
-        return title, lead, content
+        return title, lead, content, keyword
         
     except Exception as e:
         if 'insufficient_quota' in str(e):
@@ -174,15 +190,21 @@ def process_news():
                 continue
                 
             print("\n3. 기사 번역 및 포맷팅 중...")
-            title, lead, content = translate_and_format(article)
+            title, lead, content, keyword = translate_and_format(article)
             
             print(f"title: {title}")
             print(f"lead: {lead}")
-            print(f"content: {content}")    
+            print(f"content: {content}")
+            print(f"keyword: {keyword}")
 
-            if all([title, lead, content]):
+            
+
+
+
+
+            if all([title, lead, content, keyword]):
                 print("\n4. WordPress에 포스팅 중...")
-                result = post_to_wordpress(title, content, lead)
+                result = post_to_wordpress(title, content, lead, keyword)
                 
                 if result:
                     print(f"포스트 ID: {result['id']}")
