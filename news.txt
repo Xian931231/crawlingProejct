@@ -1,56 +1,24 @@
 ### 제목
-Texas Rep. Brandon Gill under fire over late $500K Bitcoin disclosures
+Stablecoin giant Circle again boosts IPO to over $1 billion
 
 ### 링크
-https://cointelegraph.com/news/texas-rep-brandon-gill-bitcoin-disclosures-stock-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/stablecoin-issuer-circle-upsize-ipo-1-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 
 ### 본문
-Texas Republican Representative Brandon Gill is facing scrutiny after filing late disclosures for up to $500,000 in Bitcoin purchases, potentially violating federal law.
+Stablecoin issuer Circle Internet Group, Inc. has again boosted its initial public offering to $1.05 billion, pricing its shares above its previous marketed range.
 
-Gill, a first-term House member known for his bill proposing President Donald Trump’s face on the $100 bill, has reported two Bitcoin (BTC) purchases, each valued between $100,001 and $250,000, made on Jan. 29 and Feb. 27.
+The USDC (USDC) stablecoin manager said on June 4 that it will now to offer 34 million shares at a price of $31 each when it debuts on the New York Stock Exchange on June 5.Previously, Circle was offering 32 million shares at a range of $27 to $28 per share, up from its first advertised offering of 24 million shares priced between $24 and $26.
 
-However, both trades were disclosed weeks past the 45-day deadline required by the Stop Trading on Congressional Knowledge (STOCK) Act, a law aimed at curbing insider trading and financial conflicts among lawmakers.
+The latest IPO pricing gives Circle a valuation of $6.9 billion based on the outstanding shares listed in an earlier regulatory filing.
 
-Notably, Gill’s late January purchase occurred shortly after Trump signed an executive order promoting US leadership in digital assets. His late February buy came just ahead of Trump’s announcement of a “strategic Bitcoin reserve.”
+Asset investment giant BlackRock has reportedly flagged plans to snap up a minimum 10% stake in the stablecoin giant upon its public debut.
 
-Bitcoin traded around $102,000 and $85,000, respectively, on those dates. At the time of writing, Bitcoin traded above $105,000, according to data from CoinMarketCap.
+Legal Panel: Crypto wanted to overthrow banks, now it’s becoming them in stablecoin fight
 
-Related: US Congress introduces the CLARITY Act for digital assets
-
-Gill discloses more Bitcoin purchases
-
-In the disclosure, Gill also revealed two additional Bitcoin purchases from May, one for up to $250,000 and another for up to $100,000, both filed on time.
-
-Beyond crypto, Gill also disclosed positions in the Invesco S&P 500 Equal Weight ETF (RSP) and holdings in the TOIXX money market fund, all filed on time.
-
-Notably, the fine for late STOCK Act filings is typically just $200. In a June 2 post on X, investment research firm Quiver Quantitative called the penalty a “joke.”
-
-“We have seen thousands of STOCK Act violations since we started writing code to track congressional stock trading,” Quiver Quantitative added.
-
-Cointelegraph was unable to contact Gill’s office for comment.
-
-Notably, Gill serves on the Committee on Oversight and Government Reform, which is the main investigative committee of the US House of Representatives. He also serves on two other House committees, including Budget and Judiciary.
-
-The 31-year-old congressman has been a vocal crypto supporter. “Cryptocurrency plays a vital role in today’s monetary system. It offers permission-less peer-to-peer transactions in the same form as cash transactions,” he previously wrote on X.
-
-In addition to his Bitcoin activity, Gill is the sponsor of legislation promoting government transparency, including the “Putting Trust in Transparency Act,” which would require public disclosure of nonprofit contributors.
-
-Related: Tuttle Capital’s latest ETF aims to copy Congress’ stock picks
-
-Gill has deep ties to Trump’s inner circle
-
-Gill’s ties to Trump’s inner circle run deep. He is the son-in-law of conservative filmmaker Dinesh D’Souza, who was pardoned by Trump in 2018 after a campaign finance conviction. Employees of D’Souza Media were among Gill’s top donors in 2024.
-
-Trump has also faced mounting scrutiny over his personal use of cryptocurrency, with critics questioning whether his promotion of crypto projects could present conflicts of interest or be used for personal financial gain.
-
-Gill joins a growing list of lawmakers who have violated the STOCK Act this year. Several others, including Representatives Jamie Raskin, Dwight Evans and Neal Dunn, have also filed late trade disclosures.
-
-Meanwhile, a bipartisan push to ban members of Congress and their families from trading individual stocks and cryptocurrencies is gaining momentum on Capitol Hill.
-
-Magazine: Move to Portugal to become a crypto digital nomad — Everybody else is
+This is a developing story, and further information will be added as it becomes available.
 
 ### 발행일
-2025-06-03T09:35:05+00:00
+2025-06-04T23:03:12+00:00
 
 ### 출처
 CoinTelegraph
@@ -58,38 +26,142 @@ CoinTelegraph
 --------------------------------------------------------------------------------
 
 ### 제목
-Strategy Expands Capital Stack With Launch of High-Yield STRD Preferred Shares
+Here’s what happened in crypto today
 
 ### 링크
-https://www.coindesk.com/markets/2025/06/03/strategy-expands-capital-stack-with-launch-of-high-yield-strd-preferred-shares
+https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 
 ### 본문
-New 10% non-cumulative perpetual preferred sits below STRF and STRK in seniority, offering investors long-duration yield exposure with zero fees.
+Today in crypto, JPMorgan moves to accept crypto ETFs as loan collateral, Sygnum warns of looming Bitcoin supply squeeze, and Trump-linked wallet sparks confusion after family denies involvement.
 
-Strategy (MSTR) has launched its third perpetual preferred instrument, the Series A Stride Preferred Stock (STRD), as it continues building out a structured yield curve for its capital stack.
+JPMorgan to accept crypto ETFs as collateral for loans — Report
 
-With a 10.00% non-cumulative fixed dividend and perpetual duration, STRD aims to provide long-term, high-yield exposure positioned between the firm's senior preferred (STRF) and convertible preferred (STRK) offerings.
+JPMorgan, the largest bank in the United States by assets, plans to offer trading and wealth-management clients the option of using crypto-linked assets as collateral for loans, according to a June 4 report from Bloomberg.
 
-Unlike STRF, which offers a senior claim and is designed to be overcollateralized with lower volatility—comparable to investment-grade securities STRD is junior in seniority but delivers the highest yield of Strategy’s preferred offerings.
+The bank is set to allow financing against crypto exchange-traded funds (ETFs) in some weeks. JPMorgan will begin with BlackRock’s iShares Bitcoin Trust, which, according to Sosovalue.com, is the largest US spot Bitcoin (BTC) ETF with $70.1 billion in net assets.
 
-STRK, by contrast, sits between the two in both risk and return, offering an 8% fixed dividend and convertibility. At the base of the capital stack lies MSTR, the firm’s common stock and primary vehicle for leveraged bitcoin exposure.
+The bank will also consider clients’ crypto holdings when assessing net worth, treating digital assets similarly to traditional ones when determining how much a client can borrow against assets.
 
-According to Strategy, STRD is non-callable under normal conditions, but may be repurchased upon a “fundamental change” or select tax events. Its quarterly dividends are discretionary and paid in cash only when declared by the board.
+JPMorgan is among US banks betting on crypto initiatives for some of its clients. In 2020, it launched JPM Coin, a dollar-pegged stablecoin and in 2024, the bank reported holding shares of different spot Bitcoin ETFs.
 
-In the broader market, STRD compares favorably against other preferred equity and high-yield bond funds. With a 10% yield and zero management fees, STRD offers a compelling alternative to ETFs like PFF (7% yield, 0.46% fee) and USHY (8% yield, 0.08% fee), while maintaining comparable volatility levels.
+Bitcoin’s shrinking supply may trigger price breakout: Sygnum
 
-The STRD offering supports Strategy’s broader initiative to offer diversified, structured exposures that span from stable yield to high-conviction digital asset plays anchoring a new approach to capital structuring in the digital era.
+Bitcoin’s circulating supply is tightening fast, setting the stage for potential price surges as demand continues to grow, according to Sygnum Bank’s June 2025 Monthly Investment Outlook.
 
-James Van Straten is a Senior Analyst at CoinDesk, specializing in Bitcoin and its interplay with the macroeconomic environment. Previously, James worked as a Research Analyst at Saidler & Co., a Swiss hedge fund, where he developed expertise in on-chain analytics. His work focuses on monitoring flows to analyze Bitcoin's role within the broader financial system.
+Sygnum analysts noted that Bitcoin’s (BTC) liquid supply had dropped by 30% over the past 18 months, primarily driven by institutional adoption and the rise of Bitcoin acquisition vehicles.
 
-In addition to his professional endeavors, James serves as an advisor to Coinsilium, a UK publicly traded company, where he provides guidance on their Bitcoin treasury strategy. He also holds investments in Bitcoin and Strategy (MSTR).
+These entities, including exchange-traded funds (ETFs) and corporate buyers, have steadily withdrawn coins from exchanges, a move typically seen as bullish.
+
+“Bitcoin’s fast-shrinking liquid supply is creating the conditions for demand shocks and upside volatility,” the report said.
+
+Since late 2023, Bitcoin balances on exchanges have fallen by about 1 million BTC. The trend is accelerating as a growing number of funds issue equity or debt to purchase Bitcoin, further soaking up available supply.
+
+At the same time, geopolitical and fiscal uncertainties, particularly around the weakening US dollar and ballooning US debt, drive investors toward crypto markets.
+
+Adding to the momentum, three US states recently passed legislation permitting Bitcoin reserves. New Hampshire has already signed such a bill into law, with Texas likely to follow.
+
+Meanwhile, international interest is growing. Sygnum highlighted that Pakistan’s government and Reform UK, the party currently leading in UK election polls, have announced intentions to explore Bitcoin reserve strategies.
+
+Trump wallet announcement spirals into confusion
+
+A June 3 announcement of a Trump-branded crypto wallet to be launched by a business linked to the Trumps became muddled after US President Donald Trump’s sons distanced the family from it.
+
+Non-fungible token (NFT) marketplace Magic Eden and the firm behind the president’s memecoin that is linked to his sprawling holding company, the Trump Organization, said they were linking up to launch the “Official $TRUMP Wallet by President Trump.”
+
+But the president’s sons, Eric, Barron and Donald Trump Jr., all said they knew “nothing about it” and that the Trump Organization has “zero involvement” with the product. Donald Trump Jr. then added the family’s crypto platform, World Liberty Financial, “will be launching our official wallet soon.”
+
+Crypto skeptic Molly White said the saga was “absolute chaos” and speculated a breakdown in communication between the various Trump-linked businesses.
+
+The Trump Wallet website said the project is a partnership with Magic Eden and GetTrumpMemes.com — the latter is owned by Fight Fight Fight LLC, which is co-owned by a company affiliated with the Trump Organization called CIC Digital LLC. Those two companies together own a majority of the supply of Trump’s memecoin.
+
+### 발행일
+2025-06-04T22:00:37+00:00
+
+### 출처
+CoinTelegraph
+
+--------------------------------------------------------------------------------
+
+### 제목
+Trump’s crypto ties cloud digital assets legislation in Congress
+
+### 링크
+https://cointelegraph.com/news/trump-crypto-ties-cloud-digital-assets-legislation-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+### 본문
+Leadership on the US House Financial Services Committee (HFSC) seemed like they were not going to reach common ground on how to regulate digital assets amid President Donald Trump’s potential conflicts of interest with the industry.
+
+In a June 4 hearing, committee ranking member Maxine Waters reiterated concerns that, without clarification within the bill, Trump could use the Digital Asset Market Clarity (CLARITY) Act to further “cash in” on crypto.
+
+The California representative cited examples of the president hosting a dinner for his top memecoin holders, who reportedly paid roughly $148 million for the opportunity to attend, and suggested that Trump could use the market structure to “put [Americans’] money in his digital wallet.”
+
+“This rushed, overly complicated bill will increase investor harm, which already runs rampant in today’s crypto market,” said Waters, referring to the proposed CLARITY Act.
+
+“Some of the riskiest activities are broadly exempted from the bill, leaving our constituents with no one to turn to when their money vanishes. The bill puts our national security at risk and contains no penalties for crypto criminals.”
+
+The CLARITY Act, introduced by Republicans with three Democratic co-sponsors on May 29, was branded as a bipartisan piece of legislation attempting to establish rules of the road for the crypto industry.
+
+Many Democratic lawmakers have called for investigations into Trump’s connections with his family-backed crypto platform World Liberty Financial and his other digital asset investments as Congress considers legislation to regulate payment stablecoins and establish a market structure framework.
+
+Related: Pakistan reveals Bitcoin reserve plan to Trump’s crypto team at White House
+
+“Currently, there is no federal framework for digital assets,” said HFSC Chair French Hill at the June 4 hearing. “The SEC [Securities and Exchange Commission] and CFTC [Commodity Futures Trading Commission] do not have clear jurisdictional boundaries over digital assets, leaving investors and entrepreneurs in a state of uncertainty and often discouraging innovation.”
+
+Save one, none of the witnesses called to testify at the hearing addressed Trump’s potential conflicts of interest in their opening statements, including former CFTC Chair Rostin Behnam, former SEC Commissioner Elad Roisman, and Uniswap Labs Chief Legal Officer Katherine Minarik. In response to questions raised by Waters, former CFTC Chair Timothy Massad said Trump’s crypto activities were a “taint” on the industry that presented national security concerns.
+
+“We cannot tell now to what extent is the president doing something because it’s in America’s best interest or because it’s helping promote his personal enrichment,” said Massad. “I think we have to address this. I don’t see how we can move forward and try to create a framework for this industry if we don’t do that.”
+
+In May, Waters introduced legislation to explicitly block the president, vice president, members of Congress and their families from engaging in the industry. The bill came the same day Trump hosted his memecoin dinner at his golf club. Despite claims from the White House that the event was conducted “in his personal time,” Trump spoke from a lectern with the US presidential seal.
+
+The House Agriculture Committee had a separate hearing on June 4 to discuss a digital asset framework. Ranking member Angie Craig said Trump was making the effort to pass crypto legislation “a lot more difficult,” citing the potential to use non-public information to profit from the industry, including through his memecoins.
+
+Crypto bills under review in the House and Senate
+
+Both the Guiding and Establishing National Innovation for US Stablecoins, or GENIUS, Act to regulate payment stablecoins in the Senate and the market structure bill in the House could face continued pushback from Democrats and lawmakers opposed to legislation without a specific carveout to address Trump’s crypto ties. The GENIUS Act already passed a crucial vote in May, allowing it to be considered by the full chamber, while the CLARITY Act remained under consideration in the House Financial Services Committee as of May 29.
+
+Magazine: US risks being ‘front run’ on Bitcoin reserve by other nations: Samson Mow
+
+### 발행일
+2025-06-04T21:46:06+00:00
+
+### 출처
+CoinTelegraph
+
+--------------------------------------------------------------------------------
+
+### 제목
+Suspect in French Crypto Kidnappings Arrested in Morocco
+
+### 링크
+https://www.coindesk.com/policy/2025/06/04/suspect-in-french-crypto-kidnappings-arrested-in-morocco
+
+### 본문
+A 24-year-old man said to be a mastermind behind the recent crimes was taken into custody in Tangier, authorities said.
+
+A suspect allegedly behind recent high-profile crypto kidnappings in France has been arrested in Morocco, according to Maghreb Arab Press, a government-run press agency.
+
+At the request of French authorities, a joint operation of Morocco’s National Judicial Police Brigade (BNPJ) and the General Directorate of Territorial Surveillance (DGST) took the 24-year-old French-Moroccan suspect into custody, according to a statement from Moroccan police distributed by MAP. The press agency described the man, who was identified by French press as Badiss Mohamed Amide Bajjou, as a mastermind of the crimes.
+
+"I sincerely thank Morocco for this arrest, which demonstrates the excellent judicial cooperation between our two countries, particularly against organized crime," said French Minister of Justice Gérald Darmanin in a translated statement on social-media site X.
+
+Interpol said Bajjou was sought for organized extortion, kidnapping and violence, according to a so-called "red notice" posted for the man.
+
+French authorities have already charged more than two dozen people — including six minors — in the spate of crypto kidnappings in Paris, most of them tied to the May 13 failed kidnapping attempt of the family of Pierre Noizat, the CEO of exchange Paymium.
+
+Also in May, the father of a French crypto millionaire was reportedly kidnapped in a case that was similar to the earlier seizure of David Ballard, a co-founder of crypto-wallet developer Ledger, and his wife. Kidnappers severed a finger from each of the men.
+
+After those recent cases, France's Minister of the Interior Bruno Retailleau hosted a meeting with people involved in crypto to discuss measures to keep them secure.
+
+Read More: France Charges 25 People, Including 6 Minors, in Crypto Kidnapping Cases
+
+Jesse Hamilton is CoinDesk's deputy managing editor on the Global Policy and Regulation team, based in Washington, D.C. Before joining CoinDesk in 2022, he worked for more than a decade covering Wall Street regulation at Bloomberg News and Businessweek, writing about the early whisperings among federal agencies trying to decide what to do about crypto. He’s won several national honors in his reporting career, including from his time as a war correspondent in Iraq and as a police reporter for newspapers. Jesse is a graduate of Western Washington University, where he studied journalism and history. He has no crypto holdings.
 
 About
 
 Contact
 
 ### 발행일
-2025-06-03T08:39:05+00:00
+2025-06-04T23:02:48+00:00
 
 ### 출처
 CoinDesk
@@ -97,122 +169,404 @@ CoinDesk
 --------------------------------------------------------------------------------
 
 ### 제목
-US visa interview freeze threatens incoming students
+Circle Prices IPO at $31 Per Share, Valuing Stablecoin Issuer at $6.9 Billion
 
 ### 링크
-https://thepienews.com/us-visa-interview-freeze-threatens-incoming-international-students/
+https://www.coindesk.com/markets/2025/06/04/circle-debuts-on-nyse-at-31-per-share-valuing-stablecoin-issuer-at-62-billion
+
+### 본문
+Circle’s IPO exceeds expectations with a surge in demand, pushing shares above the marketed range.
+
+Circle priced its initial public offering (IPO) on Wednesday at $31 per share, above the expected range of $24 to $26.
+
+The company sold around 34 million shares in the offering for a valuation of $1.1 billion. Bloomberg pegs the total amount raised in the IPO at $6.9 billion.
+
+Circle initially planned to offer just 24 million Class A shares, with 9.6 million coming from the firm itself and the remainder from early stakeholders.
+
+The stablecoin issuer will begin trading on Thursday on the New York Stock Exchange (NYSE) under the ticker “CRCL."
+
+This initial public offering (IPO) marks the second major crypto company to go public under the Trump administration, after eToro listed last month.
+
+The stablecoin issuer’s road to the public markets has been long. It first attempted to go public in 2021 through a special purpose acquisition company (SPAC). That deal eventually collapsed, though Circle never stopped pursuing its IPO ambitions.
+
+Circle issues USDC, the second-largest U.S. dollar-pegged stablecoin in circulation, which has become a backbone for many crypto trading pairs and decentralized finance applications. Going public gives the company access to deeper capital markets and increased regulatory scrutiny, potentially helping shore up investor confidence in the wake of recent volatility in crypto markets.
+
+The firm’s entrance to the NYSE comes amid renewed interest in digital assets and as U.S. legislators weigh clearer rules for stablecoins and their issuers, potentially giving publicly traded issuers an edge.
+
+Sen. Bill Hagerty, the main sponsor of the Senate's stablecoin bill, said on Bloomberg earlier Wednesday that the Senate needs to pass that piece of legislation as soon as possible, arguing that it would protect consumers while keeping more issuers and other companies in the U.S.
+
+"We have broad agreement, with respect to the content of this stablecoin legislation," he said. "This is going to, I think, take us into the 21st century, in terms of upgrading our payment systems ... Because every one of these stablecoins will be backed up dollar for dollar with U.S. treasuries."
+
+Disclaimer: Parts of this article were generated with the assistance from AI tools and reviewed by our editorial team to ensure accuracy and adherence to our standards. For more information, see CoinDesk’s full AI Policy.
+
+UPDATE (June 4, 2025, 22:18 UTC): Adds Hagerty comment.UPDATE (June 4, 2025, 23:07 UTC):Updates headline and story throughout to clarify that Circle will start trading tomorrow.
+
+UPDATE (June 4, 2025, 23:34 UTC): Updates valuation to $6.9 billion as per a statement from Circle.
+
+Jesse Hamilton contributed reporting.
+
+Helene is a New York-based markets reporter at CoinDesk, covering the latest news from Wall Street, the rise of the spot bitcoin exchange-traded funds and updates on crypto markets. She is a graduate of New York University's business and economic reporting program and has appeared on CBS News, YahooFinance and Nasdaq TradeTalks. She holds BTC and ETH.
+
+About
+
+Contact
+
+### 발행일
+2025-06-04T22:05:29+00:00
+
+### 출처
+CoinDesk
+
+--------------------------------------------------------------------------------
+
+### 제목
+Vitalik Buterin Uses Privacy Tool Railgun Again, Signaling Ongoing Embrace of On-Chain Anonymity
+
+### 링크
+https://www.coindesk.com/tech/2025/06/04/vitalik-buterin-uses-privacy-tool-railgun-again-signaling-ongoing-embrace-of-on-chain-anonymity
+
+### 본문
+Railgun's RAIL token has spiked 15% higher after Ethereum co-founder Vitalik Buterin  transferred over $2.6 million in crypto using the privacy protocol.
+
+Ethereum co-founder Vitalik Buterin transferred around $2.6 million worth of tokens through the privacy-focused protocol Railgun on Wednesday, in what appears to be both a routine financial transaction and a quiet endorsement of blockchain-based privacy.
+
+It's unclear how the funds sent to Railgun — which included a mix of ETH and USDC — were ultimately used. Railgun is a tool designed to obfuscate on-chain activity, enabling investors to use decentralized finance (DeFi) protocols without transactions being tied to their personal crypto wallets.
+
+It is not the first time Buterin has used the protocol. In March, he moved approximately $500,000 through Railgun in a similar transaction. While Buterin has not commented directly on the latest transfer, his continued use of the tool underscores his long-standing advocacy for privacy as a core pillar of Ethereum’s infrastructure.
+
+Buterin and other Ethereum developers have repeatedly argued that user privacy should be treated as a default feature, not an optional add-on. In an April post to an Ethereum developer forum, Buterin outlined several recommended steps for making the blockchain more private.
+
+The Ethereum community’s push for privacy comes amid ongoing scrutiny of privacy-preserving blockchain tools by regulators. While Railgun aims to enable legitimate private transactions, similar tools have drawn legal fire.
+
+Tornado Cash—once the most widely used Ethereum-based mixer—was sanctioned by the U.S. Department of the Treasury’s Office of Foreign Assets Control (OFAC) in August 2022. The government alleged the platform was used to launder over $1 billion, including funds linked to North Korea's Lazarus hacking group.
+
+However, on March 21, 2025, OFAC officially lifted the sanctions against Tornado Cash following a federal appeals court ruling that the agency had overstepped its authority.
+
+Railgun, described on its website as a "DeFi privacy toolkit," represents a newer generation of privacy systems built on Ethereum, combining zero-knowledge cryptography with smart contract composability. This newer system, unlike Tornado Cash, incorporates screening features to deter illegal transactions.
+
+Notably, in February, Buterin commended Railgun for its successful prevention of a money-laundering attempt.
+
+Also unlike Tornado Cash, which is primarily built to help users transfer funds anonymously, Railgun helps users interact directly with DeFi protocols — allowing investors to transact discretely while maintaining full control of their funds.
+
+The project has received support from some privacy advocates and developers, who argue that tools like Railgun can serve legal use cases such as financial privacy for activists, journalists, or high-net-worth crypto "whales" who want to transact with discretion.
+
+Following Buterin's latest transaction, Railgun's native token, RAIL, experienced a 15% uptick over the past 24 hours.
+
+Sam is CoinDesk's deputy managing editor for tech and protocols. His reporting is focused on decentralized technology, infrastructure and governance. Sam holds a computer science degree from Harvard University, where he led the Harvard Political Review. He has a background in the technology industry and owns some ETH and BTC. Sam was part of the team that won a 2023 Gerald Loeb Award for CoinDesk's coverage of Sam Bankman-Fried and the FTX collapse.
+
+About
+
+Contact
+
+### 발행일
+2025-06-04T20:33:00+00:00
+
+### 출처
+CoinDesk
+
+--------------------------------------------------------------------------------
+
+### 제목
+US visa interview pause update expected within days
+
+### 링크
+https://thepienews.com/us-visa-interview-pause-expected-within-days/
 
 ### 본문
 <div class="summary-container bg-orange-200 px-4 py-[22px]">
 	<div class="prose max-w-none dark:prose-invert text-black">
 
 <ul class="wp-block-list">
-<li>Uncertainty grows for students as some receive visas mid-freeze and others see visa appointments cancelled.</li>
+<li>State officials indicate an update on the Trump administration&#8217;s controversial freeze on new student visa appointments will come in a matter of days.</li>
 
 
 
-<li>Stricter social media vetting policy currently only rolled out to Harvard students amid Donald Trump&#8217;s ongoing feud with the US&#8217;s oldest university, with possibility of being adopted nationwide in the future.</li>
+<li>No details on extent of appointment backlog, as international education stakeholders express concerns about incoming students&#8217; ability to get a visa on time.</li>
 
 
 
-<li>Speculation grows about duration of the pause, as State Department spokesperson indicates it might end &#8220;sooner rather than later&#8221;.</li>
+<li>Government insists no existing visa appointments have been cancelled since the pause, despite contradictory reports from NAFSA.</li>
 </ul>
 
 </div>
 </div>
 
 
-<p>US stakeholders have issued grave warnings about the State Department’s ongoing pause of the scheduling of new student visa interviews, urging the government to lift the freeze and end the uncertainty for students due to enrol in summer and fall cycles of 2025. &nbsp;</p>
+<p>In a press briefing on June 3, State Department spokesperson Tammy Bruce said there would be an update on <a href="https://thepienews.com/us-trump-pauses-new-student-visa-interviews/">the pause</a> in student visa interview scheduling “before the end of the week”. &nbsp;</p>
 
 
 
-<p>“We encourage the State Department to act expeditiously to implement any new vetting measures so new student visas can continue to be quickly and efficiently processed,” wrote the American Council on Education (ACE) president Ted Mitchell, in a letter to secretary of state Marco Rubio. &nbsp;</p>
+<p>“The original cable indicated it was going to be a matter of days,” said Bruce, adding that it was a matter of making sure embassies and consulates are “prepared” and that “all things were in order”. &nbsp;</p>
 
 
 
-<p>It comes after the administration <a href="https://thepienews.com/us-trump-pauses-new-student-visa-interviews/" rel="noreferrer noopener" target="_blank">ordered US consulates</a> around the world to stop scheduling new visa appointments for international students while it expands its social media vetting processes, according to a State Department cable on May 27. &nbsp;&nbsp;</p>
+<p>“This is not a never-ending dynamic, and we are looking at&#8230; an update in a matter of days,” Bruce told reporters. &nbsp;</p>
 
 
 
-<p>Currently, the policy has only been rolled out to prospective Harvard students, who are being vetted for antisemitism in what the state department has called a <a href="https://www.politico.com/news/2025/05/30/state-implements-reviews-of-harvard-visa-applicants-social-media-accounts-00375921" rel="noreferrer noopener" target="_blank">pilot project</a> that could be rolled out nationwide, according to a cable obtained by <em>Politico. </em> </p>
+<p>Studyportals CEO, Edwin van Rest, said that the news was “tentatively positive” in a post on LinkedIn, though given <a href="https://thepienews.com/countries/usa/" rel="noreferrer noopener" target="_blank">recent actions</a> of the administration, stakeholders are reticent to celebrate and will be watching closely for the department’s next move. &nbsp;</p>
 
 
 
-<p>The letter, co-signed by 38 US organisations including the likes of NAFSA and the Presidents’ Alliance, emphasises the severe damage of the pause not only for students already due to come to the US, but also for the country’s international standing.&nbsp;</p>
+<p>Speaking to <em>The PIE News, </em>van Rest said he was hopeful the scheduling would catch up, but that the uncertainty of the announcement was &#8220;perhaps even more hurtful&#8221;.</p>
 
 
 
-<p>“We are concerned that imposing a broad pause on all student visas would send a message that our nation no longer welcomes talented students and scholars from other countries,” it said, while reaffirming the sector’s willingness to address the administration’s “security concerns” about international students. &nbsp;</p>
+<p>&#8220;After 27 May, the day of the announcement, the &#8216;demand share&#8217; of the US as a destination dropped by more than 20% relatively,&#8221; he highlighted.  </p>
 
 
 
-<p>Amid growing fears of an extended delay, Mitchell called on the State Department to “take proactive actions to quickly process student visa applications after the pause” in the lead up to the 2025/26 academic year.&nbsp;</p>
+<p>What’s more, Bruce said that once new visa appointments resume, the process will “go pretty quickly”, but gave no details of the length of the backlog.</p>
 
 
 
-<p>Speaking to <em>The PIE News </em>at the NAFSA conference 2025, Presidents’ Alliance CEO Miriam Fledblum said the timing of the pause was particularly concerning, coming at peak time for students applying for visa interviews to give them time to arrive before the fall semester.  </p>
+<p>According to the <a href="https://www.presidentsalliance.org/">Presidents’ Alliance</a>, more than half of admitted students who’ve accepted offers to US colleges still haven’t been able to book an interview, with the organisation expecting backlogs to continue even after scheduling reopens.&nbsp;</p>
 
 
 
-<p>“Even if they quickly reverse course, already damage has been done. Those slots for visa interviews may no longer be available,” said Feldblum.&nbsp;</p>
+<p>“This is one of the busiest times of year for international students trying to secure appointments &#8230; so even if things restart soon, we’re likely looking at a ripple effect of delays and disruptions,” the Alliance’s deputy director of federal policy Zuzana Cepla Wootson told <em>The PIE News.</em>&nbsp;</p>
 
 
 
-<p>“This is not theoretical, this is not some time in the future. This is now and this is consequential,” she added.</p>
+<p>Initially on May 27, the state department sent a cable to consulates announcing the freeze while it prepared for “an expansion of required social media screening and vetting&#8221;, telling embassies to expect further guidance in a matter of days. &nbsp;</p>
 
 
 
-<p>NAFSA CEO, Fanta Aw, called Rubio’s order another “misguided” and “troubling” attack on international students in the US, which coincided with international stakeholders convening in San Diego for the first day of NAFSA 2025. &nbsp;</p>
-
-
-
-<p>According to Rubio’s May 27 cable, the pause in visa interviews applied from the day it was announced “until further guidance” with stakeholders reassuring students who already had appointments that they would remain in place.&nbsp;</p>
-
-
-
-<p>While some students have received visas since the pause, elsewhere visa appointments have been cancelled, with uncertainty growing each day the freeze continues. &nbsp;</p>
+<p>To this day, visa scheduling remains halted, and stakeholders have <a href="https://thepienews.com/us-visa-interview-freeze-threatens-incoming-international-students/" rel="noreferrer noopener" target="_blank">expressed concerns</a> about the growing backlog and the danger that students due to start in summer or fall 2025 may be unable to get a visa in time to pursue their studies. &nbsp;</p>
 
 
 
 <blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p>This is not theoretical, this is not some time in the future. This is now and this is consequential.</p>
-<cite>Miriam Feldblum, Presidents&#8217; Alliance</cite></blockquote>
+<p>More than half of admitted students who’ve accepted offers still haven’t been able to book an interview</p>
+<cite>Zuzana Cepla Wootson, Presidents&#8217; Alliance </cite></blockquote>
 
 
 
-<p>Stakeholders have bemoaned the lack of clarity and transparency of State Department communications, with Mitchell and the co-signatories on ACE’s letter appealing for clearer policy guidance from the government. &nbsp;</p>
+<p>In the meantime, the State Department instructed consulates on May 29 to immediately begin the<a href="https://thepienews.com/social-media-vetting-rolled-out-to-harvard-applicants/" rel="noreferrer noopener" target="_blank"> enhanced social media screening</a> of Harvard applicants for anti-semitism in what it said was a pilot project that would be “expanded over time”. &nbsp;</p>
 
 
 
-<p>Meanwhile, a televised <a href="https://www.state.gov/briefings/department-press-briefing-may-29-2025/" rel="noreferrer noopener" target="_blank">press briefing</a> last week fuelled further speculation about the duration of the pause, after State Department spokesperson Tammy Bruce said she thought the freeze would be lifted “sooner rather than later”.&nbsp;</p>
+<p>What remains to be seen is how quickly they will roll out the screening processes and whether it will mirror what is already being applied to students and faculty who plan to travel to Harvard.&nbsp;&nbsp;</p>
 
 
 
-<p>“But [what] I’m told to encourage people to do is to regularly check to see when those spaces open, and I would not be recommending that if it was going to be weeks or months,” Bruce told reporters.  </p>
+<p>“When this returns, we’re going to see that appointments are going to be able to be made. It’s not like it’s a time block that can’t be returned,” said Bruce, giving no further details about when this could be or the size of the backlog. &nbsp;</p>
 
 
 
-<p>Learning from the administration’s past actions, Alliance for International Exchange CEO Mark Overmann urged NAFSA delegates to plan for the possibility of an extended freeze, reminding them about the previous apparent <a href="https://thepienews.com/us-state-department-pauses-study-abroad-funding/" rel="noreferrer noopener" target="_blank">15-day pause</a> on study abroad funding, which lasted for nearly two months. </p>
+<p>Bruce maintained that no appointments had been cancelled or eliminated from availability during the ongoing freeze, contradicting reports from the US&#8217;s association of international educators, NAFSA, on May 30 of&nbsp;some visa interviews being cancelled. &nbsp;</p>
 
 
 
-<p>“We need to make clear about why this is so disruptive and how likely it is that it will cause chaos,” urged Feldblum. “What I hear from institutional leaders is we were very concerned about the decline in yield because of what has happened up to now. </p>
+<p>Notably, NAFSA&nbsp;also reported that some students had received visas since the pause was announced, as the freeze specifically relates to the scheduling of new visa appointments.&nbsp;</p>
 
 
 
-<p>“This will certainly just instil further uncertainty among prospective international students so we’re even more likely to see declines in acceptances,” she warned. &nbsp;&nbsp;</p>
+<p>Making matters worse, said stakeholders, is the lack of clear information: “There’s been little guidance or communication from the government, which only heightens anxiety – especially now, during a really critical time in the admissions season,” said Wootson.&nbsp;</p>
 
 
 
-<p>When pressed for more details, State Department officials maintained that social media vetting was not new: “Since 2019, the Department of State has required visa applicants to provide social media identifiers on immigrant and non-immigrant applications,” they said, referring all other questions to consular officials.  </p>
+<p>“And this isn’t happening in a vacuum,” she added, highlighting the administration’s SEVIS terminations and <a href="https://thepienews.com/data-trumps-student-visa-revocations-in-numbers/" rel="noreferrer noopener" target="_blank">visa revocations</a> that have created &#8220;a lot of fear&#8221; among international students, &#8220;pushing&#8221; them to more welcoming and transparent countries.&nbsp;&nbsp;</p>
 
 
 
-<p>Despite this, recent months have seen “extreme vetting” of those who may have participated in pro-Palestinian protests, with the expectation that this will be rolled out to all international applicants down the line. &nbsp;</p>
-<p>The post <a href="https://thepienews.com/us-visa-interview-freeze-threatens-incoming-international-students/">US visa interview freeze threatens incoming students</a> appeared first on <a href="https://thepienews.com">The PIE News</a>.</p>
+<p>“For international students making big, often life-changing decisions, uncertainty like this can be a dealbreaker,” said Wootson, adding that the US was risking its “competitiveness and long-standing leadership in higher education, research and innovation”.&nbsp;&nbsp;</p>
+
+
+
+<p>The state department is yet to respond to <em>The PIE News’s </em>request for further details.</p>
+<p>The post <a href="https://thepienews.com/us-visa-interview-pause-expected-within-days/">US visa interview pause update expected within days</a> appeared first on <a href="https://thepienews.com">The PIE News</a>.</p>
 
 ### 발행일
-2025-06-03T09:29:39+00:00
+2025-06-04T18:01:50+00:00
+
+### 출처
+ThePieNews
+
+--------------------------------------------------------------------------------
+
+### 제목
+PIE journalist lands major award for HOELT and F-1 exposés
+
+### 링크
+https://thepienews.com/pie-journalist-wins-award/
+
+### 본문
+<p>Polly Nash picked up a coveted trophy last night at an awards ceremony, shining a light on up-and-coming journalists held in Soho, London, by the British Society of Magazine Editors (BSME). The event was co-hosted by broadcaster and author Angela Scanlon, with the awards&#8217; judging panel comprising prominent magazine journalists from across the industry.</p>
+
+
+
+<p>With other winners including journalists from major magazine brands including <em>Which?</em> magazine, <em>British GQ</em>, and <em>GLAMOUR UK</em>, the <a href="https://www.bsme.com/ta25-winners" rel="noreferrer noopener" target="_blank">BSME New Talent Awards</a> judges chose to name Polly as the best writer in the specialist business-to-business category, among stiff competition. </p>
+
+
+
+<p>&#8220;Polly demonstrates exceptional research skills and a deep understanding of the subject matter, which she effectively translates for readers,&#8221; the judges said. &#8220;Her work has had an impact on policy, underscoring its relevancy and influence. Her writing style is informative, authoritative and effortlessly engaging.&#8221;</p>
+
+
+
+<p>They commended her stories revealing the UK government&#8217;s <a href="https://thepienews.com/home-office-uk-overhaul-selt/" rel="noreferrer noopener" target="_blank">plans to overhaul English language testing</a> and those drawing attention to controversial North American immigration policies affecting thousands of international students, which government officials were forced to walk back as a result.</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>Her work has had an impact on policy, underscoring its relevancy and influence<br /><strong><sub><sup>BSME judges</sup></sub></strong></p>
+</blockquote>
+
+
+
+<p>Just weeks after Polly&#8217;s story on a policy manual update that <a href="https://thepienews.com/uscis-revises-f-1-study-abroad-policy-following-sector-confusion/" rel="noreferrer noopener" target="_blank">restricted F-1 visa holders&#8217; study abroad</a> to five months, the US government has <a href="https://thepienews.com/us-restricts-study-abroad-for-f-1-visa-holders/">reversed the decision</a>.</p>
+
+
+
+<p>And her story on a new Canadian policy ending &#8216;grandfathering&#8217;, meaning international students wanting to change their course once they reached Canada <a href="https://thepienews.com/ircc-clarifies-pgwp-grandfathering-policy-sector-confusion/" rel="noreferrer noopener" target="_blank">would no longer be eligible</a> for a raft of post-graduation work rights, helped pressure officials into U-turning on the decision.</p>
+
+
+
+<p>The PIE&#8217;s editor Beth Kennedy said the team was &#8220;enormously proud&#8221; that the impact of Polly&#8217;s work has been recognised with such an eminent award.</p>
+
+
+
+<p>&#8220;The international education sector knows it can count on Polly to bring them timely, knowledgeable and impactful news and analysis – but it is wonderful to see that her talent for journalism has been recognised by a panel of experts in their craft,&#8221; she said.</p>
+
+
+
+<p>&#8220;Polly&#8217;s work shows that journalism can be a powerful force for change, and we look forward to seeing what she does next in her mission to empower and stand up for the international education sector. Well done Polly.&#8221;</p>
+<p>The post <a href="https://thepienews.com/pie-journalist-wins-award/">PIE journalist lands major award for HOELT and F-1 exposés</a> appeared first on <a href="https://thepienews.com">The PIE News</a>.</p>
+
+### 발행일
+2025-06-04T15:02:51+00:00
+
+### 출처
+ThePieNews
+
+--------------------------------------------------------------------------------
+
+### 제목
+Rutgers University looks to India for new opportunities
+
+### 링크
+https://thepienews.com/rutgers-university-looks-to-india-for-new-opportunities/
+
+### 본문
+<p>As an increasing number of international universities pursue transnational education opportunities in India, one prominent institution making its presence felt is Rutgers University.</p>
+
+
+
+<p><a href="https://www.rutgers.edu/" rel="noreferrer noopener" target="_blank">Rutgers</a>, one of the oldest universities in the US, founded a decade before American independence, now hosts over 70,000 students and 5,000 faculty.</p>
+
+
+
+<p>With its rising profile as a leading research university in New Jersey, Rutgers’ chief academic officer, Prabhas Moghe, believes the time is right to deepen the institution&#8217;s student exchange, mobility, and research ties with India.</p>
+
+
+
+<p>“Our global goals are fourfold. Number one is to internationalise our education more. That includes study abroad. We have a small presence in India right now which I want to grow. We have lots of students going to Europe and other places, but not so much to India. Number two is to draw upon students from many different parts of the world, particularly from India,” Moghe tells <em>The PIE News.&nbsp;</em></p>
+
+
+
+<p>Rutgers also wants to strengthen its partnerships with Indian institutions, as well as welcoming students from the country to the US, he says.</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>If we partner with universities in India, we can help strengthen their research infrastructure&#8230; Together, we can produce more and solve problems more effectively<br /><sup><sub><strong>Prabhas Moghe, Rutgers University</strong></sub></sup></p>
+</blockquote>
+
+
+
+<p>While Rutgers recently signed an MoU with the Indian Institute of Science, Bengaluru, focusing on partnerships in areas like AI, sustainability, and biomedical sciences, Moghe says the goal is to collaborate with like-minded institutions to help address the challenges facing Indian universities. </p>
+
+
+
+<p>“American research universities often excel at identifying big societal problems, grand challenges, and then doing the work to address them. Students get involved in that research and are transformed by it. They become change agents,” Moghe continues.&nbsp;</p>
+
+
+
+<p>“If we partner with universities in India, we can help strengthen their research infrastructure. That benefits both students and institutions. Together, we can produce more and solve problems more effectively.”</p>
+
+
+
+<p>In recent months, it hasn&#8217;t just been UK and Australian universities eyeing India for branch campuses – US institutions are joining in too, with the Illinois Institute of Technology becoming the latest to explore a potential Mumbai <a href="https://thepienews.com/us-illinois-tech-mumbai-india-campus/" rel="noreferrer noopener" target="_blank">campus</a>.</p>
+
+
+
+<p>The announcement follows a period of concern for American universities due to recent Trump-led education policies, but also comes on the heels of a <a href="https://thepienews.com/trump-and-modi-back-opening-more-us-uni-campuses-in-india/" rel="noreferrer noopener" target="_blank">meeting</a> between the US President and Indian Prime Minister Narendra Modi, where both leaders expressed support for US branch campuses in India, joint academic initiatives, and smoother student mobility between the two nations.</p>
+
+
+
+<p>While Rutgers doesn’t foresee the presence of a branch campus in India, the institute is focusing on other collaborative opportunities in cross-disciplinary programmes.&nbsp;</p>
+
+
+
+<p>“India doesn’t yet have many world-class research universities, though it’s clear there’s a plan to invest. But research is expensive, it doesn’t pay for itself. So collaboration becomes even more important,&#8221; explains Moghe.</p>
+
+
+
+<p>Though Rutgers University currently has a wide range of partnerships with Indian universities, Moghe believes preparing Indian PhD students for their academic journey would be a key focus for the institute in the near future.&nbsp;</p>
+
+
+
+<p>“One idea is to expose the student from India to a US lab early on, so that they’re more competitive when applying for PhD programs down the line,” he says.&nbsp;</p>
+
+
+
+<p>“And to see if that experience also helps satisfy the National Education Policy’s requirement that every student should have some form of high-impact educational experience.”</p>
+
+
+
+<p>The Big Ten Academic Alliance, which includes Rutgers, collaborates on challenges such as traumatic brain injury and cancer – even exploring shared library resources to make research more accessible and affordable. Rutgers aims to support similar university consortia in India that address country-specific challenges.</p>
+
+
+
+<p>“We’ve been looking at examples across sectors such as health tech, tuberculosis, environmental systems, even underwater observation. Many of these models involve both universities and industries working together,” says Moghe.&nbsp;</p>
+
+
+
+<p>“That’s the model I think could be a really powerful-university-industry consortium. We’re building our own innovation hub in New Jersey. There are companies co-located with us. We patent our research and foster start-ups. Institutions here in India have similar innovations, so we can collaborate across borders.”&nbsp;</p>
+
+
+
+<p>&#8220;This is what a true transnational education partnership looks like. It’s not always about building campuses or programs, because ideas and know-how transfer is so much more powerful in my view,” he adds.&nbsp;</p>
+
+
+
+<p>With a strong emphasis on AI at Rutgers, which Moghe says helps the institute address digital and social inequalities and advance prevention science, he also believes that understanding AI’s disruptive impact is crucial.</p>
+
+
+
+<p>&#8220;Sometimes professors actually encourage students to use AI and then explain what they’ve learned and what was deficient in it. So students are kind of using it, not just professing to use it but actually learning through it, without being penalised for using AI,” says Moghe.&nbsp;</p>
+
+
+
+<p>“Using AI is like building on the collective intelligence of the community. The question is whether it will have disruptive effects on industries.&#8221;</p>
+
+
+
+<p>With Rutgers, among many other US universities, now seeing Indian STEM students shift towards Information science, AI, and machine learning, the Trump administration’s recent policies targeting international students are being seen as a threat to the country’s reputation as one of the topmost study destinations in the world.&nbsp;</p>
+
+
+
+<p>Since Donald Trump’s return to office, a wave of policies, including the <a href="https://thepienews.com/us-visa-interview-freeze-threatens-incoming-international-students/" rel="noreferrer noopener" target="_blank">revocation</a> of student visa interviews, the restriction of international student <a href="https://thepienews.com/trump-revokes-harvards-ability-to-enrol-international-students/" rel="noreferrer noopener" target="_blank">enrolments</a>, a threat to <a href="https://thepienews.com/us-immigration-nominee-vows-to-end-opt/" rel="noreferrer noopener" target="_blank">end</a> OPT, and the slashing of federal grants to top universities, has disrupted what was once a stable sector.&nbsp;</p>
+
+
+
+<p>Interest from postgraduate international students in the US has dropped sharply, declining by over 40% between January and March 2025, according to new <a href="https://thepienews.com/postgrad-international-student-interest-in-us-plunges-by-40/" rel="noreferrer noopener" target="_blank">research</a>.</p>
+
+
+
+<p>But academics like Moghe remain hopeful that they can overcome any challenges the future may bring.</p>
+
+
+
+<p>“I remain cautiously hopeful that we will be collectively resilient. Even with everything else going on, there’s still a great deal of important work to do, especially when it comes to our academic mission,” he says.&nbsp;</p>
+
+
+
+<p>“We have to find support for the kind of work we care about. It’s really important to continue doing the work that matters to us, and that means exploring different sources of funding: philanthropy, people who care about the cause. Why not that?&#8221;</p>
+<p>The post <a href="https://thepienews.com/rutgers-university-looks-to-india-for-new-opportunities/">Rutgers University looks to India for new opportunities</a> appeared first on <a href="https://thepienews.com">The PIE News</a>.</p>
+
+### 발행일
+2025-06-04T11:49:46+00:00
 
 ### 출처
 ThePieNews

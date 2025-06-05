@@ -30,8 +30,10 @@ def get_yesterday_articles(rss_url, source_name):
     articles = []
     
     # 최신 기사 1개만 처리
-    if len(feed.entries) > 0:
-        entry = feed.entries[0]  # 첫 번째 기사만 선택
+    # 최신 기사 1 -> 3개 처리 변경
+    # if len(feed.entries) > 0:
+        # entry = feed.entries[0]  # 첫 번째 기사만 선택
+    for entry in feed.entries[:3]:  # 처음 3개의 기사만 선택
         try:
             if 'published_parsed' in entry:
                 pub_date = datetime.fromtimestamp(
