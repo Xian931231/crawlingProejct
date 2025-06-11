@@ -39,7 +39,9 @@ def post_to_wordpress(title, content, lead, keyword, status='draft'):
         'excerpt': lead,
         'status': status,
         'categories': [2],
-    
+        'meta_input': {
+            'keyword': keyword
+        }
     }
     
     try:
@@ -97,6 +99,7 @@ def translate_and_format(news_content):
         title = ''
         lead = ''
         content = ''
+        keyword = ''
         
         try:
             # title 추출
@@ -150,7 +153,7 @@ def translate_and_format(news_content):
             print(f"원본 번역 결과: {kr_content}")
             
 
-        if not all([title, lead, content]):
+        if not all([title, lead, keyword, content]):
             print("경고: 일부 필드가 비어 있습니다.")
             print(f"비어있는 필드: {[field for field, value in {'title': title, 'lead': lead, 'content': content, 'keyword': keyword}.items() if not value]}")
 
@@ -162,7 +165,7 @@ def translate_and_format(news_content):
             print("https://platform.openai.com/account/usage 에서 현재 사용량을 확인할 수 있습니다.")
         else:
             print(f"번역 중 오류 발생: {e}")
-        return None, None, None
+        return None, None, None, None   
 
 def process_news():
     """뉴스 스크래핑, 번역, 포스팅을 처리하는 메인 함수"""
