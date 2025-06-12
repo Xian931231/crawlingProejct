@@ -5,6 +5,7 @@ from rss_scraper import scrape_all_sources
 from openai import OpenAI
 import requests
 import time
+import json
 
 # .env 파일 로드
 load_dotenv()
@@ -97,66 +98,66 @@ def translate_and_format(news_content):
         print(f"kr_content: {kr_content}")
         
         # 번역 결과를 각 부분으로 분리
-        title = ''
-        lead = ''
-        content = ''
+        # title = ''
+        # lead = ''
+        # content = ''
         # keyword = ''
         
         try:
-            # title 추출
-            if 'title:' in kr_content:
-                title_parts = kr_content.split('lead:')
-                title = title_parts[0].replace('title:', '').strip()
-            elif '### 제목' in kr_content:
-                title_parts = kr_content.split('### 리드' if '### 리드' in kr_content else '### 본문')
-                title = title_parts[0].split('### 제목')[-1].strip()
+            # # title 추출
+            # if 'title:' in kr_content:
+            #     title_parts = kr_content.split('lead:')
+            #     title = title_parts[0].replace('title:', '').strip()
+            # elif '### 제목' in kr_content:
+            #     title_parts = kr_content.split('### 리드' if '### 리드' in kr_content else '### 본문')
+            #     title = title_parts[0].split('### 제목')[-1].strip()
             
-            # lead 추출
-            if 'lead:' in kr_content:
-                lead_parts = kr_content.split('content:')
-                lead = lead_parts[0].split('lead:')[1].strip()
-            elif '### 리드' in kr_content:
-                lead_parts = kr_content.split('### 본문')
-                lead = lead_parts[0].split('### 리드')[-1].strip()
+            # # lead 추출
+            # if 'lead:' in kr_content:
+            #     lead_parts = kr_content.split('content:')
+            #     lead = lead_parts[0].split('lead:')[1].strip()
+            # elif '### 리드' in kr_content:
+            #     lead_parts = kr_content.split('### 본문')
+            #     lead = lead_parts[0].split('### 리드')[-1].strip()
             
-            # content 추출
-            if 'content:' in kr_content:
-                content = kr_content.split('content:')[1].strip()
-            elif '### 본문' in kr_content:
-                content_parts = kr_content.split('### 본문')
-                if len(content_parts) > 1:
-                    content = content_parts[1].strip()
-                    # 다음 섹션이 있다면 그 전까지만 추출
-                    next_section = content.find('###')
-                    if next_section != -1:
-                        content = content[:next_section].strip()
+            # # content 추출
+            # if 'content:' in kr_content:
+            #     content = kr_content.split('content:')[1].strip()
+            # elif '### 본문' in kr_content:
+            #     content_parts = kr_content.split('### 본문')
+            #     if len(content_parts) > 1:
+            #         content = content_parts[1].strip()
+            #         # 다음 섹션이 있다면 그 전까지만 추출
+            #         next_section = content.find('###')
+            #         if next_section != -1:
+            #             content = content[:next_section].strip()
             
-            # keyword 추출
-            # if 'keyword:' in kr_content:
-            #     keyword_parts = kr_content.split('keyword:')
-            #     keyword = keyword_parts[0].split('keyword:')[1].strip()
-            # elif '### 키워드' in kr_content:
-            #     keyword_parts = kr_content.split('### 키워드')
-            #     keyword = keyword_parts[0].split('### 키워드')[-1].strip()
-
-
-
+            # 번역 결과가 JSON 문자열이므로 파싱
+            article_json = json.loads(kr_content)
+            title = article_json.get('title', '').strip()
+            lead = article_json.get('lead', '').strip()
+            content = article_json.get('content', '').strip()
 
             print("\n=== 파싱 결과 ===")
             print(f"제목: {title}")
-            # print(f"키워드: {keyword}")
             print(f"리드: {lead}")
             print(f"본문: {content[:100]}...")  # 본문은 처음 100자만 출력
 
+        # except Exception as parsing_error:
+        #     print(f"번역 결과 파싱 중 오류 발생: {parsing_error}")
+        #     print(f"원본 번역 결과: {kr_content}")
+        #     return None, None, None
 
-        except Exception as parsing_error:
-            print(f"번역 결과 파싱 중 오류 발생: {parsing_error}")
-            print(f"원본 번역 결과: {kr_content}")
-            
+        # JSON 파싱 오류 처리
+        except Exception as json_error:
+            print(f"번역 결과 JSON 파싱 오류: {json_error}")
+            return None, None, None
+
 
         if not all([title, lead, content]):
             print("경고: 일부 필드가 비어 있습니다.")
             print(f"비어있는 필드: {[field for field, value in {'title': title, 'lead': lead, 'content': content}.items() if not value]}")
+            return None, None, None
 
         return title, lead, content
         
@@ -166,7 +167,7 @@ def translate_and_format(news_content):
             print("https://platform.openai.com/account/usage 에서 현재 사용량을 확인할 수 있습니다.")
         else:
             print(f"번역 중 오류 발생: {e}")
-        return None, None, None, None   
+        return None, None, None
 
 def process_news():
     """뉴스 스크래핑, 번역, 포스팅을 처리하는 메인 함수"""
@@ -186,39 +187,71 @@ def process_news():
         # 각 기사 분리 (구분자로 분리)
         articles = news_content.split("-" * 80)
 
-
-
-        
         for article in articles:
             if not article.strip():
                 continue
                 
             print("\n3. 기사 번역 및 포맷팅 중...")
             title, lead, content = translate_and_format(article)
-            
+
+            # 예외 발생 등으로 하나라도 None이거나 비어있으면 건너뜀
+            if not all([title, lead, content]):
+                print("이 기사는 번역/파싱 오류로 건너뜁니다.")
+                continue
+
             print(f"title: {title}")
             print(f"lead: {lead}")
             print(f"content: {content}")
-            # print(f"keyword: {keyword}")
 
-            
+            print("\n4. WordPress에 포스팅 중...")
+            result = post_to_wordpress(title, content, lead)
+            if result:
+                print(f"포스트 ID: {result['id']}")
+                print(f"포스트 링크: {result['link']}")
+            time.sleep(5)
+    except Exception as e:
+        print(f"처리 중 오류 발생: {e}")
 
+# 테스트용 
+def process_news_test():
+    """뉴스 스크래핑, 번역, 포스팅을 처리하는 메인 함수"""
+    try:
+        # 환경 변수 검증
+        validate_environment()
+        
+        # news.txt 파일 읽기
+        print("\n2. 스크래핑된 뉴스 읽기...")
+        with open('news.txt', 'r', encoding='utf-8') as f:
+            news_content = f.read()
+        
+        # 각 기사 분리 (구분자로 분리)
+        articles = news_content.split("-" * 80)
 
-
-
-            if all([title, lead, content]):
-                print("\n4. WordPress에 포스팅 중...")
-                result = post_to_wordpress(title, content, lead)
+        for article in articles:
+            if not article.strip():
+                continue
                 
-                if result:
-                    print(f"포스트 ID: {result['id']}")
-                    print(f"포스트 링크: {result['link']}")
-                
-                # API 제한을 위한 대기
-                time.sleep(5)
-            
+            print("\n3. 기사 번역 및 포맷팅 중...")
+            title, lead, content = translate_and_format(article)
+
+            # 예외 발생 등으로 하나라도 None이거나 비어있으면 건너뜀
+            if not all([title, lead, content]):
+                print("이 기사는 번역/파싱 오류로 건너뜁니다.")
+                continue
+
+            print(f"title: {title}")
+            print(f"lead: {lead}")
+            print(f"content: {content}")
+
+            print("\n4. WordPress에 포스팅 중...")
+            result = post_to_wordpress(title, content, lead)
+            if result:
+                print(f"포스트 ID: {result['id']}")
+                print(f"포스트 링크: {result['link']}")
+            time.sleep(5)
     except Exception as e:
         print(f"처리 중 오류 발생: {e}")
 
 if __name__ == "__main__":
-    process_news() 
+    # process_news() 
+    process_news_test()

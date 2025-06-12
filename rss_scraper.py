@@ -41,7 +41,8 @@ def get_yesterday_articles(rss_url, source_name):
     articles = []
     
     # 모든 기사 처리
-    for entry in feed.entries:
+    for entry in feed.entries[:3]: # 3개만 테스트
+    # for entry in feed.entries:
         try:
             if 'published_parsed' in entry:
                 pub_date = datetime.fromtimestamp(
