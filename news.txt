@@ -2,7 +2,7 @@
 Here’s what happened in crypto today
 
 ### 링크
-https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss%3F&utm_campaign=rss_partner_inbound
 
 ### 본문
 Today in crypto, the US House Agriculture Committee approved the Digital Asset Market Clarity bill, advancing the legislation further in Congress. The Bank of Japan's June meeting could trigger a Bitcoin rally if it restarts quantitative easing, and US crypto stocks and Bitcoin rose as more companies add BTC to corporate treasuries.
@@ -55,7 +55,7 @@ CoinTelegraph
 ETH price tops $2.8K as options traders open bearish positions: Are bears wrong?
 
 ### 링크
-https://cointelegraph.com/news/eth-price-tops-2-8k-as-options-traders-open-bearish-positions-are-bears-wrong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/eth-price-tops-2-8k-as-options-traders-open-bearish-positions-are-bears-wrong?utm_source=rss_feed&utm_medium=rss%3F&utm_campaign=rss_partner_inbound
 
 ### 본문
 Key takeaways:
@@ -104,7 +104,7 @@ CoinTelegraph
 Ethereum Foundation highlights UX, social layer as security ‘challenges’
 
 ### 링크
-https://cointelegraph.com/news/ethereum-foundation-security-report-ux-social-layer-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/ethereum-foundation-security-report-ux-social-layer-risks?utm_source=rss_feed&utm_medium=rss%3F&utm_campaign=rss_partner_inbound
 
 ### 본문
 The Ethereum Foundation has highlighted six security challenge areas for its ecosystem’s future in a Tuesday report, including issues with user experience and the social layer.
@@ -149,7 +149,7 @@ CoinTelegraph
 Franklin Templeton launches &#039;intraday yield&#039; for tokenized assets on Benji
 
 ### 링크
-https://cointelegraph.com/news/franklin-templeton-launches-intraday-yield-tokenized-assets-benji?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/franklin-templeton-launches-intraday-yield-tokenized-assets-benji?utm_source=rss_feed&utm_medium=rss%3F&utm_campaign=rss_partner_inbound
 
 ### 본문
 Franklin Templeton, an investment management company with $1.53 trillion in assets under management, has debuted a feature that offers investors yield down to the second when holding tokenized assets.
@@ -188,7 +188,7 @@ CoinTelegraph
 Funding from crypto falls short in New Jersey gubernatorial primaries
 
 ### 링크
-https://cointelegraph.com/news/crypto-funding-new-jersey-gubernatorial-primaries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/crypto-funding-new-jersey-gubernatorial-primaries?utm_source=rss_feed&utm_medium=rss%3F&utm_campaign=rss_partner_inbound
 
 ### 본문
 As voters head to the ballot boxes to cast their choices for candidates in the Democratic and Republican primaries in New Jersey’s race for its next governor, funds from crypto traders and interest groups don’t seem to be as much of a factor as they were in the 2024 federal races.
@@ -229,7 +229,7 @@ CoinTelegraph
 House Agriculture Committee advances crypto market structure bill
 
 ### 링크
-https://cointelegraph.com/news/house-committee-crypto-market-structure-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/house-committee-crypto-market-structure-bill?utm_source=rss_feed&utm_medium=rss%3F&utm_campaign=rss_partner_inbound
 
 ### 본문
 Lawmakers on the US House Agriculture Committee voted in favor of the Digital Asset Market Clarity, or CLARITY, Act, advancing the bill further in Congress.
@@ -266,7 +266,7 @@ CoinTelegraph
 Bitcoin’s &#039;fair value&#039; could be as high as $230K — Bitwise analysts
 
 ### 링크
-https://cointelegraph.com/news/bitcoin-fair-value-could-be-as-high-as-230k-bitwise-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/bitcoin-fair-value-could-be-as-high-as-230k-bitwise-analysts?utm_source=rss_feed&utm_medium=rss%3F&utm_campaign=rss_partner_inbound
 
 ### 본문
 Key takeaways:
@@ -321,7 +321,7 @@ CoinTelegraph
 How to use Grok for real-time crypto trading signals
 
 ### 링크
-https://cointelegraph.com/news/how-to-use-grok-for-crypto-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/how-to-use-grok-for-crypto-trading?utm_source=rss_feed&utm_medium=rss%3F&utm_campaign=rss_partner_inbound
 
 ### 본문
 Key takeaways
@@ -524,7 +524,7 @@ CoinTelegraph
 Ethereum network growth, spot ETH ETF inflows and price gains lure new investors
 
 ### 링크
-https://cointelegraph.com/news/ethereum-network-growth-spot-eth-etf-inflows-and-price-gains-lure-new-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/ethereum-network-growth-spot-eth-etf-inflows-and-price-gains-lure-new-investors?utm_source=rss_feed&utm_medium=rss%3F&utm_campaign=rss_partner_inbound
 
 ### 본문
 Key takeaways:
@@ -569,7 +569,7 @@ CoinTelegraph
 Meta’s AI shortfall prompts Zuckerberg’s $15B investment in Scale AI — Report
 
 ### 링크
-https://cointelegraph.com/news/meta-acquires-49-percent-scale-ai-big-tech-ai-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/meta-acquires-49-percent-scale-ai-big-tech-ai-race?utm_source=rss_feed&utm_medium=rss%3F&utm_campaign=rss_partner_inbound
 
 ### 본문
 Meta Platforms is reportedly acquiring a 49% stake in Scale AI, a leading data labeling company that powers many AI applications, as CEO Mark Zuckerberg seeks to strengthen Meta’s position in the competitive artificial intelligence landscape.
@@ -614,7 +614,7 @@ CoinTelegraph
 Investment giant Guggenheim taps Ripple to expand digital debt offering
 
 ### 링크
-https://cointelegraph.com/news/guggenheim-ripple-digital-debt-offering-xrpl?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/guggenheim-ripple-digital-debt-offering-xrpl?utm_source=rss_feed&utm_medium=rss%3F&utm_campaign=rss_partner_inbound
 
 ### 본문
 US investment manager Guggenheim is expanding its digital commercial paper offering through a partnership with Ripple, underscoring the growing convergence between traditional finance and crypto-native enterprises.
@@ -657,7 +657,7 @@ CoinTelegraph
 Bitcoin traders now see $107K retest before new all-time highs
 
 ### 링크
-https://cointelegraph.com/news/bitcoin-traders-see-107k-retest-before-new-all-time-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/bitcoin-traders-see-107k-retest-before-new-all-time-highs?utm_source=rss_feed&utm_medium=rss%3F&utm_campaign=rss_partner_inbound
 
 ### 본문
 Key points:
@@ -720,7 +720,7 @@ CoinTelegraph
 The NFT market is silently becoming infrastructure
 
 ### 링크
-https://cointelegraph.com/news/nft-becoming-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/nft-becoming-infrastructure?utm_source=rss_feed&utm_medium=rss%3F&utm_campaign=rss_partner_inbound
 
 ### 본문
 Opinion by: Charu Sethi, president of Unique Network
@@ -773,7 +773,7 @@ CoinTelegraph
 How hackers use fake X links to steal crypto, and how to spot them
 
 ### 링크
-https://cointelegraph.com/explained/how-hackers-use-fake-x-links-to-steal-crypto-and-how-to-spot-them?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/explained/how-hackers-use-fake-x-links-to-steal-crypto-and-how-to-spot-them?utm_source=rss_feed&utm_medium=rss%3F&utm_campaign=rss_partner_inbound
 
 ### 본문
 How fake X links work
@@ -884,7 +884,7 @@ CoinTelegraph
 1inch promises faster, smarter, cheaper trades with new upgrade
 
 ### 링크
-https://cointelegraph.com/news/1-inch-promises-faster-smarter-cheaper-trades-with-new-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/1-inch-promises-faster-smarter-cheaper-trades-with-new-upgrade?utm_source=rss_feed&utm_medium=rss%3F&utm_campaign=rss_partner_inbound
 
 ### 본문
 Decentralized exchange (DEX) aggregator 1inch has deployed an update for its price route discovery algorithm, claiming up to 6.5% better swap rates.
@@ -927,7 +927,7 @@ CoinTelegraph
 Stablecoins may be safer than bank deposits: Proof of Talk panel
 
 ### 링크
-https://cointelegraph.com/news/stablecoins-may-be-safer-than-bank-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/stablecoins-may-be-safer-than-bank-deposits?utm_source=rss_feed&utm_medium=rss%3F&utm_campaign=rss_partner_inbound
 
 ### 본문
 Stablecoins may be safer than deposits held at commercial banks, according to Diogo Monica, general partner at Haun Ventures.
@@ -976,7 +976,7 @@ CoinTelegraph
 Meta’s Bitcoin rejection means Big Tech is still skeptical
 
 ### 링크
-https://cointelegraph.com/news/meta-bitcoin-big-tech?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/meta-bitcoin-big-tech?utm_source=rss_feed&utm_medium=rss%3F&utm_campaign=rss_partner_inbound
 
 ### 본문
 Strategy became the first publicly traded company to adopt Bitcoin as its primary treasury reserve asset in August 2020, but not many major tech firms have followed since.
@@ -1059,7 +1059,7 @@ CoinTelegraph
 How to report a Bitcoin scam using Chainabuse and Scamwatch
 
 ### 링크
-https://cointelegraph.com/news/how-to-use-chainabuse-and-scamwatch-to-report-a-bitcoin-scammer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/how-to-use-chainabuse-and-scamwatch-to-report-a-bitcoin-scammer?utm_source=rss_feed&utm_medium=rss%3F&utm_campaign=rss_partner_inbound
 
 ### 본문
 Key takeaways
@@ -1174,7 +1174,7 @@ CoinTelegraph
 Trump-backed American Bitcoin accumulates 215 BTC since April launch
 
 ### 링크
-https://cointelegraph.com/news/eric-trumps-american-bitcoin-hits-215-btc-reserve?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/eric-trumps-american-bitcoin-hits-215-btc-reserve?utm_source=rss_feed&utm_medium=rss%3F&utm_campaign=rss_partner_inbound
 
 ### 본문
 American Bitcoin, a Bitcoin mining firm backed by President Donald Trump’s two eldest sons, Eric Trump and Donald Trump Jr., has quietly built up a 215 BTC reserve since its April 1 debut.
@@ -1225,7 +1225,7 @@ CoinTelegraph
 From ownership to opportunity, Web3 is still on a mission to reshape music
 
 ### 링크
-https://cointelegraph.com/news/from-ownership-to-opportunity-web3-is-still-on-a-mission-to-reshape-music?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/from-ownership-to-opportunity-web3-is-still-on-a-mission-to-reshape-music?utm_source=rss_feed&utm_medium=rss%3F&utm_campaign=rss_partner_inbound
 
 ### 본문
 As streaming platforms dominate music distribution, artists have increasingly found themselves sidelined and earning fractions of pennies per play, all while relying on centralized platforms to reach fans.
@@ -1272,7 +1272,7 @@ CoinTelegraph
 Mystery whale opens $300M leveraged Bitcoin bet: James Wynn alt account?
 
 ### 링크
-https://cointelegraph.com/news/whale-300m-bitcoin-james-wynn-alt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/whale-300m-bitcoin-james-wynn-alt?utm_source=rss_feed&utm_medium=rss%3F&utm_campaign=rss_partner_inbound
 
 ### 본문
 A mystery investor has opened a $300 million leveraged Bitcoin position, fueling speculation around their identity.
@@ -1323,7 +1323,7 @@ CoinTelegraph
 Strategy Inc vs. BlackRock: Which is the better Bitcoin proxy stock for your portfolio?
 
 ### 링크
-https://cointelegraph.com/explained/strategy-inc-vs-blackrock-which-is-the-better-bitcoin-proxy-stock-for-your-portfolio?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/explained/strategy-inc-vs-blackrock-which-is-the-better-bitcoin-proxy-stock-for-your-portfolio?utm_source=rss_feed&utm_medium=rss%3F&utm_campaign=rss_partner_inbound
 
 ### 본문
 Bitcoin proxy stocks for investors in 2025: Strategy Inc vs. BlackRock, compared
@@ -1438,7 +1438,7 @@ CoinTelegraph
 Why is Ethereum (ETH) price up today?
 
 ### 링크
-https://cointelegraph.com/news/why-is-ethereum-eth-price-up-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/why-is-ethereum-eth-price-up-today?utm_source=rss_feed&utm_medium=rss%3F&utm_campaign=rss_partner_inbound
 
 ### 본문
 Key points:
@@ -1515,7 +1515,7 @@ CoinTelegraph
 87 deepfake scam rings taken down across Asia in Q1 2025: Report
 
 ### 링크
-https://cointelegraph.com/news/bitget-deepfake-scam-rings-crackdown-asia-q1-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/bitget-deepfake-scam-rings-crackdown-asia-q1-2025?utm_source=rss_feed&utm_medium=rss%3F&utm_campaign=rss_partner_inbound
 
 ### 본문
 The rise of artificial intelligence is fueling a sharp increase in crypto-related fraud, with deepfake technology driving a surge in sophisticated scams, according to a new report.
@@ -1566,7 +1566,7 @@ CoinTelegraph
 ‘Apple should buy Bitcoin,’ Saylor says, as share buyback disappoints
 
 ### 링크
-https://cointelegraph.com/news/apple-buy-bitcoin-stock-buybacks-michael-saylor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/apple-buy-bitcoin-stock-buybacks-michael-saylor?utm_source=rss_feed&utm_medium=rss%3F&utm_campaign=rss_partner_inbound
 
 ### 본문
 Apple, the world’s fourth-largest company by market capitalization, should buy Bitcoin (BTC) to address the poor performance of its stock buyback program, according to Strategy executive chairman, Michael Saylor.
@@ -1617,7 +1617,7 @@ CoinTelegraph
 Bank of Japan pivot to QE may fuel Bitcoin rally — Arthur Hayes
 
 ### 링크
-https://cointelegraph.com/news/boj-june-introduce-qe-next-bitcoin-catalyst-arthur-hayes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/boj-june-introduce-qe-next-bitcoin-catalyst-arthur-hayes?utm_source=rss_feed&utm_medium=rss%3F&utm_campaign=rss_partner_inbound
 
 ### 본문
 The Bank of Japan’s (BOJ) upcoming monetary policy meeting in June may provide the next significant catalyst for global risk assets like stocks and cryptocurrencies.
@@ -1659,134 +1659,6 @@ CoinTelegraph
 --------------------------------------------------------------------------------
 
 ### 제목
-Why is the crypto market up today?
-
-### 링크
-https://cointelegraph.com/news/why-is-the-crypto-market-up-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-
-### 본문
-Key points:
-
-The crypto market is up 3.9% on June 10, with its capitalization rising to $3.41 trillion.
-
-Continued capital inflow into crypto investment products is boosting investor confidence.
-
-The TOTAL chart validates a bull flag pattern targeting $4.36 trillion.
-
-The cryptocurrency market is up today, with the total market capitalization rising by approximately 3.9% in the last 24 hours to reach $3.41 trillion on June 10.
-
-The total 24-hour trading volume across all crypto assets has also increased by 40% to $131.3 billion, suggesting increasing buyer interest in crypto assets.
-
-Let’s look at the factors driving crypto prices up today.
-
-Continued demand for crypto investment funds
-
-The ongoing crypto market recovery aligns with continued capital inflows into crypto investment products.
-
-Digital asset investment products see inflows for the seventh week in a row, with deposits totaling $224 million during the week ending June 6, as per CoinShares report. This brings the last seven weeks of inflow to $11 billion, indicating institutional investors’ increasing exposure to digital assets.
-
-Ether (ETH) led with $296.4 million in inflows, marking its 7th week of inflows totaling $1.5 billion.
-
-CoinShares head of research James Butterfill attributed this to reducing macroeconomic uncertainties as investors await clarity from the US Federal Reserve.
-
-Butterfill said:
-
-“There has been a noticeable deceleration amid uncertainty over monetary policy, with investors adopting a wait-and-see stance ahead of further signals from the US Federal Reserve on inflation.”
-
-In the meantime, SoSoValue reported positive inflows into US-based spot ETFs, with approximately $788.9 million flowing into spot Ethereum ETFs between May 22 and June 9.
-
-Approximately $386.2 million flowed into spot Bitcoin ETFs on June 10.
-
-The long-term trend for crypto investment products suggests a consistent demand, which positively impacts crypto prices.
-
-Massive short liquidations fuel price surge
-
-Another driver of today’s rally is a wave of short liquidations that have triggered a significant short squeeze.
-
-Related: Bitcoin, US crypto stocks rise as more firms plan BTC buys
-
-In the past 24 hours, over $451 million in crypto positions have been liquidated across the crypto market, with approximately $391 million representing short position liquidations.
-
-Short Bitcoin (BTC) leveraged positions totaling $195.8 million have also been liquidated on the day.
-
-The largest single liquidation occurred on HTX, where an ETH/USDT position worth $4.06 million was liquidated.
-
-The magnitude of this liquidation mirrors the May 21 and May 23 liquidation events, where more than $451 million in short-leveraged positions were liquidated, accompanying a 7% increase ($230 billion) in the total crypto market capitalization over the same period.
-
-The short squeeze has played a crucial role in amplifying the current rally, particularly for Bitcoin, which has led the market with its charge toward $110,000.
-
-Total market cap validates bull flag
-
-TOTAL, or the combined market capitalization of all cryptocurrencies, confirmed a bull flag pattern on June 8, when it breached the upper boundary of the flag on the daily chart at $3.25 trillion.
-
-TOTAL is currently testing the resistance level at the $3.5 trillion psychological level, as shown in the chart below.
-
-A high volume move above this level could accelerate the current bullish momentum toward the technical target of the prevailing chart pattern at $4.36 trillion, a 30% gain from the current level.
-
-The relative strength index (RSI) is at 59 and has risen from 44 over the last five days, indicating increasing bullish momentum.
-
-In addition, the appearance of a “golden cross,” when the 50-day simple moving average (SMA) crossed above the 200-day SMA on June 6, signals a sustained upward trend in the crypto market.
-
-This article does not contain investment advice or recommendations. Every investment and trading move involves risk, and readers should conduct their own research when making a decision.
-
-### 발행일
-2025-06-10T09:54:51+00:00
-
-### 출처
-CoinTelegraph
-
---------------------------------------------------------------------------------
-
-### 제목
-Trump’s CFTC pick calls blockchain a society-shaping technology
-
-### 링크
-https://cointelegraph.com/news/trump-cftc-pick-quintenz-blockchain-impact-society?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-
-### 본문
-Brian Quintenz, US President Donald Trump’s nominee to chair the Commodity Futures Trading Commission (CFTC), has said that blockchain is a foundational technology poised to transform much more than just finance.
-
-In prepared remarks ahead of his Senate confirmation hearing shared with Cointelegraph, Quintenz pointed out the long-term impact of blockchain and cryptocurrencies. “I view blockchain as a horizontal technology that has the potential to touch every aspect of society,” he said.
-
-Quintenz, who most recently served as the global head of policy at a16z Crypto (Andreessen Horowitz’s digital asset arm), also mentioned the importance of a comprehensive regulatory framework for crypto markets.
-
-He said his global experience engaging with regulators and government officials has given him a clear view of what has and hasn’t worked in crafting crypto regulatory frameworks, insights he plans to bring to US policymaking.
-
-“As Congress considers new spot market regulatory authority over the crypto asset markets, I am fully prepared to provide the benefit of this experience to the members of this committee and to Congress as a whole,” he stated.
-
-Related: US regulator moves to drop appeal against Kalshi
-
-Quintenz pledges to keep bad actors out
-
-Quintenz didn’t mince words on the dangers of weak oversight. He warned that allowing bad actors and fraudsters to operate unchecked would erode the United States’ leadership in blockchain innovation.
-
-He also emphasized the need for a comprehensive regulatory framework that clearly defines token classifications and assigns oversight responsibilities for crypto trading markets, arguing that such clarity is essential to protect users and foster continued innovation.
-
-Beyond crypto, Quintenz pledged to maintain the CFTC’s role as a global leader in market innovation and oversight. He pointed to his prior service as a CFTC Commissioner, where he was confirmed unanimously in 2017, and reiterated his commitment to risk-based regulation, domestic and international harmonization, and robust customer protection.
-
-He reaffirmed his support for the CFTC’s statutory mandate to promote responsible innovation. “The CEA’s principles-based approach to regulation and self-certification framework has created a marketplace that continues to thrive with integrity,” he noted.
-
-Related: CFTC exodus: Fourth commissioner to depart 'later this year'
-
-CFTC faces leadership void
-
-Quintenz’s Senate hearing comes as lawmakers push to give the CFTC more power over crypto through the Clarity Act, which would create a “digital commodity” category and give the agency broad powers to regulate crypto.
-
-However, concerns are growing over whether the agency has the leadership capacity to meet that challenge, as one commissioner seat remains unfilled and several others prepare to exit.
-
-Last week, two of the remaining four CFTC commissioners, Republican Summer Mersinger and Democrat Christy Goldsmith Romero, departed the commission. The remaining Republican Commissioner, Caroline Pham, has also stated that she will leave if and when Quintenz is sworn in.
-
-Magazine: AI is good for employment says PWC — Ignore the AI doomers: AI Eye
-
-### 발행일
-2025-06-10T09:00:00+00:00
-
-### 출처
-CoinTelegraph
-
---------------------------------------------------------------------------------
-
-### 제목
 Trump's CFTC Pick Says U.S. Can Boost Crypto Innovation and Shield Consumers
 
 ### 링크
@@ -1809,7 +1681,7 @@ Some of the Democratic senators noted the Trump administration has been systemat
 
 "The president is the head of the executive, and the president will make his own decisions. Quintenz said. He later added, "I don't tell the president what to do."
 
-He granted that the agency may need more funding if it's assigned the monumental new task as the regulator of digital commodities spot markets, which would include transactions of bitcoin BTC$109,573.10. Quintenz said that new staff would be made more efficient by "a technology-first approach" that makes the employees more efficient.
+He granted that the agency may need more funding if it's assigned the monumental new task as the regulator of digital commodities spot markets, which would include transactions of bitcoin BTC$109,626.49. Quintenz said that new staff would be made more efficient by "a technology-first approach" that makes the employees more efficient.
 
 Quintenz also fielded a number of questions on the prediction markets, another area he's had direct experience with as a board member of Kalshi, which fought a legal battle with the CFTC over the regulation of event contracts. He defended such event contracts as an appropriate "hedging tool."
 
@@ -1842,9 +1714,9 @@ Positioning across crypto markets doesn't suggest a top, but neither does it see
 
 Bitcoin recaptured the $110,000 level for the second consecutive day, perhaps dragged higher by even larger gains among altcoins.
 
-Up 0.9% more than 1% in the last 24 hours, bitcoin was trading just above $110,000 shortly after the close of U.S. stock markets Tuesday. The CoinDesk 20 — an index of the top 20 cryptocurrencies by market capitalization, excluding stablecoins, exchange coins and memecoins — has risen 3.3% in the same period of time, mostly thanks to ether ETH$2,781.93, solana SOL$164.52, chainlink LINK$15.18 all gaining 5%-7%.
+Up 0.9% more than 1% in the last 24 hours, bitcoin was trading just above $110,000 shortly after the close of U.S. stock markets Tuesday. The CoinDesk 20 — an index of the top 20 cryptocurrencies by market capitalization, excluding stablecoins, exchange coins and memecoins — has risen 3.3% in the same period of time, mostly thanks to ether ETH$2,792.71, solana SOL$166.59, chainlink LINK$15.30 all gaining 5%-7%.
 
-The standout performances, however, were put on by uniswap UNI$8.32 and aave AAVE$306.46, which soared a whooping 24% and 13%, respectively. The move was prompted by optimistic comments on the topic of DeFi by Securities and Exchange Commission (SEC) Chair Paul Atkins on Monday.
+The standout performances, however, were put on by uniswap UNI$8.28 and aave AAVE$308.70, which soared a whooping 24% and 13%, respectively. The move was prompted by optimistic comments on the topic of DeFi by Securities and Exchange Commission (SEC) Chair Paul Atkins on Monday.
 
 Things have remained relatively calm on the equities front, with most crypto stocks flat on the day. A notable exception is Semler Scientific (SMLR), a firm that aims to follow Strategy’s (MSTR) playbook and vacuum up as much bitcoin as possible. Shares fell another 10% today, with the stock now trading for less than the value of the bitcoin on its balance sheet.
 
@@ -1928,13 +1800,13 @@ https://www.coindesk.com/markets/2025/06/10/solanas-sol-jumps-5-on-report-of-spo
 ### 본문
 The SEC asked prospective ETF issuers to amend key paperwork, Blockworks reported.
 
-Solana SOL$164.52 surged 5% in after U.S. hours on Tuesday on a Blockworks report saying that U.S. regulators are moving forward in the regulatory process necessary to make spot SOL exchange-traded funds (ETF) reality.
+Solana SOL$167.04 surged 5% in after U.S. hours on Tuesday on a Blockworks report saying that U.S. regulators are moving forward in the regulatory process necessary to make spot SOL exchange-traded funds (ETF) reality.
 
 The U.S. Securities and Exchange Commission reportedly asked prospective issuers to amend their S-1 filings in the next week, according to the story, and will comment on the paperwork in the next 30 days after submission.
 
 SOL jumped above $164 in the minutes following the report, up nearly 5% over the past 24 hours.
 
-After the debut of bitcoin BTC$109,573.10 and ether ETH$2,781.93 spot ETFs in the U.S. last year, asset managers are racing to get regulatory approval to launch similar vehicles for smaller cryptocurrencies, offering traditional investors easier access to invest in digital assets. Several asset managers have filed applications with the SEC to launch funds holding SOL, including Fidelity, Grayscale, Franklin Templeton and VanEck.
+After the debut of bitcoin BTC$109,626.49 and ether ETH$2,794.04 spot ETFs in the U.S. last year, asset managers are racing to get regulatory approval to launch similar vehicles for smaller cryptocurrencies, offering traditional investors easier access to invest in digital assets. Several asset managers have filed applications with the SEC to launch funds holding SOL, including Fidelity, Grayscale, Franklin Templeton and VanEck.
 
 CoinDesk reached out to prospective issuers for confirmation but had not yet heard back at time of publication.
 
@@ -1961,7 +1833,7 @@ https://www.coindesk.com/markets/2025/06/10/ether-roars-past-usd2-700-popular-tr
 ### 본문
 A 6.54% rally lifted ether above $2,700 on heavy volume as traders and executives forecast further upside toward $4,000.
 
-Ether (ETH) ETH$2,781.93 began the 24-hour session around $2,576 in early Asian trading, briefly dipped to $2,562 on light volume, then saw buying interest surge around 21:00 UTC on June 9 as turnover topped 436,000 coins, according to CoinDesk Research's technical analysis model.
+Ether (ETH) ETH$2,794.04 began the 24-hour session around $2,576 in early Asian trading, briefly dipped to $2,562 on light volume, then saw buying interest surge around 21:00 UTC on June 9 as turnover topped 436,000 coins, according to CoinDesk Research's technical analysis model.
 
 A second wave of demand just before 11:00 UTC on June 10 drove ether through the $2,700 barrier to a 24-hour high of $2,783; by press time it was trading at $2,744.87, up 6.54 percent on 560,900 coins (US$1.51 billion) moved.
 
@@ -1985,9 +1857,9 @@ All content produced by CoinDesk Analytics is undergoes human editing by CoinDes
 
 CoinDesk Analytics operates under CoinDesk's AI content guidelines, which prioritize accuracy, transparency, and editorial oversight. Learn more about CoinDesk's approach to AI-generated content in our AI policy.
 
-About
+Про нас
 
-Contact
+Контакти
 
 ### 발행일
 2025-06-10T19:14:59+00:00
@@ -2006,7 +1878,7 @@ https://www.coindesk.com/markets/2025/06/10/cathie-woods-ark-invest-bitcoin-gain
 ### 본문
 Bitcoin's current rally doesn’t yet reflect speculative excess, the asset manager said in a new report.
 
-Bitcoin’s BTC$109,573.10 rise to new all-time highs is happening on a backdrop of deep economic strain, according to a new report from Cathie Wood-led ARK Invest.
+Bitcoin’s BTC$109,626.49 rise to new all-time highs is happening on a backdrop of deep economic strain, according to a new report from Cathie Wood-led ARK Invest.
 
 Bitcoin's 11.1% climb in May, outpaced gold and broke through key resistance levels, said ARK. Gains also coincided with clear signs of stress in the housing and auto sectors, traditionally seen as pillars of U.S. consumer strength.
 
@@ -2104,7 +1976,7 @@ https://www.coindesk.com/markets/2025/06/11/negative-rates-are-back-in-switzerla
 ### 본문
 The divergence in bond yields likely represents the perceived effects of Trump's trade war and could bode well for bitcoin.
 
-As President Donald Trump's trade war threatens to upend the global economy, an interesting divergence has emerged that could potentially grease the bitcoin BTC$109,573.10 bull run.
+As President Donald Trump's trade war threatens to upend the global economy, an interesting divergence has emerged that could potentially grease the bitcoin BTC$109,626.49 bull run.
 
 The divergence in consideration is the elevated yields on U.S. Treasury notes that threaten to compound the fiscal issues, and the renewed negative flip in yields on Swiss government bonds.
 
@@ -2180,7 +2052,7 @@ https://www.coindesk.com/markets/2025/06/10/ether-more-favored-by-traders-as-vol
 ### 본문
 ETH call options are trading at a higher premium on Deribit, making it more favorable to traders.
 
-Ethereum's ether ETH$2,781.93 token, which has been in the shadows of bitcoin BTC$109,573.10 for a long time, is now becoming the new favorite.
+Ethereum's ether ETH$2,794.04 token, which has been in the shadows of bitcoin BTC$109,626.49 for a long time, is now becoming the new favorite.
 
 Data from TradingView shows that the spread between Volmex's annualized 30-day ether implied volatility index (EVIV) and bitcoin's 30-day index (BVIV) has jumped to 34%, the highest since November 2022. Back then, the FTX exchange went bust, destroying billions in investor wealth.
 
@@ -2317,7 +2189,7 @@ https://www.coindesk.com/markets/2025/06/10/cardano-s-ada-gains-3-buoyed-by-incl
 ### 본문
 The $0.70 level is a key psychological support zone for ADA's price stability, CoinDesk Research's technical analysis shows.
 
-Cardano's native token ADA ADA$0.71252 added 3% in the past 24 hours after Nasdaq said it  expanded its crypto benchmark index from five to nine assets, adding ADA alongside XRP XRP$2.29, Solana SOL$164.52 and Stellar XLM$0.27913.
+Cardano's native token ADA ADA$0.71710 added 3% in the past 24 hours after Nasdaq said it  expanded its crypto benchmark index from five to nine assets, adding ADA alongside XRP XRP$2.30, Solana SOL$167.04 and Stellar XLM$0.28092.
 
 ADA experienced significant price volatility overnight, establishing a 8.8% trading range between $0.66 and $0.72, according to CoinDesk Research's technical analysis. It was recently trading at $0.6951.
 
@@ -2421,7 +2293,7 @@ https://www.coindesk.com/markets/2025/06/10/avax-up-42-as-it-establishes-uptrend
 ### 본문
 Avalanche’s token shows remarkable strength amid market volatility, with a strong volume-backed breakout.
 
-Avalanche’s token AVAX$22.12 is demonstrating short-term strength, climbing from $20.91 to a peak of $22.47, which represents a 7.4% range, according to CoinDesk Research's technical analysis model. The token then experienced a 1.65% correction. AVAX is up 4.2% in the last 24 hours.
+Avalanche’s token AVAX$22.15 is demonstrating short-term strength, climbing from $20.91 to a peak of $22.47, which represents a 7.4% range, according to CoinDesk Research's technical analysis model. The token then experienced a 1.65% correction. AVAX is up 4.2% in the last 24 hours.
 
 The CoinDesk 20 — an index of the top 20 cryptocurrencies by market capitalization, excluding exchange coins, memecoins and stablecoins — is up 3.7% in the same period of time.
 
@@ -2486,7 +2358,7 @@ June 9th "will be remembered as DeFi day," Changpeng "CZ" Zhao, founder of Binan
 
 "The DeFi Renaissance continues," said Arthur Cheong, founder and CEO of crypto investment firm DeFiance Capital.
 
-DeFi-related tokens well outperformed an already upbeat crypto market with bitcoin BTC$109,573.10 bouncing to near record prices. Ethereum's ether ETH$2,781.93, a key hub for DeFi applications, also jumped over 8%.
+DeFi-related tokens well outperformed an already upbeat crypto market with bitcoin BTC$109,626.49 bouncing to near record prices. Ethereum's ether ETH$2,794.04, a key hub for DeFi applications, also jumped over 8%.
 
 The broad-market crypto benchmark CoinDesk 20 Index was 4.7% up over the past 24 hours, while BTC gained 1.5% in the same period.
 
@@ -2594,7 +2466,7 @@ The Digital Asset Basic Act is aimed at improving transparency and encouraging c
 
 Lee, voted in as president last week, made a number of promises to South Korea's crypto industry during his election campaign, appealing to the nation's 15 million crypto investors. Among them, he said the country should support a won-based stablecoin market "to prevent national wealth from leaking overseas," the Korea Herald reported.
 
-Stablecoins are tokens pegged to the value of a traditional financial asset, such as a fiat currency, with the U.S. dollar being comfortably the most prevalent. Their stability provides a counterweight to the volatility of cryptocurrencies like bitcoin BTC$109,560.77 and ether ETH$2,782.60, allowing users to hold capital in digital assets without having to worry about wild swings in price.
+Stablecoins are tokens pegged to the value of a traditional financial asset, such as a fiat currency, with the U.S. dollar being comfortably the most prevalent. Their stability provides a counterweight to the volatility of cryptocurrencies like bitcoin BTC$109,626.49 and ether ETH$2,794.04, allowing users to hold capital in digital assets without having to worry about wild swings in price.
 
 The sector, which is dominated by Tether's USDT, has experienced a surge in interest this year thanks to, among other factors, progress toward regulation of the sector in the U.S.
 
@@ -2625,7 +2497,7 @@ As the bitcoin counts of long-term holders has increased, that of short-term hol
 
 Long-term holder (LTH) bitcoin supply, as tracked by Glassnode, has surged to a record 14.46 million BTC, signaling confidence that price gains are in store.
 
-LTHs, defined as investors holding bitcoin BTC$109,560.77 for at least 155 days, are often seen as "smart money," strategically buying during price dips and selling during bull market peaks. This all-time high in LTH supply suggests that seasoned investors anticipate higher prices, a pattern historically associated with significant price rallies.
+LTHs, defined as investors holding bitcoin BTC$109,626.49 for at least 155 days, are often seen as "smart money," strategically buying during price dips and selling during bull market peaks. This all-time high in LTH supply suggests that seasoned investors anticipate higher prices, a pattern historically associated with significant price rallies.
 
 From March to June, LTH supply increased by approximately 500,000 BTC, while short-term holders (STHs) sold around 350,000 BTC
 
@@ -2750,47 +2622,6 @@ Contact
 
 ### 발행일
 2025-06-10T13:00:00+00:00
-
-### 출처
-CoinDesk
-
---------------------------------------------------------------------------------
-
-### 제목
-Ethereum Advocate William Mougayar to Lead Ecosystem's New Profile-Raising Initiative
-
-### 링크
-https://www.coindesk.com/business/2025/06/10/ethereum-market-research-centre-introduced-by-eth-o-g-william-mougayar
-
-### 본문
-The Ethereum Market Research Centre (EMRC) is a community-led initiative aimed at bridging the education gap for institutional and professional audiences.
-
-Long-time Ethereum advocate William Mougayar is to be the curator and editor of the Ethereum Market Research Center (EMRC), a community-led initiative aimed at raising the profile of the blockchain's ecosystem among institutional and professional audiences.
-
-EMRC will feature contributions from prominent builders, researchers and analysts across the Ethereum landscape. It will include original research authored by EMRC contributors, curated material by external sources, thought-leadership pieces and a real-time news feed.
-
-Ethereum comprises a large and innovative ecosystem that plays host to the major stablecoin market share, the proliferation of real-world assets (RWAs) and most of the total value locked in decentralized finance (DeFi). But many argue this has not been reflected in the price of the ether ETH$2,782.60 token. That's partly because rival blockchains have been more organized and systematic about getting their message across, Mougayar said.
-
-“Ethereum is No. 1 when it comes to market share, but we realize it has not been communicating its messages as well as it should,” Mougayar said in an interview. “Meanwhile, Solana has been very aggressive from a marketing perspective.”
-
-The new research hub aims to take on some of the educational burden not suited to the developer-focused Ethereum Foundation, and simply to “re-energize the Ethereum message,” Mougayar said. The move is part of a wider drive to push Ethereum into its next institutional phase, while will involve multiple firms and individual leaders, he added.
-
-The idea that many competing layer-2 blockchains running on top of Ethereum and offering cheaper and faster transactions has somehow cannibalized the mother chain is more of a misplaced perception than an actual issue, Mougayar said.
-
-“Ethereum is really the L2s and the L1 working together,” Mougayar said. “By the end of the year, there will probably be 200 L2s. So it’s about a whole ecosystem and not about a contest of features. Ethereum is very decentralized and it’s going to continue to grow laterally, just like the internet.”
-
-Wholehearted decentralization, something lacking in other blockchain ecosystems, Mougayar points out, does make things like messaging tricky for Ethereum.
-
-“The problem with a decentralized system is that everything is all over the place and in some ways that can be a weakness,” Mougayar said. “So the way to remedy this weakness is to recentralize some of this. So at some point in time, you have to recentralize the decentralized mass so you can see it, so it can be easier for people to see it all in one place.”
-
-Ian Allison is a senior reporter at CoinDesk, focused on institutional and enterprise adoption of cryptocurrency and blockchain technology. Prior to that, he covered fintech for the International Business Times in London and Newsweek online. He won the State Street Data and Innovation journalist of the year award in 2017, and was runner up the following year. He also earned CoinDesk an honourable mention in the 2020 SABEW Best in Business awards. His November 2022 FTX scoop, which brought down the exchange and its boss Sam Bankman-Fried, won a Polk award, Loeb award and New York Press Club award. Ian graduated from the University of Edinburgh. He holds ETH.
-
-About
-
-Contact
-
-### 발행일
-2025-06-10T12:04:03+00:00
 
 ### 출처
 CoinDesk
