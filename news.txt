@@ -1,50 +1,40 @@
 ### 제목
-Here’s what happened in crypto today
+Tencent explores purchase of Nexon gaming company
 
 ### 링크
-https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss%3F&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/tencent-purchase-nexon-gaming-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 
 ### 본문
-Today in crypto, the US House Agriculture Committee approved the Digital Asset Market Clarity bill, advancing the legislation further in Congress. The Bank of Japan's June meeting could trigger a Bitcoin rally if it restarts quantitative easing, and US crypto stocks and Bitcoin rose as more companies add BTC to corporate treasuries.
+Tencent, a Chinese technology and holding company with a global footprint, is reportedly exploring the possibility of acquiring game developer and publisher Nexon.
 
-House Agriculture Committee advances crypto market structure bill
+Representatives from the tech company contacted the family of Nexon founder Kim Jung-ju to explore a potential deal, but no concrete terms have been reached and a deal is not guaranteed, according to Bloomberg.
 
-Lawmakers on the US House Agriculture Committee voted in favor of the Digital Asset Market Clarity, or CLARITY, Act, advancing the bill further in Congress.
+Nexon is the South Korean video game developer behind the MapleStory series, a massively multiplayer online role-playing game (MMORPG) that first gained popularity in the early 2000s as a traditional PC game.
 
-In a 47-6 vote on Tuesday, an overwhelming majority of lawmakers on the committee approved the CLARITY Act to establish a regulatory framework for digital assets. Committee Chair GT Thompson said the bill would be sent to the House for consideration, adding that any members offering opposing views would have the opportunity to submit them by Friday.
+Web3 gaming continues to be a closely watched use case for blockchain technology as the ability to give players ownership over in-game assets could create an entirely new asset class and create tens of billions of dollars in capital.
 
-The vote came alongside debate on the House Financial Services Committee discussing an amendment that could add protections for blockchain developers to the CLARITY Act. At the time of publication, the committee had not voted on the bill.
+The company integrated blockchain technology in two different installments of the series, MapleStory N and MapleStory Universe, in May 2025, allowing users to collect in-game items and rewards in the form of non-fungible tokens (NFTS).
 
-According to its sponsors and co-sponsors, the CLARITY Act is intended to establish clear rules under which digital asset companies can operate in the United States, by also clarifying whether certain investment vehicles fall under the purview of the Securities and Exchange Commission (SEC) or the Commodity Futures Trading Commission (CFTC). Consideration of the bill, first introduced in May, comes as the Senate is expected to vote on the GENIUS Act — legislation to regulate payment stablecoins.
+Related: MapleStory revives Avalanche, tops 1M daily transactions twice in a week
 
-Bank of Japan pivot to QE may fuel Bitcoin rally — Arthur Hayes
+Interest in Web3 gaming surges, but still far from mainstream
 
-The Bank of Japan’s (BOJ) upcoming monetary policy meeting in June may provide the next significant catalyst for global risk assets like stocks and cryptocurrencies.
+According to a February 2025 report from DappRadar, blockchain gaming activity surged by roughly 368% year-over-year in January 2025, driven by games like Off The Grid and the then-upcoming MapleStory N.
 
-The BoJ is set to take its next interest rate decision at its upcoming monetary policy meeting on June 16–17.
+Off The Grid is a AAA shooter, published by Gunzilla Games, that features console-level graphics and gameplay similar to that of traditional video game blockbusters produced by major game studios.
 
-The central bank may provide the next significant catalyst for Bitcoin (BTC) and other risk assets if it pivots to quantitative easing (QE), according to Arthur Hayes, co-founder of BitMEX and chief investment officer of Maelstrom.
+This represented a significant departure from traditional Web3 games that typically feature simple gameplay mechanics, cartoonish graphics, and a focus on player rewards rather than robust gameplay.
 
-“If the BOJ delays QT, and restarts selected QE at its June meeting risk assets are going to fly,” Hayes wrote in a June 10 X post.
+Despite the initial spike in player interest that started in late 2024, Web3 gaming activity declined by 10%, reflected by a drop in daily unique active wallets, according to DappRadar.
 
-QE refers to central banks buying bonds and pumping money into the economy to lower interest rates and encourage spending during difficult financial conditions.
+While the crypto gaming sector remains healthy and titles such as MapleStory and Off The Grid reflect a shift to higher quality games focused on player experience, Web3 gaming still faces several headwinds.
 
-On July 31, 2024, the Bank of Japan introduced a plan to cut government bond purchases by 400 billion yen per quarter, starting in August 2024. The quantitative tightening plan is set for an interim assessment period at the upcoming meeting on June 16, signaling a potential opportunity to pivot.
+Chief among these impediments to widespread Web3 gaming adoption are the technical barrier to entry of setting up a blockchain wallet and the traditional gaming community's aversion to play-to-earn games and other tactics designed to fuse gaming and money.
 
-Bitcoin, US crypto stocks rise as more firms plan BTC buys
-
-US crypto-linked stocks rose alongside Bitcoin to close the Monday trading day at a gain as more publicly traded firms added the asset to their treasuries.
-
-The country’s four biggest crypto miners and some major crypto firms closed at slight gains on June 10, extending gains after-hours.
-
-It comes as Bitcoin (BTC) climbed 4% over the last day to $110,150, heading back toward its May 22 peak of $112,000 as market jitters mostly subsided amid the US and China holding trade talks in the UK.
-
-Crypto and stock trading platform Robinhood Markets Inc. (HOOD) was the rare exception to the broad uptrend, sinking by nearly 2% to $73.40 after S&P Dow Jones Indices didn’t change the S&P 500’s membership on Friday.
-
-Meanwhile, Bitcoin mining equipment rental firm BitMine Immersion Technologies, Inc. (BMNR),  said on Monday that it bought 100 BTC for the first time to hold in reserve and energy-management firm KULR Technology Group, Inc. (KULR) said on Monday that it bought another $13 million worth of Bitcoin, bringing its total holdings to 920 Bitcoin.
+Magazine: Can Off the Grid survive Steam’s crypto ban? Rage over Maplestory cheaters: Web3 Gamer
 
 ### 발행일
-2025-06-10T22:37:45+00:00
+2025-06-12T22:30:46+00:00
 
 ### 출처
 CoinTelegraph
@@ -52,53 +42,434 @@ CoinTelegraph
 --------------------------------------------------------------------------------
 
 ### 제목
-ETH price tops $2.8K as options traders open bearish positions: Are bears wrong?
+Solana futures open interest hits $7.4B amid ETF speculation: Is $200 SOL next?
 
 ### 링크
-https://cointelegraph.com/news/eth-price-tops-2-8k-as-options-traders-open-bearish-positions-are-bears-wrong?utm_source=rss_feed&utm_medium=rss%3F&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/solana-futures-open-interest-2-year-high-etf-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 
 ### 본문
 Key takeaways:
 
-Traders are using bearish ETH options to hedge after Ether’s 49% rally in May.
+SOL’s futures open interest surged to a 2-year high, reflecting growing institutional interest.
 
-An altcoin ETF listing season could negatively impact ETH’s market dominance and price action.
+Rising competition from other blockchains and neutral funding rates continue to dampen SOL’s bullish momentum.
 
-Ether (ETH) price surged 10% between Monday and Tuesday, reaching its highest level in over 15 weeks. Despite this rally, ETH has consistently struggled to break above the $2,800 mark over the past month. This resistance level has coincided with a growing use of downside protection strategies in ETH derivatives markets.
+Solana’s SOL (SOL) failed to hold its bullish momentum after gaining 10% between Monday and Thursday. The cryptocurrency has shown weakness after testing the $180 level several times in May, but traders’ growing interest in leveraged positions could open the path to $200 and beyond.
 
-In addition to standard call (buy) and put (sell) options, traders often use combinations of instruments to design strategies aimed at either maximizing gains above certain levels or reducing exposure to losses. As a result, tracking demand for these options offers insights into how professional traders are positioning themselves.
+On Wednesday, total open interest on SOL futures reached 46.2 million SOL, the highest in over two years and up 22% from the previous month. Demand from buyers is always matched by sellers, but the rise in activity signals increased participation from institutional investors.
 
-Traders buy ETH downside risk protection
+With $7.4 billion in open futures positions, SOL is drawing more attention from savvy market participants. This creates more opportunities for arbitrage strategies like the “carry trade,” where investors buy SOL on the spot market and sell the futures contract. A liquid and active derivatives market supports these trades.
 
-Open interest in ETH options increased to $8.3 billion from $6.3 billion between early April and Monday, signaling stronger institutional involvement. Deribit remains the dominant exchange, holding a 72% market share. Therefore, it is essential to analyze the flow imbalance between bearish and neutral-to-bullish trades.
+Even with these developments, many SOL investors are likely disappointed. The current $155 level remains well below the $294 all-time high. Meanwhile, the total crypto market cap is just 12% below its record. The sharp drop in Solana network activity has led investors to lower expectations for future SOL gains, making a return to $200 less likely.
 
-One of the most notable strategies traded on Deribit in the past two weeks has been the “short risk reversal.” This setup profits from bearish price moves while collecting a net premium upfront. It involves buying a put and selling a call, hedging against losses below the put strike.
+Decentralized exchange (DEX) activity on Solana dropped to $10.5 billion per week, down from $29.2 billion just 30 days earlier. More notably, the 50% DEX market share peak in early January proved unsustainable, especially as trading volumes rose on BNB Chain and Hyperliquid became the clear leader in perpetual futures.
 
-Another popular strategy is the bear diagonal spread, which expresses short-term bearish sentiment in a cost-efficient way. This involves selling a near-term call option and buying a longer-dated call at a higher strike, aiming to benefit from time decay and rising implied volatility.
+Unlike the Ethereum ecosystem, which involves more friction due to its reliance on layer-2 scaling solutions, BNB Chain competes directly with Solana by offering low fees and integrated tools for token launches. Its seamless connection with the Binance exchange also gives BNB Chain a clear edge in user experience.
 
-Ether bulls are optimistic about the June 27 monthly options expiry, especially since call (buy) options account for 63% of total open interest. Currently, 92% of Ether put (sell) options are set at $2,700 or lower, levels that would expire worthless if ETH trades above that mark at expiry.
+SOL funding neutral as competition weakens investor confidence
 
-Some of the market’s caution can be attributed to Ether’s 49% price increase since May, while competitors like Solana (SOL) and XRP gained 8% and 2%, respectively. Traders worry that ETH’s competitive edge could erode if the US Securities and Exchange Commission approves exchange-traded funds (ETFs) for rival altcoins.
+To assess whether traders are turning bearish on SOL due to its recent underperformance and rising competition, it’s useful to examine perpetual futures funding rates. In a neutral market, funding should range between 5% and 15% annually, signaling that buyers (longs) are paying a premium to hold their positions.
 
-Bitcoin continues to drink altcoin’s milkshake
+The funding rate for SOL has fluctuated between neutral and slightly bearish levels, clearly moving away from the negative 7% seen on Saturday. More importantly, SOL futures have failed to hold above the 15% annualized funding threshold over the past 30 days, indicating a lack of strong bullish sentiment.
 
-Concerns about Ether’s institutional appeal also emerged after Trump Media and Technology Group, the majority-owned firm of US President Donald Trump, announced a $2.5 billion debt and equity issuance to build a Bitcoin treasury.
+Related: DeFi Development to refile $1B Solana plan after SEC filing snag
 
-Related: Ethereum network growth, spot ETH ETF inflows and price gains lure new investors
+Speculation around a potential spot exchange-traded fund (ETF) for SOL in the United States remains the most significant short-term price catalyst. Bloomberg analysts are confident that the US Securities and Exchange Commission will approve ETFs for Litecoin (LTC), SOL, and XRP by the end of the year.
 
-Adding to the shift in narrative, Bo Hines, executive director of the White House President’s Council of Advisers on Digital Assets, said on Monday that details about the US Strategic Bitcoin Reserve would be shared “in short order,” emphasizing that the “community will be extremely pleased.”
-
-Despite the increased demand for downside protection in ETH options, this doesn’t necessarily imply traders are betting on a price drop. With most June 27 put options targeting levels below $2,700, neutral-to-bullish strategies appear to have the upper hand, offering a supportive backdrop for ETH’s price.
+At the moment, there is no clear sign that SOL is on track to reach $200, especially given the neutral funding rates in perpetual futures. Additionally, rising competition among decentralized applications has likely played a major role in weakening investor expectations for SOL.
 
 This article is for general information purposes and is not intended to be and should not be taken as legal or investment advice. The views, thoughts, and opinions expressed here are the author’s alone and do not necessarily reflect or represent the views and opinions of Cointelegraph.
 
 ### 발행일
-2025-06-10T22:28:20+00:00
+2025-06-12T21:43:53+00:00
 
 ### 출처
 CoinTelegraph
 
 --------------------------------------------------------------------------------
 
+### 제목
+Shift to digital asset technology won&#039;t be &#039;slow&#039; — Franklin Templeton CEO
 
+### 링크
+https://cointelegraph.com/news/franklin-templeton-ceo-digital-asset-shift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+### 본문
+In an opinion piece published in Fortune, Franklin Templeton CEO Jenny Johnson wrote that the “advantages of blockchain are so compelling that we don’t foresee the shift to digital asset technology being slow or incremental,” echoing the growing positive sentiment some traditional finance institutions have toward crypto.
+
+“Indeed, we expect our industry will evolve more in the next five years than in the last 50,” Johnson said. “The pressing question is whether financial institutions will choose to embrace the digital asset wave (and the disruption coming with it), actively fight it or bury its head in the sand.”
+
+Johnson noted that blockchain technology and the growing cryptosphere have many benefits that traditional finance rails struggle to match. These include new financial options for homeowners, integration of global markets, and, eventually, throughput that could reach hundreds of thousands or even millions of transactions per second.
+
+Franklin Templeton, one of the world’s largest asset managers with $1.5 trillion assets under management (AUM), has been involved in digital assets since at least 2021 when it launched its OnChain US Government Money Fund.
+
+The company has launched a Bitcoin (BTC) and Ether (ETH) index exchange-traded fund and brought its tokenized US government money market fund to different blockchains, including Solana and Base. On Tuesday, it debuted an intraday yield feature that uses blockchain technology.
+
+Related: Crypto has killed the weekend: Hedge funds quietly scramble to adapt
+
+Traditional finance institutions launch crypto products
+
+Traditional financial institutions are growing increasingly enthusiastic about crypto, spotting opportunities to make their clients (and themselves) money.
+
+BlackRock, the world’s largest asset manager with $11.6 trillion AUM, has launched Bitcoin and Ether exchange-traded funds (ETFs) and had representatives speak with the US SEC about various topics. BlackRock’s US spot Bitcoin ETF, iShares Bitcoin Trust (IBIT), is the largest in its class, containing $72.6 billion in net assets.
+
+JPMorgan Chase has been in crypto at least since 2020 when it launched its JPM Coin, a dollar-pegged stablecoin. On June 4, a report indicated that the institution would soon begin accepting crypto ETFs as collateral for loans. On May 20, JPMorgan CEO Jamie Dimon said the firm’s clients would soon be able to buy Bitcoin, although the firm would not custody it.
+
+However, not all are pleased about the growing ties between crypto and traditional finance. On Thursday, outgoing Financial Stability Board Chair Klaas Knot warned that while crypto does not, as of yet, pose a risk to traditional finance, “we may be approaching a tipping point here.” According to Knot, areas of concern include crypto ETFs and stablecoins.
+
+Magazine: TradFi is building Ethereum L2s to tokenize trillions in RWAs — Inside story
+
+### 발행일
+2025-06-12T20:51:03+00:00
+
+### 출처
+CoinTelegraph
+
+--------------------------------------------------------------------------------
+
+### 제목
+Ethereum Treasury Firm SharpLink Gaming Plunges 70% – But There May Be a Twist
+
+### 링크
+https://www.coindesk.com/markets/2025/06/12/ethereum-treasury-firm-sharplink-gaming-plunges-70-but-there-may-be-a-twist
+
+### 본문
+The company earlier raised $450 million in a private placement round from investors to pursue an ETH reserve strategy.
+
+SharpLink Gaming (SBET), a Nasdaq-listed company that is pursuing an ether ETH$2,491.42 treasury strategy, tumbled 70% on Thursday in after-hours trading following a fresh filing to the U.S. Securities and Exchange Commission.
+
+The company submitted an S-3ASR registration statement, enabling the resale of up to 58,699,760 shares related to its private investment in public equity (PIPE) financing.
+
+The Thursday filing allows more than 100 shareholders in the PIPE round to sell their shares, effectively flooding the market and triggering a post-close sell-off, Charles Allen, CEO of BTCS, a publicly-traded firm that's pursuing crypto reserve strategy, explained in an X post and an interview with CoinDesk.
+
+Let’s break down what just happened to @SharpLinkGaming led by @ethereumJoseph after hours.The stock is down 70% — but why? 🧵At 4:38 PM, they filed an S-3ASR — automatically effective because they’re now a WKSI (yes, they got the golden ticket). That means all 111 selling… pic.twitter.com/Trib8qtlQe— Charles Allen (@Charles_BTCS) June 12, 2025
+
+Let’s break down what just happened to @SharpLinkGaming led by @ethereumJoseph after hours.The stock is down 70% — but why? 🧵At 4:38 PM, they filed an S-3ASR — automatically effective because they’re now a WKSI (yes, they got the golden ticket). That means all 111 selling… pic.twitter.com/Trib8qtlQe
+
+The company raised $450 million earlier this month through a PIPE round from a wide range of investors, including ConsenSys, Galaxy, and Pantera Capital, to acquire ETH for its treasury. Ethereum co-founder and ConsenSys CEO Joseph Lubin also joined the firm as board chairman.
+
+However, there may be a larger strategy behind the latest move.
+
+Allen said in an X post that he thinks the company may have quietly raised up to $1 billion to buy more ETH using an at-the-market (ATM) offering that was previously announced in a May 30 SEC filing.
+
+"If they played cards right, they would expect a surprise PR tomorrow with $1B of ETH purchases, which could light the match to reignite the stock," he said.
+
+ETH is down 4.1% over the past 24 hours at around $2,650 as bitcoin and the broader crypto markets slid.
+
+Read more: Crypto Cracks Late in Day, Bitcoin Slumps Below $106K
+
+Krisztian Sandor is a U.S. markets reporter focusing on stablecoins, tokenization, real-world assets. He graduated from New York University's business and economic reporting program before joining CoinDesk. He holds BTC, SOL and ETH.
+
+About
+
+Contact
+
+### 발행일
+2025-06-12T23:42:46+00:00
+
+### 출처
+CoinDesk
+
+--------------------------------------------------------------------------------
+
+### 제목
+Crypto Cracks Late in Day, Bitcoin Slumps Below $106K
+
+### 링크
+https://www.coindesk.com/markets/2025/06/12/crypto-cracks-late-in-day-bitcoin-slumps-below-106k
+
+### 본문
+Troubling macro headlines concerning the Middle East and tariffs failed to shake U.S. stocks, but cryptocurrencies sold off.
+
+Cryptocurrencies were broadly lower on Thursday, with the selloff picking up steam in the early U.S. evening hours.
+
+Bitcoin BTC$103,295.60 slipped more than 2.5% over the past 24 hours to $105,900, but the declines were far steeper in altcoins, with ether ETH$2,489.94, solana SOL$143.51, XRP XRP$2.12 and dogecoin DOGE$0.17229 among those tokens sporting 5%-7% drops.
+
+Risk assets in general got off to a poor start Thursday as President Trump threatened renewed tariff measures as the early July deadline for trade deals begins to get near.
+
+In addition, with nuclear negotiations with Iran not going well, there were boosted fears of Israeli strikes against Iranian nuclear sites.
+
+“Look, there’s a chance of massive conflict,” Trump told reporters at the White House on Thursday. “We have a lot of American people in this area, and I said, we’ve got to tell them to get out, because something could happen soon, and I don’t want to be the one that didn’t give any warning and missiles are flying.”
+
+“I don’t want to say imminent, but it looks like it’s something that could very well happen,” Trump said about Israel potentially striking Iran. He stated that he had advised against an attack while negotiations were ongoing.
+
+While U.S. stocks were able to shake off the headlines and close with modest gains, cryptos weren't so lucky.
+
+The rally in risk assets — crypto included — over the past several weeks has taken place amid a U.S. Federal Reserve seemingly determined not to ease monetary policy for the foreseeable future.
+
+And yet, there continue to be signs that weak economic data may soon force the Fed's hand — a far slowed pace of employment gains and weaker inflation numbers among them. Two more data points arrived Thursday in May's Producer Price Index, which came in softer than forecast on both the headline and core levels, and initial jobless claims, which unexpectedly matched last week's multi-month high of 248,000.
+
+Continuing jobless claims rose to 1.956 million, the third consecutive gain and the highest level since November 2021.
+
+President Trump continued his crusade to goad Fed Chair Jerome Powell into a more dovish posture, calling him a "numbskull" for not cutting rates. "I may have to force something," threatened Trump. Powell's term as Fed boss doesn't end until 2026 and the president had previously said firing him prior to that was not an option.
+
+Tom writes about markets, bitcoin mining and crypto adoption in Latin America. He has a bachelor's degree in English literature from McGill University, and can usually be found in Costa Rica. He holds BTC above CoinDesk's disclosure threshold of $1,000.
+
+Stephen is CoinDesk's managing editor for Markets. He previously served as managing editor at Seeking Alpha. A native of suburban Washington, D.C., Stephen went to the University of Pennsylvania's Wharton School, majoring in finance. He holds BTC above CoinDesk’s disclosure threshold of $1,000.
+
+About
+
+Contact
+
+### 발행일
+2025-06-12T21:13:45+00:00
+
+### 출처
+CoinDesk
+
+--------------------------------------------------------------------------------
+
+### 제목
+Fulbright board resigns, citing Trump’s political interference
+
+### 링크
+https://thepienews.com/fulbright-board-resigns-over-claims-of-trumps-political-interference/
+
+### 본문
+<p>In a <a href="https://substack.com/inbox/post/165673358?r=17cemi" rel="noreferrer noopener" target="_blank">statement</a> on June 12, board members said the administration had “usurped” its authority and denied Fulbright awards to a “substantial number of individuals” chosen by the board under its congressionally mandated powers. </p>
+
+
+
+<p>It said members had &#8220;overwhelmingly&#8221; voted to quit the board, with their resignation effective immediately.</p>
+
+
+
+<p>The members accused the administration of “subjecting an additional 1,200 foreign Fulbright recipients to an unauthorized review process” that could lead to more applicants being rejected.</p>
+
+
+
+<p>“Through generations of war and peace, the Fulbright Foreign Scholarship Program has been a bipartisan pillar of American diplomacy,” said members, highlighting the “exhaustive” year-long process of granting scholarships, which they say has been overridden by State Department officials. &nbsp;</p>
+
+
+
+<p>For its part, the state department has called the 12 board members “partisan political appointees of the Biden administration,” claiming their resignation is a “political stunt” attempting to undermine the Trump administration. &nbsp;</p>
+
+
+
+<p>“It’s ridiculous to believe that these members would continue to have final say over the application process, especially when it comes to determining academic suitability and alignment with President Trump’s Executive Orders,” a senior state department official told <em>The PIE News. </em>&nbsp;</p>
+
+
+
+<p>Study abroad colleagues and former Fulbright scholars have taken to social media, expressing support for the board members and highlighting the huge soft power benefits of “one of the most respected international exchange programs in the world”. &nbsp;</p>
+
+
+
+<p>As of Wednesday afternoon, the <a href="https://www.state.gov/fulbright-foreign-scholarship-board/#ffsb-members" rel="noreferrer noopener" target="_blank">Fulbright membership page</a> on the state department website listed only one name: Carmen Estrada-Schaye, who was appointed to the board in 2022. </p>
+
+
+
+<p>“I was appointed by the president of the United States and I intend to fill out my term,” Estrada-Schaye told <em>The Associated Press</em>. </p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>To continue to serve &#8230; would risk legitimising actions we believe are unlawful and damage America&#8217;s credibility abroad</p>
+<cite>Fulbright Scholarship board members</cite></blockquote>
+
+
+
+<p>“We are frankly stunned that the distinguished Fulbright board was backed into a corner by the Trump Administration and saw no alternative but to resign,” AIFS chairman Bill Gertz told <em>The PIE News. </em> </p>
+
+
+
+<p>“Fulbright enjoys bipartisan support in Congress,” said Gertz, adding that he expected this, and all cultural exchanges, to be fully funded in 2026 and beyond.&nbsp;</p>
+
+
+
+<p>The news comes as the sector is bracing for the president&#8217;s FY 2026 “skinny” budget, with Trump currently proposing <a href="https://thepienews.com/campaign-builds-to-save-decimation-of-us-study-abroad/" rel="noreferrer noopener" target="_blank">cutting international exchanges</a> by 93%, though these plans are yet to be approved by Congress. &nbsp;</p>
+
+
+
+<p>Founded in 1946, each year the Fulbright Program provides approximately 8,000 merit-based grants to students, scholars and professionals pursuing graduate studies, conducting research, or teaching English abroad.&nbsp;</p>
+
+
+
+<p>Grants are awarded to US students and international students from 160 countries, with the scholarship considered a key pillar of American public diplomacy and soft power. &nbsp;</p>
+
+
+
+<p>&#8220;Our resignation is not a decision we take lightly,&#8221; wrote members: &#8220;But to continue to serve after the Administration has consistently ignored the board’s request that they follow the law would risk legitimising actions we believe are unlawful and damage the integrity of this storied program and America’s credibility abroad.&#8221;</p>
+
+
+
+<p>As highlighted by the board members, Fulbright alumni have gone on to become leaders of government, industry, academia, arts and culture “in every part of the world”. &nbsp;</p>
+
+
+
+<p>Sixty-two Fulbright alumni have been awarded the Nobel Prize, while 44 Fulbright recipients have served as heads of state or government, according to the State Department.</p>
+
+
+
+<p>While the program is sponsored by the State Department, over 35 foreign governments match or exceed the US government’s annual contributions. &nbsp;</p>
+
+
+
+<p>Board member Ambassador James Costos said he voted to resign the board “not in protest, but in defence of principle”.&nbsp;</p>
+
+
+
+<p>In a statement on June 11, Costos highlighted Fulbright’s “extraordinary role in advancing international education and cultural diplomacy,” forming bonds that “serve as the strongest defence against global conflict”. &nbsp;</p>
+
+
+
+<p>“That is the essence of soft power. That is the Fulbright legacy,” wrote Costos, maintaining that he believed in that legacy too deeply to stand by “as it is compromised”.&nbsp;</p>
+<p>The post <a href="https://thepienews.com/fulbright-board-resigns-over-claims-of-trumps-political-interference/">Fulbright board resigns, citing Trump&#8217;s political interference</a> appeared first on <a href="https://thepienews.com">The PIE News</a>.</p>
+
+### 발행일
+2025-06-12T17:11:39+00:00
+
+### 출처
+ThePieNews
+
+--------------------------------------------------------------------------------
+
+### 제목
+Duolingo English Test: what happened at DETcon London?
+
+### 링크
+https://thepienews.com/duolingo-english-test-what-happened-at-detcon-london/
+
+### 본문
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+
+</div></figure>
+<p>The post <a href="https://thepienews.com/duolingo-english-test-what-happened-at-detcon-london/">Duolingo English Test: what happened at DETcon London?</a> appeared first on <a href="https://thepienews.com">The PIE News</a>.</p>
+
+### 발행일
+2025-06-12T14:18:06+00:00
+
+### 출처
+ThePieNews
+
+--------------------------------------------------------------------------------
+
+### 제목
+UK: Sector will “pay the price” for rapid expansion at mid-ranking universities
+
+### 링크
+https://thepienews.com/compliance-mid-ranking-unis-uk/
+
+### 본문
+<p><strong>Additional reporting by Nicholas Cuthbert</strong></p>
+
+
+<div class="summary-container bg-orange-200 px-4 py-[22px]">
+	<div class="prose max-w-none dark:prose-invert text-black">
+
+<ul class="wp-block-list">
+<li>Immigration white paper brings compliance conversations to the fore as Tony Blair&#8217;s Home Secretary questions rapid rise in international students at mid-ranking institutions.</li>
+
+
+
+<li>Sector hits back at comments, pointing out that consequences of compliance not worth it for institutions.</li>
+
+
+
+<li>Concerns also raised about asylum claims, as reports suggest some students are using route to extend stay in UK.</li>
+</ul>
+
+</div>
+</div>
+
+
+<p>Jack Straw, who served as Home Secretary between 1997 and 2001, pointed to parts of the recently released<a href="https://www.gov.uk/government/publications/restoring-control-over-the-immigration-system-white-paper" rel="noreferrer noopener" target="_blank"> immigration white paper</a> that showed universities ranked between 600 an 1,200 by the Times Higher Education had &#8220;expanded dramatically&#8221; in terms of their international intake.</p>
+
+
+
+<p>&#8220;There has to be a question there about the fact that some universities in that category have been chasing students and not paying attention to rigorous controls,&#8221; he told delegates at Duolingo English Test&#8217;s inaugural DETcon London yesterday. &#8220;And if you do that, the rest of the sector will pay the price.&#8221;</p>
+
+
+
+<p>&#8220;You may be complaining about that, but that&#8217;s just where it is,&#8221; he added.</p>
+
+
+
+<p>He highlighted the raft of stricter controls on international students highlighted in the white paper – which includes more stringent English language requirements and <a href="https://thepienews.com/visa-refusals-study-in-uk/" rel="noreferrer noopener" target="_blank">higher thresholds </a>for the Basic Compliance Assessment (BCA) – saying that he was &#8220;in no doubt&#8221; these would come into force in time.</p>
+
+
+
+<p>While the effect of these tighter regulations could &#8220;squeeze&#8230; some universities&#8221;, some of their business models up until this point had not been sustainable, he said. Straw went so far as to tell <em>The PIE News</em> that it was inevitable some universities would go bust.</p>
+
+
+
+<p>Straw&#8217;s comments drew ire from delegates at the conference – some of whom dismissed the claims as &#8220;rubbish&#8221;, while others were at pains to point out the high compliance rate in the sector.</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>You may be complaining about that, but that&#8217;s just where it is<br /><strong><sup><sub>Jack Straw, former Home Secretary</sub></sup></strong></p>
+</blockquote>
+
+
+
+<p>Speaking in a panel discussion later on at the event, deputy vice-chancellor at the University of Portsmouth, Chris Chang, said the notion that only certain institutons should be able to recruit international students was &#8220;nonsense&#8221;.</p>
+
+
+
+<p>&#8220;Half of the international staff [at this conference] would not be here today. I wouldn&#8217;t be here today because I&#8217;m went to study at a post-92 institution,&#8221; he said. &#8220;At the end of the day, I think that&#8217;s rubbish. I will be brave enough to say that.&#8221;</p>
+
+
+
+<p>He stressed that his university doesn&#8217;t &#8220;take sides&#8221;, instead offering choice and options for international students. And, he added, it is in institutions&#8217; best interests to pay heed to immigration controls. </p>
+
+
+
+<p>&#8220;We need to protect our sponsorship license – and that&#8217;s right, we need to take immigration policy seriously, that&#8217;s our duty. But we still offer choice and different people have different drivers,&#8221; he said.</p>
+
+
+
+<p>Anne Marie Graham, UKCISA chief executive, defended the UK&#8217;s higher education sector as being &#8220;extremely compliant&#8221;.</p>
+
+
+
+<p>&#8220;That&#8217;s not to say it is 100% compliant – there will be issue that arise – but what we don&#8217;t hear in that public narrative is how the UKVI and institutions work collaboratively to identify trends and work to eradicate problems,&#8221; she told The PIE. </p>
+
+
+
+<p>She continued: &#8220;It&#8217;s in no sponsors&#8217; interest to be noncompliant, they would lose their licence if they were to do so.&#8221;</p>
+
+
+
+<p>Meanwhile, HEPI director Nick Hillman took aim at the Home Office&#8217;s attitude towards international education in the UK – shown in its emphasis upon compliance at universities in the <a href="https://thepienews.com/breaking-uk-graduate-route-reduced-to-18-months-under-immigration-white-paper/" rel="noreferrer noopener" target="_blank">immigration white paper</a>. Speaking to The PIE, he paid particular mind to the squeezed BCA thresholds.</p>
+
+
+
+<p>&#8220;I think that it was quite a clever move of the government to put that crack down on compliance in the white paper because it is the sort of thing [mainstream] journalists overlook, but it is critically important and a good number of universities are very close to those new, reduced thresholds and they are going to have to look very carefully at their numbers,&#8221; he said.</p>
+
+
+
+<p>And he said the sector always faced an &#8220;existential crisis&#8221; in the rare cases when institutions were banned from recruiting international students. </p>
+
+
+
+<p>&#8220;There are a lot of different factors to do with compliance, some of which are in the control of the university, and some are to do with geopolitical factors. You suddenly find you&#8217;ve got far more applicants from one part of the world that you have traditionally recruited from,&#8221; he said. &#8220;These numbers can go up and down by more than people realise year to year and I think the Home Office are trying to pull a fast one in making it look much simpler than it feels to people on the ground.&#8221;</p>
+
+
+
+<p>Speaking at DETCon London, Straw also took a hard line on reports of international students applying for asylum – which also formed a sizeable part of the immigration white paper as the government took swipes at those it claims are doing so disingenuously as a way to extend their time in the UK.</p>
+
+
+
+<p>The white paper drew attention to an increasing number of asylum clams for students coming to the end of their course &#8220;even though nothing substantive has changed in their home country while they have been in the UK&#8221;. It pointed to figures showing that around 30% of asylum claims in the UK come from visa holders, with 47% of this number coming from students.</p>
+
+
+
+<p>While Straw pointed out that some of these claims would be genuine, he hit out at the practice as a whole, calling it &#8220;a racket&#8230; we should have no truck with&#8221;.</p>
+
+
+
+<p>&#8220;Everybody knows it&#8217;s a racket. And there are a lot of people, particularly immigration advisors and lawyers, who are making money out of this racket,&#8221; he stressed. &#8220;We should deal with it.&#8221;</p>
+
+
+
+<p></p>
+<p>The post <a href="https://thepienews.com/compliance-mid-ranking-unis-uk/">UK: Sector will &#8220;pay the price&#8221; for rapid expansion at mid-ranking universities</a> appeared first on <a href="https://thepienews.com">The PIE News</a>.</p>
+
+### 발행일
+2025-06-12T12:32:41+00:00
+
+### 출처
+ThePieNews
+
+--------------------------------------------------------------------------------
 

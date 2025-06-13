@@ -6,6 +6,7 @@ from openai import OpenAI
 import requests
 import time
 import json
+import re
 
 # .env 파일 로드
 load_dotenv()
@@ -74,12 +75,7 @@ def translate_and_format(news_content):
 
         # GPT를 사용하여 번역 (GPT-4 대신)
         completion = client.chat.completions.create(
-            
-            # model="gpt-3.5-turbo", 
-            # model="gpt-4", 
             model="gpt-4o-mini",
-
-
             messages=[
                 {
                     "role": "system",
@@ -97,62 +93,81 @@ def translate_and_format(news_content):
         kr_content = completion.choices[0].message.content
         print(f"kr_content: {kr_content}")
         
-        # 번역 결과를 각 부분으로 분리
-        # title = ''
-        # lead = ''
-        # content = ''
-        # keyword = ''
-        
+        # 코드 블록(```json ... ```)이 있으면 제거
+        if kr_content.strip().startswith("```"):
+            kr_content = re.sub(r"^```[a-zA-Z]*\s*", "", kr_content.strip())
+            if kr_content.strip().endswith("```"):
+                kr_content = kr_content.strip()[:-3].strip()
+
+        # JSON 형식인지 확인
+        is_json = False
         try:
-            # # title 추출
-            # if 'title:' in kr_content:
-            #     title_parts = kr_content.split('lead:')
-            #     title = title_parts[0].replace('title:', '').strip()
-            # elif '### 제목' in kr_content:
-            #     title_parts = kr_content.split('### 리드' if '### 리드' in kr_content else '### 본문')
-            #     title = title_parts[0].split('### 제목')[-1].strip()
-            
-            # # lead 추출
-            # if 'lead:' in kr_content:
-            #     lead_parts = kr_content.split('content:')
-            #     lead = lead_parts[0].split('lead:')[1].strip()
-            # elif '### 리드' in kr_content:
-            #     lead_parts = kr_content.split('### 본문')
-            #     lead = lead_parts[0].split('### 리드')[-1].strip()
-            
-            # # content 추출
-            # if 'content:' in kr_content:
-            #     content = kr_content.split('content:')[1].strip()
-            # elif '### 본문' in kr_content:
-            #     content_parts = kr_content.split('### 본문')
-            #     if len(content_parts) > 1:
-            #         content = content_parts[1].strip()
-            #         # 다음 섹션이 있다면 그 전까지만 추출
-            #         next_section = content.find('###')
-            #         if next_section != -1:
-            #             content = content[:next_section].strip()
-            
-            # 번역 결과가 JSON 문자열이므로 파싱
+            # JSON 형식인지 시도
             article_json = json.loads(kr_content)
+            is_json = True
+        except json.JSONDecodeError:
+            is_json = False
+
+        title = ''
+        lead = ''
+        content = ''
+
+        if is_json:
+            # JSON 형식 처리
             title = article_json.get('title', '').strip()
             lead = article_json.get('lead', '').strip()
             content = article_json.get('content', '').strip()
+        else:
+            # 일반 문자열 형식 처리
+            try:
+                # title 추출
+                if 'title:' in kr_content:
+                    title_parts = kr_content.split('lead:')
+                    title = title_parts[0].replace('title:', '').strip()
+                elif '### 제목' in kr_content:
+                    title_parts = kr_content.split('### 리드' if '### 리드' in kr_content else '### 본문')
+                    title = title_parts[0].split('### 제목')[-1].strip()
+                elif '**제목**' in kr_content:
+                    title_parts = kr_content.split('**리드**' if '**리드**' in kr_content else '**본문**')
+                    title = title_parts[0].split('**제목**')[-1].strip()
+                # lead 추출
+                if 'lead:' in kr_content:
+                    lead_parts = kr_content.split('content:')
+                    lead = lead_parts[0].split('lead:')[1].strip()
+                elif '### 리드' in kr_content:
+                    lead_parts = kr_content.split('### 본문')
+                    lead = lead_parts[0].split('### 리드')[-1].strip()
+                elif '**리드**' in kr_content:
+                    lead_parts = kr_content.split('**본문**')
+                    lead = lead_parts[0].split('**리드**')[-1].strip()
+                # content 추출
+                if 'content:' in kr_content:
+                    content = kr_content.split('content:')[1].strip()
+                elif '### 본문' in kr_content:
+                    content_parts = kr_content.split('### 본문')
+                    if len(content_parts) > 1:
+                        content = content_parts[1].strip()
+                        # 다음 섹션이 있다면 그 전까지만 추출
+                        next_section = content.find('###')
+                        if next_section != -1:
+                            content = content[:next_section].strip()
+                elif '**본문**' in kr_content:
+                    content_parts = kr_content.split('**본문**')
+                    if len(content_parts) > 1:
+                        content = content_parts[1].strip()
+                        # 다음 섹션이 있다면 그 전까지만 추출
+                        next_section = content.find('**')
+                        if next_section != -1:
+                            content = content[:next_section].strip()
+            except Exception as parsing_error:
+                print(f"번역 결과 파싱 중 오류 발생: {parsing_error}")
+                print(f"원본 번역 결과: {kr_content}")
+                return None, None, None
 
-            print("\n=== 파싱 결과 ===")
-            print(f"제목: {title}")
-            print(f"리드: {lead}")
-            print(f"본문: {content[:100]}...")  # 본문은 처음 100자만 출력
-
-        # except Exception as parsing_error:
-        #     print(f"번역 결과 파싱 중 오류 발생: {parsing_error}")
-        #     print(f"원본 번역 결과: {kr_content}")
-        #     return None, None, None
-
-        # JSON 파싱 오류 처리
-        except Exception as json_error:
-            print(f"번역 결과 JSON 파싱 오류: {json_error}")
-            return None, None, None
-
+        print("\n=== 파싱 결과 ===")
+        print(f"제목: {title}")
+        print(f"리드: {lead}")
+        print(f"본문: {content[:100]}...")  # 본문은 처음 100자만 출력
 
         if not all([title, lead, content]):
             print("경고: 일부 필드가 비어 있습니다.")
@@ -253,5 +268,5 @@ def process_news_test():
         print(f"처리 중 오류 발생: {e}")
 
 if __name__ == "__main__":
-    # process_news() 
-    process_news_test()
+    process_news() 
+    # process_news_test()
