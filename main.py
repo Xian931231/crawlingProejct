@@ -165,9 +165,7 @@ def translate_and_format(news_content):
                 return None, None, None
 
         print("\n=== 파싱 결과 ===")
-        print(f"제목: {title}")
-        print(f"리드: {lead}")
-        print(f"본문: {content[:100]}...")  # 본문은 처음 100자만 출력
+
 
         if not all([title, lead, content]):
             print("경고: 일부 필드가 비어 있습니다.")

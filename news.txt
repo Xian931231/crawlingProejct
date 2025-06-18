@@ -1,40 +1,52 @@
 ### 제목
-Tencent explores purchase of Nexon gaming company
+Here’s what happened in crypto today
 
 ### 링크
-https://cointelegraph.com/news/tencent-purchase-nexon-gaming-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 
 ### 본문
-Tencent, a Chinese technology and holding company with a global footprint, is reportedly exploring the possibility of acquiring game developer and publisher Nexon.
+Today in crypto, the US Senate has passed the GENIUS stablecoin bill, marking a key step as the legislation moves to the House. Meanwhile, Thailand has suspended taxes on crypto income for the next five years, and Bitcoin returned gains amid rising tensions in the Middle East.
 
-Representatives from the tech company contacted the family of Nexon founder Kim Jung-ju to explore a potential deal, but no concrete terms have been reached and a deal is not guaranteed, according to Bloomberg.
+US Senate passes GENIUS stablecoin bill in 68-30 vote
 
-Nexon is the South Korean video game developer behind the MapleStory series, a massively multiplayer online role-playing game (MMORPG) that first gained popularity in the early 2000s as a traditional PC game.
+The Guiding and Establishing National Innovation for US Stablecoins, or GENIUS Act, is one step closer to becoming law in the US after the US Senate voted to pass an amended version of the bill.
 
-Web3 gaming continues to be a closely watched use case for blockchain technology as the ability to give players ownership over in-game assets could create an entirely new asset class and create tens of billions of dollars in capital.
+In a Tuesday vote of 68-30, a majority of the US Senate chose to pass the GENIUS Act roughly six weeks after Tennessee Senator Bill Hagerty introduced the legislation. The bill’s companion, the STABLE Act, may be considered in the House of Representatives next, where it could face additional proposals for amendments.
 
-The company integrated blockchain technology in two different installments of the series, MapleStory N and MapleStory Universe, in May 2025, allowing users to collect in-game items and rewards in the form of non-fungible tokens (NFTS).
+“With this bill, the United States is one step closer to becoming the global leader in crypto,” said Hagerty from the Senate floor before the Tuesday vote, adding: “Once the GENIUS Act is law, businesses of all sizes, and Americans across the country will be able to settle payments nearly instantaneously rather than waiting for days or sometimes even weeks.”
 
-Related: MapleStory revives Avalanche, tops 1M daily transactions twice in a week
+The GENIUS Act initially failed a cloture vote in the Senate in May in response to Democratic opposition to US President Donald Trump’s connections to the cryptocurrency industry. The Trump family has a significant stake in World Liberty Financial, which issued its own USD1 stablecoin in March.
 
-Interest in Web3 gaming surges, but still far from mainstream
+It’s unclear whether the stablecoin legislation will have enough support to pass in the House, where Republicans also hold a slim majority over Democrats. Trump’s AI and crypto czar, David Sacks, suggested in May that the president would support the bill passed by a Republican-controlled Congress.
 
-According to a February 2025 report from DappRadar, blockchain gaming activity surged by roughly 368% year-over-year in January 2025, driven by games like Off The Grid and the then-upcoming MapleStory N.
+Thailand approves five-year crypto tax exemption
 
-Off The Grid is a AAA shooter, published by Gunzilla Games, that features console-level graphics and gameplay similar to that of traditional video game blockbusters produced by major game studios.
+Thailand has approved tax exemptions on income from the sale of cryptocurrencies like Bitcoin for five years, according to a Ministry of Finance announcement.
 
-This represented a significant departure from traditional Web3 games that typically feature simple gameplay mechanics, cartoonish graphics, and a focus on player rewards rather than robust gameplay.
+Thailand will waive the capital gains tax on crypto sales made through licensed crypto asset service providers in the period from Jan. 1, 2025, to Dec. 31, 2029, Deputy Finance Minister Julapun Amornvivat said in a statement issued on Tuesday.
 
-Despite the initial spike in player interest that started in late 2024, Web3 gaming activity declined by 10%, reflected by a drop in daily unique active wallets, according to DappRadar.
+According to the minister, the measure is designed to strengthen Thailand’s position as a global financial hub and one of the first countries to adopt laws for digital assets and their taxation.
 
-While the crypto gaming sector remains healthy and titles such as MapleStory and Off The Grid reflect a shift to higher quality games focused on player experience, Web3 gaming still faces several headwinds.
+The tax measure also aims to promote cryptocurrency trading in Thailand under the supervision of the Thai Securities and Exchange Commission (SEC) in compliance with Anti-Money Laundering (AML) policies recommended by the Financial Action Task Force (FATF).
 
-Chief among these impediments to widespread Web3 gaming adoption are the technical barrier to entry of setting up a blockchain wallet and the traditional gaming community's aversion to play-to-earn games and other tactics designed to fuse gaming and money.
+In the statement, the minister highlighted the role of crypto assets in fundraising, which is an important use case for technology and innovation in Thailand.
 
-Magazine: Can Off the Grid survive Steam’s crypto ban? Rage over Maplestory cheaters: Web3 Gamer
+According to the ministry’s estimations, crypto assets are projected to help the Thai economy expand and increase tax revenue in the medium term “by no less than 1 billion baht,” or $30.7 million.
+
+Bitcoin dips amid reports Trump has called advisers to situation room
+
+Bitcoin and cryptocurrency markets dipped after US President Donald Trump left a summit of world leaders and posted an ominous message about Tehran.
+
+Trump has requested that the National Security Council be prepared in the White House Situation Room as he returned early from the G7 summit in Canada on Monday, Fox News reported.
+
+The report comes just hours after Trump took to his social media platform, Truth Social, with a chilling message: “Everyone should immediately evacuate Tehran!”
+
+Bitcoin prices reacted immediately with a sharp 2% decline as it shed more than $2,000 over the past few hours.
+
+Bitcoin had earlier strengthened to an intraday high of $108,780, but the latest news sent it back to $106,421 before a minor recovery.
 
 ### 발행일
-2025-06-12T22:30:46+00:00
+2025-06-17T22:11:36+00:00
 
 ### 출처
 CoinTelegraph
@@ -42,130 +54,42 @@ CoinTelegraph
 --------------------------------------------------------------------------------
 
 ### 제목
-Solana futures open interest hits $7.4B amid ETF speculation: Is $200 SOL next?
+Tron Inc. Deal Gives Justin Sun’s Father Control of Public Firm Via $100M Token Deal
 
 ### 링크
-https://cointelegraph.com/news/solana-futures-open-interest-2-year-high-etf-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://www.coindesk.com/markets/2025/06/17/tron-inc-deal-gives-justin-suns-father-control-of-public-firm-via-100m-token-deal
 
 ### 본문
-Key takeaways:
+Justin Sun's father, Weike Sun, was appointed Chairman of the Board, and Tron-affiliated executives were added to key board committees.
 
-SOL’s futures open interest surged to a 2-year high, reflecting growing institutional interest.
+A Securities and Exchange Commission (SEC) filing posted Monday night outlines the relationship between Tron DAO, Justin Sun, and SRM Entertainment, a Nevada company in the process of changing its name to Tron Inc.
 
-Rising competition from other blockchains and neutral funding rates continue to dampen SOL’s bullish momentum.
+The filing details a $100 million private investment in public equity (PIPE) deal, paid entirely in TRX TRX$0.27283 tokens, that gives Sun’s father, Weike Sun, board control and positions Tron-aligned advisors in key governance roles.
 
-Solana’s SOL (SOL) failed to hold its bullish momentum after gaining 10% between Monday and Thursday. The cryptocurrency has shown weakness after testing the $180 level several times in May, but traders’ growing interest in leveraged positions could open the path to $200 and beyond.
+Weike was named chairman, while Zhihong Liu, also known as Steve Liu, a strategic adviser to Tron DAO and the CEO of stablecoin issuer Techteryx, and Zi Yang, a senior executive at Tronscan, joined the board’s audit, compensation, and nominating committees, according to the filing.
 
-On Wednesday, total open interest on SOL futures reached 46.2 million SOL, the highest in over two years and up 22% from the previous month. Demand from buyers is always matched by sellers, but the rise in activity signals increased participation from institutional investors.
+The deal was structured as a private investment in public equity (PIPE) deal. An investment vehicle owned by Weike purchased 100,000 shares of SRM Series B preferred Stock via TRX tokens, convertible into 200 million common shares, and received 220 million warrants at a strike price of $0.50.
 
-With $7.4 billion in open futures positions, SOL is drawing more attention from savvy market participants. This creates more opportunities for arbitrage strategies like the “carry trade,” where investors buy SOL on the spot market and sell the futures contract. A liquid and active derivatives market supports these trades.
+Despite the appearance of alignment, Tron DAO has no direct investment, governance rights, or formal role in the SRM deal, said Liu. "Tron DAO is not really any part of the deal for SRM. It’s more of the senior Sun's transaction."
 
-Even with these developments, many SOL investors are likely disappointed. The current $155 level remains well below the $294 all-time high. Meanwhile, the total crypto market cap is just 12% below its record. The sharp drop in Solana network activity has led investors to lower expectations for future SOL gains, making a return to $200 less likely.
+The DAO itself is not mentioned in the 8K filing either. Its influence appears to be indirect, reflected through the backgrounds of newly appointed board members tied to the Tron ecosystem.
 
-Decentralized exchange (DEX) activity on Solana dropped to $10.5 billion per week, down from $29.2 billion just 30 days earlier. More notably, the 50% DEX market share peak in early January proved unsustainable, especially as trading volumes rose on BNB Chain and Hyperliquid became the clear leader in perpetual futures.
+According to the Financial Times, the renamed firm plans to buy and hold up to $210 million worth of TRX, similar to how MicroStrategy built a bitcoin-based corporate treasury.
 
-Unlike the Ethereum ecosystem, which involves more friction due to its reliance on layer-2 scaling solutions, BNB Chain competes directly with Solana by offering low fees and integrated tools for token launches. Its seamless connection with the Binance exchange also gives BNB Chain a clear edge in user experience.
+The deal was arranged by Dominari Securities, a brokerage affiliated with Dominari Holdings, whose advisory board includes Donald Trump Jr. and Eric Trump and is located within Trump Tower in Manhattan.
 
-SOL funding neutral as competition weakens investor confidence
+Dominari Securities was paid $50,000 for the counsel for the transaction, according to the 8K filing.
 
-To assess whether traders are turning bearish on SOL due to its recent underperformance and rising competition, it’s useful to examine perpetual futures funding rates. In a neutral market, funding should range between 5% and 15% annually, signaling that buyers (longs) are paying a premium to hold their positions.
+SRM, the listed Tron entity, is down 15%, trading at $7.73 as the market closed in New York. The TRX$0.27283 token is down 2.5%, trading at $0.27.
 
-The funding rate for SOL has fluctuated between neutral and slightly bearish levels, clearly moving away from the negative 7% seen on Saturday. More importantly, SOL futures have failed to hold above the 15% annualized funding threshold over the past 30 days, indicating a lack of strong bullish sentiment.
-
-Related: DeFi Development to refile $1B Solana plan after SEC filing snag
-
-Speculation around a potential spot exchange-traded fund (ETF) for SOL in the United States remains the most significant short-term price catalyst. Bloomberg analysts are confident that the US Securities and Exchange Commission will approve ETFs for Litecoin (LTC), SOL, and XRP by the end of the year.
-
-At the moment, there is no clear sign that SOL is on track to reach $200, especially given the neutral funding rates in perpetual futures. Additionally, rising competition among decentralized applications has likely played a major role in weakening investor expectations for SOL.
-
-This article is for general information purposes and is not intended to be and should not be taken as legal or investment advice. The views, thoughts, and opinions expressed here are the author’s alone and do not necessarily reflect or represent the views and opinions of Cointelegraph.
-
-### 발행일
-2025-06-12T21:43:53+00:00
-
-### 출처
-CoinTelegraph
-
---------------------------------------------------------------------------------
-
-### 제목
-Shift to digital asset technology won&#039;t be &#039;slow&#039; — Franklin Templeton CEO
-
-### 링크
-https://cointelegraph.com/news/franklin-templeton-ceo-digital-asset-shift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-
-### 본문
-In an opinion piece published in Fortune, Franklin Templeton CEO Jenny Johnson wrote that the “advantages of blockchain are so compelling that we don’t foresee the shift to digital asset technology being slow or incremental,” echoing the growing positive sentiment some traditional finance institutions have toward crypto.
-
-“Indeed, we expect our industry will evolve more in the next five years than in the last 50,” Johnson said. “The pressing question is whether financial institutions will choose to embrace the digital asset wave (and the disruption coming with it), actively fight it or bury its head in the sand.”
-
-Johnson noted that blockchain technology and the growing cryptosphere have many benefits that traditional finance rails struggle to match. These include new financial options for homeowners, integration of global markets, and, eventually, throughput that could reach hundreds of thousands or even millions of transactions per second.
-
-Franklin Templeton, one of the world’s largest asset managers with $1.5 trillion assets under management (AUM), has been involved in digital assets since at least 2021 when it launched its OnChain US Government Money Fund.
-
-The company has launched a Bitcoin (BTC) and Ether (ETH) index exchange-traded fund and brought its tokenized US government money market fund to different blockchains, including Solana and Base. On Tuesday, it debuted an intraday yield feature that uses blockchain technology.
-
-Related: Crypto has killed the weekend: Hedge funds quietly scramble to adapt
-
-Traditional finance institutions launch crypto products
-
-Traditional financial institutions are growing increasingly enthusiastic about crypto, spotting opportunities to make their clients (and themselves) money.
-
-BlackRock, the world’s largest asset manager with $11.6 trillion AUM, has launched Bitcoin and Ether exchange-traded funds (ETFs) and had representatives speak with the US SEC about various topics. BlackRock’s US spot Bitcoin ETF, iShares Bitcoin Trust (IBIT), is the largest in its class, containing $72.6 billion in net assets.
-
-JPMorgan Chase has been in crypto at least since 2020 when it launched its JPM Coin, a dollar-pegged stablecoin. On June 4, a report indicated that the institution would soon begin accepting crypto ETFs as collateral for loans. On May 20, JPMorgan CEO Jamie Dimon said the firm’s clients would soon be able to buy Bitcoin, although the firm would not custody it.
-
-However, not all are pleased about the growing ties between crypto and traditional finance. On Thursday, outgoing Financial Stability Board Chair Klaas Knot warned that while crypto does not, as of yet, pose a risk to traditional finance, “we may be approaching a tipping point here.” According to Knot, areas of concern include crypto ETFs and stablecoins.
-
-Magazine: TradFi is building Ethereum L2s to tokenize trillions in RWAs — Inside story
-
-### 발행일
-2025-06-12T20:51:03+00:00
-
-### 출처
-CoinTelegraph
-
---------------------------------------------------------------------------------
-
-### 제목
-Ethereum Treasury Firm SharpLink Gaming Plunges 70% – But There May Be a Twist
-
-### 링크
-https://www.coindesk.com/markets/2025/06/12/ethereum-treasury-firm-sharplink-gaming-plunges-70-but-there-may-be-a-twist
-
-### 본문
-The company earlier raised $450 million in a private placement round from investors to pursue an ETH reserve strategy.
-
-SharpLink Gaming (SBET), a Nasdaq-listed company that is pursuing an ether ETH$2,491.42 treasury strategy, tumbled 70% on Thursday in after-hours trading following a fresh filing to the U.S. Securities and Exchange Commission.
-
-The company submitted an S-3ASR registration statement, enabling the resale of up to 58,699,760 shares related to its private investment in public equity (PIPE) financing.
-
-The Thursday filing allows more than 100 shareholders in the PIPE round to sell their shares, effectively flooding the market and triggering a post-close sell-off, Charles Allen, CEO of BTCS, a publicly-traded firm that's pursuing crypto reserve strategy, explained in an X post and an interview with CoinDesk.
-
-Let’s break down what just happened to @SharpLinkGaming led by @ethereumJoseph after hours.The stock is down 70% — but why? 🧵At 4:38 PM, they filed an S-3ASR — automatically effective because they’re now a WKSI (yes, they got the golden ticket). That means all 111 selling… pic.twitter.com/Trib8qtlQe— Charles Allen (@Charles_BTCS) June 12, 2025
-
-Let’s break down what just happened to @SharpLinkGaming led by @ethereumJoseph after hours.The stock is down 70% — but why? 🧵At 4:38 PM, they filed an S-3ASR — automatically effective because they’re now a WKSI (yes, they got the golden ticket). That means all 111 selling… pic.twitter.com/Trib8qtlQe
-
-The company raised $450 million earlier this month through a PIPE round from a wide range of investors, including ConsenSys, Galaxy, and Pantera Capital, to acquire ETH for its treasury. Ethereum co-founder and ConsenSys CEO Joseph Lubin also joined the firm as board chairman.
-
-However, there may be a larger strategy behind the latest move.
-
-Allen said in an X post that he thinks the company may have quietly raised up to $1 billion to buy more ETH using an at-the-market (ATM) offering that was previously announced in a May 30 SEC filing.
-
-"If they played cards right, they would expect a surprise PR tomorrow with $1B of ETH purchases, which could light the match to reignite the stock," he said.
-
-ETH is down 4.1% over the past 24 hours at around $2,650 as bitcoin and the broader crypto markets slid.
-
-Read more: Crypto Cracks Late in Day, Bitcoin Slumps Below $106K
-
-Krisztian Sandor is a U.S. markets reporter focusing on stablecoins, tokenization, real-world assets. He graduated from New York University's business and economic reporting program before joining CoinDesk. He holds BTC, SOL and ETH.
+Sam Reynolds is a senior reporter based in Asia. Sam was part of the CoinDesk team that won the 2023 Gerald Loeb award in the breaking news category for coverage of FTX's collapse. Prior to CoinDesk, he was a reporter with Blockworks and a semiconductor analyst with IDC.
 
 About
 
 Contact
 
 ### 발행일
-2025-06-12T23:42:46+00:00
+2025-06-17T22:28:33+00:00
 
 ### 출처
 CoinDesk
@@ -173,46 +97,48 @@ CoinDesk
 --------------------------------------------------------------------------------
 
 ### 제목
-Crypto Cracks Late in Day, Bitcoin Slumps Below $106K
+U.S. Senate Passes GENIUS Act to Regulate Stablecoins, Marking Crypto Industry Win
 
 ### 링크
-https://www.coindesk.com/markets/2025/06/12/crypto-cracks-late-in-day-bitcoin-slumps-below-106k
+https://www.coindesk.com/policy/2025/06/17/u-s-senate-passes-genius-act-to-regulate-stablecoins-marking-crypto-industry-win
 
 ### 본문
-Troubling macro headlines concerning the Middle East and tariffs failed to shake U.S. stocks, but cryptocurrencies sold off.
+The legislation to set rules for stablecoin issuers is the first major digital assets bill to ever clear the Senate and now moves on to the U.S. House.
 
-Cryptocurrencies were broadly lower on Thursday, with the selloff picking up steam in the early U.S. evening hours.
+The overwhelming bipartisan passage of the U.S. Senate's stablecoin bill, with a 68-30 final vote that saw a huge surge of Democrats joining their Republican counterparts on Tuesday, sets a new high-water mark of crypto policy efforts in the U.S. as the legislation now heads to the House of Representatives.
 
-Bitcoin BTC$103,295.60 slipped more than 2.5% over the past 24 hours to $105,900, but the declines were far steeper in altcoins, with ether ETH$2,489.94, solana SOL$143.51, XRP XRP$2.12 and dogecoin DOGE$0.17229 among those tokens sporting 5%-7% drops.
+The major Democratic backing for the Guiding and Establishing National Innovation for U.S. Stablecoins of 2025 (GENIUS) Act helps give it momentum as it lands in the other chamber, where House lawmakers can either vote on it as written or pursue changes that will require a final round in the Senate before it can head to President Donald Trump's desk.
 
-Risk assets in general got off to a poor start Thursday as President Trump threatened renewed tariff measures as the early July deadline for trade deals begins to get near.
+As written, the bill would set up guardrails around the approval and supervision of U.S. issuers of stablecoins, the dollar-based tokens such as the ones backed by Circle, Ripple and Tether. Firms making these digital assets available to U.S. users would have to meet stringent reserve demands, transparency requirements, money-laundering compliance and regulatory supervision that's also likely to include new capital rules.
 
-In addition, with nuclear negotiations with Iran not going well, there were boosted fears of Israeli strikes against Iranian nuclear sites.
+Ji Kim, the Acting CEO of the Crypto Council for Innovation, called it a "historic step forward for the digital asset industry," in a prepared statement shared ahead of the vote
 
-“Look, there’s a chance of massive conflict,” Trump told reporters at the White House on Thursday. “We have a lot of American people in this area, and I said, we’ve got to tell them to get out, because something could happen soon, and I don’t want to be the one that didn’t give any warning and missiles are flying.”
+"This is a win for the U.S., a win for innovation and a monumental step towards appropriate regulation for digital assets in the United States," said Amanda Tuminelli, executive director and chief legal officer of the DeFi Education Fund, in a similar statement.
 
-“I don’t want to say imminent, but it looks like it’s something that could very well happen,” Trump said about Israel potentially striking Iran. He stated that he had advised against an attack while negotiations were ongoing.
+While it has failed to convince some of the most vocal Democratic critics such as Senator Elizabeth Warren, who say it allows loopholes for foreign tokens such as Tether's USDT$1.00, doesn't deal with conflicts presented by the personal crypto involvement of President Trump and clears a path for technology giants such as Amazon to issue their own coins, the bill's backers in her party have essentially argued that doing nothing isn't an option.
 
-While U.S. stocks were able to shake off the headlines and close with modest gains, cryptos weren't so lucky.
+"With this bill, the United States is one step closer to becoming the global leader in crypto," said Senator Bill Hagerty, the Tennessee Republican who sponsored the bill, as the Senate prepared to vote on Tuesday. "The value of stablecoins will be pegged to the U.S. dollar and backed one-to-one by cash and short-term U.S. Treasuries. This will provide certainty and confidence for more wide-scale adoption of this transformational technology.”
 
-The rally in risk assets — crypto included — over the past several weeks has taken place amid a U.S. Federal Reserve seemingly determined not to ease monetary policy for the foreseeable future.
+While this is the first significant crypto bill to clear the Senate, it's also the first time a stablecoin bill has passed either chamber, despite years of negotiation in the House Financial Services Committee that managed to produce other major crypto legislation in the previous congressional session.
 
-And yet, there continue to be signs that weak economic data may soon force the Fed's hand — a far slowed pace of employment gains and weaker inflation numbers among them. Two more data points arrived Thursday in May's Producer Price Index, which came in softer than forecast on both the headline and core levels, and initial jobless claims, which unexpectedly matched last week's multi-month high of 248,000.
+The destiny of the GENIUS Act is also tied closely to the House's own Digital Asset Market Clarity Act, the more sweeping crypto bill that would establish the legal footing of the wider U.S. crypto markets. The stablecoin effort is slightly ahead of the bigger task of the market structure bill, but the industry and their lawmaker allies argue that they're inextricably connected and need to become law together. So far, the Clarity Act has been cleared by the relevant House committees and awaits floor action.
 
-Continuing jobless claims rose to 1.956 million, the third consecutive gain and the highest level since November 2021.
+The crypto industry's lobbyists turn now to the House on both those issues. A new report on Tuesday from TRM Labs says that stablecoins represent more than 60% of current crypto transactions, and more than 90% of those coins are pegged to the U.S. dollar — dominated by USDC and USDT.
 
-President Trump continued his crusade to goad Fed Chair Jerome Powell into a more dovish posture, calling him a "numbskull" for not cutting rates. "I may have to force something," threatened Trump. Powell's term as Fed boss doesn't end until 2026 and the president had previously said firing him prior to that was not an option.
+"Although TRM estimates that 99% of stablecoin activity is licit, their speed, scale, and liquidity have made them appealing for illicit uses, including ransomware payments, fraud, and terrorist financing," the analytical organization noted.
 
-Tom writes about markets, bitcoin mining and crypto adoption in Latin America. He has a bachelor's degree in English literature from McGill University, and can usually be found in Costa Rica. He holds BTC above CoinDesk's disclosure threshold of $1,000.
+Illicit finance represents one of the major complaints of critics in Congress.
 
-Stephen is CoinDesk's managing editor for Markets. He previously served as managing editor at Seeking Alpha. A native of suburban Washington, D.C., Stephen went to the University of Pennsylvania's Wharton School, majoring in finance. He holds BTC above CoinDesk’s disclosure threshold of $1,000.
+Read More: Can Tether's Dominance Survive the U.S. Stablecoin Bill?
+
+Jesse Hamilton is CoinDesk's deputy managing editor on the Global Policy and Regulation team, based in Washington, D.C. Before joining CoinDesk in 2022, he worked for more than a decade covering Wall Street regulation at Bloomberg News and Businessweek, writing about the early whisperings among federal agencies trying to decide what to do about crypto. He’s won several national honors in his reporting career, including from his time as a war correspondent in Iraq and as a police reporter for newspapers. Jesse is a graduate of Western Washington University, where he studied journalism and history. He has no crypto holdings.
 
 About
 
 Contact
 
 ### 발행일
-2025-06-12T21:13:45+00:00
+2025-06-17T21:47:55+00:00
 
 ### 출처
 CoinDesk
@@ -220,103 +146,57 @@ CoinDesk
 --------------------------------------------------------------------------------
 
 ### 제목
-Fulbright board resigns, citing Trump’s political interference
+Don’t blink: US-bound students advised to hold their nerve
 
 ### 링크
-https://thepienews.com/fulbright-board-resigns-over-claims-of-trumps-political-interference/
+https://thepienews.com/dont-blink-us-bound-students-advised-to-hold-their-nerve/
 
 ### 본문
-<p>In a <a href="https://substack.com/inbox/post/165673358?r=17cemi" rel="noreferrer noopener" target="_blank">statement</a> on June 12, board members said the administration had “usurped” its authority and denied Fulbright awards to a “substantial number of individuals” chosen by the board under its congressionally mandated powers. </p>
+<p><strong>“</strong>The trend for the last 10 years has actually been the rise of the dominance of US universities &#8211; with the number of institutions with admissions rates below 8% growing dramatically,” explains Beaton, as he outlines how competitive US admissions are for prospective students.</p>
 
 
 
-<p>It said members had &#8220;overwhelmingly&#8221; voted to quit the board, with their resignation effective immediately.</p>
+<p>“Schools like NYU, the biggest international recruiter in the US, have gone from a 40% admissions rate down to a 7% admissions rates. Johns Hopkins has gone for 15% to 5%. Duke University has seen double the number applications,” Beaton continues.</p>
 
 
 
-<p>The members accused the administration of “subjecting an additional 1,200 foreign Fulbright recipients to an unauthorized review process” that could lead to more applicants being rejected.</p>
+<p>The Kiwi entrepreneur has first-hand experience, having himself graduated from Harvard, Standford and Yale in recent years, along with studying at Oxford and King&#8217;s in the UK and Tsinghua in China. </p>
 
 
 
-<p>“Through generations of war and peace, the Fulbright Foreign Scholarship Program has been a bipartisan pillar of American diplomacy,” said members, highlighting the “exhaustive” year-long process of granting scholarships, which they say has been overridden by State Department officials. &nbsp;</p>
+<p>Crimson Education, the company he founded as a 17 year old Harvard student is now valued at over USD $1 billion, specialising in supporting families to apply to the world&#8217;s most prestigious universities.</p>
 
 
 
-<p>For its part, the state department has called the 12 board members “partisan political appointees of the Biden administration,” claiming their resignation is a “political stunt” attempting to undermine the Trump administration. &nbsp;</p>
+<p>Beaton believes that the appeal for US education is linked to curriculum design. While many countries have increasingly opted for degree pathways preparing students for specific industry careers, the US system offers more flexibility.   <br /><br />“People need multifaceted subject experiences” he explains. “18-year-olds don&#8217;t know what they want to do and it&#8217;s hard to even guess what the jobs will be in 10 years post their graduation.<br /><br />“Interest in liberal arts is ascending, and I would say the era of the single degree where all classes are one area is relatively declining – it is a structure disadvantage in a world that&#8217;s moving fast.”<br /><br />There is no better example of fast-paced change than US politics, where sweeping changes to legislation are being proposed at break-neck speed.<br /><br />The US government recently made global headlines by <a href="https://thepienews.com/us-trump-pauses-new-student-visa-interviews/" rel="noreferrer noopener" target="_blank">suspending</a> student visa appointments and <a href="https://thepienews.com/trump-revokes-harvards-ability-to-enrol-international-students/" rel="noreferrer noopener" target="_blank">limiting the powers</a> of institutions like Harvard University – so what are students making of these news headlines and is it impacting US appeal?</p>
 
 
 
-<p>“It’s ridiculous to believe that these members would continue to have final say over the application process, especially when it comes to determining academic suitability and alignment with President Trump’s Executive Orders,” a senior state department official told <em>The PIE News. </em>&nbsp;</p>
+<p>“My average family in China or in Korea or in India [applying through Crimson Education] is not blinking” reveals Beaton.<br /><br />“Basically, they&#8217;re really resolute. You can&#8217;t just wake up one day and decide to apply to America – you normally have a lot of planning, often for four years before you go. What that means is that you need to be default-preparing if you want to go to the US.</p>
 
 
 
-<p>Study abroad colleagues and former Fulbright scholars have taken to social media, expressing support for the board members and highlighting the huge soft power benefits of “one of the most respected international exchange programs in the world”. &nbsp;</p>
+<p>&#8220;Often my students will apply to Oxbridge and the US top schools, but the optimal strategy continues to be you build a great US profile and indirectly you’ll build a very good Oxford-UK profile as well.<br /><br />“If you need to, you can take a gap year from the US and if you still want to graduate in four years, you can do advanced standard, which means you do APs and A-levels and you can finish your degree in three years rather than four – which is what I did.<br /><br />“That means you&#8217;ve got up to 18 months past when you apply if you&#8217;re in the Southern Hemisphere, a full year plus your gap between applications being submitted and the result, or in the Northern Hemisphere you have 14 months which is plenty of protection [from any political disruption] and even in a really apocalyptic situation like Covid-19 you can still take online courses from Harvard, or begin an exchange semester.<br /><br />“The number of scenarios where a determined US student has to &#8216;blink&#8217; is not that high. You can&#8217;t be a Canadian-bound applicant who adds Yale the last minute – but you can be a Yale applicant who adds Canada at the last minute.”</p>
 
 
 
-<p>As of Wednesday afternoon, the <a href="https://www.state.gov/fulbright-foreign-scholarship-board/#ffsb-members" rel="noreferrer noopener" target="_blank">Fulbright membership page</a> on the state department website listed only one name: Carmen Estrada-Schaye, who was appointed to the board in 2022. </p>
+<p>The US economy has often been seen as a gold-plated environments for graduates, where they can graduate from top colleges and then progress directly into graduate jobs in finance, tech, medicine or law.</p>
 
 
 
-<p>“I was appointed by the president of the United States and I intend to fill out my term,” Estrada-Schaye told <em>The Associated Press</em>. </p>
+<p>“The US is incredibly resilient,&#8221; continues Beaton. “I would say the American dream is alive and well – the problems we&#8217;re seeing are a function of the fact that the American dream is not as accessible to everyone.</p>
 
 
 
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p>To continue to serve &#8230; would risk legitimising actions we believe are unlawful and damage America&#8217;s credibility abroad</p>
-<cite>Fulbright Scholarship board members</cite></blockquote>
+<p><strong>“</strong>President Trump is creating an opportunity for future politicians to ruffle feathers in a way that creates elevated risk for some institutions, but ultimately, I think it&#8217;s largely noise, a way of dominating the news-cycle.<br /><br />“Even if a certain administration was trying to take a wrecking ball through some of these universities, it will be very hard to structurally dislocate how influential and desirable they are on the world stage.</p>
 
 
 
-<p>“We are frankly stunned that the distinguished Fulbright board was backed into a corner by the Trump Administration and saw no alternative but to resign,” AIFS chairman Bill Gertz told <em>The PIE News. </em> </p>
-
-
-
-<p>“Fulbright enjoys bipartisan support in Congress,” said Gertz, adding that he expected this, and all cultural exchanges, to be fully funded in 2026 and beyond.&nbsp;</p>
-
-
-
-<p>The news comes as the sector is bracing for the president&#8217;s FY 2026 “skinny” budget, with Trump currently proposing <a href="https://thepienews.com/campaign-builds-to-save-decimation-of-us-study-abroad/" rel="noreferrer noopener" target="_blank">cutting international exchanges</a> by 93%, though these plans are yet to be approved by Congress. &nbsp;</p>
-
-
-
-<p>Founded in 1946, each year the Fulbright Program provides approximately 8,000 merit-based grants to students, scholars and professionals pursuing graduate studies, conducting research, or teaching English abroad.&nbsp;</p>
-
-
-
-<p>Grants are awarded to US students and international students from 160 countries, with the scholarship considered a key pillar of American public diplomacy and soft power. &nbsp;</p>
-
-
-
-<p>&#8220;Our resignation is not a decision we take lightly,&#8221; wrote members: &#8220;But to continue to serve after the Administration has consistently ignored the board’s request that they follow the law would risk legitimising actions we believe are unlawful and damage the integrity of this storied program and America’s credibility abroad.&#8221;</p>
-
-
-
-<p>As highlighted by the board members, Fulbright alumni have gone on to become leaders of government, industry, academia, arts and culture “in every part of the world”. &nbsp;</p>
-
-
-
-<p>Sixty-two Fulbright alumni have been awarded the Nobel Prize, while 44 Fulbright recipients have served as heads of state or government, according to the State Department.</p>
-
-
-
-<p>While the program is sponsored by the State Department, over 35 foreign governments match or exceed the US government’s annual contributions. &nbsp;</p>
-
-
-
-<p>Board member Ambassador James Costos said he voted to resign the board “not in protest, but in defence of principle”.&nbsp;</p>
-
-
-
-<p>In a statement on June 11, Costos highlighted Fulbright’s “extraordinary role in advancing international education and cultural diplomacy,” forming bonds that “serve as the strongest defence against global conflict”. &nbsp;</p>
-
-
-
-<p>“That is the essence of soft power. That is the Fulbright legacy,” wrote Costos, maintaining that he believed in that legacy too deeply to stand by “as it is compromised”.&nbsp;</p>
-<p>The post <a href="https://thepienews.com/fulbright-board-resigns-over-claims-of-trumps-political-interference/">Fulbright board resigns, citing Trump&#8217;s political interference</a> appeared first on <a href="https://thepienews.com">The PIE News</a>.</p>
+<p><strong>“</strong>If you look at this from the media, Harvard is getting bombed out in all directions. Funding cuts, international student bans, it should be reeling. But I was at the graduation there and it was jubilant excitement. There was a sense of consolidation behind the University president and while there are clearly challenges, the core university is incredibly strong and durable.”</p>
+<p>The post <a href="https://thepienews.com/dont-blink-us-bound-students-advised-to-hold-their-nerve/">Don’t blink: US-bound students advised to hold their nerve</a> appeared first on <a href="https://thepienews.com">The PIE News</a>.</p>
 
 ### 발행일
-2025-06-12T17:11:39+00:00
+2025-06-17T17:08:26+00:00
 
 ### 출처
 ThePieNews
@@ -324,149 +204,224 @@ ThePieNews
 --------------------------------------------------------------------------------
 
 ### 제목
-Duolingo English Test: what happened at DETcon London?
+Sector mourns students and professionals lost in Air India crash
 
 ### 링크
-https://thepienews.com/duolingo-english-test-what-happened-at-detcon-london/
+https://thepienews.com/sector-mourns-student-and-professionals-lost-in-air-india-crash/
 
 ### 본문
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-
-</div></figure>
-<p>The post <a href="https://thepienews.com/duolingo-english-test-what-happened-at-detcon-london/">Duolingo English Test: what happened at DETcon London?</a> appeared first on <a href="https://thepienews.com">The PIE News</a>.</p>
-
-### 발행일
-2025-06-12T14:18:06+00:00
-
-### 출처
-ThePieNews
-
---------------------------------------------------------------------------------
-
-### 제목
-UK: Sector will “pay the price” for rapid expansion at mid-ranking universities
-
-### 링크
-https://thepienews.com/compliance-mid-ranking-unis-uk/
-
-### 본문
-<p><strong>Additional reporting by Nicholas Cuthbert</strong></p>
-
-
 <div class="summary-container bg-orange-200 px-4 py-[22px]">
 	<div class="prose max-w-none dark:prose-invert text-black">
 
 <ul class="wp-block-list">
-<li>Immigration white paper brings compliance conversations to the fore as Tony Blair&#8217;s Home Secretary questions rapid rise in international students at mid-ranking institutions.</li>
+<li>International student hailing from Gujarat one of those tragically killed in devastating air accident.</li>
 
 
 
-<li>Sector hits back at comments, pointing out that consequences of compliance not worth it for institutions.</li>
+<li>UK universities issue heartfelt statements mourning the dead as Coventry University confirms two incoming students were killed in the crash.</li>
 
 
 
-<li>Concerns also raised about asylum claims, as reports suggest some students are using route to extend stay in UK.</li>
+<li>Institutions issue guidance for international students as leaders look to amp up student support.</li>
 </ul>
 
 </div>
 </div>
 
 
-<p>Jack Straw, who served as Home Secretary between 1997 and 2001, pointed to parts of the recently released<a href="https://www.gov.uk/government/publications/restoring-control-over-the-immigration-system-white-paper" rel="noreferrer noopener" target="_blank"> immigration white paper</a> that showed universities ranked between 600 an 1,200 by the Times Higher Education had &#8220;expanded dramatically&#8221; in terms of their international intake.</p>
+<p>Exceptional, intellectually curious, generous, and a passionate cricket enthusiast – that&#8217;s how professors and friends remember 22-year-old Dirdh Patel, the Gujarat native who was among at least 271 people killed in last week’s tragic Air India Ahmedabad–London flight crash.</p>
 
 
 
-<p>&#8220;There has to be a question there about the fact that some universities in that category have been chasing students and not paying attention to rigorous controls,&#8221; he told delegates at Duolingo English Test&#8217;s inaugural DETcon London yesterday. &#8220;And if you do that, the rest of the sector will pay the price.&#8221;</p>
+<p>Patel, who had been pursuing an MSc in Artificial Intelligence at the <a href="https://www.hud.ac.uk/" rel="noreferrer noopener" target="_blank">University of Huddersfield</a> since last year, was living with his brother and sister-in-law in Leeds and working as an AI/ML engineering intern in the UK when he travelled to India for personal reasons.</p>
 
 
 
-<p>&#8220;You may be complaining about that, but that&#8217;s just where it is,&#8221; he added.</p>
+<p>Riya Parmar, who studied with Patel at Dharmsinh Desai University during their undergraduate years, struggled to come to terms with the tragedy, recalling how she had met him just days before the crash, unaware it would be the last time she saw him.</p>
 
 
 
-<p>He highlighted the raft of stricter controls on international students highlighted in the white paper – which includes more stringent English language requirements and <a href="https://thepienews.com/visa-refusals-study-in-uk/" rel="noreferrer noopener" target="_blank">higher thresholds </a>for the Basic Compliance Assessment (BCA) – saying that he was &#8220;in no doubt&#8221; these would come into force in time.</p>
-
-
-
-<p>While the effect of these tighter regulations could &#8220;squeeze&#8230; some universities&#8221;, some of their business models up until this point had not been sustainable, he said. Straw went so far as to tell <em>The PIE News</em> that it was inevitable some universities would go bust.</p>
-
-
-
-<p>Straw&#8217;s comments drew ire from delegates at the conference – some of whom dismissed the claims as &#8220;rubbish&#8221;, while others were at pains to point out the high compliance rate in the sector.</p>
+<p>“He always had a dream to start something of his own. That’s why he decided to go to the UK, to earn in pounds,” Parmar told <em>The PIE News</em>.&nbsp;</p>
 
 
 
 <blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p>You may be complaining about that, but that&#8217;s just where it is<br /><strong><sup><sub>Jack Straw, former Home Secretary</sub></sup></strong></p>
+<p>We are still in shock that he’s gone, all we have now are memories<br /><strong><sup><sub>Riya Parmar, friend of Dirdh Patel</sub></sup></strong></p>
 </blockquote>
 
 
 
-<p>Speaking in a panel discussion later on at the event, deputy vice-chancellor at the University of Portsmouth, Chris Chang, said the notion that only certain institutons should be able to recruit international students was &#8220;nonsense&#8221;.</p>
+<p>&#8220;As a student, he was one of the brightest, both in school and university. He always helped his friends with assignments and was our go-to last-minute teacher before exams. And, as a person, so kind and incredibly humble.”</p>
 
 
 
-<p>&#8220;Half of the international staff [at this conference] would not be here today. I wouldn&#8217;t be here today because I&#8217;m went to study at a post-92 institution,&#8221; he said. &#8220;At the end of the day, I think that&#8217;s rubbish. I will be brave enough to say that.&#8221;</p>
+<p>Described as an “extrovert” and deeply “spiritual” at the same time, Patel had always dreamed of travelling across Europe, a dream Parmar still can’t believe he will never get to fulfil.</p>
 
 
 
-<p>He stressed that his university doesn&#8217;t &#8220;take sides&#8221;, instead offering choice and options for international students. And, he added, it is in institutions&#8217; best interests to pay heed to immigration controls. </p>
+<p>“We are still in shock that he’s gone, all we have now are memories,&#8221; she said. &#8220;We attended his funeral, and we are all trying our best to support his parents through this difficult time.”&nbsp;</p>
 
 
 
-<p>&#8220;We need to protect our sponsorship license – and that&#8217;s right, we need to take immigration policy seriously, that&#8217;s our duty. But we still offer choice and different people have different drivers,&#8221; he said.</p>
+<p>For the University of Huddersfield, Patel’s passing meant the loss of a standout student, someone who was at the top of his class and well on his way to making a meaningful impact in the world.</p>
 
 
 
-<p>Anne Marie Graham, UKCISA chief executive, defended the UK&#8217;s higher education sector as being &#8220;extremely compliant&#8221;.</p>
+<p>“He had a clear ability of seeing the bigger picture and how his learning could lead to making a positive impact in the world. This led him to graduate at the top of his class, achieving the highest average among all MSc AI students in his cohort,” stated Dr George Bargiannis, reader in artificial intelligence, School of Computing and Engineering at the University of Huddersfield, who was a mentor to Patel even after his graduation.&nbsp;</p>
 
 
 
-<p>&#8220;That&#8217;s not to say it is 100% compliant – there will be issue that arise – but what we don&#8217;t hear in that public narrative is how the UKVI and institutions work collaboratively to identify trends and work to eradicate problems,&#8221; she told The PIE. </p>
+<p>Coventry University also issued a statement mourning the loss of two incoming students, highlighting the profound impact the tragedy has had on UK universities as students return from travel breaks or prepare to join their respective programs.</p>
 
 
 
-<p>She continued: &#8220;It&#8217;s in no sponsors&#8217; interest to be noncompliant, they would lose their licence if they were to do so.&#8221;</p>
+<p>“These were young lives filled with dreams, aspirations, and the promise of a bright future. Our thoughts and deepest condolences are with their families and loved ones during this incredibly difficult time,” read a <a href="https://www.linkedin.com/posts/activity-7340678189142155265-1lka?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAADCAmZUB0C_UED0HkxgSoOKsiDQv_RWwjNs" rel="noreferrer noopener" target="_blank">statement</a> by Tarang Chowdhury, regional director, South Asia at Coventry University.&nbsp;</p>
 
 
 
-<p>Meanwhile, HEPI director Nick Hillman took aim at the Home Office&#8217;s attitude towards international education in the UK – shown in its emphasis upon compliance at universities in the <a href="https://thepienews.com/breaking-uk-graduate-route-reduced-to-18-months-under-immigration-white-paper/" rel="noreferrer noopener" target="_blank">immigration white paper</a>. Speaking to The PIE, he paid particular mind to the squeezed BCA thresholds.</p>
+<p>The Air India Flight 171 crash claimed the lives of 169 Indian nationals, 52 British nationals, seven Portuguese nationals, and one Canadian, leaving only one survivor.</p>
 
 
 
-<p>&#8220;I think that it was quite a clever move of the government to put that crack down on compliance in the white paper because it is the sort of thing [mainstream] journalists overlook, but it is critically important and a good number of universities are very close to those new, reduced thresholds and they are going to have to look very carefully at their numbers,&#8221; he said.</p>
+<p>It also killed 30 people on the ground, many of them students from Ahmedabad’s BJ Medical College, sending shockwaves through the international education sectors of both India and the UK, as the tragedy took the lives of not only students but also <a href="https://www.linkedin.com/posts/uow-enterprises_in-loving-memory-of-kalyani-brahmbhatt-activity-7340544297571635201-Hq_n" rel="noreferrer noopener" target="_blank">professionals</a> within the industry.</p>
 
 
 
-<p>And he said the sector always faced an &#8220;existential crisis&#8221; in the rare cases when institutions were banned from recruiting international students. </p>
+<p>“As soon as the news of the crash broke on the news channels, many of our partners – including senior leadership and several vice-chancellors – promptly reached out to enquire about the safety of our staff and students,” said Jasminder Khanna, co-founder of <a href="https://gresham.world/" rel="noreferrer noopener" target="_blank">Gresham Global</a>, a Mumbai-based representation firm supporting recruitment operations for UK universities in South Asia.&nbsp;</p>
 
 
 
-<p>&#8220;There are a lot of different factors to do with compliance, some of which are in the control of the university, and some are to do with geopolitical factors. You suddenly find you&#8217;ve got far more applicants from one part of the world that you have traditionally recruited from,&#8221; he said. &#8220;These numbers can go up and down by more than people realise year to year and I think the Home Office are trying to pull a fast one in making it look much simpler than it feels to people on the ground.&#8221;</p>
+<p>“While there were some students scheduled to travel to the UK for the summer course, thankfully, none (among partner universities) were on flight AI 131. I had calls and messages from almost all of our partner universities including the non-UK ones.”</p>
 
 
 
-<p>Speaking at DETCon London, Straw also took a hard line on reports of international students applying for asylum – which also formed a sizeable part of the immigration white paper as the government took swipes at those it claims are doing so disingenuously as a way to extend their time in the UK.</p>
+<p>The incident also comes just a month after India and the UK <a href="https://thepienews.com/what-does-the-india-uk-trade-deal-mean-for-international-students/" rel="noreferrer noopener" target="_blank">signed</a> a free trade agreement aimed not only at reducing tariffs and boosting exports, but also at enhancing mobility between the two countries.</p>
 
 
 
-<p>The white paper drew attention to an increasing number of asylum clams for students coming to the end of their course &#8220;even though nothing substantive has changed in their home country while they have been in the UK&#8221;. It pointed to figures showing that around 30% of asylum claims in the UK come from visa holders, with 47% of this number coming from students.</p>
+<p>The growing bilateral relationship between India and the UK, which now relies heavily on smoother travel between the two countries, has also prompted UK universities to introduce new support measures for their students in India, especially in light of the recent plane crash.</p>
 
 
 
-<p>While Straw pointed out that some of these claims would be genuine, he hit out at the practice as a whole, calling it &#8220;a racket&#8230; we should have no truck with&#8221;.</p>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>While we already maintain strong engagement through pre-departure support and arrival briefings, we recognise that situations like this call for more structured and anticipatory outreach<br /><strong><sub><sup>Disha Gupta, Birmingham City University</sup></sub></strong></p>
+</blockquote>
 
 
 
-<p>&#8220;Everybody knows it&#8217;s a racket. And there are a lot of people, particularly immigration advisors and lawyers, who are making money out of this racket,&#8221; he stressed. &#8220;We should deal with it.&#8221;</p>
+<p>In the days following the incident, multiple Air India flights have been cancelled, including a London-bound flight from Ahmedabad that was grounded due to operational issues.</p>
+
+
+
+<p>“I am hoping that such incidents never ever happen but it is not under anyone&#8217;s control. We are not advising students for any specific for or against any airlines at all,” stated Jaspreet Kaur, principal adviser (South Asia) supporting <a href="https://www.qmul.ac.uk/" rel="noreferrer noopener" target="_blank">Queen Mary University of London</a>, UK-India Business Council.&nbsp;</p>
+
+
+
+<p>“However, we have been advising to watch out the airspace criteria as there are more issues with the air routes from India to UK at the moment.”</p>
+
+
+
+<p>“As soon as news of the crash surfaced, our international recruitment team in South Asia immediately began reaching out to current applicants and partner agents in the region – particularly in Gujarat – to check in, offer reassurance, and provide any necessary support,” stated Disha Gupta, head of operations and recruitment, India, UAE, Nepal and Sri Lanka at <a href="https://www.bcu.ac.uk/">Birmingham City University</a>.&nbsp;</p>
+
+
+
+<p>According to Gupta, in addition to university-wide communications and dedicated counselling and support services, the institution is also introducing wellbeing check-ins throughout the admissions journey, in collaboration with its partners across India.</p>
+
+
+
+<p>“While we already maintain strong engagement through pre-departure support and arrival briefings, we recognise that situations like this call for more structured and anticipatory outreach. We are working closely with our internal support teams to see how we can embed this within our wider international student experience strategy,” she added.&nbsp;</p>
+
+
+
+<p>While India’s directorate general of civil aviation has reportedly found no major safety concerns with Air India’s Dreamliner fleet, the aircraft model involved in the crash, a Reuters report revealed that the aviation authority has requested pilot and dispatcher records from Air India as part of its ongoing investigation.&nbsp;</p>
+
+
+
+<p>In a separate memo dated June 16, the DGCA has also urged flying schools across the country to “strictly follow additional safety and operational measures”.&nbsp;</p>
+<p>The post <a href="https://thepienews.com/sector-mourns-student-and-professionals-lost-in-air-india-crash/">Sector mourns students and professionals lost in Air India crash</a> appeared first on <a href="https://thepienews.com">The PIE News</a>.</p>
+
+### 발행일
+2025-06-17T17:02:58+00:00
+
+### 출처
+ThePieNews
+
+--------------------------------------------------------------------------------
+
+### 제목
+Swinburne partners to offer qualifications in Qatar
+
+### 링크
+https://thepienews.com/swinburne-partners-to-offer-qualifications-in-qatar/
+
+### 본문
+<p>The first Australian university to offer its qualifications in Qatar, <a href="https://www.swinburne.edu.au/" rel="noreferrer noopener" target="_blank">Swinburne</a> is poised to offer a range of degrees, including in computer science and business, through the partnership with BUC, a newly-established private higher education institute in Doha.</p>
+
+
+
+<p>In a statement, Swinburne described it as a &#8220;huge milestone&#8221; – one that reflects its &#8220;commitment to delivering tech-rich, future focused education, now with a global reach&#8221;.</p>
+
+
+
+<p><a href="https://buc.edu.qa/">BUC</a> describes itself as &#8220;a forward-thinking institution of higher education&#8230; dedicated to empowering the next generation of leaders, innovators, and professionals&#8221;.</p>
+
+
+
+<p>Freshly launched, it aims to offer globally relevant academic programs, industry-aligned training, and a supportive environment that encourages creativity, critical thinking, and career readiness.</p>
+
+
+
+<p>&#8220;By combining Swinburne&#8217;s curriculum with BUC’s deep regional insight and industry connections, we&#8217;re equipping students to thrive not only in Australia, but globally,&#8221; commented Swinburne&#8217;s vice-chancellor, Pascale Quester.</p>
+
+
+
+<p>&#8220;Swinburne has a bold ambition of being a globally connected and accessible university – where the world truly is our campus. Our partnership with BUC is built on a shared mission to empower students with the skills, knowledge and mindset needed for lifelong success,&#8221; she added.</p>
+
+
+
+<p>The inaugural intake of students is set for October 2025.</p>
+
+
+
+<p>Vice chairman of BUC, Hassan Al-Derham, said the partnership ensures Qatar&#8217;s next generation &#8220;gains access to top-tier Australian education here at home, aligned with the nation’s vision for innovation and leadership&#8221;.</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>We are not just offering degrees – we are opening doors. Doors to global classrooms, powerful ideas, and careers that don’t yet exist, but will<br /><strong><sub><sup>Hassan Al-Derham, BUC</sup></sub></strong></p>
+</blockquote>
+
+
+
+<p>“We are not just offering degrees – we are opening doors. Doors to global classrooms, powerful ideas, and careers that don’t yet exist, but will,&#8221; he added.</p>
+
+
+
+<p>Al-Derham brings to the institute a wealth of experience, having served as president of Qatar University from 2015 to 2023.</p>
+
+
+
+<p>BUC’s leadership also includes Sheikh Abdullah bin Nasser bin Khalifa Al Thani, a member of the ruling family and former Prime Minister of Qatar from 2013-2020.</p>
+
+
+
+<p>The Qatar National Vision 2030 aims to transform the country into a knowledge-based economy, making initiatives like BUC – and its international partnerships – a key part of the nation’s strategy to diversify and strengthen its higher education sector.</p>
+
+
+
+<p>In a statement, Swinburne described how the industry-aligned degrees are set to empower students with the practical skills needed for &#8220;Qatar’s evolving economy&#8221; and aligning with the 2030 Vision.</p>
 
 
 
 <p></p>
-<p>The post <a href="https://thepienews.com/compliance-mid-ranking-unis-uk/">UK: Sector will &#8220;pay the price&#8221; for rapid expansion at mid-ranking universities</a> appeared first on <a href="https://thepienews.com">The PIE News</a>.</p>
+
+
+
+<p></p>
+<p>The post <a href="https://thepienews.com/swinburne-partners-to-offer-qualifications-in-qatar/">Swinburne partners to offer qualifications in Qatar</a> appeared first on <a href="https://thepienews.com">The PIE News</a>.</p>
 
 ### 발행일
-2025-06-12T12:32:41+00:00
+2025-06-17T16:30:50+00:00
 
 ### 출처
 ThePieNews
