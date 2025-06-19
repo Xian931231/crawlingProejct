@@ -1,52 +1,38 @@
 ### 제목
-Here’s what happened in crypto today
+Pavel Durov warns France is experiencing societal collapse
 
 ### 링크
-https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/telegram-durov-warns-france-societal-collapse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 
 ### 본문
-Today in crypto, the US Senate has passed the GENIUS stablecoin bill, marking a key step as the legislation moves to the House. Meanwhile, Thailand has suspended taxes on crypto income for the next five years, and Bitcoin returned gains amid rising tensions in the Middle East.
+Telegram founder Pavel Durov warned that France may experience a societal collapse if it continues down its current political trajectory of censorship and regulatory policies during an interview on Wednesday.
 
-US Senate passes GENIUS stablecoin bill in 68-30 vote
+“Emmanuel Macron isn’t making the right choices. I’m very disappointed. France is getting weaker and weaker,” Durov said in a translated excerpt from an interview with French outlet Le Point. Durov added:
 
-The Guiding and Establishing National Innovation for US Stablecoins, or GENIUS Act, is one step closer to becoming law in the US after the US Senate voted to pass an amended version of the bill.
+"If you raise one or two generations with a certain mindset, it then takes decades to change it. If we continue to waste time, the risk increases that the country will have to undergo very extreme changes.
 
-In a Tuesday vote of 68-30, a majority of the US Senate chose to pass the GENIUS Act roughly six weeks after Tennessee Senator Bill Hagerty introduced the legislation. The bill’s companion, the STABLE Act, may be considered in the House of Representatives next, where it could face additional proposals for amendments.
+When we delay necessary reforms too long, we end up experiencing a collapse,” the Telegram founder continued, warning that France was losing talent to other jurisdictions like Dubai.
 
-“With this bill, the United States is one step closer to becoming the global leader in crypto,” said Hagerty from the Senate floor before the Tuesday vote, adding: “Once the GENIUS Act is law, businesses of all sizes, and Americans across the country will be able to settle payments nearly instantaneously rather than waiting for days or sometimes even weeks.”
+In early June, Durov appeared for an interview with Tucker Carlson, as the Telegram founder continued his media campaign following his August 2024 arrest in France.
 
-The GENIUS Act initially failed a cloture vote in the Senate in May in response to Democratic opposition to US President Donald Trump’s connections to the cryptocurrency industry. The Trump family has a significant stake in World Liberty Financial, which issued its own USD1 stablecoin in March.
+The arrest drew widespread condemnation from the crypto community, civil rights activists and human rights foundations, which continue to monitor the case of Durov and its implications for free speech, self-expression, and political opinion in the digital age.
 
-It’s unclear whether the stablecoin legislation will have enough support to pass in the House, where Republicans also hold a slim majority over Democrats. Trump’s AI and crypto czar, David Sacks, suggested in May that the president would support the bill passed by a Republican-controlled Congress.
+Related: Telegram founder Durov on arrest, detention in France: ‘I’m confused’
 
-Thailand approves five-year crypto tax exemption
+Claims that French intelligence sought to censor EU election content
 
-Thailand has approved tax exemptions on income from the sale of cryptocurrencies like Bitcoin for five years, according to a Ministry of Finance announcement.
+The Telegram founder also recounted claims that French intelligence services asked him to censor pro-conservative content related to the May 2025 Romanian presidential election.
 
-Thailand will waive the capital gains tax on crypto sales made through licensed crypto asset service providers in the period from Jan. 1, 2025, to Dec. 31, 2029, Deputy Finance Minister Julapun Amornvivat said in a statement issued on Tuesday.
+Durov said that Nicolas Lerner, the head of French intelligence services, approached him at the Hôtel de Crillon and asked to censor the content on the platform, a request he says he denied.
 
-According to the minister, the measure is designed to strengthen Thailand’s position as a global financial hub and one of the first countries to adopt laws for digital assets and their taxation.
+Durov argued that laws like the European Union’s Digital Services Act are a trojan horse for censorship cloaked as consumer protection regulations and vehicles to fight misinformation or promote online safety.
 
-The tax measure also aims to promote cryptocurrency trading in Thailand under the supervision of the Thai Securities and Exchange Commission (SEC) in compliance with Anti-Money Laundering (AML) policies recommended by the Financial Action Task Force (FATF).
+“These laws are dangerous because they can be used against those who created them. Today, they target those labeled conspiracy theorists. Tomorrow, they may target their authors,” Durov said in the interview.
 
-In the statement, the minister highlighted the role of crypto assets in fundraising, which is an important use case for technology and innovation in Thailand.
-
-According to the ministry’s estimations, crypto assets are projected to help the Thai economy expand and increase tax revenue in the medium term “by no less than 1 billion baht,” or $30.7 million.
-
-Bitcoin dips amid reports Trump has called advisers to situation room
-
-Bitcoin and cryptocurrency markets dipped after US President Donald Trump left a summit of world leaders and posted an ominous message about Tehran.
-
-Trump has requested that the National Security Council be prepared in the White House Situation Room as he returned early from the G7 summit in Canada on Monday, Fox News reported.
-
-The report comes just hours after Trump took to his social media platform, Truth Social, with a chilling message: “Everyone should immediately evacuate Tehran!”
-
-Bitcoin prices reacted immediately with a sharp 2% decline as it shed more than $2,000 over the past few hours.
-
-Bitcoin had earlier strengthened to an intraday high of $108,780, but the latest news sent it back to $106,421 before a minor recovery.
+Magazine: Did Telegram’s Pavel Durov commit a crime? Crypto lawyers weigh in
 
 ### 발행일
-2025-06-17T22:11:36+00:00
+2025-06-18T22:26:34+00:00
 
 ### 출처
 CoinTelegraph
@@ -54,294 +40,230 @@ CoinTelegraph
 --------------------------------------------------------------------------------
 
 ### 제목
-Tron Inc. Deal Gives Justin Sun’s Father Control of Public Firm Via $100M Token Deal
+Here’s what happened in crypto today
 
 ### 링크
-https://www.coindesk.com/markets/2025/06/17/tron-inc-deal-gives-justin-suns-father-control-of-public-firm-via-100m-token-deal
+https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 
 ### 본문
-Justin Sun's father, Weike Sun, was appointed Chairman of the Board, and Tron-affiliated executives were added to key board committees.
+Today in crypto, China’s central bank is establishing an international operations center to broaden the global reach of its digital yuan. In Iran, crypto exchange Nobitex was reportedly hacked by a group linked to Israel. Meanwhile, several publicly traded companies have raised hundreds of millions of dollars to increase their crypto holdings.
 
-A Securities and Exchange Commission (SEC) filing posted Monday night outlines the relationship between Tron DAO, Justin Sun, and SRM Entertainment, a Nevada company in the process of changing its name to Tron Inc.
+Chinese Central Bank pledges global expansion of digital yuan — Report
 
-The filing details a $100 million private investment in public equity (PIPE) deal, paid entirely in TRX TRX$0.27283 tokens, that gives Sun’s father, Weike Sun, board control and positions Tron-aligned advisors in key governance roles.
+China’s central bank chief Pan Gongsheng has pledged to expand the footprint of the digital yuan, reaffirming the country’s vision for its central bank digital currency (CBDC).
 
-Weike was named chairman, while Zhihong Liu, also known as Steve Liu, a strategic adviser to Tron DAO and the CEO of stablecoin issuer Techteryx, and Zi Yang, a senior executive at Tronscan, joined the board’s audit, compensation, and nominating committees, according to the filing.
+According to a Reuters report, China is creating an international operations center in Shanghai for the digital yuan, also known as e-CNY. Pan made the remarks at the Lujiazui Forum, a professional forum for high-profile local and international finance regulators and executives.
 
-The deal was structured as a private investment in public equity (PIPE) deal. An investment vehicle owned by Weike purchased 100,000 shares of SRM Series B preferred Stock via TRX tokens, convertible into 200 million common shares, and received 220 million warrants at a strike price of $0.50.
+China envisions a “multipolar” currency system where multiple currencies support the global economy, Pan said. This vision contrasts with the current system, where a few currencies, like the US dollar and the euro, play large roles in the global financial system.
 
-Despite the appearance of alignment, Tron DAO has no direct investment, governance rights, or formal role in the SRM deal, said Liu. "Tron DAO is not really any part of the deal for SRM. It’s more of the senior Sun's transaction."
+The US dollar, in particular, may have become less appealing to investors in 2025, partly due to the unscripted rollout of tariffs by US President Donald Trump over the past months.
 
-The DAO itself is not mentioned in the 8K filing either. Its influence appears to be indirect, reflected through the backgrounds of newly appointed board members tied to the Tron ecosystem.
+Pan also weighed in on digital technologies, claiming that traditional cross-border payment systems are vulnerable to geopolitical risk.
 
-According to the Financial Times, the renamed firm plans to buy and hold up to $210 million worth of TRX, similar to how MicroStrategy built a bitcoin-based corporate treasury.
+“Traditional cross-border payment infrastructures can be easily politicized and weaponized, and used as a tool for unilateral sanctions, damaging global economic and financial order," he said.
 
-The deal was arranged by Dominari Securities, a brokerage affiliated with Dominari Holdings, whose advisory board includes Donald Trump Jr. and Eric Trump and is located within Trump Tower in Manhattan.
+Iranian exchange Nobitex hacked for over $81 million by Israel-linked hackers
 
-Dominari Securities was paid $50,000 for the counsel for the transaction, according to the 8K filing.
+Iran-based cryptocurrency exchange Nobitex has been hacked for more than $81 million of digital assets, according to onchain investigator ZachXBT.
 
-SRM, the listed Tron entity, is down 15%, trading at $7.73 as the market closed in New York. The TRX$0.27283 token is down 2.5%, trading at $0.27.
+The attack, disclosed in a Wednesday Telegram post, drained at least $81.7 million in assets across the Tron network and Ethereum Virtual Machine (EVM)-compatible blockchains.
 
-Sam Reynolds is a senior reporter based in Asia. Sam was part of the CoinDesk team that won the 2023 Gerald Loeb award in the breaking news category for coverage of FTX's collapse. Prior to CoinDesk, he was a reporter with Blockworks and a semiconductor analyst with IDC.
+ZachXBT spotted attackers using a “vanity address” to exploit the protocol, which resulted in “suspicious outflows” from multiple Nobitex-linked wallets.
 
-About
+A vanity address refers to a public wallet address with a specific, user-defined sequence of characters. The first $49 million was stolen through the address “TKFuckiRGCTerroristsNoBiTEXy2r7mNX.” The second address used was “0xffFFfFFffFFffFfFffFFfFfFfFFFFfFfFFFFDead,” according to Tronscan.
 
-Contact
+A pro-Israel hacker group calling itself “Gonjeshke Darande” has claimed responsibility for the Nobitex hack.
+
+Nobitex confirmed that a portion of its hot wallets saw signs of “unauthorized access” and was immediately “suspended” upon detection.
+
+“Users’ assets are completely secure according to cold storage standards, and the above incident only affected a portion of the assets in hot wallets,” Nobitex said in an X post, adding that “all damages will be compensated through the insurance fund and Nobitex resources.”
+
+The Nobitex exploit “appears to stem from a critical failure in access controls, allowing attackers to infiltrate internal systems and drain hot wallets across multiple blockchains,” according to Hakan Unal, senior security operations lead at blockchain security firm Cyvers.
+
+“Yet, surprisingly, the stolen funds remain unmoved,” Unal said.
+
+The breach adds to a growing list of crypto industry hacks in 2025. More than $2.1 billion in digital assets have been stolen so far this year, according to blockchain security firm CertiK.
+
+Four public US firms to spend $844 million on Bitcoin, HYPE
+
+At least three publicly-traded US firms said on Tuesday that they would spend a total of nearly $800 million buying Bitcoin (BTC), while another said it raised $50 million to buy the Hyperliquid (HYPE) token.
+
+The heat-and-eat meal seller DDC Enterprise Ltd said it entered into three purchase agreements totaling $528 million, all of which will be used to expand the firm’s Bitcoin holdings, which was partly backed by the venture capital arm of Animoca Brands.
+
+Bitcoin financial services firm Fold Holdings Inc also said on Tuesday that it secured a $250 million equity purchase facility, with the net proceeds “primarily intended” to fund additional Bitcoin purchases.
+
+Meanwhile, Bitcoin mining equipment rental firm BitMine Immersion Technologies finished its purchase of $16.3 million worth of Bitcoin using proceeds from a recent stock offering.
+
+Eyenovia, a digital eye exam tech developer, said it would set aside $50 million to buy HYPE, the token of the decentralized crypto derivatives exchange. The firm said it would also rebrand to “Hyperion DeFi” under the ticker HYPD.
 
 ### 발행일
-2025-06-17T22:28:33+00:00
+2025-06-18T22:08:59+00:00
 
 ### 출처
-CoinDesk
+CoinTelegraph
 
 --------------------------------------------------------------------------------
 
 ### 제목
-U.S. Senate Passes GENIUS Act to Regulate Stablecoins, Marking Crypto Industry Win
+Hybrid learning delivers the power skills international students need to succeed
 
 ### 링크
-https://www.coindesk.com/policy/2025/06/17/u-s-senate-passes-genius-act-to-regulate-stablecoins-marking-crypto-industry-win
+https://thepienews.com/hybrid-learning-delivers-the-power-skills-international-students-need-to-succeed/
 
 ### 본문
-The legislation to set rules for stablecoin issuers is the first major digital assets bill to ever clear the Senate and now moves on to the U.S. House.
+<p>In the past five years, the conversation around K-12 education has shifted dramatically from “what subjects are we teaching?” to “what skills are we building?” </p>
 
-The overwhelming bipartisan passage of the U.S. Senate's stablecoin bill, with a 68-30 final vote that saw a huge surge of Democrats joining their Republican counterparts on Tuesday, sets a new high-water mark of crypto policy efforts in the U.S. as the legislation now heads to the House of Representatives.
 
-The major Democratic backing for the Guiding and Establishing National Innovation for U.S. Stablecoins of 2025 (GENIUS) Act helps give it momentum as it lands in the other chamber, where House lawmakers can either vote on it as written or pursue changes that will require a final round in the Senate before it can head to President Donald Trump's desk.
 
-As written, the bill would set up guardrails around the approval and supervision of U.S. issuers of stablecoins, the dollar-based tokens such as the ones backed by Circle, Ripple and Tether. Firms making these digital assets available to U.S. users would have to meet stringent reserve demands, transparency requirements, money-laundering compliance and regulatory supervision that's also likely to include new capital rules.
+<p>And nowhere is this more evident than in international hybrid learning, where online models are empowering students to master the <a href="https://www.thomsonreuters.com/en-us/posts/legal/power-skills-rebranding/?utm_source=chatgpt.com">power skills</a> that today’s universities and employers are desperate for.</p>
 
-Ji Kim, the Acting CEO of the Crypto Council for Innovation, called it a "historic step forward for the digital asset industry," in a prepared statement shared ahead of the vote
 
-"This is a win for the U.S., a win for innovation and a monumental step towards appropriate regulation for digital assets in the United States," said Amanda Tuminelli, executive director and chief legal officer of the DeFi Education Fund, in a similar statement.
 
-While it has failed to convince some of the most vocal Democratic critics such as Senator Elizabeth Warren, who say it allows loopholes for foreign tokens such as Tether's USDT$1.00, doesn't deal with conflicts presented by the personal crypto involvement of President Trump and clears a path for technology giants such as Amazon to issue their own coins, the bill's backers in her party have essentially argued that doing nothing isn't an option.
+<p>Today, power skills – critical thinking, cross-cultural fluency, self-management, and adaptability – are at the top of every hiring manager’s list. What’s driving the shift? AI is rapidly automating routine tasks, but it can’t lead a team meeting, navigate a conflict, or spark innovation. </p>
 
-"With this bill, the United States is one step closer to becoming the global leader in crypto," said Senator Bill Hagerty, the Tennessee Republican who sponsored the bill, as the Senate prepared to vote on Tuesday. "The value of stablecoins will be pegged to the U.S. dollar and backed one-to-one by cash and short-term U.S. Treasuries. This will provide certainty and confidence for more wide-scale adoption of this transformational technology.”
 
-While this is the first significant crypto bill to clear the Senate, it's also the first time a stablecoin bill has passed either chamber, despite years of negotiation in the House Financial Services Committee that managed to produce other major crypto legislation in the previous congressional session.
 
-The destiny of the GENIUS Act is also tied closely to the House's own Digital Asset Market Clarity Act, the more sweeping crypto bill that would establish the legal footing of the wider U.S. crypto markets. The stablecoin effort is slightly ahead of the bigger task of the market structure bill, but the industry and their lawmaker allies argue that they're inextricably connected and need to become law together. So far, the Clarity Act has been cleared by the relevant House committees and awaits floor action.
+<p>As the <em>Financial Times</em> recently reported, AI is pushing employees’ work toward “higher-value, human-centric tasks.” In response, companies are redesigning roles and urgently seeking employees who are not only tech-savvy but also resilient, adaptable, and ready to lead.</p>
 
-The crypto industry's lobbyists turn now to the House on both those issues. A new report on Tuesday from TRM Labs says that stablecoins represent more than 60% of current crypto transactions, and more than 90% of those coins are pegged to the U.S. dollar — dominated by USDC and USDT.
 
-"Although TRM estimates that 99% of stablecoin activity is licit, their speed, scale, and liquidity have made them appealing for illicit uses, including ransomware payments, fraud, and terrorist financing," the analytical organization noted.
 
-Illicit finance represents one of the major complaints of critics in Congress.
+<p>Today’s students will need power skills to succeed in the modern world. These aren’t optional, they’re essential. And hybrid learning environments, especially those built on US curriculum frameworks, are producing them at scale.</p>
 
-Read More: Can Tether's Dominance Survive the U.S. Stablecoin Bill?
 
-Jesse Hamilton is CoinDesk's deputy managing editor on the Global Policy and Regulation team, based in Washington, D.C. Before joining CoinDesk in 2022, he worked for more than a decade covering Wall Street regulation at Bloomberg News and Businessweek, writing about the early whisperings among federal agencies trying to decide what to do about crypto. He’s won several national honors in his reporting career, including from his time as a war correspondent in Iraq and as a police reporter for newspapers. Jesse is a graduate of Western Washington University, where he studied journalism and history. He has no crypto holdings.
 
-About
+<p><strong>Critical thinking: learning that isn’t About memorisation</strong></p>
 
-Contact
+
+
+<p>Hybrid learning challenges students to solve real problems, not just repeat facts. Courses like AP® Computer Science and Intro to AI require students to think analytically, connect ideas, and apply what they’ve learned.</p>
+
+
+
+<p>In a well-designed hybrid course, questions aren’t just factual. Teachers employ critical thinking questions such as, “why do you think this is the best approach? What makes you think that?” or “what might be a better solution?” These are questions that encourage students to evaluate, compare, and defend their thinking.</p>
+
+
+
+<p><a href="https://go.hudsonglobalscholars.com/the-pie-news" rel="noreferrer noopener" target="_blank">Hudson Global Scholars</a> student Guillermo Oropeza of Mexico shared that taking hybrid AP® courses helped him to think critically, test solutions, and refine his logic. “I like to challenge myself, and the program helped me do that,” he said. “I definitely felt like I was outside my comfort zone.”</p>
+
+
+
+<p>When students encounter unfamiliar topics in a second language, as many Hudson students do, their engagement tends to deepen. They aren’t just consuming content but analysing information through the lens of their own experience and using new insights and skills gained to redefine their future.</p>
+
+
+
+<p><strong>Communication: more than just language fluency</strong></p>
+
+
+
+<p>In the international workplace, the ability to communicate clearly, collaborate across cultures, and self-manage is the real differentiator.</p>
+
+
+
+<p>In the global classroom, communication extends beyond English mastery. It’s about listening, collaborating, presenting ideas clearly, and building relationships across cultures. Our students engage in real-time discussions, submit reflective writing, give feedback on peer work, and participate in global clubs.</p>
+
+
+
+<p>Rania Angelis at Rodion Paideia School in Greece notes that students often form friendships through online courses and club activities. As coordinator of the hybrid program with Hudson, she observes that these connections often broaden students’ worldview and help them significantly improve their casual and formal communication skills.</p>
+
+
+
+<p>Angelis describes a student who met a Turkish friend through Hudson’s Best Buddy Club. The two teens realised they had more in common than they had expected and formed a strong bond. This summer, the girls will meet in person for the first time. </p>
+
+
+
+<p>“This is a friendship that never would have happened in a traditional classroom,” says Angelis. “The student from my school was shy at first, but this helped her come out of her shell and communicate more.”</p>
+
+
+
+<p>Cross-cultural connections, such as this, aren’t mere side benefits. They are at the core of learning how to communicate in today’s interconnected world.</p>
+
+
+
+<p><strong>Self-management: a must-have in today’s workplace</strong></p>
+
+
+
+<p>The modern workday is rarely linear; professionals juggle multiple projects, digital distractions, and global collaboration across time zones. That makes strong time management a professional necessity. Even with AI tools at their fingertips, employees still need the judgment to decide what matters most and when.</p>
+
+
+
+<p>Traditional schooling can limit students’ growth in personal time management or mask students’ struggles in this area. Schedules are defined. Teachers remind them of deadlines. In a hybrid program, time management skills are developed and reinforced. If a student doesn’t keep up with classwork, they feel stressed, and their behaviour changes.</p>
+
+
+
+<p>“The first year, I left everything until the end, and the last two months were like hell,” says Guillermo. “But I learned from that. Now I plan ahead, stay organised, and really manage my time.”</p>
+
+
+
+<p>This isn’t failure – it’s growth. Students in our programs learn to make schedules, prioritise tasks, meet deadlines, and ask for help. They have a teacher from the US who checks in regularly and a local coordinator at their school. But the student is in the driver’s seat – and that’s by design.</p>
+
+
+
+<p>We’ve seen this self-management translate to stronger college readiness and more confident transitions to international universities.</p>
+
+
+
+<p><strong>Adaptability: the edge that makes a student future-proof</strong></p>
+
+
+
+<p>If recent years have taught us anything, it’s that change isn’t a phase – it’s the new normal. Whether it’s emerging technologies, economic shifts, or global events, the pace of change is only accelerating. Today’s students – and tomorrow’s professionals – need the mindset and skills to adapt quickly, stay steady under pressure, and thrive in uncertainty.</p>
+
+
+
+<p>Students who can shift gears, learn new tools, and thrive in unfamiliar environments will lead the future workforce. That’s why hybrid education is a powerful training ground for adaptability.</p>
+
+
+
+<p>In a hybrid setting, students don’t just learn one way – they engage with a variety of learning tools, including videos, live sessions, interactive tools, and self-paced modules. This variety requires them to adjust to different teaching styles and platforms, often within the same course.</p>
+
+
+
+<p>Teachers model flexibility by encouraging experimentation and normalising the idea that learning doesn’t always follow a straight line. Their feedback nudges students to rethink approaches, revise their work, and try again – skills that translate directly to a fast-changing workplace. </p>
+
+
+
+<p>“Having teachers who were student-focused in their teaching style was a wonderful help,” says Kevin, a Hudson student from Vietnam. “The independent learning style required by my courses was a different experience for me, but my teachers helped me learn how to study and be more productive and self-directed as a learner.”</p>
+
+
+
+<p>Over time, students become more confident navigating the unfamiliar, which is the heart of true adaptability.</p>
+
+
+
+<p><strong>From power skills to powerful futures</strong></p>
+
+
+
+<p>In a world where job titles barely last a decade, power skills are the constant. Critical thinking, cross-cultural fluency, self-management, and adaptability aren&#8217;t just HR buzzwords – they’re the foundation of lifelong success. These are the skills that help students thrive in college, lead global teams, and navigate the unknown with confidence.</p>
+
+
+
+<p>As education leaders, we must ask: Are our programs building the skills students need to thrive in an English-speaking global economy? If not, how can innovative models like hybrid learning help us close the gap?<ins></ins></p>
+
+
+
+<p>The answer is clear: hybrid learning doesn’t just teach information. It teaches how to thrive.</p>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img alt="" class="wp-image-253219" height="470" src="https://thepienews.com/wp-content/uploads/2025/06/patricia-hoge.jpg" style="width: 273px; height: auto;" width="500" /></figure>
+
+
+
+<p><strong>Author bio: </strong>Dr Patricia Hoge is the chief academic officer at Hudson Global Scholars and an international expert on curriculum design, hybrid education, and 21st-century skills development.</p>
+
+
+
+<p></p>
+<p>The post <a href="https://thepienews.com/hybrid-learning-delivers-the-power-skills-international-students-need-to-succeed/">Hybrid learning delivers the power skills international students need to succeed</a> appeared first on <a href="https://thepienews.com">The PIE News</a>.</p>
 
 ### 발행일
-2025-06-17T21:47:55+00:00
-
-### 출처
-CoinDesk
-
---------------------------------------------------------------------------------
-
-### 제목
-Don’t blink: US-bound students advised to hold their nerve
-
-### 링크
-https://thepienews.com/dont-blink-us-bound-students-advised-to-hold-their-nerve/
-
-### 본문
-<p><strong>“</strong>The trend for the last 10 years has actually been the rise of the dominance of US universities &#8211; with the number of institutions with admissions rates below 8% growing dramatically,” explains Beaton, as he outlines how competitive US admissions are for prospective students.</p>
-
-
-
-<p>“Schools like NYU, the biggest international recruiter in the US, have gone from a 40% admissions rate down to a 7% admissions rates. Johns Hopkins has gone for 15% to 5%. Duke University has seen double the number applications,” Beaton continues.</p>
-
-
-
-<p>The Kiwi entrepreneur has first-hand experience, having himself graduated from Harvard, Standford and Yale in recent years, along with studying at Oxford and King&#8217;s in the UK and Tsinghua in China. </p>
-
-
-
-<p>Crimson Education, the company he founded as a 17 year old Harvard student is now valued at over USD $1 billion, specialising in supporting families to apply to the world&#8217;s most prestigious universities.</p>
-
-
-
-<p>Beaton believes that the appeal for US education is linked to curriculum design. While many countries have increasingly opted for degree pathways preparing students for specific industry careers, the US system offers more flexibility.   <br /><br />“People need multifaceted subject experiences” he explains. “18-year-olds don&#8217;t know what they want to do and it&#8217;s hard to even guess what the jobs will be in 10 years post their graduation.<br /><br />“Interest in liberal arts is ascending, and I would say the era of the single degree where all classes are one area is relatively declining – it is a structure disadvantage in a world that&#8217;s moving fast.”<br /><br />There is no better example of fast-paced change than US politics, where sweeping changes to legislation are being proposed at break-neck speed.<br /><br />The US government recently made global headlines by <a href="https://thepienews.com/us-trump-pauses-new-student-visa-interviews/" rel="noreferrer noopener" target="_blank">suspending</a> student visa appointments and <a href="https://thepienews.com/trump-revokes-harvards-ability-to-enrol-international-students/" rel="noreferrer noopener" target="_blank">limiting the powers</a> of institutions like Harvard University – so what are students making of these news headlines and is it impacting US appeal?</p>
-
-
-
-<p>“My average family in China or in Korea or in India [applying through Crimson Education] is not blinking” reveals Beaton.<br /><br />“Basically, they&#8217;re really resolute. You can&#8217;t just wake up one day and decide to apply to America – you normally have a lot of planning, often for four years before you go. What that means is that you need to be default-preparing if you want to go to the US.</p>
-
-
-
-<p>&#8220;Often my students will apply to Oxbridge and the US top schools, but the optimal strategy continues to be you build a great US profile and indirectly you’ll build a very good Oxford-UK profile as well.<br /><br />“If you need to, you can take a gap year from the US and if you still want to graduate in four years, you can do advanced standard, which means you do APs and A-levels and you can finish your degree in three years rather than four – which is what I did.<br /><br />“That means you&#8217;ve got up to 18 months past when you apply if you&#8217;re in the Southern Hemisphere, a full year plus your gap between applications being submitted and the result, or in the Northern Hemisphere you have 14 months which is plenty of protection [from any political disruption] and even in a really apocalyptic situation like Covid-19 you can still take online courses from Harvard, or begin an exchange semester.<br /><br />“The number of scenarios where a determined US student has to &#8216;blink&#8217; is not that high. You can&#8217;t be a Canadian-bound applicant who adds Yale the last minute – but you can be a Yale applicant who adds Canada at the last minute.”</p>
-
-
-
-<p>The US economy has often been seen as a gold-plated environments for graduates, where they can graduate from top colleges and then progress directly into graduate jobs in finance, tech, medicine or law.</p>
-
-
-
-<p>“The US is incredibly resilient,&#8221; continues Beaton. “I would say the American dream is alive and well – the problems we&#8217;re seeing are a function of the fact that the American dream is not as accessible to everyone.</p>
-
-
-
-<p><strong>“</strong>President Trump is creating an opportunity for future politicians to ruffle feathers in a way that creates elevated risk for some institutions, but ultimately, I think it&#8217;s largely noise, a way of dominating the news-cycle.<br /><br />“Even if a certain administration was trying to take a wrecking ball through some of these universities, it will be very hard to structurally dislocate how influential and desirable they are on the world stage.</p>
-
-
-
-<p><strong>“</strong>If you look at this from the media, Harvard is getting bombed out in all directions. Funding cuts, international student bans, it should be reeling. But I was at the graduation there and it was jubilant excitement. There was a sense of consolidation behind the University president and while there are clearly challenges, the core university is incredibly strong and durable.”</p>
-<p>The post <a href="https://thepienews.com/dont-blink-us-bound-students-advised-to-hold-their-nerve/">Don’t blink: US-bound students advised to hold their nerve</a> appeared first on <a href="https://thepienews.com">The PIE News</a>.</p>
-
-### 발행일
-2025-06-17T17:08:26+00:00
-
-### 출처
-ThePieNews
-
---------------------------------------------------------------------------------
-
-### 제목
-Sector mourns students and professionals lost in Air India crash
-
-### 링크
-https://thepienews.com/sector-mourns-student-and-professionals-lost-in-air-india-crash/
-
-### 본문
-<div class="summary-container bg-orange-200 px-4 py-[22px]">
-	<div class="prose max-w-none dark:prose-invert text-black">
-
-<ul class="wp-block-list">
-<li>International student hailing from Gujarat one of those tragically killed in devastating air accident.</li>
-
-
-
-<li>UK universities issue heartfelt statements mourning the dead as Coventry University confirms two incoming students were killed in the crash.</li>
-
-
-
-<li>Institutions issue guidance for international students as leaders look to amp up student support.</li>
-</ul>
-
-</div>
-</div>
-
-
-<p>Exceptional, intellectually curious, generous, and a passionate cricket enthusiast – that&#8217;s how professors and friends remember 22-year-old Dirdh Patel, the Gujarat native who was among at least 271 people killed in last week’s tragic Air India Ahmedabad–London flight crash.</p>
-
-
-
-<p>Patel, who had been pursuing an MSc in Artificial Intelligence at the <a href="https://www.hud.ac.uk/" rel="noreferrer noopener" target="_blank">University of Huddersfield</a> since last year, was living with his brother and sister-in-law in Leeds and working as an AI/ML engineering intern in the UK when he travelled to India for personal reasons.</p>
-
-
-
-<p>Riya Parmar, who studied with Patel at Dharmsinh Desai University during their undergraduate years, struggled to come to terms with the tragedy, recalling how she had met him just days before the crash, unaware it would be the last time she saw him.</p>
-
-
-
-<p>“He always had a dream to start something of his own. That’s why he decided to go to the UK, to earn in pounds,” Parmar told <em>The PIE News</em>.&nbsp;</p>
-
-
-
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p>We are still in shock that he’s gone, all we have now are memories<br /><strong><sup><sub>Riya Parmar, friend of Dirdh Patel</sub></sup></strong></p>
-</blockquote>
-
-
-
-<p>&#8220;As a student, he was one of the brightest, both in school and university. He always helped his friends with assignments and was our go-to last-minute teacher before exams. And, as a person, so kind and incredibly humble.”</p>
-
-
-
-<p>Described as an “extrovert” and deeply “spiritual” at the same time, Patel had always dreamed of travelling across Europe, a dream Parmar still can’t believe he will never get to fulfil.</p>
-
-
-
-<p>“We are still in shock that he’s gone, all we have now are memories,&#8221; she said. &#8220;We attended his funeral, and we are all trying our best to support his parents through this difficult time.”&nbsp;</p>
-
-
-
-<p>For the University of Huddersfield, Patel’s passing meant the loss of a standout student, someone who was at the top of his class and well on his way to making a meaningful impact in the world.</p>
-
-
-
-<p>“He had a clear ability of seeing the bigger picture and how his learning could lead to making a positive impact in the world. This led him to graduate at the top of his class, achieving the highest average among all MSc AI students in his cohort,” stated Dr George Bargiannis, reader in artificial intelligence, School of Computing and Engineering at the University of Huddersfield, who was a mentor to Patel even after his graduation.&nbsp;</p>
-
-
-
-<p>Coventry University also issued a statement mourning the loss of two incoming students, highlighting the profound impact the tragedy has had on UK universities as students return from travel breaks or prepare to join their respective programs.</p>
-
-
-
-<p>“These were young lives filled with dreams, aspirations, and the promise of a bright future. Our thoughts and deepest condolences are with their families and loved ones during this incredibly difficult time,” read a <a href="https://www.linkedin.com/posts/activity-7340678189142155265-1lka?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAADCAmZUB0C_UED0HkxgSoOKsiDQv_RWwjNs" rel="noreferrer noopener" target="_blank">statement</a> by Tarang Chowdhury, regional director, South Asia at Coventry University.&nbsp;</p>
-
-
-
-<p>The Air India Flight 171 crash claimed the lives of 169 Indian nationals, 52 British nationals, seven Portuguese nationals, and one Canadian, leaving only one survivor.</p>
-
-
-
-<p>It also killed 30 people on the ground, many of them students from Ahmedabad’s BJ Medical College, sending shockwaves through the international education sectors of both India and the UK, as the tragedy took the lives of not only students but also <a href="https://www.linkedin.com/posts/uow-enterprises_in-loving-memory-of-kalyani-brahmbhatt-activity-7340544297571635201-Hq_n" rel="noreferrer noopener" target="_blank">professionals</a> within the industry.</p>
-
-
-
-<p>“As soon as the news of the crash broke on the news channels, many of our partners – including senior leadership and several vice-chancellors – promptly reached out to enquire about the safety of our staff and students,” said Jasminder Khanna, co-founder of <a href="https://gresham.world/" rel="noreferrer noopener" target="_blank">Gresham Global</a>, a Mumbai-based representation firm supporting recruitment operations for UK universities in South Asia.&nbsp;</p>
-
-
-
-<p>“While there were some students scheduled to travel to the UK for the summer course, thankfully, none (among partner universities) were on flight AI 131. I had calls and messages from almost all of our partner universities including the non-UK ones.”</p>
-
-
-
-<p>The incident also comes just a month after India and the UK <a href="https://thepienews.com/what-does-the-india-uk-trade-deal-mean-for-international-students/" rel="noreferrer noopener" target="_blank">signed</a> a free trade agreement aimed not only at reducing tariffs and boosting exports, but also at enhancing mobility between the two countries.</p>
-
-
-
-<p>The growing bilateral relationship between India and the UK, which now relies heavily on smoother travel between the two countries, has also prompted UK universities to introduce new support measures for their students in India, especially in light of the recent plane crash.</p>
-
-
-
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p>While we already maintain strong engagement through pre-departure support and arrival briefings, we recognise that situations like this call for more structured and anticipatory outreach<br /><strong><sub><sup>Disha Gupta, Birmingham City University</sup></sub></strong></p>
-</blockquote>
-
-
-
-<p>In the days following the incident, multiple Air India flights have been cancelled, including a London-bound flight from Ahmedabad that was grounded due to operational issues.</p>
-
-
-
-<p>“I am hoping that such incidents never ever happen but it is not under anyone&#8217;s control. We are not advising students for any specific for or against any airlines at all,” stated Jaspreet Kaur, principal adviser (South Asia) supporting <a href="https://www.qmul.ac.uk/" rel="noreferrer noopener" target="_blank">Queen Mary University of London</a>, UK-India Business Council.&nbsp;</p>
-
-
-
-<p>“However, we have been advising to watch out the airspace criteria as there are more issues with the air routes from India to UK at the moment.”</p>
-
-
-
-<p>“As soon as news of the crash surfaced, our international recruitment team in South Asia immediately began reaching out to current applicants and partner agents in the region – particularly in Gujarat – to check in, offer reassurance, and provide any necessary support,” stated Disha Gupta, head of operations and recruitment, India, UAE, Nepal and Sri Lanka at <a href="https://www.bcu.ac.uk/">Birmingham City University</a>.&nbsp;</p>
-
-
-
-<p>According to Gupta, in addition to university-wide communications and dedicated counselling and support services, the institution is also introducing wellbeing check-ins throughout the admissions journey, in collaboration with its partners across India.</p>
-
-
-
-<p>“While we already maintain strong engagement through pre-departure support and arrival briefings, we recognise that situations like this call for more structured and anticipatory outreach. We are working closely with our internal support teams to see how we can embed this within our wider international student experience strategy,” she added.&nbsp;</p>
-
-
-
-<p>While India’s directorate general of civil aviation has reportedly found no major safety concerns with Air India’s Dreamliner fleet, the aircraft model involved in the crash, a Reuters report revealed that the aviation authority has requested pilot and dispatcher records from Air India as part of its ongoing investigation.&nbsp;</p>
-
-
-
-<p>In a separate memo dated June 16, the DGCA has also urged flying schools across the country to “strictly follow additional safety and operational measures”.&nbsp;</p>
-<p>The post <a href="https://thepienews.com/sector-mourns-student-and-professionals-lost-in-air-india-crash/">Sector mourns students and professionals lost in Air India crash</a> appeared first on <a href="https://thepienews.com">The PIE News</a>.</p>
-
-### 발행일
-2025-06-17T17:02:58+00:00
+2025-06-18T15:40:53+00:00
 
 ### 출처
 ThePieNews
@@ -349,67 +271,59 @@ ThePieNews
 --------------------------------------------------------------------------------
 
 ### 제목
-Swinburne partners to offer qualifications in Qatar
+Perth International College of English closes due to visa fee hikes
 
 ### 링크
-https://thepienews.com/swinburne-partners-to-offer-qualifications-in-qatar/
+https://thepienews.com/perth-international-college-of-english-closes-due-to-visa-fee-hikes/
 
 ### 본문
-<p>The first Australian university to offer its qualifications in Qatar, <a href="https://www.swinburne.edu.au/" rel="noreferrer noopener" target="_blank">Swinburne</a> is poised to offer a range of degrees, including in computer science and business, through the partnership with BUC, a newly-established private higher education institute in Doha.</p>
+<p>A longstanding pillar of the ELICOS sector, PICE has closed its doors after more than 25 years of service.<br /><br />A notice from The Tuition Protection Service (TPS) confirmed that PICE was placed into liquidation and ceased operating on June 16. The TPS said it is working to assist the international students affected by the closure.</p>
 
 
 
-<p>In a statement, Swinburne described it as a &#8220;huge milestone&#8221; – one that reflects its &#8220;commitment to delivering tech-rich, future focused education, now with a global reach&#8221;.</p>
+<p>Ian Aird, CEO of <a href="https://www.englishaustralia.com.au/" rel="noreferrer noopener" target="_blank">English Australia</a>, of which PICE was a member for more than 20 years, commented on the challenging environment faced by ELICOS providers like PICE and the reasons behind its closure.</p>
 
 
 
-<p><a href="https://buc.edu.qa/">BUC</a> describes itself as &#8220;a forward-thinking institution of higher education&#8230; dedicated to empowering the next generation of leaders, innovators, and professionals&#8221;.</p>
-
-
-
-<p>Freshly launched, it aims to offer globally relevant academic programs, industry-aligned training, and a supportive environment that encourages creativity, critical thinking, and career readiness.</p>
-
-
-
-<p>&#8220;By combining Swinburne&#8217;s curriculum with BUC’s deep regional insight and industry connections, we&#8217;re equipping students to thrive not only in Australia, but globally,&#8221; commented Swinburne&#8217;s vice-chancellor, Pascale Quester.</p>
-
-
-
-<p>&#8220;Swinburne has a bold ambition of being a globally connected and accessible university – where the world truly is our campus. Our partnership with BUC is built on a shared mission to empower students with the skills, knowledge and mindset needed for lifelong success,&#8221; she added.</p>
-
-
-
-<p>The inaugural intake of students is set for October 2025.</p>
-
-
-
-<p>Vice chairman of BUC, Hassan Al-Derham, said the partnership ensures Qatar&#8217;s next generation &#8220;gains access to top-tier Australian education here at home, aligned with the nation’s vision for innovation and leadership&#8221;.</p>
+<p>&#8220;Despite PICE’s exemplary reputation for quality, the <a href="https://thepienews.com/australian-study-visa-hike-slammed/" rel="noreferrer noopener" target="_blank">increase</a> in the student visa fee to $1,600, the record high student visa application refusal rates over the last 18 months, and the visa application processing delays have meant that PICE were unable to attract enough enrolments to be financially sustainable,&#8221; said Aird.</p>
 
 
 
 <blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p>We are not just offering degrees – we are opening doors. Doors to global classrooms, powerful ideas, and careers that don’t yet exist, but will<br /><strong><sub><sup>Hassan Al-Derham, BUC</sup></sub></strong></p>
+<p>The increase in the student visa fee to $1,600, the record high student visa application refusal rates over the last 18 months, and the visa application processing delays have meant that PICE were unable to attract enough enrolments to be financially sustainable<br /><sub><strong><sup>Ian Aird, English Australia</sup></strong></sub></p>
 </blockquote>
 
 
 
-<p>“We are not just offering degrees – we are opening doors. Doors to global classrooms, powerful ideas, and careers that don’t yet exist, but will,&#8221; he added.</p>
+<p>Aird said that since its founding in 2002, PICE director John Paxton, along with his team of highly dedicated ELICOS professionals, welcomed, served and taught tens of thousands of students from the world over.</p>
 
 
 
-<p>Al-Derham brings to the institute a wealth of experience, having served as president of Qatar University from 2015 to 2023.</p>
+<p>For over 12 years, Paxton was a board member of English Australia and the state delegate representing Western Australia’s ELICOS sector.</p>
 
 
 
-<p>BUC’s leadership also includes Sheikh Abdullah bin Nasser bin Khalifa Al Thani, a member of the ruling family and former Prime Minister of Qatar from 2013-2020.</p>
+<p>&#8220;English Australia’s board and secretariat are deeply saddened by this news. John and the PICE team have been integral to our community and our efforts for two decades,&#8221; continued Aird.</p>
 
 
 
-<p>The Qatar National Vision 2030 aims to transform the country into a knowledge-based economy, making initiatives like BUC – and its international partnerships – a key part of the nation’s strategy to diversify and strengthen its higher education sector.</p>
+<p>English Australia is also working with Paxton and the team, along with the TPS, to support impacted students, with a student information session being held on the PICE campus.</p>
 
 
 
-<p>In a statement, Swinburne described how the industry-aligned degrees are set to empower students with the practical skills needed for &#8220;Qatar’s evolving economy&#8221; and aligning with the 2030 Vision.</p>
+<p>Aird also offered his thoughts to &#8220;all those friends and colleagues across the sector&#8221; who have lost their jobs over recent months and urged stakeholders to reach out to the peak body body, and to one another, to give and get support.&#8221;</p>
+
+
+
+<p>The closure follows the shutdown of fellow ELICOS providers <a href="https://thepienews.com/ih-sydney-enters-voluntary-administration/" rel="noreferrer noopener" target="_blank">IH Sydney</a>, which also put down rising costs of visa fees as contributing factors to its closure.</p>
+
+
+
+<p>More recently, The Language Academy, with campuses in Gold Coast and Sydney, <a href="https://thepienews.com/australias-the-language-academy-placed-into-liquidation/" rel="noreferrer noopener" target="_blank">ceased operations</a> after more than 10 years.</p>
+
+
+
+<p>ELICOS stakeholders have previously told <em>The PIE</em> <em>News</em> about the <a href="https://thepienews.com/elicos-sector-blasts-duttons-promise-of-visa-fee-hike/?_thumbnail_id=248869" rel="noreferrer noopener" target="_blank">&#8220;immediate and crushing&#8221;</a> impact of the 2024 visa fee increase on the ELICOS sector, with the sector suffering an across the board&nbsp;decline in English language enrolments of 50%.</p>
 
 
 
@@ -418,10 +332,144 @@ https://thepienews.com/swinburne-partners-to-offer-qualifications-in-qatar/
 
 
 <p></p>
-<p>The post <a href="https://thepienews.com/swinburne-partners-to-offer-qualifications-in-qatar/">Swinburne partners to offer qualifications in Qatar</a> appeared first on <a href="https://thepienews.com">The PIE News</a>.</p>
+<p>The post <a href="https://thepienews.com/perth-international-college-of-english-closes-due-to-visa-fee-hikes/">Perth International College of English closes due to visa fee hikes</a> appeared first on <a href="https://thepienews.com">The PIE News</a>.</p>
 
 ### 발행일
-2025-06-17T16:30:50+00:00
+2025-06-18T13:36:33+00:00
+
+### 출처
+ThePieNews
+
+--------------------------------------------------------------------------------
+
+### 제목
+Sagar Bahadur, Acumen
+
+### 링크
+https://thepienews.com/sagar-bahadur-acumen/
+
+### 본문
+<p><strong>Introduce yourself in three words or phrases.</strong></p>
+
+
+
+<p>Purpose driven, relentless and calm in chaos.</p>
+
+
+
+<p><strong>What do you like most about your job?</strong></p>
+
+
+
+<p>The constant exposure to new places, people, and cultures keeps me energised. I love being at the intersection of global best practices, high-octane projects, and meaningful impact. Working across borders brings rich diversity, fascinating global team members, and a daily reminder of how much we can learn from each other.</p>
+
+
+
+<p><strong>Best work trip/Worst work trip?</strong></p>
+
+
+
+<p>My best work trip was to the US in 2017. I made a series of 10 visits to New York that year while working on the acquisition of a major campus site for the Amity Education Group. The adrenaline, the challenge, and the sheer audacity of doing the unthinkable. Every day felt like a bold step forward, and I loved every moment of it.</p>
+
+
+
+<p>I have been fortunate that I haven’t had a “worst” trip. Each one has been a learning experience, offering valuable insights and personal growth.</p>
+
+
+
+<p><strong>If you could learn a language instantly, which would you pick and why?</strong></p>
+
+
+
+<p>If I could instantly learn a language, it would be the one to communicate with animals and birds. I find them incredibly fascinating, and there’s so much wisdom to be gained from them. While I love spending time around them, observing only takes you so far. </p>
+
+
+
+<p>They seem to know so much more than us, and it feels like they&#8217;ve cracked the code to living life in the purest form, no fiction, just real connection to the world.</p>
+
+
+
+<p>On the business side, I would love to learn Japanese. It’s my latest work crush! The language is deeply intriguing, and its structure and cultural nuances would be a valuable asset.</p>
+
+
+
+<p><strong>What makes you get up in the morning?</strong></p>
+
+
+
+<p>What gets me up each morning is the drive to create a new impact. Whether it’s helping the team troubleshoot problems, building something new like a project, idea, or process, or simply striving to be better than yesterday, it&#8217;s the constant progress that motivates me. </p>
+
+
+
+<p>I push myself to exceed my own expectations, always aiming to evolve and contribute more. Each day brings a new opportunity to make a difference, and that’s what keeps me moving forward.</p>
+
+
+
+<p>On top of that, the joy my little daughter Meera brings to my life and the support of my family are constant reminders of why I do what I do!</p>
+
+
+
+<p><strong>Champion/cheerleader which we should all follow and why?</strong></p>
+
+
+
+<p>The champion I look up to most is Alexander the Great. As a history addict, I’ve always found inspiration in historical figures, and Alexander has been a constant source of motivation for me. What stands out to me is what he achieved at such a young age and how he faced each challenge head-on, making bold moves and pivots to win. </p>
+
+
+
+<p>His determination to keep pushing forward, no matter what, is something I deeply resonate with. It reminds me that no matter the circumstances, there’s always a way to make an impact, keep moving, and grow.</p>
+
+
+
+<p><strong>Best international ed conference and why</strong></p>
+
+
+
+<p>I really enjoyed the <a href="https://thepienews.com/apaie-2025-champions-inclusivity-and-global-citizenship/" rel="noreferrer noopener" target="_blank">APAIE conference</a> in Delhi, especially because it was held in India. There was something truly special about experiencing one of the largest international education conferences in my own country. It was refreshing to see such a diverse range of countries showing interest in India, particularly from Europe, Latin America, and other regions that I wouldn’t have expected to be discussing their education expertise here. </p>
+
+
+
+<p>It was an eye opening experience, and what made it even more memorable was the opportunity to connect with so many new friends and professionals from different backgrounds. It was an inspiring event that highlighted India’s growing influence in the global education landscape.</p>
+
+
+
+<p><strong>Worst conference food/beverage experience</strong></p>
+
+
+
+<p>I generally don’t eat during conferences, mainly because there’s just no time! But, interestingly enough, I always end up feeling full just by looking at the buffet. It&#8217;s not that funny, but that&#8217;s how it goes. So, I typically just hold a glass in hand and mingle around, meeting new people while avoiding the food altogether!</p>
+
+
+
+<p><strong>Book or podcast recommendation for others in the sector?</strong></p>
+
+
+
+<p>If I were to recommend a book, <em>Start with Why </em>has been the most impactful for me. It really helped me dig deep into understanding the purpose behind what I do, which has transformed how I lead and connect with my team. It’s all about aligning with a greater purpose, and that has made a world of difference in my approach to work. </p>
+
+
+
+<p>The second most impactful read for me was <em>Sapiens</em>. It completely shifts your perspective on life and the world around us. It opens up a new dimension on human history and our evolution, making you think differently about society, culture, and our place in the world. Both books have reshaped how I view leadership and life.</p>
+
+
+
+<p><strong>Describe a project or initiative you&#8217;re currently working on that excites you.</strong></p>
+
+
+
+<p>On the work front, I am currently diving into a project that excites me on so many levels. A study focused on the internationalisation of Indian higher education. This project is addressing a huge gap for the 98% of Indian students who don’t have the opportunity to study abroad, often due to financial or cultural reasons. </p>
+
+
+
+<p>It’s eye opening to realise how international universities have missed out on connecting with these students and how their global needs haven’t been fully recognised. This study is about redefining what international education can mean for them.</p>
+
+
+
+<p>On a more personal note, my favorite project is raising my daughter, Meera. It’s been such a joy to show her the world and help her understand the value of life’s small, beautiful moments. I am hoping she’ll grow up with a deep love for animals and photography, the two things I am so passionate about.</p>
+<p>The post <a href="https://thepienews.com/sagar-bahadur-acumen/">Sagar Bahadur, Acumen</a> appeared first on <a href="https://thepienews.com">The PIE News</a>.</p>
+
+### 발행일
+2025-06-18T12:25:05+00:00
 
 ### 출처
 ThePieNews

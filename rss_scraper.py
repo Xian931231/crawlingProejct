@@ -41,8 +41,8 @@ def get_yesterday_articles(rss_url, source_name):
     articles = []
     
     # 모든 기사 처리
-    for entry in feed.entries[:3]: # 3개만 테스트
     # for entry in feed.entries: # 전체
+    for entry in feed.entries[:3]: # 각 사이트당 최신 기사 3개씩
         try:
             if 'published_parsed' in entry:
                 pub_date = datetime.fromtimestamp(
@@ -56,7 +56,9 @@ def get_yesterday_articles(rss_url, source_name):
                 pub_date = datetime.now(pytz.UTC)
             
             # 어제 날짜의 기사인지 확인하고, 기존에 수집되지 않은 기사인지 확인
-            if yesterday.date() == pub_date.date() and entry.title not in existing_titles:
+            # if yesterday.date() == pub_date.date() and entry.title not in existing_titles:
+
+            if entry.title not in existing_titles:
                 try:
                     # 기사 전체 내용 가져오기
                     headers = {
