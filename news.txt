@@ -1,38 +1,92 @@
 ### 제목
-Pavel Durov warns France is experiencing societal collapse
+Traders watch XRP, ETH, SOL and HYPE now that Bitcoin trades below $100K
 
 ### 링크
-https://cointelegraph.com/news/telegram-durov-warns-france-societal-collapse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/traders-watch-xrp-eth-sol-and-hype-now-that-bitcoin-trades-below-100k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 
 ### 본문
-Telegram founder Pavel Durov warned that France may experience a societal collapse if it continues down its current political trajectory of censorship and regulatory policies during an interview on Wednesday.
+Key points:
 
-“Emmanuel Macron isn’t making the right choices. I’m very disappointed. France is getting weaker and weaker,” Durov said in a translated excerpt from an interview with French outlet Le Point. Durov added:
+Bitcoin fell below the $100,000 support on Sunday, but a rebound could depend on how US stock futures open.
 
-"If you raise one or two generations with a certain mindset, it then takes decades to change it. If we continue to waste time, the risk increases that the country will have to undergo very extreme changes.
+Bitcoin’s weakness has pulled ETH, XRP, SOL, and HYPE below their respective support levels.
 
-When we delay necessary reforms too long, we end up experiencing a collapse,” the Telegram founder continued, warning that France was losing talent to other jurisdictions like Dubai.
+Bitcoin (BTC) nosedived below the psychological $100,000 support on Sunday as traders digested the US strike on Iran’s nuclear facilities. Popular trader Cas Abbe said in a post on X that Bitcoin could drop toward the $93,000 to $94,000 zone before starting a reversal.
 
-In early June, Durov appeared for an interview with Tucker Carlson, as the Telegram founder continued his media campaign following his August 2024 arrest in France.
+Bitcoin’s weakness has spread to several major altcoins, which have entered a deeper correction by breaking below their respective support levels. This suggests the sentiment has soured, and traders are taking risk off the table.
 
-The arrest drew widespread condemnation from the crypto community, civil rights activists and human rights foundations, which continue to monitor the case of Durov and its implications for free speech, self-expression, and political opinion in the digital age.
+However, a positive sign is that analysts remain bullish on Bitcoin for the long term. Real Vision CEO Raoul Pal said in a recent video that the current crypto cycle resembles the pattern seen in 2017. He expects the crypto cycle to extend into Q2 2026.
 
-Related: Telegram founder Durov on arrest, detention in France: ‘I’m confused’
+Could Bitcoin bulls push the price back above $100,000, or will bears remain in control? Will select altcoins find buyers at lower levels? Let’s study the charts to find out.
 
-Claims that French intelligence sought to censor EU election content
+Bitcoin price prediction
 
-The Telegram founder also recounted claims that French intelligence services asked him to censor pro-conservative content related to the May 2025 Romanian presidential election.
+Bitcoin broke below the 50-day simple moving average ($104,788) on Friday and the $100,000 support on Sunday.
 
-Durov said that Nicolas Lerner, the head of French intelligence services, approached him at the Hôtel de Crillon and asked to censor the content on the platform, a request he says he denied.
+The moving averages are on the verge of a bearish crossover, and the relative strength index (RSI) is in the negative territory, indicating that bears are in control. If the price maintains below $100,000, the selling could intensify, pulling the BTC/USDT pair to $93,000.
 
-Durov argued that laws like the European Union’s Digital Services Act are a trojan horse for censorship cloaked as consumer protection regulations and vehicles to fight misinformation or promote online safety.
+Buyers will have to push the price above the 20-day exponential moving average ($104,616) to prevent the downside in the near term. The pair could then rise to the downtrend line, which is likely to pose a substantial challenge for the bulls.
 
-“These laws are dangerous because they can be used against those who created them. Today, they target those labeled conspiracy theorists. Tomorrow, they may target their authors,” Durov said in the interview.
+The pair completed a bearish descending triangle pattern on a close below the $100,700 level. The pattern target of the negative setup is $89,420, but the bulls are unlikely to give up easily.
 
-Magazine: Did Telegram’s Pavel Durov commit a crime? Crypto lawyers weigh in
+Buyers will try to start a relief rally, which could face selling at $100,700 and then at the 20-EMA. If the price turns down from the overhead resistance, the pair may deepen the correction.
+
+The bulls will have to drive and maintain the price above the 50-SMA to start a meaningful recovery.
+
+Ether price prediction
+
+Ether (ETH) turned down from the 20-day EMA ($2,487) and fell below the 50-day SMA ($2,481) on Friday.
+
+Selling continued on Saturday, and the ETH/USDT pair broke below the $2,323 support. Buyers tried to push the price back above the breakdown level of $2,323, but renewed selling by the bears has pulled the pair near the $2,111 support. The bulls will try to defend the $2,111 level with all their might because a break below it may sink the pair to $1,754.
+
+If the price rebounds off $2,111, the bulls will have to push the pair back above the 20-day EMA to suggest that the near-term correction may have ended.
+
+The pair could find support at the $2,111 level, but the rebound is expected to face strong selling at the breakdown level of $2,323. If the price turns down sharply from $2,323, the bears will again try to sink the pair below $2,111.
+
+Conversely, if the bulls successfully defend the $2,111 level, the pair could form a range in the near term. The pair may swing between $2,111 and $2,323 for some time. The selling pressure could weaken on a close above the 50-SMA.
+
+XRP price prediction
+
+XRP’s (XRP) range between $2 and $2.65 resolved to the downside on Sunday, indicating increased selling pressure from the bears.
+
+If the price sustains below $2, the XRP/USDT pair could tumble to the $1.61 support. Buyers are expected to vigorously defend the $1.61 level because a break below it may start a collapse to $1.28.
+
+The bulls will have to swiftly push the price back above the breakdown level of $2 to prevent a breakdown. The pair could then rise to the moving averages, where the bears are likely to pose a strong challenge.
+
+The bulls tried to start a bounce off the $2 support, but the bears aggressively sold near the 20-EMA on the 4-hour chart. The price turned down and broke below the $2 support, pulling the RSI into the oversold territory. That suggests a relief rally is possible in the short term.
+
+On the upside, the bears may sell the recovery attempt at $2 and above that at the 20-EMA. If the price turns down sharply from the overhead resistance, the pair risks a further downside. A close above the 50-SMA will be the first sign that the selling pressure is reducing.
+
+Related: Here’s what happened in crypto today
+
+Solana price prediction
+
+Solana (SOL) completed a bearish H&S pattern when the price closed below the $140 support on Saturday.
+
+The bulls will try to start a recovery but may face selling at the 20-day EMA ($148). If the price turns down from the 20-day EMA, the SOL/USDT pair could plunge to the $110 support and eventually to the pattern target of $93.
+
+Conversely, a break and close above the 20-day EMA suggests solid demand at lower levels. The pair could rise to the 50-day SMA ($160), which is likely to behave as a strong obstacle.
+
+The downsloping moving averages signal that bears are in command, but the oversold level on the RSI points to a possible relief rally in the near term. Recovery attempts could face selling at the breakdown level of $140. If the price turns down from $140, the bears will try to resume the downward move.
+
+Buyers will have to push and maintain the price above the 50-SMA to signal a comeback. That opens the doors for a relief rally to $149 and thereafter to $158.
+
+Hyperliquid price prediction
+
+Repeated failures to maintain the price above $42.50 started a sharp correction in Hyperliquid (HYPE), signaling that the bulls are hurrying to book profits.
+
+The bulls held the 50-day SMA ($32.26) on Saturday, but the bounce has been sold into. That increases the possibility of a break below the 50-day SMA. The HYPE/USDT pair could descend to the breakout level of $28.50.
+
+Buyers are likely to have other plans. They will try to defend the 50-day SMA and push the price back above the 20-day EMA. If they manage to do that, the pair could climb to $40.
+
+Both moving averages are sloping down, and the RSI is in the negative zone on the 4-hour chart. Pullbacks to the 20-EMA are likely to be sold into. There is minor support at $30.50, but it could be broken. The pair may then plummet to the solid support at $28.50.
+
+The first sign of strength will be a break and close above the 20-EMA. That suggests the bears are losing their grip. The pair may ascend to the 50-SMA, which could again attract sellers.
+
+This article does not contain investment advice or recommendations. Every investment and trading move involves risk, and readers should conduct their own research when making a decision.
 
 ### 발행일
-2025-06-18T22:26:34+00:00
+2025-06-22T21:02:16+00:00
 
 ### 출처
 CoinTelegraph
@@ -40,64 +94,54 @@ CoinTelegraph
 --------------------------------------------------------------------------------
 
 ### 제목
-Here’s what happened in crypto today
+Ethereum whale stacks $39M despite ETH falling harder than Bitcoin
 
 ### 링크
-https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/ethereum-whale-stacks-39m-eth-despite-ether-falling-harder-than-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 
 ### 본문
-Today in crypto, China’s central bank is establishing an international operations center to broaden the global reach of its digital yuan. In Iran, crypto exchange Nobitex was reportedly hacked by a group linked to Israel. Meanwhile, several publicly traded companies have raised hundreds of millions of dollars to increase their crypto holdings.
+Key takeaways:
 
-Chinese Central Bank pledges global expansion of digital yuan — Report
+An Ethereum whale accumulated $39 million in ETH during a sharp market sell-off triggered by US airstrikes on Iran.
 
-China’s central bank chief Pan Gongsheng has pledged to expand the footprint of the digital yuan, reaffirming the country’s vision for its central bank digital currency (CBDC).
+Ethereum mega-whales added over 116,000 ETH on June 21, signaling strong buy-the-dip sentiment.
 
-According to a Reuters report, China is creating an international operations center in Shanghai for the digital yuan, also known as e-CNY. Pan made the remarks at the Lujiazui Forum, a professional forum for high-profile local and international finance regulators and executives.
+Technical patterns suggest ETH could rebound 25% toward $2,735 in the short term.
 
-China envisions a “multipolar” currency system where multiple currencies support the global economy, Pan said. This vision contrasts with the current system, where a few currencies, like the US dollar and the euro, play large roles in the global financial system.
+A high net worth Ethereum trader has accumulated tens of millions of dollars worth of Ether (ETH), defying a broader market downturn triggered by escalating Middle East tensions and fresh signs of risk aversion.
 
-The US dollar, in particular, may have become less appealing to investors in 2025, partly due to the unscripted rollout of tariffs by US President Donald Trump over the past months.
+Ether’s sharp drop fails to terrify whales
 
-Pan also weighed in on digital technologies, claiming that traditional cross-border payment systems are vulnerable to geopolitical risk.
+The wallet address 0x7355...213 purchased roughly 9,400 ETH (~$39 million) across two major tranches on June 22, boosting its total Ether holdings to $330 million.
 
-“Traditional cross-border payment infrastructures can be easily politicized and weaponized, and used as a tool for unilateral sanctions, damaging global economic and financial order," he said.
+Its buying occurred even as Ether emerged as one of the worst-performing top cryptocurrencies over the past 24 hours.
 
-Iranian exchange Nobitex hacked for over $81 million by Israel-linked hackers
+ETH’s price fell by approximately 12.80% in the past 24 hours to reach as low as $2,155. It underperformed the top-ranking crypto, Bitcoin (BTC), which lost around 4.70% in the same period.
 
-Iran-based cryptocurrency exchange Nobitex has been hacked for more than $81 million of digital assets, according to onchain investigator ZachXBT.
+The downside move came as markets digested reports of a direct US military strike on Iran, marking a major escalation in the ongoing Israel–Iran conflict, which began with Israel’s “Operation Rising Lion” on June 13.
 
-The attack, disclosed in a Wednesday Telegram post, drained at least $81.7 million in assets across the Tron network and Ethereum Virtual Machine (EVM)-compatible blockchains.
+The whale actively accumulated ETH and deployed it through Lido’s liquid staking protocol despite the bearish backdrop.
 
-ZachXBT spotted attackers using a “vanity address” to exploit the protocol, which resulted in “suspicious outflows” from multiple Nobitex-linked wallets.
+Related: Staked Ether hits record high driven by corporate crypto treasury adoption: Finance Redefined
 
-A vanity address refers to a public wallet address with a specific, user-defined sequence of characters. The first $49 million was stolen through the address “TKFuckiRGCTerroristsNoBiTEXy2r7mNX.” The second address used was “0xffFFfFFffFFffFfFffFFfFfFfFFFFfFfFFFFDead,” according to Tronscan.
+The timing and scale of the purchases suggest that the whale views the sell-off as a long-term “buy the dip” opportunity rather than a cause for panic.
 
-A pro-Israel hacker group calling itself “Gonjeshke Darande” has claimed responsibility for the Nobitex hack.
+Glassnode’s data tracking the broader whale holding patterns suggests a similar upside sentiment.
 
-Nobitex confirmed that a portion of its hot wallets saw signs of “unauthorized access” and was immediately “suspended” upon detection.
+Ethereum wallets holding 10,000 ETH or more increased their net positions both on the day the US launched airstrikes on Iran and in the days leading up to it.
 
-“Users’ assets are completely secure according to cold storage standards, and the above incident only affected a portion of the assets in hot wallets,” Nobitex said in an X post, adding that “all damages will be compensated through the insurance fund and Nobitex resources.”
+On June 21, these mega-whales scooped up over 116,893 ETH worth $265.30 million, suggesting they viewed the decline as a buying opportunity, not a trigger to exit.
 
-The Nobitex exploit “appears to stem from a critical failure in access controls, allowing attackers to infiltrate internal systems and drain hot wallets across multiple blockchains,” according to Hakan Unal, senior security operations lead at blockchain security firm Cyvers.
+Ethereum is eyeing a 25% bounce
 
-“Yet, surprisingly, the stolen funds remain unmoved,” Unal said.
+Ether is holding above a key ascending trendline that may lead to a strong bounce in the coming days, according to market analyst Sensei.
 
-The breach adds to a growing list of crypto industry hacks in 2025. More than $2.1 billion in digital assets have been stolen so far this year, according to blockchain security firm CertiK.
+A bounce from the same support level led to a 55% rally in April-May 2025. If the pattern plays out, ETH could rebound toward the $2,735 resistance level in the short term, up about 25% from the current price levels.
 
-Four public US firms to spend $844 million on Bitcoin, HYPE
-
-At least three publicly-traded US firms said on Tuesday that they would spend a total of nearly $800 million buying Bitcoin (BTC), while another said it raised $50 million to buy the Hyperliquid (HYPE) token.
-
-The heat-and-eat meal seller DDC Enterprise Ltd said it entered into three purchase agreements totaling $528 million, all of which will be used to expand the firm’s Bitcoin holdings, which was partly backed by the venture capital arm of Animoca Brands.
-
-Bitcoin financial services firm Fold Holdings Inc also said on Tuesday that it secured a $250 million equity purchase facility, with the net proceeds “primarily intended” to fund additional Bitcoin purchases.
-
-Meanwhile, Bitcoin mining equipment rental firm BitMine Immersion Technologies finished its purchase of $16.3 million worth of Bitcoin using proceeds from a recent stock offering.
-
-Eyenovia, a digital eye exam tech developer, said it would set aside $50 million to buy HYPE, the token of the decentralized crypto derivatives exchange. The firm said it would also rebrand to “Hyperion DeFi” under the ticker HYPD.
+This article does not contain investment advice or recommendations. Every investment and trading move involves risk, and readers should conduct their own research when making a decision.
 
 ### 발행일
-2025-06-18T22:08:59+00:00
+2025-06-22T16:03:08+00:00
 
 ### 출처
 CoinTelegraph
@@ -105,225 +149,321 @@ CoinTelegraph
 --------------------------------------------------------------------------------
 
 ### 제목
-Hybrid learning delivers the power skills international students need to succeed
+Intents fix crypto&#039;s UX crisis and pave the way for agentic DeFi
 
 ### 링크
-https://thepienews.com/hybrid-learning-delivers-the-power-skills-international-students-need-to-succeed/
+https://cointelegraph.com/news/intents-fix-crypto-ux-crisis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 
 ### 본문
-<p>In the past five years, the conversation around K-12 education has shifted dramatically from “what subjects are we teaching?” to “what skills are we building?” </p>
+Opinion by: Alex Shevchenko, co-founder of Aurora
 
+Try to make a simple purchase with crypto today. You are forced to wrangle wallet extensions, decipher long hexadecimal addresses, select networks, sign transactions, calculate unpredictable gas fees and repeat all of these because your transactions get stuck or fail.
 
+Sometimes, you also need to bridge assets across chains. It's a gauntlet that only a technically savvy user can complete.
 
-<p>And nowhere is this more evident than in international hybrid learning, where online models are empowering students to master the <a href="https://www.thomsonreuters.com/en-us/posts/legal/power-skills-rebranding/?utm_source=chatgpt.com">power skills</a> that today’s universities and employers are desperate for.</p>
+Meanwhile, in traditional finance, Apple Pay completes a transaction in a single tap.
 
+That's the bar. In crypto, the user experience remains stuck in the dial-up era.
 
+A simpler paradigm: Just say what you want
 
-<p>Today, power skills – critical thinking, cross-cultural fluency, self-management, and adaptability – are at the top of every hiring manager’s list. What’s driving the shift? AI is rapidly automating routine tasks, but it can’t lead a team meeting, navigate a conflict, or spark innovation. </p>
+Rather than forcing users to learn the mechanics of swaps, bridges and signing flows, intent-based architecture shifts the mental model entirely. Intents let users express their goals simply, "I want to pay $5 for this coffee," and let the system figure out the rest.
 
+The term "intents" refers broadly to outcome-driven interactions across crypto — not just atomic crosschain swaps, but a foundational paradigm for simplifying all user actions.
 
+Under the hood, intents are fulfilled through high-speed, trust-minimized infrastructure where trades are executed by designated actors, often market makers, rather than traditional solver networks.
 
-<p>As the <em>Financial Times</em> recently reported, AI is pushing employees’ work toward “higher-value, human-centric tasks.” In response, companies are redesigning roles and urgently seeking employees who are not only tech-savvy but also resilient, adaptable, and ready to lead.</p>
+Users initiate outcome-driven requests, and the back-end handles routing, execution and settlement without exposing wallets, gas fees, or chain complexity. The result is a seamless, intent-driven experience that hides infrastructure while preserving decentralized guarantees.
 
+Crypto becomes outcome-driven, not action-driven.
 
+Break free from the wallet mold
 
-<p>Today’s students will need power skills to succeed in the modern world. These aren’t optional, they’re essential. And hybrid learning environments, especially those built on US curriculum frameworks, are producing them at scale.</p>
+The wallet-centric paradigm has long defined how users interact with crypto, and it also constrained it.
 
+A new model that removes the need for wallets entirely is already emerging. Passkey-based systems now allow users to authenticate with familiar tools like Face ID or Touch ID, eliminating seed phrases, private key management and passwords.
 
+More importantly, an intent-based approach is chain-agnostic. Users don't need to be onboarded to a specific blockchain to transact or participate. Sending crypto becomes as simple as sharing a signed link. No app installs, no wallet setup.
 
-<p><strong>Critical thinking: learning that isn’t About memorisation</strong></p>
+This intuitive, portable interaction is ultimately key to driving mainstream adoption.
 
+Replicate familiar financial experiences
 
+Centralized exchanges like Binance conquered the market because they prioritized user experience. Modern intent-based infrastructure follows that familiar route of deposit, trade and withdrawal flow with comparable settlement speeds but with crucial differences.
 
-<p>Hybrid learning challenges students to solve real problems, not just repeat facts. Courses like AP® Computer Science and Intro to AI require students to think analytically, connect ideas, and apply what they’ve learned.</p>
+Recent: Intent-based solutions can fix DeFi liquidity
 
+With intents, smart contracts serve as the custody and settlement layers, maintaining secure onchain ledgers of user balances, and most crucially, publicly available proof-of-reserves. Ultra-low fees of scalable blockchains make decentralized trading practical for the first time.
 
+This architecture is also not just for traders — it's built to provide Web2-style payment rails but with scalable, sharded, onchain infrastructure for use cases ranging from DeFi swaps to booking flights.
 
-<p>In a well-designed hybrid course, questions aren’t just factual. Teachers employ critical thinking questions such as, “why do you think this is the best approach? What makes you think that?” or “what might be a better solution?” These are questions that encourage students to evaluate, compare, and defend their thinking.</p>
+Intents and AI are a natural interface
 
+Where intents are the new execution layer, AI assistants become the new interface layer.
 
+Consider telling your assistant, "Send $50 in BTC to my brother," or "Stake my SOL for the best yield." You're not managing wallets, signing transactions or worrying about MEV — you're expressing a goal. The assistant parses your request, the solver network fulfills it via intents, and the result is seamless.
 
-<p><a href="https://go.hudsonglobalscholars.com/the-pie-news" rel="noreferrer noopener" target="_blank">Hudson Global Scholars</a> student Guillermo Oropeza of Mexico shared that taking hybrid AP® courses helped him to think critically, test solutions, and refine his logic. “I like to challenge myself, and the program helped me do that,” he said. “I definitely felt like I was outside my comfort zone.”</p>
+Together, AI and intents reimagine crypto UX from the ground up, finally matching (and exceeding) the elegance of traditional finance while maintaining the core tenets of decentralization.
 
+Intents are especially critical infrastructure for an increasingly agent-driven, microtransaction-based AI economy. People are lazy and don't have time. That's why microtransactions business models failed, while subscription-based services thrive: It's complicated to authorize payments all the time, and it's easy to forget to cancel the subscription when you no longer use the service (especially with services intentionally complicating the UX to do it). This status quo won't last.
 
+AI agents think much faster. They'll be able to optimize for price and fees, which is an easy, tangible function to automate. Once AI agents reach a certain level of adoption, services offering microtransactions will flourish simply because all agents will choose them over subscriptions.
 
-<p>When students encounter unfamiliar topics in a second language, as many Hudson students do, their engagement tends to deepen. They aren’t just consuming content but analysing information through the lens of their own experience and using new insights and skills gained to redefine their future.</p>
+This is the moment for blockchains to shine: Traditional payment systems like Visa and Mastercard aren't built for high-volume and conditional microtransactions. Intents will enable higher-level primitives for these financial interactions — direct payments, escrowed agreements, streamed payments, currency exchange and much more.
 
+Beyond payments
 
+While payments are the obvious first application, intents aren't limited to retail. They abstract away complexity from a variety of multi-step transactions:
 
-<p><strong>Communication: more than just language fluency</strong></p>
+Executing multi-hop swaps across chains
 
+Managing crosschain asset portfolios
 
+Placing gas-efficient limit orders in DeFi
 
-<p>In the international workplace, the ability to communicate clearly, collaborate across cultures, and self-manage is the real differentiator.</p>
+Automating yield strategies based on dynamic conditions
 
+This is infrastructure for the next generation of crypto apps, designed not for degen power users but for everyone.
 
+The path forward
 
-<p>In the global classroom, communication extends beyond English mastery. It’s about listening, collaborating, presenting ideas clearly, and building relationships across cultures. Our students engage in real-time discussions, submit reflective writing, give feedback on peer work, and participate in global clubs.</p>
+Crypto's unnavigable UX has been the elephant in the room for years. Intents finally represent a turning point in our industry's maturation. They mark a shift from protocol-centric design to interfaces that prioritize user intent.
 
+Intents are outcome-driven, intuitive, and reflect the way users actually want to transact, particularly in an AI-driven future.
 
+The true success of blockchain won't come when users understand how it works — it will come when they don't even realize they're using it.
 
-<p>Rania Angelis at Rodion Paideia School in Greece notes that students often form friendships through online courses and club activities. As coordinator of the hybrid program with Hudson, she observes that these connections often broaden students’ worldview and help them significantly improve their casual and formal communication skills.</p>
+Opinion by: Alex Shevchenko, co-founder of Aurora.
 
-
-
-<p>Angelis describes a student who met a Turkish friend through Hudson’s Best Buddy Club. The two teens realised they had more in common than they had expected and formed a strong bond. This summer, the girls will meet in person for the first time. </p>
-
-
-
-<p>“This is a friendship that never would have happened in a traditional classroom,” says Angelis. “The student from my school was shy at first, but this helped her come out of her shell and communicate more.”</p>
-
-
-
-<p>Cross-cultural connections, such as this, aren’t mere side benefits. They are at the core of learning how to communicate in today’s interconnected world.</p>
-
-
-
-<p><strong>Self-management: a must-have in today’s workplace</strong></p>
-
-
-
-<p>The modern workday is rarely linear; professionals juggle multiple projects, digital distractions, and global collaboration across time zones. That makes strong time management a professional necessity. Even with AI tools at their fingertips, employees still need the judgment to decide what matters most and when.</p>
-
-
-
-<p>Traditional schooling can limit students’ growth in personal time management or mask students’ struggles in this area. Schedules are defined. Teachers remind them of deadlines. In a hybrid program, time management skills are developed and reinforced. If a student doesn’t keep up with classwork, they feel stressed, and their behaviour changes.</p>
-
-
-
-<p>“The first year, I left everything until the end, and the last two months were like hell,” says Guillermo. “But I learned from that. Now I plan ahead, stay organised, and really manage my time.”</p>
-
-
-
-<p>This isn’t failure – it’s growth. Students in our programs learn to make schedules, prioritise tasks, meet deadlines, and ask for help. They have a teacher from the US who checks in regularly and a local coordinator at their school. But the student is in the driver’s seat – and that’s by design.</p>
-
-
-
-<p>We’ve seen this self-management translate to stronger college readiness and more confident transitions to international universities.</p>
-
-
-
-<p><strong>Adaptability: the edge that makes a student future-proof</strong></p>
-
-
-
-<p>If recent years have taught us anything, it’s that change isn’t a phase – it’s the new normal. Whether it’s emerging technologies, economic shifts, or global events, the pace of change is only accelerating. Today’s students – and tomorrow’s professionals – need the mindset and skills to adapt quickly, stay steady under pressure, and thrive in uncertainty.</p>
-
-
-
-<p>Students who can shift gears, learn new tools, and thrive in unfamiliar environments will lead the future workforce. That’s why hybrid education is a powerful training ground for adaptability.</p>
-
-
-
-<p>In a hybrid setting, students don’t just learn one way – they engage with a variety of learning tools, including videos, live sessions, interactive tools, and self-paced modules. This variety requires them to adjust to different teaching styles and platforms, often within the same course.</p>
-
-
-
-<p>Teachers model flexibility by encouraging experimentation and normalising the idea that learning doesn’t always follow a straight line. Their feedback nudges students to rethink approaches, revise their work, and try again – skills that translate directly to a fast-changing workplace. </p>
-
-
-
-<p>“Having teachers who were student-focused in their teaching style was a wonderful help,” says Kevin, a Hudson student from Vietnam. “The independent learning style required by my courses was a different experience for me, but my teachers helped me learn how to study and be more productive and self-directed as a learner.”</p>
-
-
-
-<p>Over time, students become more confident navigating the unfamiliar, which is the heart of true adaptability.</p>
-
-
-
-<p><strong>From power skills to powerful futures</strong></p>
-
-
-
-<p>In a world where job titles barely last a decade, power skills are the constant. Critical thinking, cross-cultural fluency, self-management, and adaptability aren&#8217;t just HR buzzwords – they’re the foundation of lifelong success. These are the skills that help students thrive in college, lead global teams, and navigate the unknown with confidence.</p>
-
-
-
-<p>As education leaders, we must ask: Are our programs building the skills students need to thrive in an English-speaking global economy? If not, how can innovative models like hybrid learning help us close the gap?<ins></ins></p>
-
-
-
-<p>The answer is clear: hybrid learning doesn’t just teach information. It teaches how to thrive.</p>
-
-
-
-<p></p>
-
-
-
-<figure class="wp-block-image size-full is-resized"><img alt="" class="wp-image-253219" height="470" src="https://thepienews.com/wp-content/uploads/2025/06/patricia-hoge.jpg" style="width: 273px; height: auto;" width="500" /></figure>
-
-
-
-<p><strong>Author bio: </strong>Dr Patricia Hoge is the chief academic officer at Hudson Global Scholars and an international expert on curriculum design, hybrid education, and 21st-century skills development.</p>
-
-
-
-<p></p>
-<p>The post <a href="https://thepienews.com/hybrid-learning-delivers-the-power-skills-international-students-need-to-succeed/">Hybrid learning delivers the power skills international students need to succeed</a> appeared first on <a href="https://thepienews.com">The PIE News</a>.</p>
+This article is for general information purposes and is not intended to be and should not be taken as legal or investment advice. The views, thoughts, and opinions expressed here are the author’s alone and do not necessarily reflect or represent the views and opinions of Cointelegraph.
 
 ### 발행일
-2025-06-18T15:40:53+00:00
+2025-06-22T15:00:00+00:00
 
 ### 출처
-ThePieNews
+CoinTelegraph
 
 --------------------------------------------------------------------------------
 
 ### 제목
-Perth International College of English closes due to visa fee hikes
+Solana's SOL Falls 8% as Traders Brace for Fallout From a Spike in Oil Price
 
 ### 링크
-https://thepienews.com/perth-international-college-of-english-closes-due-to-visa-fee-hikes/
+https://www.coindesk.com/markets/2025/06/22/solana-s-sol-falls-over-8-as-traders-brace-for-fallout-from-a-spike-in-oil-price
 
 ### 본문
-<p>A longstanding pillar of the ELICOS sector, PICE has closed its doors after more than 25 years of service.<br /><br />A notice from The Tuition Protection Service (TPS) confirmed that PICE was placed into liquidation and ceased operating on June 16. The TPS said it is working to assist the international students affected by the closure.</p>
+Solana's SOL Falls 8% as Traders Brace for Fallout From a Spike in Oil Price
 
+Solana sank to $128.82 on heavy volume after a sharp sell-off triggered by confirmed U.S. military action against Iran.
 
+What to know:
 
-<p>Ian Aird, CEO of <a href="https://www.englishaustralia.com.au/" rel="noreferrer noopener" target="_blank">English Australia</a>, of which PICE was a member for more than 20 years, commented on the challenging environment faced by ELICOS providers like PICE and the reasons behind its closure.</p>
+Solana (SOL) SOL$132.48 is trading at $128.82, down 8.33% in the past 24 hours, after a steep intraday correction linked to rising geopolitical tensions. The token dropped from $140.39 to $127.25, with the sharpest hourly decline occurring at 13:00, when sell pressure spiked and trading volume exceeded 4 million, according to CoinDesk Research's technical analysis model.
 
+The market reaction followed confirmed reports of U.S. military strikes targeting Iranian nuclear sites, triggering widespread risk aversion across crypto markets.
 
+Some traders now worry that a closure of the Strait of Hormuz, even if temporary, could send oil prices soaring. That would likely stoke inflation, reduce the odds of near-term Fed rate cuts, and prolong the risk-off environment hurting crypto markets. A direct attack on the waterway could intensify the sell-off in altcoins, as bitcoin dominance historically rises during periods of geopolitical turmoil.
 
-<p>&#8220;Despite PICE’s exemplary reputation for quality, the <a href="https://thepienews.com/australian-study-visa-hike-slammed/" rel="noreferrer noopener" target="_blank">increase</a> in the student visa fee to $1,600, the record high student visa application refusal rates over the last 18 months, and the visa application processing delays have meant that PICE were unable to attract enough enrolments to be financially sustainable,&#8221; said Aird.</p>
+SOL's decline also marked a break below key technical levels, including the 200-day simple moving average near $149.54. Throughout the session, SOL printed lower highs and struggled to sustain rebounds, pointing to weakening market structure. With elevated volume on red candles and technical indicators flashing bearish, traders are now watching the $120–$125 zone as a potential support area.
+
+Technical Analysis Highlights
+
+Disclaimer: Parts of this article were generated with the assistance from AI tools and reviewed by our editorial team to ensure accuracy and adherence to our standards. For more information, see CoinDesk's full AI Policy.
+
+Siamak Masnavi is a researcher specializing in blockchain technology, cryptocurrency regulations, and macroeconomic trends shaping the crypto market. He holds a PhD in computer science from the University of London and began his career in software development, including four years in the banking industry in the City of London and Zurich. In April 2018, Siamak transitioned to writing about cryptocurrency news, focusing on journalism until January 2025, when he shifted exclusively to research on the aforementioned topics.
+
+CoinDesk Analytics is CoinDesk's AI-powered tool that, with the help of human reporters, generates market data analysis, price movement reports, and financial content focused on cryptocurrency and blockchain markets.
+
+All content produced by CoinDesk Analytics is undergoes human editing by CoinDesk's editorial team before publication. The tool synthesizes market data and information from CoinDesk Data and other sources to create timely market reports, with all external sources clearly attributed within each article.
+
+CoinDesk Analytics operates under CoinDesk's AI content guidelines, which prioritize accuracy, transparency, and editorial oversight. Learn more about CoinDesk's approach to AI-generated content in our AI policy.
+
+Bitcoin Price Slips Below $100K, Hinting Oil-Led Risk-Off on Wall Street
+
+Iran Mulls Closure of Strait of Hormuz; Digital Oil Memecoin Soars 400%
+
+ADA Takes a Hard Fall as Traders Feel the Heat of War in the Middle East
+
+Dogecoin Drops 8% but Shows V-Shaped Recovery in Boost for Bulls
+
+XRP Rebounds From Intraday Lows, Forms Bullish Pattern Above Key Support
+
+Bitcoin Rallies Above $102K After Panic Sellers Dump Into War Fears
+
+Bitcoin Quickly Plunges Below $103K, With Volatility Burst Spurring $450M in Crypto Liquidations
+
+Peter Schiff Says He 'Gets Bitcoin' but Not USD-Pegged Stablecoins, Floats Gold-Backed Token Plan
+
+Dogecoin Drops 8% but Shows V-Shaped Recovery in Boost for Bulls
+
+Semler Scientific Investors Cheered by New Hire, Lofty Bitcoin Acquisition Goals
+
+XRP Early Buyers Accelerate Profit-Taking as Regulatory Wins Bolster XRP Ecosystem
+
+Circle Started at Buy at Seaport Securities, Which Eyes $2T Opportunity in Stablecoins
+
+About
+
+Contact
+
+### 발행일
+2025-06-22T17:14:52+00:00
+
+### 출처
+CoinDesk
+
+--------------------------------------------------------------------------------
+
+### 제목
+Bitcoin Price Slips Below $100K, Hinting Oil-Led Risk-Off on Wall Street
+
+### 링크
+https://www.coindesk.com/markets/2025/06/22/bitcoin-slips-below-usd100k-hinting-oil-led-risk-off-on-wall-street
+
+### 본문
+Bitcoin Price Slips Below $100K, Hinting Oil-Led Risk-Off on Wall Street
+
+Bitcoin fell below $100,000 on Sunday, its lowest point since May 8. XRP, ETH and SOL followed suit.
+
+What to know:
+
+Bitcoin BTC$100,887.53 fell below $100,000 on Sunday, its lowest point since May, signalling risk aversion on Wall Street on Monday amid reports that Iran is leaning towards blocking the Strait of Hormuz.
+
+The Strait, located between Oman and Iran, connects the Persian Gulf with the Gulf of Oman and the Arabian Sea, handling roughly 20% of the global oil trade.
+
+Reports of Iranian politicians mulling the closure of the Strait had observers worried about a significant spike in oil prices early Monday.
+
+"After US strikes on Iran last night, 50+ large oil tankers were scrambling to leave the Strait of Hormuz. Markets have been closed, but an immediate drop in supply is expected to send prices higher. JP Morgan described this as their worst-case scenario in the Israel-Iran war," The Kobeissi Letter said on X.
+
+According to JPMorgan, oil could surge to $120-$130 per barrel in that scenario. That could potentially lift the U.S. inflation rate to 5%, the highest since March 2023. At the time, the Federal Reserve was raising interest rates.
+
+The losses in BTC weighed heavily over the broader crypto market, as usual, dragging major altcoins such as XRP, SOL, and ETH lower. The payments-focused XRP slipped 6% to $1.935, the lowest since April 10. Ethereum's ether token slipped to levels seen in early May, according to CoinDesk data.
+
+Omkar Godbole is a Co-Managing Editor on CoinDesk's Markets team based in Mumbai, holds a masters degree in Finance and a Chartered Market Technician (CMT) member.  Omkar previously worked at FXStreet, writing research on currency markets and as fundamental analyst at currency and commodities desk at Mumbai-based brokerage houses. Omkar holds small amounts of bitcoin, ether, BitTorrent, tron and dot.
+
+Solana's SOL Falls 8% as Traders Brace for Fallout From a Spike in Oil Price
+
+Iran Mulls Closure of Strait of Hormuz; Digital Oil Memecoin Soars 400%
+
+ADA Takes a Hard Fall as Traders Feel the Heat of War in the Middle East
+
+Dogecoin Drops 8% but Shows V-Shaped Recovery in Boost for Bulls
+
+XRP Rebounds From Intraday Lows, Forms Bullish Pattern Above Key Support
+
+Bitcoin Rallies Above $102K After Panic Sellers Dump Into War Fears
+
+Bitcoin Quickly Plunges Below $103K, With Volatility Burst Spurring $450M in Crypto Liquidations
+
+Peter Schiff Says He 'Gets Bitcoin' but Not USD-Pegged Stablecoins, Floats Gold-Backed Token Plan
+
+Dogecoin Drops 8% but Shows V-Shaped Recovery in Boost for Bulls
+
+Semler Scientific Investors Cheered by New Hire, Lofty Bitcoin Acquisition Goals
+
+XRP Early Buyers Accelerate Profit-Taking as Regulatory Wins Bolster XRP Ecosystem
+
+Circle Started at Buy at Seaport Securities, Which Eyes $2T Opportunity in Stablecoins
+
+About
+
+Contact
+
+### 발행일
+2025-06-22T14:42:37+00:00
+
+### 출처
+CoinDesk
+
+--------------------------------------------------------------------------------
+
+### 제목
+Iran Mulls Closure of Strait of Hormuz; Digital Oil Memecoin Soars 400%
+
+### 링크
+https://www.coindesk.com/markets/2025/06/22/iran-s-parliament-has-reportedly-approved-closure-of-strait-of-hormuz-digital-oil-memecoin-soars-400
+
+### 본문
+Iran Mulls Closure of Strait of Hormuz; Digital Oil Memecoin Soars 400%
+
+An obscure token called the digital oil memecoin (OIL) surged over 400%.
+
+What to know:
+
+Iran's politicians leaned in favor of blocking the strategically important Strait of Hormuz on Sunday in response to the U.S. military strikes on the Iranian nuclear facilities, according to Saeed Azimi, Tehran correspondent for France 24.
+
+"The MPs have unanimously reached this conclusion merely in a consultation capacity. The decision lies with the Supreme National Security Council," Azimi said on X, responding to several media reports, including Al Arabia, that the Parliament has approved the closure.
+
+The Strait, a key global oil shipping route, accounts for one-fifth of the world's oil trade. Thus, the closure of the route is likely to send oil prices skyward, possibly into three figures, bolstering stagflation fears in oil-importing trade deficit nations like the U.S.
+
+Analysts expect Brent and WTI crude prices to open significantly higher on Monday, pricing a potential supply squeeze.
+
+In the meantime, an obscure token called the digital oil memecoin (OIL) has skyrocketed over 400% against USD, according to data source DEXTools.io. The token is listed on the Solana-based decentralized exchange Raydium.
+
+"Fading the most geopolitically advantaged memecoin AND the ONLY coin endorsed by Peter Schiff himself? COULDN'T BE ME.... $OIL," an X handle supposedly associated with the memecoin, said on the social media platform.
+
+The token came into existence early this year after vocal cryptocurrency and bitcoin critic Peter Schiff published a post on X supporting the idea of creating a digital oil.
+
+Omkar Godbole is a Co-Managing Editor on CoinDesk's Markets team based in Mumbai, holds a masters degree in Finance and a Chartered Market Technician (CMT) member.  Omkar previously worked at FXStreet, writing research on currency markets and as fundamental analyst at currency and commodities desk at Mumbai-based brokerage houses. Omkar holds small amounts of bitcoin, ether, BitTorrent, tron and dot.
+
+Solana's SOL Falls 8% as Traders Brace for Fallout From a Spike in Oil Price
+
+Bitcoin Price Slips Below $100K, Hinting Oil-Led Risk-Off on Wall Street
+
+ADA Takes a Hard Fall as Traders Feel the Heat of War in the Middle East
+
+Dogecoin Drops 8% but Shows V-Shaped Recovery in Boost for Bulls
+
+XRP Rebounds From Intraday Lows, Forms Bullish Pattern Above Key Support
+
+Bitcoin Rallies Above $102K After Panic Sellers Dump Into War Fears
+
+Bitcoin Quickly Plunges Below $103K, With Volatility Burst Spurring $450M in Crypto Liquidations
+
+Peter Schiff Says He 'Gets Bitcoin' but Not USD-Pegged Stablecoins, Floats Gold-Backed Token Plan
+
+Dogecoin Drops 8% but Shows V-Shaped Recovery in Boost for Bulls
+
+Semler Scientific Investors Cheered by New Hire, Lofty Bitcoin Acquisition Goals
+
+XRP Early Buyers Accelerate Profit-Taking as Regulatory Wins Bolster XRP Ecosystem
+
+Circle Started at Buy at Seaport Securities, Which Eyes $2T Opportunity in Stablecoins
+
+About
+
+Contact
+
+### 발행일
+2025-06-22T14:05:10+00:00
+
+### 출처
+CoinDesk
+
+--------------------------------------------------------------------------------
+
+### 제목
+Happie place: good vibes only
+
+### 링크
+https://thepienews.com/happie-place-good-vibes-only/
+
+### 본문
+<p>Let&#8217;s face it, the news cycle is a pretty gloomy place at the moment, so we&#8217;ve decided to take a different perspective. This is our attempt to find our happie place (notice the pun we&#8217;ve got going here?).<br /><br />This regular column aims to bring you positive news, flashes of inspiration and a warm, fuzzy feeling that will nourish your soul. We want to celebrate international student success and colleagues who go above and beyond. Get involved and send us the good stuff so we can share the love. <br /><br />We recognise that in this unpredictable market, real challenges exist – and that this is nothing more than a sticking plaster – but sometimes there&#8217;s strength in looking for the positives.</p>
 
 
 
 <blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p>The increase in the student visa fee to $1,600, the record high student visa application refusal rates over the last 18 months, and the visa application processing delays have meant that PICE were unable to attract enough enrolments to be financially sustainable<br /><sub><strong><sup>Ian Aird, English Australia</sup></strong></sub></p>
+<p>I was born in Lagos, but I was made in Swansea<br /><strong><sup><sub>Michael Ijaiyemakinde, international student</sub></sup></strong></p>
 </blockquote>
 
 
 
-<p>Aird said that since its founding in 2002, PICE director John Paxton, along with his team of highly dedicated ELICOS professionals, welcomed, served and taught tens of thousands of students from the world over.</p>
+<p>This week, we decided to check in with some of the international graduates we&#8217;ve met in the UK over the years to see how they&#8217;re getting on. <br /><br />These stories are a simple reminder of why we believe in the transformational power of study abroad and the power to change individual lives (including our own). </p>
 
 
 
-<p>For over 12 years, Paxton was a board member of English Australia and the state delegate representing Western Australia’s ELICOS sector.</p>
-
-
-
-<p>&#8220;English Australia’s board and secretariat are deeply saddened by this news. John and the PICE team have been integral to our community and our efforts for two decades,&#8221; continued Aird.</p>
-
-
-
-<p>English Australia is also working with Paxton and the team, along with the TPS, to support impacted students, with a student information session being held on the PICE campus.</p>
-
-
-
-<p>Aird also offered his thoughts to &#8220;all those friends and colleagues across the sector&#8221; who have lost their jobs over recent months and urged stakeholders to reach out to the peak body body, and to one another, to give and get support.&#8221;</p>
-
-
-
-<p>The closure follows the shutdown of fellow ELICOS providers <a href="https://thepienews.com/ih-sydney-enters-voluntary-administration/" rel="noreferrer noopener" target="_blank">IH Sydney</a>, which also put down rising costs of visa fees as contributing factors to its closure.</p>
-
-
-
-<p>More recently, The Language Academy, with campuses in Gold Coast and Sydney, <a href="https://thepienews.com/australias-the-language-academy-placed-into-liquidation/" rel="noreferrer noopener" target="_blank">ceased operations</a> after more than 10 years.</p>
-
-
-
-<p>ELICOS stakeholders have previously told <em>The PIE</em> <em>News</em> about the <a href="https://thepienews.com/elicos-sector-blasts-duttons-promise-of-visa-fee-hike/?_thumbnail_id=248869" rel="noreferrer noopener" target="_blank">&#8220;immediate and crushing&#8221;</a> impact of the 2024 visa fee increase on the ELICOS sector, with the sector suffering an across the board&nbsp;decline in English language enrolments of 50%.</p>
+<p><strong>Franka Zlatic – Studying abroad reinvigorated my worldview<br /></strong><br />&#8220;Spending six years studying in the UK profoundly shaped my academic and personal development. <br /><br />&#8220;Immersed in a diverse, intellectually stimulating environment, I gained both theoretical grounding and the confidence to pursue independent research. Living abroad also allowed me to travel extensively across Europe and beyond, which broadened my horizons in ways I hadn’t anticipated. <br /><br />&#8220;I met people from all walks of life, encountered different worldviews, and had the time of my life – experiences that have deeply influenced how I relate to others and approach my work. Later, working at a law school in India further deepened my understanding of migration, identity, and postcolonial dynamics – topics central to my academic focus. </p>
 
 
 
@@ -331,11 +471,63 @@ https://thepienews.com/perth-international-college-of-english-closes-due-to-visa
 
 
 
+<figure class="wp-block-image size-full is-resized"><img alt="" class="wp-image-252732" height="788" src="https://thepienews.com/wp-content/uploads/2025/06/Screenshot-2025-06-10-at-13.53.08.jpg" style="width: 1008px; height: auto;" width="994" /><figcaption class="wp-element-caption">Franka cuddling an elephant while teaching in India</figcaption></figure>
+
+
+
+<p>&#8220;Engaging with students and scholars in a culturally different yet intellectually rich context challenged me to adapt, reflect, and grow. Both experiences, academic rigour in the UK and practical, cross-cultural engagement in India, equipped me with a unique combination of analytical insight, global perspective, and resilience.</p>
+
+
+
+<p>&#8220;Returning to my home country, Croatia, I brought back not only knowledge but also a sense of purpose and a desire to contribute to local academic debates with a broader, transnational understanding. <br /><br />&#8220;These international experiences positioned me competitively for a postdoctoral role in Croatia and reaffirmed my commitment to inclusive, globally engaged scholarship.&#8221;</p>
+
+
+
+<p><strong>Michael Ijaiyemakinde – studying in Wales was the making of me<br /></strong><br />&#8220;I was born in Lagos, but I was made in Swansea.<br /><br />&#8220;Every time I say this, I get the same reaction – raised eyebrows, shocked expressions, and sometimes even pushback: you’re not patriotic.<br /><br />&#8220;But here’s what I really mean. Growing up in Nigeria, life was fast-paced, driven by results, and often defined by expectations. While it gave me resilience, it didn’t speak my love languages or give me the space to find myself. I was always doing – but rarely being.<br /><br />&#8220;At 17, I moved to study at Swansea University in Wales. Swansea&#8217;s a small city, often overlooked. But for me? It became a sanctuary. It was in Swansea that I experienced support that wasn’t transactional. I met managers, mentors, and everyday people who lived out values like empathy, service, and patience – people just like you who are reading this now.</p>
+
+
+
 <p></p>
-<p>The post <a href="https://thepienews.com/perth-international-college-of-english-closes-due-to-visa-fee-hikes/">Perth International College of English closes due to visa fee hikes</a> appeared first on <a href="https://thepienews.com">The PIE News</a>.</p>
+
+
+
+<figure class="wp-block-image size-large"><img alt="" class="wp-image-253160" height="680" src="https://thepienews.com/wp-content/uploads/2025/06/Screenshot-2025-06-18-at-10.30.46-1024x680.jpg" width="1024" /><figcaption class="wp-element-caption">Michael found his happie place on the southwest coast of Wales thanks to people just like you</figcaption></figure>
+
+
+
+<p><br />&#8220;You didn’t just teach me – you showed me. Through kindness. Through consistency.<br /><br />&#8220;You helped me shed temper issues, rebuild my self-esteem, and rediscover my voice. Swansea didn’t change who I was. It simply gave me permission to become it.<br /><br />&#8220;What positive message am I trying to pass on here? What thoughts to help my colleagues stay positive in difficult times?<br /><br />&#8220;The right environment can change everything: not because where you’re from is bad – but because sometimes you need a new setting to unlock the next chapter of your growth. <br /><br />&#8220;Is the current environment you’re in helping you become the best version of yourself? Or is it holding you back from discovering who that version really is?<br /><br />&#8220;If not, maybe it’s time to find your Swansea.&#8221;</p>
+
+
+
+<p><strong>Filip-Matej Pfeifer</strong><br /><br />Born in Slovenia, Filip attended the University of Ljubljana Faculty of Sport, then transferred to the UK in September 2024 to pursue his master’s degree and continue his rowing career.</p>
+
+
+
+<p>This summer he will not only graduate with his degree in international business from Oxford Brookes University (OBU) – he will also compete at the world-famous Henley Royal Regatta in July.</p>
+
+
+
+<figure class="wp-block-image size-large"><img alt="" class="wp-image-252728" height="742" src="https://thepienews.com/wp-content/uploads/2025/06/Screenshot-2025-06-10-at-13.40.09-1024x742.jpg" width="1024" /><figcaption class="wp-element-caption">Imagine if we could get everyone in the sector all rowing in the same direction. Kudos to Filip for showing us the way.</figcaption></figure>
+
+
+
+<p>Filip represented OBU at the 2025 BUCS Regatta where he took the silver medal in the men’s Single Sculls, setting a new rowing record for his UK university team and has competed internationally in both the European Rowing Championships and the World Rowing Cup. </p>
+
+
+
+<p>On May 30, he reached the semi-finals of the Single Sculls at the 2025 European Rowing Championships in Bulgaria. <br /><br />Huge thanks to the <a href="https://www.studentsportcompany.com/" rel="noreferrer noopener" target="_blank">Student Sports Company</a> for keeping us up to speed with Filip&#8217;s achievements as an international student athlete in the UK. We&#8217;re all cheering him on!</p>
+
+
+
+<p><strong>Have you got some positive news to share? <br /></strong><br />Help us to showcase the best of international education by sending us your testimonials, love letters and inspirational thoughts to <a href="mailto:editorial@thepienews.com">editorial@thepienews.com</a> labelled &#8216;Happie place&#8217;. And remember – good vibes only.</p>
+
+
+
+<p></p>
+<p>The post <a href="https://thepienews.com/happie-place-good-vibes-only/">Happie place: good vibes only</a> appeared first on <a href="https://thepienews.com">The PIE News</a>.</p>
 
 ### 발행일
-2025-06-18T13:36:33+00:00
+2025-06-20T09:50:27+00:00
 
 ### 출처
 ThePieNews
@@ -343,133 +535,271 @@ ThePieNews
 --------------------------------------------------------------------------------
 
 ### 제목
-Sagar Bahadur, Acumen
+Ambivalent response as five more unis join India’s TNE boom
 
 ### 링크
-https://thepienews.com/sagar-bahadur-acumen/
+https://thepienews.com/ambivalent-response-as-five-more-unis-join-indias-tne-boom/
 
 ### 본문
-<p><strong>Introduce yourself in three words or phrases.</strong></p>
+<p>Just last week, the University Grants Commission formally issued LOIs to five Western institutions: the University of York and University of Aberdeen (UK), University of Western Australia, Illinois Institute of Technology (USA), and IED Istituto Europeo di Design (Italy), during an event titled ‘Mumbai Rising: Creating an International Education City’.&nbsp;</p>
 
 
 
-<p>Purpose driven, relentless and calm in chaos.</p>
+<p>The handover ceremony was attended by union education minister Dharmendra Pradhan, Maharashtra chief minister Devendra Fadnavis, UGC acting chairman Vineet Joshi, vice-chancellors of the participating universities, and diplomats from the US, UK, Italy, and Australia.&nbsp;</p>
 
 
 
-<p><strong>What do you like most about your job?</strong></p>
+<p>The institutions can now proceed with setting up campuses in the 250-acre Edu City, an <a href="https://thepienews.com/third-mumbai-set-to-welcome-uk-us-australian-campuses/?utm_campaign=The%20PIE%20Weekly%202023&amp;utm_source=hs_email&amp;utm_medium=email&amp;utm_content=2&amp;_hsenc=p2ANqtz--9fyOVKVsuLJ9yYlWMlotbeOjxy3WlkDTL-f0YvW3Kqq31NjHeGQyz-ooGrFFRm_QC3AgvSbt7r8R392zuJD1SZ3wPdA" rel="noreferrer noopener" target="_blank">upcoming education hub</a> near Navi Mumbai International Airport, currently under construction and located on the outskirts of Navi Mumbai.&nbsp;</p>
 
 
 
-<p>The constant exposure to new places, people, and cultures keeps me energised. I love being at the intersection of global best practices, high-octane projects, and meaningful impact. Working across borders brings rich diversity, fascinating global team members, and a daily reminder of how much we can learn from each other.</p>
+<p>While no specific launch date has been announced, the universities are expected to begin operations within an 18-month timeline, with most aiming to start their admission cycles before December 2026.</p>
 
 
 
-<p><strong>Best work trip/Worst work trip?</strong></p>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>The government’s larger goal is to have at least 10 international universities in this region (Edu City)<br /><strong><sup><sub>Devendra Fadnavis, Maharashtra CM</sub></sup></strong></p>
+</blockquote>
 
 
 
-<p>My best work trip was to the US in 2017. I made a series of 10 visits to New York that year while working on the acquisition of a major campus site for the Amity Education Group. The adrenaline, the challenge, and the sheer audacity of doing the unthinkable. Every day felt like a bold step forward, and I loved every moment of it.</p>
+<p>Moreover, the campuses are set to offer fees that are 25-30% lower than what students from India currently pay for similar courses while studying abroad, according to Fadnavis.&nbsp;</p>
 
 
 
-<p>I have been fortunate that I haven’t had a “worst” trip. Each one has been a learning experience, offering valuable insights and personal growth.</p>
+<p>“The government’s larger goal is to have at least 10 international universities in this region,” Fadnavis <a href="https://www.hindustantimes.com/cities/mumbai-news/5-foreign-universities-to-offer-courses-at-significantly-reduced-costs-cm-devendra-fadnavis-101749925567154.html" rel="noreferrer noopener" target="_blank">stated</a> at the event, highlighting that the emerging education hub is already being supported by key transport infrastructure.</p>
 
 
 
-<p><strong>If you could learn a language instantly, which would you pick and why?</strong></p>
+<p>Mumbai, one of India&#8217;s most cosmopolitan cities, has now entered the race to host international universities, joining the likes of GIFT City, Gurgaon, and Bangalore, where institutions such as Australia&#8217;s Deakin University and University of Wollongong (GIFT City), and the UK&#8217;s <a href="https://thepienews.com/uni-of-southampton-india-to-be-set-up-at-gurgaon-based-tech-park/" rel="noreferrer noopener" target="_blank">University of Southampton</a> (set to open in a Gurgaon tech park this August), have already set up or are in the final stages of setting up. </p>
 
 
 
-<p>If I could instantly learn a language, it would be the one to communicate with animals and birds. I find them incredibly fascinating, and there’s so much wisdom to be gained from them. While I love spending time around them, observing only takes you so far. </p>
+<p>“This initiative is expected to give Mumbai, known mainly for its industries, finance, and entertainment, a new identity as an academic destination,” Fadnavis added.</p>
 
 
 
-<p>They seem to know so much more than us, and it feels like they&#8217;ve cracked the code to living life in the purest form, no fiction, just real connection to the world.</p>
+<p><strong>How the idea of Edu City came about&nbsp;</strong></p>
 
 
 
-<p>On the business side, I would love to learn Japanese. It’s my latest work crush! The language is deeply intriguing, and its structure and cultural nuances would be a valuable asset.</p>
+<p>According to Ashwin Damera, CEO of <a href="https://emeritus.org/in/universities-and-institutes/" rel="noreferrer noopener" target="_blank">Emeritus</a>, Mumbai was not initially on the radar for the participating universities as a campus location.&nbsp;</p>
 
 
 
-<p><strong>What makes you get up in the morning?</strong></p>
+<p>“Of the five foreign universities that recently announced their decision to establish campuses in Mumbai, three had no intention of coming here. In fact, they were actively scouting other Indian cities. Mumbai wasn’t even in contention – written off early because of one factor: prohibitively expensive real estate,” read the LinkedIn <a href="https://www.linkedin.com/posts/ashwindamera_mumbai-activity-7340978352532434944-RWsz?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAACQ5GuMBLXJrFzZLxhEyHCV_VFVbo74Y_zM" rel="noreferrer noopener" target="_blank">post</a> by Damera.&nbsp;</p>
 
 
 
-<p>What gets me up each morning is the drive to create a new impact. Whether it’s helping the team troubleshoot problems, building something new like a project, idea, or process, or simply striving to be better than yesterday, it&#8217;s the constant progress that motivates me. </p>
+<p>“We considered several approaches, but it became clear that what was needed was structural intervention. The solution? If the government could designate and develop a dedicated education zone – an academic hub – it could fundamentally change the equation.”</p>
 
 
 
-<p>I push myself to exceed my own expectations, always aiming to evolve and contribute more. Each day brings a new opportunity to make a difference, and that’s what keeps me moving forward.</p>
+<p>According to Damera, the proposed solution prompted Fadnavis to view Edu City as a strategic priority, leading him to pitch the vision to international universities.&nbsp;</p>
 
 
 
-<p>On top of that, the joy my little daughter Meera brings to my life and the support of my family are constant reminders of why I do what I do!</p>
+<p>“In their experience, it was usually them chasing the state – not the other way around. That shift matters. Symbolism matters. Execution matters more.”</p>
 
 
 
-<p><strong>Champion/cheerleader which we should all follow and why?</strong></p>
+<p><strong>Unis offer diverse options through India campus</strong></p>
 
 
 
-<p>The champion I look up to most is Alexander the Great. As a history addict, I’ve always found inspiration in historical figures, and Alexander has been a constant source of motivation for me. What stands out to me is what he achieved at such a young age and how he faced each challenge head-on, making bold moves and pivots to win. </p>
+<p>According to Sachin Jain, country manager, <a href="https://www.ets.org/" rel="noreferrer noopener" target="_blank">ETS</a> India and South Asia, the announcement of the LOIs marks a “watershed moment”, as each of the five international universities brings distinct strengths to the table.</p>
 
 
 
-<p>His determination to keep pushing forward, no matter what, is something I deeply resonate with. It reminds me that no matter the circumstances, there’s always a way to make an impact, keep moving, and grow.</p>
+<p>“Illinois Tech anchors the ecosystem with its reputation for engineering and technological innovation, supported by a strong research culture. The University of Aberdeen brings balanced strengths in foundational sciences and humanities, underscored by top rankings in earth sciences and human geography. </p>
 
 
 
-<p><strong>Best international ed conference and why</strong></p>
+<p>&#8220;The University of York adds a societal dimension through its expertise in business, public policy, and social sciences, with a strong focus on sustainability,” stated Jain.&nbsp;</p>
 
 
 
-<p>I really enjoyed the <a href="https://thepienews.com/apaie-2025-champions-inclusivity-and-global-citizenship/" rel="noreferrer noopener" target="_blank">APAIE conference</a> in Delhi, especially because it was held in India. There was something truly special about experiencing one of the largest international education conferences in my own country. It was refreshing to see such a diverse range of countries showing interest in India, particularly from Europe, Latin America, and other regions that I wouldn’t have expected to be discussing their education expertise here. </p>
+<p>“The University of Western Australia offers a global perspective with its leadership in environmental science and clean technology research. Finally, the Istituto Europeo di Design introduces a vital creative element, offering globally relevant design innovation grounded in real-world applications.”</p>
 
 
 
-<p>It was an eye opening experience, and what made it even more memorable was the opportunity to connect with so many new friends and professionals from different backgrounds. It was an inspiring event that highlighted India’s growing influence in the global education landscape.</p>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>An interesting aspect shared by the delegates was that they intend to recruit not just from India, but from other parts of the world for their Indian campus as well<br /><strong><sub><sup>Sushil Sukhwani, Edwise International</sup></sub></strong></p>
+</blockquote>
 
 
 
-<p><strong>Worst conference food/beverage experience</strong></p>
+<p>While the University of York will offer undergraduate and postgraduate programs in AI, cybersecurity, business, economics, and creative industries, the University of Western Australia will focus on business and STEM fields.&nbsp;</p>
 
 
 
-<p>I generally don’t eat during conferences, mainly because there’s just no time! But, interestingly enough, I always end up feeling full just by looking at the buffet. It&#8217;s not that funny, but that&#8217;s how it goes. So, I typically just hold a glass in hand and mingle around, meeting new people while avoiding the food altogether!</p>
+<p>Meanwhile, the University of Aberdeen, Scotland’s first university with a soon-to-be India campus, will launch courses in computing, data science, AI, business, and later expand into public health, psychology, and film studies.</p>
 
 
 
-<p><strong>Book or podcast recommendation for others in the sector?</strong></p>
+<p>The first US campus in India, Illinois Institute of Technology, will offer programs in computer science, engineering, and business, with Italy’s&nbsp;IED Istituto Europeo di Design expected to focus on creative courses in fashion, product, interior design, visual communication, and digital arts.</p>
 
 
 
-<p>If I were to recommend a book, <em>Start with Why </em>has been the most impactful for me. It really helped me dig deep into understanding the purpose behind what I do, which has transformed how I lead and connect with my team. It’s all about aligning with a greater purpose, and that has made a world of difference in my approach to work. </p>
+<p>“It may also be relevant to each of the institutions to offer credit-based programs that can be taken by the students within these five institutions and by the larger ecosystem outside Educity, Navi Mumbai, to bring interdisciplinary and multidisciplinary modalities to a larger student base,” added Jain.&nbsp;</p>
 
 
 
-<p>The second most impactful read for me was <em>Sapiens</em>. It completely shifts your perspective on life and the world around us. It opens up a new dimension on human history and our evolution, making you think differently about society, culture, and our place in the world. Both books have reshaped how I view leadership and life.</p>
+<p><strong>Student recruitment: expectations and challenges</strong></p>
 
 
 
-<p><strong>Describe a project or initiative you&#8217;re currently working on that excites you.</strong></p>
+<p>Sushil Sukhwani, founder and director, <a href="https://www.edwiseinternational.com/" rel="noreferrer noopener" target="_blank">Edwise International</a>, said some programs could begin as early as September 2026, with the possibility of agents assisting in student recruitment.</p>
 
 
 
-<p>On the work front, I am currently diving into a project that excites me on so many levels. A study focused on the internationalisation of Indian higher education. This project is addressing a huge gap for the 98% of Indian students who don’t have the opportunity to study abroad, often due to financial or cultural reasons. </p>
+<p>“I am already in touch with one institution following this activity, and the delegates from there mentioned that they are already gearing up to give select agents in India, and from around the world, contracts to recruit for this campus,” stated Sukhwani.&nbsp;</p>
 
 
 
-<p>It’s eye opening to realise how international universities have missed out on connecting with these students and how their global needs haven’t been fully recognised. This study is about redefining what international education can mean for them.</p>
+<p>“An interesting aspect shared by the delegates was that they intend to recruit not just from India, but from other parts of the world for their Indian campus as well.”</p>
 
 
 
-<p>On a more personal note, my favorite project is raising my daughter, Meera. It’s been such a joy to show her the world and help her understand the value of life’s small, beautiful moments. I am hoping she’ll grow up with a deep love for animals and photography, the two things I am so passionate about.</p>
-<p>The post <a href="https://thepienews.com/sagar-bahadur-acumen/">Sagar Bahadur, Acumen</a> appeared first on <a href="https://thepienews.com">The PIE News</a>.</p>
+<p>As UK and other international universities seek to attract “high-calibre” Indian students to their upcoming campuses, international higher education consultant Vincenzo Raimo, who has held leadership position at the University of Nottingham and University of Reading, warned that recruitment projections are often “overly ambitious,” with cost estimates frequently overlooking key overheads and the crucial role of academic staff.</p>
+
+
+
+<p>&#8220;University leadership teams, under pressure to secure new revenue streams and demonstrate global ambition, can sometimes underestimate the complexity and cost of these ventures,&#8221; stated Raimo. </p>
+
+
+
+<p>“When it comes to student recruitment, India is a very different proposition from other established branch campus markets such as Malaysia or China. In those contexts, we’ve seen strong demand from more cost-conscious students who might otherwise not be able to afford study abroad,&#8221; he added. </p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>UK institutions have not always been good at fully accounting for their own contributions, particularly academic time, quality assurance, and other institutional overheads required to support these ventures<br /><strong><sub><sup>Vincenzo Raimo</sup></sub></strong></p>
+</blockquote>
+
+
+
+<p>“India’s outbound student market, however, is often driven by motivations that go beyond just the qualification such as access to international work experience, and post-study migration opportunities are also a major draw. These benefits won’t be as easily accessible to those who remain in India.”</p>
+
+
+
+<p>Raimo further noted that while universities, especially from the UK, could boost recruitment by offering transfer options and post-study work routes, they must contribute equally to partnerships if they aim to use Indian campuses to strengthen their brand and student pipeline.</p>
+
+
+
+<p>“In many cases, the local partner is responsible for navigating regulatory frameworks, running campus operations, and driving student recruitment, and often bearing the bulk (or all) of the capital investment,” added Raimo.&nbsp;</p>
+
+
+
+<p>“However, UK institutions have not always been good at fully accounting for their own contributions, particularly academic time, quality assurance, and other institutional overheads required to support these ventures. That poses a risk to both financial sustainability and academic integrity.”</p>
+
+
+
+<p><strong>Why universities are aiming for &#8220;soft&#8221; courses</strong></p>
+
+
+
+<p>According to A. Jayakrishnan, former vice-chancellor of the University of Kerala and Cochin University of Science and Technology, and ex-professor at IIT Madras, many international universities setting up in India are prioritising high-demand “soft” courses like computer science, economics, and IT, a trend seen in the country for several years.&nbsp;</p>
+
+
+
+<p>“There’s little interest in setting up programs in mechanical or electrical engineering. Universities are choosing disciplines that are logistically simpler and more marketable to Indian students,” stated Jayakishnan.&nbsp;</p>
+
+
+
+<p>“Everyone wants computer science now, not necessarily out of passion, but because that’s where the brand value and big salary packages are.”</p>
+
+
+
+<p>Jayakrishnan noted that while affordability may remain a concern, with government support likely limited to measures like subsidised land, he also stressed the need for transparent recruitment practices.&nbsp;</p>
+
+
+
+<p>Still, he added that the entry of international universities could offer students a “fundamentally different approach” to education.</p>
+
+
+
+<p>“One major draw of institutions like the Illinois Institute of Technology is their teaching approach. The pedagogy is entirely different, it’s more about critical inquiry, problem-solving, and engagement,” stated Jayakrishnan.&nbsp;</p>
+
+
+
+<p>“Experiencing that different pedagogical style, one that encourages real-world application, could be a real advantage for Indian students.”</p>
+
+
+
+<p><strong>Maharashtra&#8217;s scholarship conundrum</strong></p>
+
+
+
+<p>While the UGC has encouraged international universities setting up shop in India to offer full or partial merit- or need-based scholarships, a senior official told <em>Hindustan Times</em> that institutions will have the autonomy to make that decision.</p>
+
+
+
+<p>The voluntary nature of offering scholarships could affect students hoping to study at these institutions, as the universities, despite potentially lower fees, retain full autonomy over their fee structures.</p>
+
+
+
+<p>Scholarships for education have long been a contentious issue in Maharashtra, where <a href="https://thepienews.com/indian-state-marginalised-groups/?utm_content=297435058&amp;utm_medium=social&amp;utm_source=linkedin&amp;hss_channel=lcp-2248093" rel="noreferrer noopener" target="_blank">restrictions</a> have previously been placed on aid for marginalised students, and government-funded scholarship schemes have faced repeated <a href="https://www.freepressjournal.in/education/maharashtra-delay-in-foreign-education-scholarship-advertisement-sparks-concern-among-students" rel="noreferrer noopener" target="_blank">delays</a>, leaving many students abroad still <a href="https://www.edexlive.com/news/2025/May/01/three-months-on-maharashtra-students-abroad-wait-for-promised-scholarship-funds" rel="noreferrer noopener" target="_blank">awaiting</a> promised disbursements.&nbsp;</p>
+
+
+
+<p>“According to a recent RedSeer report, nearly 60% of Indian students consider cost a key driver when evaluating overseas study,” stated Jain.&nbsp;</p>
+
+
+
+<p>“By offering international-quality education at a lower cost than equivalent programs abroad, domestic campuses of global institutions can remove a major barrier.”</p>
+<p>The post <a href="https://thepienews.com/ambivalent-response-as-five-more-unis-join-indias-tne-boom/">Ambivalent response as five more unis join India&#8217;s TNE boom</a> appeared first on <a href="https://thepienews.com">The PIE News</a>.</p>
 
 ### 발행일
-2025-06-18T12:25:05+00:00
+2025-06-20T09:27:05+00:00
+
+### 출처
+ThePieNews
+
+--------------------------------------------------------------------------------
+
+### 제목
+Studying abroad: a journey that changes lives forever
+
+### 링크
+https://thepienews.com/studying-abroad-a-journey-that-changes-lives-forever/
+
+### 본문
+<p>At Landmark Global Learning Ltd, we have witnessed thousands of such journeys – each one unique, each one extraordinary. When a student decides to study in another country, they’re not simply moving miles away from home. They are choosing growth over fear, curiosity over comfort, and opportunity over uncertainty. They are actually choosing a new life.</p>
+
+
+
+<p>The decision to study abroad is one of the most powerful commitments a person can make towards their future. It’s a promise to embrace change, to learn from new cultures, to respect diversity, and to build bridges that connect nations and hearts.</p>
+
+
+
+<p>Every year, we meet students who walk into our offices with dreams in their eyes but also with questions and doubts. Will I be able to adjust? Will I find a supportive community? Will this investment be worth it? And every year, we see these very students flourish from nervous applicants to confident global citizens. They return stronger, wiser, and ready to contribute meaningfully to the world. </p>
+
+
+
+<p>The true magic of studying abroad lies in experiences that no classroom can offer. It’s in the friendships formed over shared meals, the late-night study sessions, the pride of representing your culture, and the small moments of realising that the world isn’t as big or as divided as it once seemed. It’s about learning to navigate life, from managing finances to cooking your first meal, from tackling language barriers to finding your own voice in a foreign land.</p>
+
+
+
+<p>At Landmark Global Learning Ltd, we feel privileged to be part of these transformational journeys. We don’t just process applications or handle paperwork, we stand beside students and families at every step. From choosing the right course and university to guiding them through visa processes and pre-departure preparation, we ensure that every dream gets the right direction. Because to us, each student’s success is personal. It’s not just our job – it’s our passion.</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>The true magic of studying abroad lies in experiences that no classroom can offer</p>
+</blockquote>
+
+
+
+<p>Studying abroad is a gift that keeps giving. It opens doors to global careers, builds lifelong networks, and most importantly, shapes individuals who believe in inclusivity, resilience, and hope. In today’s world, where connections matter more than ever, international education empowers students to be ambassadors of peace and progress. </p>
+
+
+
+<p>So, if you’re someone standing at the crossroads, wondering if this path is right for you – take the leap. The world is waiting, and your future self will thank you. And remember, Landmark Global Learning Ltd is here to walk this path with you, turning your aspirations into achievements. Let your journey begin.</p>
+<p>The post <a href="https://thepienews.com/studying-abroad-a-journey-that-changes-lives-forever/">Studying abroad: a journey that changes lives forever</a> appeared first on <a href="https://thepienews.com">The PIE News</a>.</p>
+
+### 발행일
+2025-06-20T08:58:34+00:00
 
 ### 출처
 ThePieNews

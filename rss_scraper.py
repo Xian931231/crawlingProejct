@@ -20,7 +20,19 @@ def get_yesterday_articles(rss_url, source_name):
         list: 전날의 기사 리스트
     """
     # RSS 피드 파싱
-    feed = feedparser.parse(rss_url)
+    print(f"\n{source_name} RSS 피드 연결 중: {rss_url}")
+    
+    # User-Agent 설정
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+    }
+    
+    # feedparser에 headers 전달
+    feed = feedparser.parse(rss_url, request_headers=headers)
+    
+    print(f"RSS 피드 상태: {feed.status if hasattr(feed, 'status') else 'Unknown'}")
+    print(f"RSS 피드 제목: {feed.feed.title if hasattr(feed.feed, 'title') else 'Unknown'}")
+    print(f"총 기사 수: {len(feed.entries)}")
     
     # 현재 시간을 UTC로 변환
     now = datetime.now(pytz.UTC)
@@ -44,6 +56,9 @@ def get_yesterday_articles(rss_url, source_name):
     # for entry in feed.entries: # 전체
     for entry in feed.entries[:3]: # 각 사이트당 최신 기사 3개씩
         try:
+            print(f"\n기사 처리 중: {entry.title}")
+            print(f"기사 링크: {entry.link}")
+            
             if 'published_parsed' in entry:
                 pub_date = datetime.fromtimestamp(
                     datetime.timestamp(datetime(*entry.published_parsed[:6]))
@@ -55,9 +70,12 @@ def get_yesterday_articles(rss_url, source_name):
             else:
                 pub_date = datetime.now(pytz.UTC)
             
+            print(f"발행일: {pub_date}")
+            print(f"기존 제목에 포함됨: {entry.title in existing_titles}")
+            
             # 어제 날짜의 기사인지 확인하고, 기존에 수집되지 않은 기사인지 확인
             # if yesterday.date() == pub_date.date() and entry.title not in existing_titles:
-
+            # 최신 기사 3개를 가져오되, 기존에 수집되지 않은 기사만 처리
             if entry.title not in existing_titles:
                 try:
                     # 기사 전체 내용 가져오기
@@ -89,30 +107,86 @@ def get_yesterday_articles(rss_url, source_name):
                     elif source_name == 'CoinDesk':
                         # 메인 컨텐츠 영역 찾기
                         article_content = ""
-                        # 먼저 article 태그 내에서 찾기
+                        
+                        print(f"CoinDesk 기사 처리 중: {entry.title}")
+                        print(f"URL: {entry.link}")
+                        
+                        # 1. 먼저 article 태그 내에서 찾기
                         article_tag = soup.find('article')
                         if article_tag:
-                            # 본문 영역 찾기 시도
-                            content_div = article_tag.find('div', {'class': ['article-body', 'article-body-text', 'article-content']})
-                            if not content_div:
-                                content_div = article_tag
+                            print("Article 태그 찾음")
+                            # 2. 다양한 클래스명으로 본문 영역 찾기
+                            content_selectors = [
+                                'div[class*="article-body"]',
+                                'div[class*="article-content"]', 
+                                'div[class*="post-content"]',
+                                'div[class*="entry-content"]',
+                                'div[class*="content"]',
+                                'div[class*="story-body"]',
+                                'div[class*="article-text"]',
+                                'main',
+                                'article'
+                            ]
                             
-                            if content_div:
-                                # 불필요한 요소 제거
-                                for elem in content_div.find_all(['script', 'style', 'iframe', 'figure', 'aside', 'div', 'section']):
-                                    if 'article-body' not in elem.get('class', []):
+                            for selector in content_selectors:
+                                content_div = soup.select_one(selector)
+                                if content_div:
+                                    print(f"선택자 '{selector}'로 내용 찾음")
+                                    # 불필요한 요소 제거
+                                    for elem in content_div.find_all(['script', 'style', 'iframe', 'figure', 'aside', 'nav', 'header', 'footer']):
                                         elem.decompose()
-                                
-                                # 본문 텍스트 추출
-                                paragraphs = content_div.find_all(['p', 'h2', 'h3', 'blockquote'])
-                                article_content = '\n\n'.join([p.get_text().strip() for p in paragraphs if p.get_text().strip()])
+                                    
+                                    # 본문 텍스트 추출
+                                    paragraphs = content_div.find_all(['p', 'h1', 'h2', 'h3', 'h4', 'blockquote'])
+                                    if paragraphs:
+                                        article_content = '\n\n'.join([p.get_text().strip() for p in paragraphs if p.get_text().strip()])
+                                        print(f"본문 추출 완료: {len(article_content)} 문자")
+                                        break
+                        else:
+                            print("Article 태그를 찾을 수 없음")
                         
-                        # article 태그에서 찾지 못한 경우 다른 방법 시도
+                        # 3. article 태그에서 찾지 못한 경우 다른 방법 시도
                         if not article_content.strip():
+                            print("다른 방법으로 본문 찾기 시도...")
+                            # main 태그에서 직접 찾기
                             main_content = soup.find('main')
                             if main_content:
-                                paragraphs = main_content.find_all(['p', 'h2', 'h3', 'blockquote'])
+                                print("Main 태그 찾음")
+                                paragraphs = main_content.find_all(['p', 'h1', 'h2', 'h3', 'h4', 'blockquote'])
                                 article_content = '\n\n'.join([p.get_text().strip() for p in paragraphs if p.get_text().strip()])
+                            
+                            # 여전히 없으면 모든 p 태그에서 찾기
+                            if not article_content.strip():
+                                print("모든 p 태그에서 찾기 시도...")
+                                all_paragraphs = soup.find_all('p')
+                                if all_paragraphs:
+                                    article_content = '\n\n'.join([p.get_text().strip() for p in all_paragraphs if p.get_text().strip()])
+                                    print(f"모든 p 태그에서 추출: {len(article_content)} 문자")
+                        
+                        # 4. 여전히 내용이 없으면 RSS 피드의 설명 사용
+                        if not article_content.strip():
+                            print("RSS 피드 설명 사용...")
+                            if hasattr(entry, 'content') and entry.content:
+                                article_content = entry.content[0].value
+                                print("RSS content 사용")
+                            elif hasattr(entry, 'description'):
+                                article_content = entry.description
+                                print("RSS description 사용")
+                            elif hasattr(entry, 'summary'):
+                                article_content = entry.summary
+                                print("RSS summary 사용")
+                        
+                        # 5. 디버그 정보 출력 (내용이 없을 때만)
+                        if not article_content.strip():
+                            print(f"\nCoinDesk 기사 추출 실패: {entry.link}")
+                            print("사용 가능한 태그들:")
+                            for tag in soup.find_all(['article', 'main', 'div']):
+                                if tag.get('class'):
+                                    print(f"- {tag.name} with class: {tag.get('class')}")
+                            print("HTML 구조 일부:")
+                            print(soup.prettify()[:1000])
+                        else:
+                            print(f"CoinDesk 기사 추출 성공: {len(article_content)} 문자")
                     
                     elif source_name == 'ThePieNews':
                         # 메인 컨텐츠 영역 찾기
@@ -254,7 +328,7 @@ def scrape_all_sources():
     # RSS 피드 URL 목록
     sources = {
         'CoinTelegraph': 'https://cointelegraph.com/rss',
-        'CoinDesk': 'https://www.coindesk.com/arc/outboundfeeds/rss',
+        'CoinDesk': 'https://www.coindesk.com/arc/outboundfeeds/rss/',
         'ThePieNews': 'https://thepienews.com/feed/'
     }
     
