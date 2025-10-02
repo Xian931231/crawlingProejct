@@ -7,6 +7,9 @@ import requests
 import time
 import json
 import re
+import base64
+from io import BytesIO
+from PIL import Image
 
 # .env 파일 로드
 load_dotenv()
@@ -27,18 +30,124 @@ def validate_environment():
     if not all([wp_url, wp_user, wp_pass]):
         raise ValueError("WordPress 인증 정보가 .env 파일에 설정되어 있지 않습니다.")
 
-def post_to_wordpress(title, content, lead, status='draft'):
+def generate_image_with_dalle(title, content, lead, return_url_only=False):
+    """DALL-E를 사용하여 뉴스 기사에 맞는 이미지를 생성하는 함수"""
+    try:
+        # 이미지 생성을 위한 프롬프트 생성
+        image_prompt = f"""
+        뉴스 기사 이미지: {title}
+        
+        기사 요약: {lead[:200]}...
+        
+        전문적이고 신뢰할 수 있는 뉴스 이미지를 생성해주세요. 
+        - 깔끔하고 현대적인 디자인
+        - 뉴스 매체에 적합한 색상 (주로 파란색, 회색, 흰색 톤)
+        - 텍스트가 잘 보이도록 배경은 단순하게
+        - 관련 아이콘이나 그래픽 요소 포함
+        - 16:9 비율의 와이드 이미지
+        """
+        
+        print("DALL-E를 사용하여 이미지 생성 중...")
+        
+        # DALL-E API 호출
+        response = client.images.generate(
+            model="dall-e-3",
+            prompt=image_prompt.strip(),
+            size="1792x1024",  # 16:9 비율
+            quality="standard",
+            n=1
+        )
+        
+        # 생성된 이미지 URL 가져오기
+        image_url = response.data[0].url
+        print(f"이미지 생성 완료: {image_url}")
+        
+        # URL만 반환하는 경우
+        if return_url_only:
+            return image_url
+        
+        # 이미지 다운로드
+        image_response = requests.get(image_url)
+        if image_response.status_code == 200:
+            return image_response.content
+        else:
+            print(f"이미지 다운로드 실패: {image_response.status_code}")
+            return None
+            
+    except Exception as e:
+        print(f"이미지 생성 중 오류 발생: {e}")
+        return None
+
+def upload_image_to_wordpress(image_data, filename="news_image.jpg"):
+    """WordPress에 이미지를 업로드하는 함수"""
+    try:
+        # WordPress 미디어 업로드 API 엔드포인트
+        media_url = f"{wp_url}/wp-json/wp/v2/media"
+        
+        # 파일명에 타임스탬프 추가하여 중복 방지 (영문만 사용)
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        safe_filename = f"{timestamp}_news_image.jpg"  # 한글 제거하고 영문만 사용
+        
+        # 멀티파트 폼 데이터로 이미지 업로드
+        files = {
+            'file': (safe_filename, image_data, 'image/jpeg')
+        }
+        
+        # Content-Disposition 헤더에서 한글 제거
+        headers = {
+            'Content-Disposition': f'attachment; filename="{safe_filename}"'
+        }
+        
+        print(f"이미지 업로드 시도 중... (파일명: {safe_filename})")
+        
+        response = requests.post(
+            media_url,
+            files=files,
+            headers=headers,
+            auth=(wp_user, wp_pass),
+            timeout=30  # 타임아웃 설정
+        )
+        
+        print(f"이미지 업로드 응답 상태: {response.status_code}")
+        
+        if response.status_code == 201:
+            media_data = response.json()
+            print(f"이미지 업로드 성공!")
+            print(f"미디어 ID: {media_data['id']}")
+            print(f"이미지 URL: {media_data['source_url']}")
+            return media_data['id'], media_data['source_url']
+        else:
+            print(f"이미지 업로드 실패: {response.status_code}")
+            print(f"오류 메시지: {response.text[:500]}...")  # 오류 메시지 길이 제한
+            return None, None
+            
+    except Exception as e:
+        print(f"이미지 업로드 중 오류 발생: {e}")
+        return None, None
+
+def post_to_wordpress(title, content, lead, status='draft', featured_media_id=None, image_url=None):
     """WordPress에 포스트를 업로드하는 함수"""
     api_url = f"{wp_url}/wp-json/wp/v2/posts"
     
     headers = {
-        'Content-Type': 'application/json',
+        'Content-Type': 'application/json; charset=utf-8',
     }
     
+    # HTML 태그를 보존하면서 안전하게 처리
+    safe_title = title if title else ""
+    safe_content = content if content else ""
+    safe_lead = lead if lead else ""
+    
+    # 이미지 URL이 있으면 content에 이미지 추가
+    if image_url:
+        image_html = f'<div class="featured-image" style="text-align: center; margin: 20px 0;"><img src="{image_url}" alt="{safe_title}" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" /></div>'
+        safe_content = image_html + safe_content
+        print(f"이미지가 content에 추가되었습니다: {image_url}")
+    
     data = {
-        'title': title,
-        'content': content,
-        'excerpt': lead,
+        'title': safe_title,
+        'content': safe_content,
+        'excerpt': safe_lead,
         'status': status,
         'categories': [2],
         # 'meta_input': {
@@ -46,17 +155,49 @@ def post_to_wordpress(title, content, lead, status='draft'):
         # }
     }
     
+    # 대표 이미지가 있으면 추가
+    if featured_media_id:
+        data['featured_media'] = featured_media_id
+        print(f"대표 이미지 ID 설정: {featured_media_id}")
+    else:
+        print("대표 이미지 ID가 없습니다.")
+    
     try:
+        # JSON 데이터를 UTF-8로 인코딩하여 전송 (HTML 태그 보존)
+        json_data = json.dumps(data, ensure_ascii=False, separators=(',', ':')).encode('utf-8')
+        
+        print(f"포스트 데이터 전송 중... (대표이미지 ID: {featured_media_id})")
+        print(f"Content 미리보기: {safe_content[:200]}...")  # HTML 태그 확인용
+        
         response = requests.post(
             api_url,
-            json=data,
+            data=json_data,
             headers=headers,
-            auth=(wp_user, wp_pass)
+            auth=(wp_user, wp_pass),
+            timeout=30
         )
         
         if response.status_code == 201:
+            post_data = response.json()
             print(f"WordPress에 포스트가 성공적으로 업로드되었습니다. (상태: {status})")
-            return response.json()
+            print(f"포스트 ID: {post_data['id']}")
+            
+            # 대표 이미지 설정 확인
+            if featured_media_id:
+                print(f"대표 이미지 설정 확인 중... (미디어 ID: {featured_media_id})")
+                # 포스트 정보를 다시 가져와서 대표 이미지 확인
+                post_check_url = f"{wp_url}/wp-json/wp/v2/posts/{post_data['id']}"
+                check_response = requests.get(post_check_url, auth=(wp_user, wp_pass))
+                if check_response.status_code == 200:
+                    post_info = check_response.json()
+                    if post_info.get('featured_media') == featured_media_id:
+                        print("✅ 대표 이미지가 성공적으로 설정되었습니다!")
+                    else:
+                        print(f"⚠️ 대표 이미지 설정 실패. 현재 설정된 미디어 ID: {post_info.get('featured_media')}")
+                else:
+                    print("포스트 정보 확인 실패")
+            
+            return post_data
         else:
             print(f"WordPress 업로드 실패. 상태 코드: {response.status_code}")
             print(f"오류 메시지: {response.text}")
@@ -165,14 +306,54 @@ def translate_and_format(news_content):
                 return None, None, None
 
         print("\n=== 파싱 결과 ===")
-
+        print(f"Content HTML 태그 확인: {'<br>' in content or '<p>' in content}")
 
         if not all([title, lead, content]):
             print("경고: 일부 필드가 비어 있습니다.")
             print(f"비어있는 필드: {[field for field, value in {'title': title, 'lead': lead, 'content': content}.items() if not value]}")
-            return None, None, None
+            return None, None, None, None, None
 
-        return title, lead, content
+        # 이미지 생성
+        print("\n=== 이미지 생성 중 ===")
+        featured_media_id = None
+        image_url = None
+        
+        try:
+            # DALL-E 이미지 생성
+            dalle_image_url = generate_image_with_dalle(title, content, lead, return_url_only=True)
+            
+            if dalle_image_url:
+                print(f"DALL-E 이미지 URL 획득: {dalle_image_url}")
+                
+                # 이미지 다운로드하여 WordPress에 업로드 시도
+                image_data = generate_image_with_dalle(title, content, lead)
+                
+                if image_data:
+                    # WordPress에 이미지 업로드
+                    print("WordPress에 이미지 업로드 중...")
+                    media_id, uploaded_image_url = upload_image_to_wordpress(image_data)
+                    if media_id and uploaded_image_url:
+                        featured_media_id = media_id
+                        image_url = uploaded_image_url
+                        print(f"대표 이미지 설정 완료 (ID: {media_id})")
+                        print(f"이미지 URL: {image_url}")
+                    else:
+                        print("이미지 업로드 실패 - DALL-E URL을 직접 사용합니다.")
+                        image_url = dalle_image_url
+                        print(f"DALL-E 이미지 URL 사용: {image_url}")
+                else:
+                    print("이미지 다운로드 실패 - DALL-E URL을 직접 사용합니다.")
+                    image_url = dalle_image_url
+                    print(f"DALL-E 이미지 URL 사용: {image_url}")
+            else:
+                print("이미지 생성 실패 - 이미지 없이 포스트를 생성합니다.")
+        except Exception as image_error:
+            print(f"이미지 생성/업로드 중 오류 발생: {image_error}")
+            print("이미지 없이 포스트를 생성합니다.")
+            featured_media_id = None
+            image_url = None
+
+        return title, lead, content, featured_media_id, image_url
         
     except Exception as e:
         if 'insufficient_quota' in str(e):
@@ -180,7 +361,7 @@ def translate_and_format(news_content):
             print("https://platform.openai.com/account/usage 에서 현재 사용량을 확인할 수 있습니다.")
         else:
             print(f"번역 중 오류 발생: {e}")
-        return None, None, None
+        return None, None, None, None, None
 
 def process_news():
     """뉴스 스크래핑, 번역, 포스팅을 처리하는 메인 함수"""
@@ -205,7 +386,7 @@ def process_news():
                 continue
                 
             print("\n3. 기사 번역 및 포맷팅 중...")
-            title, lead, content = translate_and_format(article)
+            title, lead, content, featured_media_id, image_url = translate_and_format(article)
 
             # 예외 발생 등으로 하나라도 None이거나 비어있으면 건너뜀
             if not all([title, lead, content]):
@@ -217,7 +398,7 @@ def process_news():
             print(f"content: {content}")
 
             print("\n4. WordPress에 포스팅 중...")
-            result = post_to_wordpress(title, content, lead)
+            result = post_to_wordpress(title, content, lead, 'draft', featured_media_id, image_url)
             if result:
                 print(f"포스트 ID: {result['id']}")
                 print(f"포스트 링크: {result['link']}")
@@ -245,7 +426,7 @@ def process_news_test():
                 continue
                 
             print("\n3. 기사 번역 및 포맷팅 중...")
-            title, lead, content = translate_and_format(article)
+            title, lead, content, featured_media_id, image_url = translate_and_format(article)
 
             # 예외 발생 등으로 하나라도 None이거나 비어있으면 건너뜀
             if not all([title, lead, content]):
@@ -257,7 +438,7 @@ def process_news_test():
             print(f"content: {content}")
 
             print("\n4. WordPress에 포스팅 중...")
-            result = post_to_wordpress(title, content, lead)
+            result = post_to_wordpress(title, content, lead, 'draft', featured_media_id, image_url)
             if result:
                 print(f"포스트 ID: {result['id']}")
                 print(f"포스트 링크: {result['link']}")

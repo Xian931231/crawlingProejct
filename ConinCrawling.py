@@ -14,7 +14,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 openai_api_key = os.getenv('OPENAI_API_KEY')
-print("🔑 불러온 OPENAI_API_KEY:", openai_api_key)  # 디버깅용 출력
+print("불러온 OPENAI_API_KEY:", openai_api_key)  # 디버깅용 출력
 if not openai_api_key:
     raise ValueError("OPENAI_API_KEY가 .env 파일에 설정되어 있지 않습니다.")
 
