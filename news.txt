@@ -59,3 +59,690 @@ CoinTelegraph
 
 --------------------------------------------------------------------------------
 
+### 제목
+Crypto treasury ‘bubble’ fears overblown: TON Strategy CEO
+
+### 링크
+https://cointelegraph.com/news/digital-asset-treasuries-bubble-fear-overblown-ton-strategy-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+### 본문
+While a recent wave of corporate digital asset treasuries is starting to show signs of a bubble, the long-term outlook is positive, according to TON Strategy CEO Veronika Kapustina.
+
+“I think, look, obviously, it looks like it’s a bubble. As in, all the indicators look like it’s a bubble,” Kapustina told Cointelegraph during the Token2049 conference in Singapore.
+
+Kapustina explained that they are different from other bubbles we’ve seen in crypto and TradFi “because it’s a new segment of finance.” DATs became “the trade of the summer,” and people saw it as “fast money,” with a lot of “fast money going in,” she said.
+
+“So we’re now having smarter investors look at it closely and really differentiate the wheat from the chaff.”
+
+Kapustina described DATs as a “bridge between traditional finance and crypto,” adding that she doesn’t think there will be a crash, but there could be consolidation as newly launched DATs struggle to reach their targets.
+
+“There’s a lot of excitement for a surge in something new. Then it peters out, and a bit of consolidation, and then the real medium to long-term capital comes in,” Kapustina said.
+
+Strategy’s Michael Saylor, the treasury pioneer
+
+Kapustina explained that while Michael Saylor’s Strategy pioneered the DAT model with Bitcoin (BTC), this year has proven the model works beyond just Bitcoin, with successful launches around Ether (ETH), Solana (SOL), and her own company, which is a treasury for The Open Network’s native token, Toncoin (TON).
+
+Related: Crypto treasury companies pose a similar risk to the 2000s dotcom bust
+
+Kapustina said there are several evolution paths for DATs, including infrastructure provision, potential banking services and acquiring banking licenses, mergers and acquisitions, and technology bridges between chains.
+
+Over the long term, investors will be able to appreciate the true value of DATs from a “functionality perspective, from a utility perspective, for the networks they invest in, in terms of not just being a bridge between TradFi and crypto, but securing the network,” she said.
+
+Crypto treasuries accumulate
+
+Corporate crypto treasuries have been hoovering up digital assets all year, despite many cryptocurrencies being close to all-time high values.
+
+There is currently more than 1.3 million BTC worth around $157.7 billion, equating to 6.6% of the circulating supply, in public and private corporate treasuries, according to BitcoinTreasuries.NET.
+
+Meanwhile, Ether DATs have scooped up 5.5 million ETH worth roughly $24 billion and around 4.5% of the total supply, according to StrategicEthReserve.
+
+Magazine: Quitting Trump’s top crypto job wasn’t easy: Bo Hines
+
+Additional reporting by Ciaran Lyons.
+
+### 발행일
+2025-10-02T06:01:52+00:00
+
+### 출처
+CoinTelegraph
+
+--------------------------------------------------------------------------------
+
+### 제목
+Avalanche rises as treasury firm eyes $1B buy after SPAC deal
+
+### 링크
+https://cointelegraph.com/news/avalanche-rises-treasury-firm-eyes-1b-buy-after-spac-deal-next-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+### 본문
+The price of AVAX, the native token of the Avalanche blockchain, jumped after a newly formed company announced its plans to go public in the US and purchase over $1 billion worth of the token.
+
+The company, Avalanche Treasury Co., said on Wednesday that it would merge with the special purpose acquisition company (SPAC) Mountain Lake Acquisition Corp. in a deal valued at over $675 million.
+
+The merged company expects to list on the Nasdaq in the first quarter of 2026 under the ticker symbol “AVAT,” subject to regulatory and shareholder approval.
+
+Emin Gün Sirer, the founder and CEO of the Avalanche blockchain development firm Ava Labs, will join the company as an adviser.
+
+The business will be the second so-called treasury company focused on Avalanche and joins a herd of companies going public or pivoting to buying and holding cryptocurrencies this year.
+
+Avalanche Treasury Co. eyes $1 billion AVAX holdings
+
+Avalanche Treasury Co. said it has an “exclusive relationship” with the Avalanche Foundation, an organization that supports the blockchain, which had reportedly planned to sell millions of Avalanche (AVAX) tokens at a discounted price to treasury companies.
+
+The treasury company said it plans to own more than $1 billion worth of AVAX after it goes public next year, and its initial capital raise “will result in approximately $460 million in treasury assets funded.”
+
+AVAX rose shortly after the announcement to an intraday high of $31.32. It has since cooled but remains up 2.3% in the past 24 hours, according to CoinGecko.
+
+Crypto-focused venture firms and companies have backed the merger, including Dragonfly, VanEck, FalconX, Monarq, Galaxy Digital, Pantera Capital, CoinFund and Kraken.
+
+Bart Smith, the former CEO of major crypto market maker Susquehanna Crypto, has been named CEO of Avalanche Treasury Co.
+
+Avalanche Treasury Co. plans to be active onchain
+
+The company said that it will conduct additional activities to generate revenue “beyond passive accumulation” and also plans to be active on the Avalanche blockchain.
+
+It added that it will deploy funds via “targeted protocol investments,” assist enterprises with tokenizing real-world assets and stablecoins, and establish its own validator infrastructure.
+
+“Many institutions have difficulty accessing digital assets or are limited to holding native tokens without yield or ecosystem integration,” Smith said. “We created Avalanche Treasury Co. to offer something we believe will be more valuable than passive exposure.”
+
+Related: SEC trading halt of crypto treasury firm QMMM is a TradFi issue
+
+The company joins the likes of AgriFORCE Growing Systems, which announced on Sept. 22 that it will rebrand as AVAX One and purchase $700 million worth of AVAX.
+
+Company aims to offer “discount” compared to token
+
+Avalanche Treasury Co. said it will launch “with an initial AVAX token purchase at a discount to market price and 18-month priority on Avalanche Foundation sales to US digital asset treasury companies.”
+
+The company is aiming for a multiple of net asset value (mNAV) of 0.77, which it touted as a “23% discount compared to buying AVAX directly.”
+
+However, analysts from NYDIG recently argued that the mNAV metric is misleading as it doesn’t properly represent a company’s financial position.
+
+Magazine: Meet the Ethereum and Polkadot co-founder who wasn’t in Time Magazine
+
+### 발행일
+2025-10-02T05:47:19+00:00
+
+### 출처
+CoinTelegraph
+
+--------------------------------------------------------------------------------
+
+### 제목
+XRP, DOGE Zoom Higher as U.S. Shutdowns, Japan Bond Slowdown Charge Bitcoin Appetite
+
+### 링크
+https://www.coindesk.com/markets/2025/10/02/xrp-doge-zoom-higher-as-u-s-shutdowns-japan-bond-slowdown-charge-bitcoin-appetite
+
+### 본문
+XRP, DOGE Zoom Higher as U.S. Shutdowns, Japan Bond Slowdown Charge Bitcoin Appetite
+
+Shutdowns that delay data and weaken fiscal visibility often encourage central banks to act more cautiously, while rising yields in Japan hint at policy shifts that could ripple through global funding markets.
+
+What to know:
+
+A U.S. government shutdown and fresh stress in Japan’s bond market failed to derail digital assets this week, as traders positioned for looser global liquidity conditions.
+
+With Friday’s U.S. payrolls report potentially delayed and Japanese yields climbing to their highest levels since 2008, crypto markets are showing signs of decoupling from broader macro caution.
+
+The setup has fueled expectations that policymakers may eventually be forced to ease financial conditions, creating a friendlier backdrop for risk-taking.
+
+“The U.S. government shutdown and weak employment numbers from ADP have impacted markets this past week. Traders believe that these catalysts could be making a case for the Fed to further stimulate the economy and cut rates through the rest of the year, which could boost stocks and cryptocurrencies,” said Jeff Mei, COO at BTSE, in a Telegram note to CoinDesk.
+
+Shutdowns that delay data and weaken fiscal visibility often encourage central banks to act more cautiously, while rising yields in Japan hint at policy shifts that could ripple through global funding markets.
+
+For crypto, these dynamics translate into speculation over fresh inflows and renewed appetite for volatility.
+
+Bitcoin traded near $118,700, gaining more than 3% in the past 24 hours, while ether rose 5.6% to $4,374. Solana added nearly 7% to reach $223, and dogecoin surged almost 9% to $0.25, extending its outperformance among majors.
+
+XRP steadied at $2.97 after volatile swings around the $3.00 level earlier this week. The broad rally lifted the market capitalization of all digital assets to over $2.37 trillion, per CoinMarketCap data.
+
+Meanwhile, volatility metrics also reinforce the picture of steadier markets.
+
+“The major theme this quarter is with lower implied volatilities, evident across equities, rates, FX, and even BTC. This has been driven by a collapse in realized volatilities thanks to an accommodative Fed, stabilizing global GDP, lack of significant tariff-passthroughs on CPI readings, and a flattening of geopolitics and tariff surprises,” said Augustine Fan, Head of Insights at SignalPlus, said in an email.
+
+With bitcoin consolidating just under $119,000 and dogecoin pushing higher, the coming weeks may show whether flows can sustain momentum or whether renewed pressure from Washington and Tokyo will test crypto’s bid for decoupling.
+
+More For You
+
+Total Crypto Trading Volume Hits Yearly High of $9.72T
+
+Combined spot and derivatives trading on centralized exchanges surged 7.58% to $9.72 trillion in August, marking the highest monthly volume of 2025
+
+What to know:
+
+More For You
+
+DOGE Pops 9% as SHIB Flows Confirm Memecoin Momentum
+
+Technical desks noted Golden Cross signals across majors, reinforcing bullish momentum. Analysts flagged a decisive break above $0.255 as opening a path toward $0.32.
+
+What to know:
+
+Dogecoin surged nearly 9% as traders speculated on U.S. ETF approvals and institutional interest.
+
+SHIB's 6% rally was supported by a significant drop in exchange reserves, highlighting reduced supply.
+
+Technical analysis shows DOGE's support at $0.242 and resistance at $0.254, with potential to reach $0.32.
+
+DOGE Pops 9% as SHIB Flows Confirm Memecoin Momentum
+
+XRP Jumps 5% as SBI Lending Program and ETF Countdown Fuel Rally
+
+'Tokenization is Going to Eat the Entire Financial System' Says Robinhood CEO
+
+Bitcoin Surges Above $119K as U.S. Government Shutdown Takes Effect; BTC Options Look Cheap
+
+Bullish to Offer Bitcoin Options Trading With Top-Tier Consortium of Trading Partners
+
+Leading Democrat Wyden Continues Probe Into Pantera Founder Morehead's Taxes
+
+'Tokenization is Going to Eat the Entire Financial System' Says Robinhood CEO
+
+Circle Expands $635M Tokenized Treasury Fund to Solana Amid Rapid RWA Growth
+
+Bitcoin Surges Above $119K as U.S. Government Shutdown Takes Effect; BTC Options Look Cheap
+
+Solana Gets Another Treasury Firm with $2B Plan Backed by DeFi Protocol Marinade
+
+Trump Makes Travis Hill Pick Official as Choice to Run FDIC
+
+Ripple CTO David Schwartz to Step Back, Joins Board
+
+Disclosure & Polices: CoinDesk is an award-winning media outlet that covers the cryptocurrency industry. Its journalists abide by a strict set of editorial policies. CoinDesk has adopted a set of principles aimed at ensuring the integrity, editorial independence and freedom from bias of its publications. CoinDesk is part of Bullish (NYSE:BLSH), an institutionally focused global digital asset platform that provides market infrastructure and information services. Bullish owns and invests in digital asset businesses and digital assets and CoinDesk employees, including journalists, may receive Bullish equity-based compensation.
+
+### 발행일
+2025-10-02T05:09:40+00:00
+
+### 출처
+CoinDesk
+
+--------------------------------------------------------------------------------
+
+### 제목
+DOGE Pops 9% as SHIB Flows Confirm Memecoin Momentum
+
+### 링크
+https://www.coindesk.com/markets/2025/10/02/doge-pops-9-as-shib-flows-confirm-memecoin-momentum
+
+### 본문
+DOGE Pops 9% as SHIB Flows Confirm Memecoin Momentum
+
+Technical desks noted Golden Cross signals across majors, reinforcing bullish momentum. Analysts flagged a decisive break above $0.255 as opening a path toward $0.32.
+
+What to know:
+
+Dogecoin surged nearly 9% as traders speculated on U.S. ETF approvals and institutional interest.
+
+SHIB's 6% rally was supported by a significant drop in exchange reserves, highlighting reduced supply.
+
+Technical analysis shows DOGE's support at $0.242 and resistance at $0.254, with potential to reach $0.32.
+
+Dogecoin ripped nearly 9% higher, breaking through resistance on more than a billion tokens traded. Support reset to $0.242 after an early breakout, while late-session flows pushed DOGE into the $0.254 zone before consolidation. Traders pointed to SHIB’s parallel 6% rally — underpinned by record trillion-token turnover and exchange balances at two-year lows — as further evidence of institutional accumulation across meme-coins.
+
+News Background
+
+DOGE advanced 8.8% over the 24 hours from Oct. 1, 03:00 to Oct. 2, 02:00, climbing from $0.23 to $0.25. The move was fueled by speculation around U.S. ETF approvals and aggressive institutional positioning. SHIB also surged 6.2% in the same window, with exchange reserves dropping to multi-year lows, underscoring a reduction in available supply as meme-coins gained broader bid interest.
+
+Price Action Summary
+
+Technical Analysis
+
+Support has shifted to $0.242 following the breakout, with resistance hardened at $0.254–$0.255. The session carved an ascending triangle, validated by higher lows and sustained turnover. Technical desks noted Golden Cross signals across majors, reinforcing bullish momentum. Analysts flagged a decisive break above $0.255 as opening a path toward $0.32 — with ETF-driven flows providing the catalyst.
+
+What Traders Are Watching?
+
+More For You
+
+Total Crypto Trading Volume Hits Yearly High of $9.72T
+
+Combined spot and derivatives trading on centralized exchanges surged 7.58% to $9.72 trillion in August, marking the highest monthly volume of 2025
+
+What to know:
+
+More For You
+
+XRP, DOGE Zoom Higher as U.S. Shutdowns, Japan Bond Slowdown Charge Bitcoin Appetite
+
+Shutdowns that delay data and weaken fiscal visibility often encourage central banks to act more cautiously, while rising yields in Japan hint at policy shifts that could ripple through global funding markets.
+
+What to know:
+
+XRP, DOGE Zoom Higher as U.S. Shutdowns, Japan Bond Slowdown Charge Bitcoin Appetite
+
+XRP Jumps 5% as SBI Lending Program and ETF Countdown Fuel Rally
+
+'Tokenization is Going to Eat the Entire Financial System' Says Robinhood CEO
+
+Bitcoin Surges Above $119K as U.S. Government Shutdown Takes Effect; BTC Options Look Cheap
+
+Bullish to Offer Bitcoin Options Trading With Top-Tier Consortium of Trading Partners
+
+Leading Democrat Wyden Continues Probe Into Pantera Founder Morehead's Taxes
+
+'Tokenization is Going to Eat the Entire Financial System' Says Robinhood CEO
+
+Circle Expands $635M Tokenized Treasury Fund to Solana Amid Rapid RWA Growth
+
+Bitcoin Surges Above $119K as U.S. Government Shutdown Takes Effect; BTC Options Look Cheap
+
+Solana Gets Another Treasury Firm with $2B Plan Backed by DeFi Protocol Marinade
+
+Trump Makes Travis Hill Pick Official as Choice to Run FDIC
+
+Ripple CTO David Schwartz to Step Back, Joins Board
+
+Disclosure & Polices: CoinDesk is an award-winning media outlet that covers the cryptocurrency industry. Its journalists abide by a strict set of editorial policies. CoinDesk has adopted a set of principles aimed at ensuring the integrity, editorial independence and freedom from bias of its publications. CoinDesk is part of Bullish (NYSE:BLSH), an institutionally focused global digital asset platform that provides market infrastructure and information services. Bullish owns and invests in digital asset businesses and digital assets and CoinDesk employees, including journalists, may receive Bullish equity-based compensation.
+
+### 발행일
+2025-10-02T04:25:00+00:00
+
+### 출처
+CoinDesk
+
+--------------------------------------------------------------------------------
+
+### 제목
+XRP Jumps 5% as SBI Lending Program and ETF Countdown Fuel Rally
+
+### 링크
+https://www.coindesk.com/markets/2025/10/02/xrp-jumps-5-as-sbi-lending-program-and-etf-countdown-fuel-rally
+
+### 본문
+XRP Jumps 5% as SBI Lending Program and ETF Countdown Fuel Rally
+
+Traders are closely monitoring the potential for a breakout above $3.00, with attention on the upcoming SEC decision on ETF applications.
+
+What to know:
+
+XRP surged to fresh highs after Japan’s SBI unveiled an institutional lending initiative, igniting volumes above 160M and lifting price through key resistance. Buyers defended $2.93 multiple times as flows consolidated, with the October 18 ETF decision window now framing the next breakout test toward $3.00.
+
+News Background
+
+XRP climbed 5.2% over the 24-hour window from Oct. 1, 03:00 to Oct. 2, 02:00, advancing from $2.84 to $2.97. The move followed SBI’s launch of an XRP lending program for institutional payments, highlighting Japan’s push into large-scale adoption. The rally also comes as Ripple CTO David Schwartz transitions to an emeritus role and with seven spot ETF filings pending SEC decisions starting Oct. 18.
+
+Price Action Summary
+
+The token traded a $0.16 band (5.6% volatility) between $2.82 and $2.98. The breakout accelerated at 08:00 Oct. 1, as XRP ripped from $2.86 to $2.92 on 164.5M tokens — more than double the daily average. Subsequent consolidation held $2.93 support through multiple retests, while resistance firmed at $2.96–$2.98. In the final hour, XRP extended 0.28% from $2.96 to $2.97, hitting $2.98 before sellers capped the advance.
+
+Technical Analysis
+
+Support has shifted higher to $2.93 after repeated defenses, while resistance remains entrenched at $2.96–$2.98. The breakout was validated by volume spikes — including a 4.8M burst during the late-session rally — signaling institutional demand underpinning the move. The hour chart showed a textbook ascending structure, with higher lows at $2.96–$2.97 leading into the session peak. Bulls need a decisive close above $2.98 to confirm momentum toward the $3.00 psychological barrier.
+
+What Traders Are Watching?
+
+More For You
+
+Total Crypto Trading Volume Hits Yearly High of $9.72T
+
+Combined spot and derivatives trading on centralized exchanges surged 7.58% to $9.72 trillion in August, marking the highest monthly volume of 2025
+
+What to know:
+
+More For You
+
+XRP, DOGE Zoom Higher as U.S. Shutdowns, Japan Bond Slowdown Charge Bitcoin Appetite
+
+Shutdowns that delay data and weaken fiscal visibility often encourage central banks to act more cautiously, while rising yields in Japan hint at policy shifts that could ripple through global funding markets.
+
+What to know:
+
+XRP, DOGE Zoom Higher as U.S. Shutdowns, Japan Bond Slowdown Charge Bitcoin Appetite
+
+DOGE Pops 9% as SHIB Flows Confirm Memecoin Momentum
+
+'Tokenization is Going to Eat the Entire Financial System' Says Robinhood CEO
+
+Bitcoin Surges Above $119K as U.S. Government Shutdown Takes Effect; BTC Options Look Cheap
+
+Bullish to Offer Bitcoin Options Trading With Top-Tier Consortium of Trading Partners
+
+Leading Democrat Wyden Continues Probe Into Pantera Founder Morehead's Taxes
+
+'Tokenization is Going to Eat the Entire Financial System' Says Robinhood CEO
+
+Circle Expands $635M Tokenized Treasury Fund to Solana Amid Rapid RWA Growth
+
+Bitcoin Surges Above $119K as U.S. Government Shutdown Takes Effect; BTC Options Look Cheap
+
+Solana Gets Another Treasury Firm with $2B Plan Backed by DeFi Protocol Marinade
+
+Trump Makes Travis Hill Pick Official as Choice to Run FDIC
+
+Ripple CTO David Schwartz to Step Back, Joins Board
+
+Disclosure & Polices: CoinDesk is an award-winning media outlet that covers the cryptocurrency industry. Its journalists abide by a strict set of editorial policies. CoinDesk has adopted a set of principles aimed at ensuring the integrity, editorial independence and freedom from bias of its publications. CoinDesk is part of Bullish (NYSE:BLSH), an institutionally focused global digital asset platform that provides market infrastructure and information services. Bullish owns and invests in digital asset businesses and digital assets and CoinDesk employees, including journalists, may receive Bullish equity-based compensation.
+
+### 발행일
+2025-10-02T04:18:06+00:00
+
+### 출처
+CoinDesk
+
+--------------------------------------------------------------------------------
+
+### 제목
+Trump’s student deportation campaign ruled unconstitutional
+
+### 링크
+https://thepienews.com/trumps-student-deportation-campaign-ruled-unconstitutional/
+
+### 본문
+<p>In the landmark September 30 ruling, a federal judge in Massachusetts said the Trump administration’s policy of arresting, detaining and deporting international students and faculty members for their pro-Palestinian advocacy violated the First Amendment. &nbsp;</p>
+
+
+
+<p>In a scathing <a href="https://storage.courtlistener.com/recap/gov.uscourts.mad.282460/gov.uscourts.mad.282460.261.0_1.pdf" rel="noreferrer noopener" target="_blank">161-page ruling</a>, Judge William G Young maintained “unequivocally” that non-citizens lawfully in the US hold the same free speech rights as US citizens under the constitution.&nbsp;</p>
+
+
+
+<p>“The First Amendment does not draw President Trump’s invidious distinction and it is not to be found in our history or jurisprudence,” Young wrote.&nbsp;</p>
+
+
+
+<p>Young ruled the secretaries of the US Departments of State and Homeland Security “acted in concert to misuse the sweeping powers of their respective offices to target noncitizen pro-Palestinians for deportation primarily on account of their First Amendment protected political speech.&#8221;&nbsp;</p>
+
+
+
+<p>He said the secretaries’ intentions were to “strike fear” into other non-citizens holding pro-Palestinian views, to curb lawful speech and to deny them their freedom of speech rights.</p>
+
+
+
+<p>“Moreover, the effect of these targeted deportation proceedings continues unconstitutionally to chill freedom of speech to this day,&#8221; he ruled.  &nbsp;</p>
+
+
+
+<p>Young, who was appointed by Republican President Ronald Reagan, called the case “perhaps the most important ever to fall within this district court”.&nbsp;</p>
+
+
+
+<p>He ruled in favour of the American Association of University Professors (AAUP) and other academic groups, who filed a <a href="https://thepienews.com/colleges-step-up-legal-pressure-us-government/" rel="noreferrer noopener" target="_blank">lawsuit</a> in March claiming that the administration&#8217;s ideological deportation policy was creating a climate of fear and chilling free expression. &nbsp;</p>
+
+
+
+<p>The plaintiffs, which include AAUP, its chapters at Rutgers, Harvard and New York University, and the Middle East Studies Association, hailed the victory a historic ruling that should have immediate implications for Trump’s policies.  </p>
+
+
+
+<p>“If the First Amendment means anything, it’s that the government cannot imprison you because it doesn’t like the speech that you have engaged in, and this decision is really welcome because it reaffirms that basic idea, which is foundational to our democracy,” said Ramya Krishnan, a lawyer for the plaintiffs at the Knight First Amendment Institute.&nbsp;</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>The effect of these targeted deportation proceedings continues unconstitutionally to chill freedom of speech to this day</p>
+<cite>Judge William G Young, US Federal Judge</cite></blockquote>
+
+
+
+<p>White House spokesperson Liz Huston vowed the government would appeal what she called “an outrageous ruling that hampers the safety and security of our nation”. </p>
+
+
+
+<p>“Studying in the United States is a privilege that the Trump administration will not allow to foreign nationals who endanger America’s national security or imperil campus safety,” she said in a statement. &nbsp;</p>
+
+
+
+<p>In his ruling, Young said it was never the intent of DHS secretary Kristi Noem and secretary of state Marco Rubio to deport all pro-Palestinian non-citizens. &nbsp;</p>
+
+
+
+<p>“Rather, the intent of the Secretaries was more invidious – to target a few for speaking out and then use the full rigor of the Immigration and Nationality Act (in ways it had never been used before) to have them publicly deported with the goal of tamping down pro-Palestinian student protests and terrorising similarly situated non-citizen (and other) pro-Palestinians into silence because their views were unwelcome.” </p>
+
+
+
+<p>The administration’s policy of arresting, detaining and deporting noncitizen students this spring related to one of Trump’s first executive orders vowing to take <a href="https://thepienews.com/trump-to-revoke-student-visas-pro-palestine-protesters/" rel="noreferrer noopener" target="_blank">“forceful and unprecedented”</a> steps to combat antisemitism on campus. &nbsp;</p>
+
+
+
+<p>Some of the most high-profile cases were those of Columbia University students Mahmoud Khalil and Mohsen Mahdawi, and Tufts University student, Rumeysa Ozturk.&nbsp;</p>
+
+
+
+<p>Despite the three students being released after court rulings in their favour, the Trump administration is still pushing to overturn court orders that freed the students from immigration custody. &nbsp;</p>
+
+
+
+<p>Judge Young said he would &#8220;consider what may be done to remedy these constitutional violations&#8221; at a later date. </p>
+
+
+
+<p>The plaintiffs have urged the court to make permanent the judge&#8217;s March injunction forbidding the government from targetting noncitizens on their political views. </p>
+
+
+
+<p></p>
+<p>The post <a href="https://thepienews.com/trumps-student-deportation-campaign-ruled-unconstitutional/">Trump’s student deportation campaign ruled unconstitutional</a> appeared first on <a href="https://thepienews.com">The PIE News</a>.</p>
+
+### 발행일
+2025-10-01T15:03:54+00:00
+
+### 출처
+ThePieNews
+
+--------------------------------------------------------------------------------
+
+### 제목
+US SEVIS data appears to contradict sector’s worst fears
+
+### 링크
+https://thepienews.com/us-sevis-data-appears-to-contradict-sectors-worst-fears/
+
+### 본문
+<p>Despite major visa challenges, international enrolments at US colleges grew by 0.8% in September 2025 compared to the previous year, according to the latest <a href="https://studyinthestates.dhs.gov/sevis-by-the-numbers/sevis-by-the-numbers-data" rel="noreferrer noopener" target="_blank">SEVIS data</a> released by the Department of Homeland Security (DHS). &nbsp;</p>
+
+
+
+<p>“Be ready to see a story no one predicted,” said Chris Glass, director of the higher education program at Boston College, in his <a href="https://distributedprogress.substack.com/p/sevis-beats-expectationsbig-time" rel="noreferrer noopener" target="_blank">analysis</a> of the data.&nbsp;</p>
+
+
+
+<p>“It’s most likely welcome news, but we’re all scratching our heads a little bit given how we were all expecting such a significant decline,” Gerardo Blanco, academic director of the Centre for International Higher Education at Boston College told <em>The PIE News. </em>&nbsp;</p>
+
+
+
+<p>Following months of policy challenges, including a near month-long <a href="https://thepienews.com/us-trump-pauses-new-student-visa-interviews/" rel="noreferrer noopener" target="_blank">visa suspension</a>, a record 6,000 SEVIS revocations and <a href="https://thepienews.com/trump-bans-citizens-of-12-countries-from-entering-us/" rel="noreferrer noopener" target="_blank">travel bans</a> impacting 19 nations, stakeholders widely anticipated NAFSA’s prediction of a <a href="https://thepienews.com/international-student-decline-to-cost-the-us-7bn/" rel="noreferrer noopener" target="_blank">15% decline</a> to come to fruition.&nbsp;</p>
+
+
+
+<p>“I didn’t think NAFSA’s estimate was exaggerated in any way,” said Blanco. Glass agreed that the forecast seemed “rational” given the data emerging around plummeting student visa arrivals, which fell by <a href="https://thepienews.com/july-sees-drastic-fall-in-us-student-visa-arrivals/" rel="noreferrer noopener" target="_blank">nearly 30%</a> in July and 20% in August, according to <a href="https://www.trade.gov/i-94-arrivals-program" rel="noreferrer noopener" target="_blank">new figures</a> from the International Trade Administration (ITA).  </p>
+
+
+
+<p>“There’s just no way to underplay how surprising these results are,” said Blanco, though the reality at an institutional level will only become clear upon publication of IIE’s Open Doors report, he noted, with the Fall Snapshot due in November. &nbsp;</p>
+
+
+
+<p>This, together with State Department monthly visa issuance <a href="https://travel.state.gov/content/travel/en/legal/visa-law0/visa-statistics/nonimmigrant-visa-statistics/monthly-nonimmigrant-visa-issuances.html" rel="noreferrer noopener" target="_blank">statistics</a> – which are currently only up to date as of <a href="https://thepienews.com/more-declines-loom-in-seriously-concerning-us-visa-trends/" rel="noreferrer noopener" target="_blank">May</a> – will be crucial to triangulate the data and see the full picture, said Glass. &nbsp;</p>
+
+
+
+<p>Important questions also remain over the reliability of SEVIS data – which has been <a href="https://thepienews.com/us-federal-data-glitch-overlooks-200000-international-students/" rel="noreferrer noopener" target="_blank">wrong</a> in the past – as well as the extent to which Optional Practical Training (OPT) extensions masked declines in new enrolments. &nbsp;</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>There’s just no way to underplay how surprising these results are</p>
+<cite>Gerardo Blanco, Boston College</cite></blockquote>
+
+
+
+<p>What’s more, NAFSA CEO Fanta Aw urged caution in drawing conclusions from what she called “premature data” seeing as several colleges are yet to record international enrolments on SEVIS and some F-1 students will likely transition to H-1B in October, producing a drop in the numbers. &nbsp;</p>
+
+
+
+<p>However: “If we’re to take this data at face value, I think it shows that the system is far more resilient than the tumultuous headlines would suggest,” Glass told The PIE<em>.</em> </p>
+
+
+
+<p>“This isn’t to say that next year or in the coming years, we won’t see a decline, but for this year, it’s very surprising,” added Blanco, noting the “extreme resilience” of US institutions.&nbsp;</p>
+
+
+
+<p>And yet: “I hope the takeaway message is not that the US is invincible in that even hostile policies towards international students cannot change perceptions. I think the message is that perceptions take a long time to change,” he said.&nbsp;</p>
+
+
+
+<p>It is important to note the role of OPT participants in the data, who are considered students in US datasets despite not being on campus or paying tuition, which Glass and Blanco agreed was likely to have somewhat obfuscated the data. &nbsp;</p>
+
+
+
+<p>Participation in OPT has been on the rise since the introduction of a two-year STEM extension in 2016, becoming a major driver of the <a href="https://thepienews.com/new-international-enrolment-growth-stagnates-us/" rel="noreferrer noopener" target="_blank">“record”</a> international student levels in recent years and coming under significant scrutiny from the Trump administration.&nbsp;</p>
+
+
+
+<p>“That being said, if we were expecting a 15% drop, we’re talking about roughly 100,000 students. I don’t think OPT accounts for all of them, so we are still seeing a significant drop that didn’t happen,” said Gerardo.&nbsp;</p>
+
+
+
+<p><strong>A turning point? </strong>&nbsp;</p>
+
+
+
+<p>The 16% delta between expectations and what SEVIS indicates represents what Glass has called a “statistical cognitive dissonance”, urging colleagues to reflect on the new realities shaping international education in the US. &nbsp;</p>
+
+
+
+<p>“I want to be clear: This shouldn’t be used to criticise NAFSA raising awareness among policy makers of the potential implications of the visa pause,” said Glass. “But it should invite some opportunities for reflection in the field.” </p>
+
+
+
+<p>The growing influence of affordability – something Glass called “a long-ignored issue” – was particularly striking in the data, driving a “demographic rebalancing” of students across the states and shaping student decision-making. &nbsp;</p>
+
+
+
+<p>The data revealed the proportion of those taking language training, master’s and bachelor’s degrees changed by a fraction of a percentage from 2024.&nbsp;</p>
+
+
+
+<p>However, participation in associate degrees saw a 9.1% increase of nearly 5,500 students, signalling a rise in international students choosing the more affordable option of community colleges, which, <a href="https://ccintled.pages.wm.edu/" rel="noreferrer noopener" target="_blank">some say</a> has been traditionally under-reported. &nbsp;</p>
+
+
+
+<p>Elsewhere, doctoral enrolment jumped 2.7%, defying expectations that NSF/NIH grant funding cuts would decimate graduate programs – “the most startling finding” according to Glass.</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>If we’re to take this data at face value, the system is far more resilient than the tumultuous headlines would suggest</p>
+<cite>Chris Glass, Boston College</cite></blockquote>
+
+
+
+<p>What’s more, while “prohibitively expensive” traditional destinations like New York and California experienced modest declines, more affordable states with demographic and economic opportunities such as Indiana, Florida and Texas experienced notable increases.    </p>
+
+
+
+<p>The growing influence of affordability has not gone unnoticed by sector leaders, with Aw urging stakeholders at the ICEF London conference this month: “This is the time for change”. &nbsp;</p>
+
+
+
+<p>“We need to figure out how to control for cost. Quality matters but if you cannot control for affordability that’s going to hurt you in the long run. This is an opportunity for a reset,” said Aw.  </p>
+
+
+
+<p>Amid unrivalled levels of sector mobilisation under the Trump administration, Blanco warned the unexpected SEVIS data could complicate advocacy, though he saw an opportunity in the moment.&nbsp; &nbsp;</p>
+
+
+
+<p>“When the data doesn’t follow the story, the story must change,” said Blanco, arguing that stakeholders must move away from the economic argument for international students that was no longer sufficiently strong under a government “not necessarily following economics logic”.   </p>
+
+
+
+<p>Though the full data picture is yet to become clear, Glass said it was a moment to look at long-term strategies and macro trends, adding: “the arguments that resonate are shifting”.&nbsp;</p>
+
+
+
+<p>“We all know that growth comes from engaging in the dissonance and trying to use it to update our assumptions to understand why our prediction mechanism was not what it was.&nbsp;</p>
+
+
+
+<p>“Maybe it was OPT, and maybe that becomes the answer&#8230; But what we should do is say this is a moment to pause and to realise we need better data. And we need data that actually helps institutions make decisions.”</p>
+
+
+
+<p></p>
+<p>The post <a href="https://thepienews.com/us-sevis-data-appears-to-contradict-sectors-worst-fears/">US SEVIS data appears to contradict sector&#8217;s worst fears</a> appeared first on <a href="https://thepienews.com">The PIE News</a>.</p>
+
+### 발행일
+2025-10-01T14:39:17+00:00
+
+### 출처
+ThePieNews
+
+--------------------------------------------------------------------------------
+
+### 제목
+New study maps internationalisation efforts in US community colleges
+
+### 링크
+https://thepienews.com/new-study-maps-internationalisation-efforts-in-us-community-colleges/
+
+### 본문
+<p>A recent report from the Community&nbsp;College&nbsp;International Education Research Initiative (<a href="https://ccintled.pages.wm.edu/">CCIERI</a>) sets out to provide context for institutions to benchmark their own programming compared to other&nbsp;colleges in the same state, region, or even nationally.</p>
+
+
+
+<p>According to the findings, 755 community colleges (82%) enrolled international students, while 102 (11%) did not. Enrolment status for 65 colleges (7%) could not be determined.</p>
+
+
+
+<p>The study also examined study abroad opportunities. It found that 350 colleges (38%) offered such programs, while 383 (42%) did not. For 189 colleges (21%), CCIERI was unable to verify study abroad offerings due to limited or outdated information on institutional websites.<br /><br /></p>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img alt="" class="wp-image-258754" height="545" src="https://thepienews.com/wp-content/uploads/2025/09/Screenshot-2025-09-30-at-16.24.54-1024x545.png" style="width: 940px; height: auto;" width="1024" /><figcaption class="wp-element-caption">Source: CCIERI</figcaption></figure>
+
+
+
+<p>The report&#8217;s author, Melissa Whatley, assistant professor of higher education at the College of William &amp; Mary, who leads CCIERI, said she hopes the research gives community colleges some &#8220;well-deserved attention related to the key role they play in providing access to international education to many students&#8221;.</p>
+
+
+
+<p>&#8220;I’ve always suspected that&nbsp;community&nbsp;colleges were much more active in international education than mainstream data and scholarly sources would lead us to believe,&#8221; said Whatley. &#8220;In part, this project came from a place of wanting to see if that suspicion had any merit.&#8221;</p>
+
+
+
+<p>&#8220;I’m certainly pleased to have learned that what I suspected is actually the case for many&nbsp;community&nbsp;colleges. These institutions are so much more active in providing international education opportunities than many previously thought.&#8221;</p>
+
+
+
+<p>Whatley hopes her work helps community colleges think more intentionally about their international education strategy.</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>I’ve always suspected that community colleges were much more active in international education than mainstream data and scholarly sources would lead us to believe<br /><strong><sup><sub>Melissa Whatley, CCIERI</sub></sup></strong></p>
+</blockquote>
+
+
+
+<p>&#8220;While it’s great to have one-off study abroad or virtual exchange programs, a more focused strategy can help colleges reach more students and achieve greater learning outcomes from their efforts,&#8221; she told <em>The PIE News.</em></p>
+
+
+
+<p>&#8220;I’ve found the&nbsp;community&nbsp;college&nbsp;sector to be much more attuned to students’ needs and concerns with regard to international education, and as a result, we see that these institutions are often much more successful in providing access to international opportunities compared to their four-year counterparts.&#8221;</p>
+
+
+
+<p>The study also examined the availability of internationalisation at home opportunities, such as virtual international exchanges. Only 38 colleges (4%) offered such programs, while 756 (82%) did not. For 128 colleges (14%), available information was too limited to confirm.</p>
+
+
+
+<p>Within this, CCIERI also looked at the faculty support for internationalisation, finding that 61 colleges (7%) offered support to faculty and staff for their internationalisation work. A total of 729 (79%) did not, while the research was inconclusive about 132 colleges (14%).<br /><br />Meanwhile, a total of 48 colleges (5%) offered a certificate or diploma in global learning. A total of 748 colleges (81%) did not, while the results for 126 colleges (14%) remain unknown.</p>
+
+
+
+<p>Another part of internationalisation at home is providing internationally focused cultural events and clubs on campus. The data indicates that 216 (23%) community colleges hosted these events, while 474 (51%) did not and for 232 colleges (25%), the research wasn&#8217;t able to conclude if such events are offered.</p>
+
+
+
+<p></p>
+<p>The post <a href="https://thepienews.com/new-study-maps-internationalisation-efforts-in-us-community-colleges/">New study maps internationalisation efforts in US community colleges</a> appeared first on <a href="https://thepienews.com">The PIE News</a>.</p>
+
+### 발행일
+2025-10-01T08:00:00+00:00
+
+### 출처
+ThePieNews
+
+--------------------------------------------------------------------------------
+
