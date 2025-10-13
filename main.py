@@ -30,21 +30,107 @@ def validate_environment():
     if not all([wp_url, wp_user, wp_pass]):
         raise ValueError("WordPress 인증 정보가 .env 파일에 설정되어 있지 않습니다.")
 
+def validate_seo_optimization(title, lead, content):
+    """SEO 최적화 점수 계산"""
+    score = 0
+    
+    # 제목 길이 검증 (30-60자)
+    if 30 <= len(title) <= 60:
+        score += 20
+    else:
+        print(f" 제목 길이 부적절: {len(title)}자 (권장: 30-60자)")
+    
+    # 리드 길이 검증 (150-160자)
+    if 150 <= len(lead) <= 160:
+        score += 20
+    else:
+        print(f" 리드 길이 부적절: {len(lead)}자 (권장: 150-160자)")
+    
+    # 제목에 키워드 포함 여부
+    if any(keyword in title.lower() for keyword in ['비트코인', '이더리움', '암호화폐', '블록체인', '코인']):
+        score += 15
+    
+    # 리드에 키워드 포함 여부
+    if any(keyword in lead.lower() for keyword in ['비트코인', '이더리움', '암호화폐', '블록체인', '코인']):
+        score += 15
+    
+    # HTML 구조 검증
+    if '<p>' in content and '<br>' in content:
+        score += 10
+    
+    # 숫자 포함 여부 (신뢰도)
+    if any(char.isdigit() for char in title):
+        score += 10
+    
+    # 현재성 키워드 포함
+    if any(keyword in title for keyword in ['2025', '최신', '오늘', '급상승', '돌파']):
+        score += 10
+    
+    return min(score, 100)
+
+def generate_meta_description(title, lead):
+    """메타 설명 생성 (150-160자)"""
+    # 리드가 적절한 길이면 사용, 아니면 제목 기반으로 생성
+    if 150 <= len(lead) <= 160:
+        return lead
+    else:
+        # 제목 + 간단한 설명으로 메타 설명 생성
+        base_text = f"{title}. 최신 암호화폐 뉴스와 시장 분석을 제공합니다."
+        if len(base_text) <= 160:
+            return base_text
+        else:
+            return base_text[:157] + "..."
+
+def extract_focus_keyword(title):
+    """제목에서 포커스 키워드 추출"""
+    keywords = ['비트코인', '이더리움', '암호화폐', '블록체인', '코인', '가격', '뉴스']
+    for keyword in keywords:
+        if keyword in title:
+            return keyword
+    return '암호화폐'
+
+def optimize_content_structure(content):
+    """콘텐츠 구조 SEO 최적화"""
+    # H2, H3 태그 추가 (간단한 예시)
+    optimized_content = content
+    
+    # 첫 번째 문단을 H2로 감싸기
+    if '<p>' in content:
+        first_p = content.split('<p>')[1].split('</p>')[0] if '</p>' in content else ""
+        if first_p and len(first_p) > 20:
+            # 첫 번째 문단을 H2로 변경
+            optimized_content = content.replace(f'<p>{first_p}</p>', f'<h2>{first_p}</h2>', 1)
+    
+    return optimized_content
+
 def generate_image_with_dalle(title, content, lead, return_url_only=False):
     """DALL-E를 사용하여 뉴스 기사에 맞는 이미지를 생성하는 함수"""
     try:
         # 이미지 생성을 위한 프롬프트 생성
+        # 뉴스 기사 이미지: {title}
+        
+        # 기사 요약: ...
+        
+        # 전문적이고 신뢰할 수 있는 뉴스 이미지를 생성해주세요. 
+        # - 기사 요약을 분석해서 관련된 이미지를 생성해주세요.
+        # - 깔끔하고 현대적인 디자인
+        # - 뉴스 매체에 적합한 색상 (주로 파란색, 회색, 흰색 톤)
+        # - 관련 아이콘이나 그래픽 요소 포함
+        # - 16:9 비율의 와이드 이미지
+
         image_prompt = f"""
-        뉴스 기사 이미지: {title}
-        
-        기사 요약: {lead[:200]}...
-        
-        전문적이고 신뢰할 수 있는 뉴스 이미지를 생성해주세요. 
-        - 깔끔하고 현대적인 디자인
-        - 뉴스 매체에 적합한 색상 (주로 파란색, 회색, 흰색 톤)
-        - 텍스트가 잘 보이도록 배경은 단순하게
-        - 관련 아이콘이나 그래픽 요소 포함
-        - 16:9 비율의 와이드 이미지
+
+
+        Create a high-quality, realistic editorial-style image that visually represents the following news topic:
+
+        "{lead[:200]}"
+
+        The image must have a 16:9 wide aspect ratio suitable for online news banners or thumbnails.
+        Make it photojournalistic, realistic, and neutral in tone — like an image used by major global news outlets.
+        Avoid any text, logos, watermarks, or overly stylized filters.
+        Use natural lighting, balanced colors, and professional composition.
+
+
         """
         
         print("DALL-E를 사용하여 이미지 생성 중...")
@@ -125,8 +211,8 @@ def upload_image_to_wordpress(image_data, filename="news_image.jpg"):
         print(f"이미지 업로드 중 오류 발생: {e}")
         return None, None
 
-def post_to_wordpress(title, content, lead, status='draft', featured_media_id=None, image_url=None):
-    """WordPress에 포스트를 업로드하는 함수"""
+def post_to_wordpress(title, content, lead, status='draft', featured_media_id=None, image_url=None, tags=None):
+    """WordPress에 포스트를 업로드하는 함수 (SEO 최적화)"""
     api_url = f"{wp_url}/wp-json/wp/v2/posts"
     
     headers = {
@@ -138,11 +224,28 @@ def post_to_wordpress(title, content, lead, status='draft', featured_media_id=No
     safe_content = content if content else ""
     safe_lead = lead if lead else ""
     
-    # 이미지 URL이 있으면 content에 이미지 추가
+    # SEO 최적화 검증
+    seo_score = validate_seo_optimization(safe_title, safe_lead, safe_content)
+    print(f"SEO 점수: {seo_score}/100")
+    
+    # 이미지 URL이 있으면 content에 이미지 추가 (SEO 최적화)
     if image_url:
-        image_html = f'<div class="featured-image" style="text-align: center; margin: 20px 0;"><img src="{image_url}" alt="{safe_title}" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" /></div>'
+        # 이미지 alt 텍스트를 제목 기반으로 생성
+        image_alt = safe_title[:50] + "..." if len(safe_title) > 50 else safe_title
+        image_title = f"{safe_title} - 관련 이미지"
+        
+        image_html = f'''<div class="featured-image" style="text-align: center; margin: 20px 0;">
+            <img src="{image_url}" 
+                 alt="{image_alt}" 
+                 title="{image_title}"
+                 style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+        </div>'''
         safe_content = image_html + safe_content
-        print(f"이미지가 content에 추가되었습니다: {image_url}")
+        print(f"SEO 최적화된 이미지가 content에 추가되었습니다: {image_url}")
+    
+    # SEO 최적화된 메타데이터 생성
+    meta_description = generate_meta_description(safe_title, safe_lead)
+    focus_keyword = extract_focus_keyword(safe_title)
     
     data = {
         'title': safe_title,
@@ -150,10 +253,21 @@ def post_to_wordpress(title, content, lead, status='draft', featured_media_id=No
         'excerpt': safe_lead,
         'status': status,
         'categories': [2],
-        # 'meta_input': {
-        #     'keyword': keyword
-        # }
+        'meta_input': {
+            '_yoast_wpseo_title': safe_title,
+            '_yoast_wpseo_metadesc': meta_description,
+            '_yoast_wpseo_focuskw': focus_keyword,
+            '_yoast_wpseo_canonical': '',
+            '_yoast_wpseo_opengraph-title': safe_title,
+            '_yoast_wpseo_opengraph-description': meta_description,
+            '_yoast_wpseo_twitter-title': safe_title,
+            '_yoast_wpseo_twitter-description': meta_description,
+        }
     }
+    
+    # 태그가 있으면 추가
+    if tags:
+        data['tags'] = tags
     
     # 대표 이미지가 있으면 추가
     if featured_media_id:
@@ -307,11 +421,30 @@ def translate_and_format(news_content):
 
         print("\n=== 파싱 결과 ===")
         print(f"Content HTML 태그 확인: {'<br>' in content or '<p>' in content}")
+        
+        # SEO 최적화된 콘텐츠 구조 생성
+        content = optimize_content_structure(content)
+        
+        # 태그 추출 (JSON에서 tags 필드가 있는 경우)
+        tags = []
+        if is_json and 'tags' in article_json:
+            tags = article_json.get('tags', [])
+        elif not is_json and 'tags:' in kr_content:
+            try:
+                tags_section = kr_content.split('tags:')[1].strip()
+                if tags_section.startswith('[') and tags_section.endswith(']'):
+                    import ast
+                    tags = ast.literal_eval(tags_section)
+                else:
+                    # 간단한 태그 파싱
+                    tags = [tag.strip() for tag in tags_section.split(',') if tag.strip()]
+            except:
+                tags = []
 
         if not all([title, lead, content]):
             print("경고: 일부 필드가 비어 있습니다.")
             print(f"비어있는 필드: {[field for field, value in {'title': title, 'lead': lead, 'content': content}.items() if not value]}")
-            return None, None, None, None, None
+            return None, None, None, None, None, None
 
         # 이미지 생성
         print("\n=== 이미지 생성 중 ===")
@@ -353,7 +486,7 @@ def translate_and_format(news_content):
             featured_media_id = None
             image_url = None
 
-        return title, lead, content, featured_media_id, image_url
+        return title, lead, content, featured_media_id, image_url, tags
         
     except Exception as e:
         if 'insufficient_quota' in str(e):
@@ -361,7 +494,7 @@ def translate_and_format(news_content):
             print("https://platform.openai.com/account/usage 에서 현재 사용량을 확인할 수 있습니다.")
         else:
             print(f"번역 중 오류 발생: {e}")
-        return None, None, None, None, None
+        return None, None, None, None, None, None
 
 def process_news():
     """뉴스 스크래핑, 번역, 포스팅을 처리하는 메인 함수"""
@@ -386,7 +519,7 @@ def process_news():
                 continue
                 
             print("\n3. 기사 번역 및 포맷팅 중...")
-            title, lead, content, featured_media_id, image_url = translate_and_format(article)
+            title, lead, content, featured_media_id, image_url, tags = translate_and_format(article)
 
             # 예외 발생 등으로 하나라도 None이거나 비어있으면 건너뜀
             if not all([title, lead, content]):
@@ -396,9 +529,10 @@ def process_news():
             print(f"title: {title}")
             print(f"lead: {lead}")
             print(f"content: {content}")
+            print(f"tags: {tags}")
 
             print("\n4. WordPress에 포스팅 중...")
-            result = post_to_wordpress(title, content, lead, 'draft', featured_media_id, image_url)
+            result = post_to_wordpress(title, content, lead, 'draft', featured_media_id, image_url, tags)
             if result:
                 print(f"포스트 ID: {result['id']}")
                 print(f"포스트 링크: {result['link']}")
@@ -426,7 +560,7 @@ def process_news_test():
                 continue
                 
             print("\n3. 기사 번역 및 포맷팅 중...")
-            title, lead, content, featured_media_id, image_url = translate_and_format(article)
+            title, lead, content, featured_media_id, image_url, tags = translate_and_format(article)
 
             # 예외 발생 등으로 하나라도 None이거나 비어있으면 건너뜀
             if not all([title, lead, content]):
@@ -436,9 +570,10 @@ def process_news_test():
             print(f"title: {title}")
             print(f"lead: {lead}")
             print(f"content: {content}")
+            print(f"tags: {tags}")
 
             print("\n4. WordPress에 포스팅 중...")
-            result = post_to_wordpress(title, content, lead, 'draft', featured_media_id, image_url)
+            result = post_to_wordpress(title, content, lead, 'draft', featured_media_id, image_url, tags)
             if result:
                 print(f"포스트 ID: {result['id']}")
                 print(f"포스트 링크: {result['link']}")
