@@ -26,7 +26,7 @@ if not all([wp_url, wp_user, wp_pass]):
 client = OpenAI(api_key=openai_api_key)
 
 #WordPress에 포스트를 업로드하는 함수
-def post_to_wordpress(title, content, lead,status='draft'):
+def post_to_wordpress(title, content, lead,status='publish'):
     
     # status  = publish 면 즉시 개시
     # status  = draft 면 초안으로 저장

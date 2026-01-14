@@ -19,6 +19,10 @@ openai_api_key = os.getenv('OPENAI_API_KEY')
 wp_url = os.getenv('WP_URL')
 wp_user = os.getenv('WP_USER')
 wp_pass = os.getenv('WP_APP_PASSWORD')
+wp_category_blockchain_id = os.getenv('WP_CATEGORY_BLOCKCHAIN_ID')
+wp_category_education_id = os.getenv('WP_CATEGORY_EDUCATION_ID')
+
+category_id_cache = {}
 
 # OpenAI 클라이언트 초기화
 client = OpenAI(api_key=openai_api_key)
@@ -81,13 +85,165 @@ def generate_meta_description(title, lead):
         else:
             return base_text[:157] + "..."
 
-def extract_focus_keyword(title):
-    """제목에서 포커스 키워드 추출"""
-    keywords = ['비트코인', '이더리움', '암호화폐', '블록체인', '코인', '가격', '뉴스']
-    for keyword in keywords:
-        if keyword in title:
-            return keyword
-    return '암호화폐'
+def extract_focus_keyword(title, lead, content, tags=None):
+    """Return a focus keyword that best aligns with SEO heuristics."""
+    tags = tags or []
+
+    def normalize(term):
+        if not isinstance(term, str):
+            return ""
+        return re.sub(r'\s+', ' ', term.strip())
+
+    candidate_terms = []
+    for tag in tags:
+        tag_normalized = normalize(tag)
+        if tag_normalized:
+            candidate_terms.append(tag_normalized)
+
+    combined_text = f"{title} {lead} {content or ''}"
+    lowered_combined = combined_text.lower()
+
+    title_tokens = [normalize(token) for token in re.split(r'[\s\-\|,]+', title) if normalize(token)]
+    for token in title_tokens:
+        if len(token) >= 2:
+            candidate_terms.append(token)
+    if len(title_tokens) >= 2:
+        headline_phrase = normalize(' '.join(title_tokens[:2]))
+        if len(headline_phrase) >= 2:
+            candidate_terms.append(headline_phrase)
+
+    lead_tokens = [normalize(token) for token in re.split(r'[\s\-\|,]+', lead) if normalize(token)]
+    for token in lead_tokens[:5]:
+        if len(token) >= 2:
+            candidate_terms.append(token)
+
+    candidate_scores = {}
+    title_lower = title.lower()
+    lead_lower = lead.lower()
+    content_lower = (content or "").lower()
+
+    for candidate in candidate_terms:
+        if not candidate or len(candidate) < 2:
+            continue
+        candidate_lower = candidate.lower()
+
+        score = 0
+        if candidate_lower in title_lower:
+            score += 12
+        if candidate_lower in lead_lower:
+            score += 6
+        if candidate_lower in content_lower:
+            score += 4
+
+        occurrences = lowered_combined.count(candidate_lower)
+        score += occurrences * 3
+
+        if any(normalize(tag).lower() == candidate_lower for tag in tags if isinstance(tag, str)):
+            score += 5
+
+        token_count = len(candidate.split())
+        if 1 < token_count <= 4:
+            score += 2
+        elif token_count == 1 and len(candidate) >= 4:
+            score += 1
+
+        current_best = candidate_scores.get(candidate)
+        if current_best is None or score > current_best:
+            candidate_scores[candidate] = score
+
+    if candidate_scores:
+        best_candidate = max(candidate_scores.items(), key=lambda item: (item[1], len(item[0])))[0]
+        return best_candidate
+
+    if title_tokens:
+        return title_tokens[0]
+
+    return 'cryptocurrency'
+
+
+def determine_primary_category(title, lead, content, tags=None):
+    """Choose the most relevant WordPress category between blockchain and education."""
+    tags = tags or []
+
+    def prepare_text(values):
+        return ' '.join([str(value) for value in values if isinstance(value, (str, bytes)) and value]).lower()
+
+    combined_text = prepare_text([title, lead, content, ' '.join(tag for tag in tags if isinstance(tag, str))])
+
+    blockchain_keywords = [
+        'blockchain', '블록체인', '비트코인', 'bitcoin', '이더리움', 'ethereum', '암호화폐',
+        'crypto', 'cryptocurrency', '토큰', 'token', 'defi', '디파이', 'nft', 'web3',
+        '분산원장', 'distributed ledger', '디지털 자산', 'stablecoin', 'staking'
+    ]
+    education_keywords = [
+        '교육', 'education', '학습', 'training', '훈련', '세미나', 'workshop', '워크숍',
+        '강의', 'lecture', 'curriculum', '커리큘럼', '학생', 'student', '학교', 'school',
+        '교사', 'teacher', '강사', 'instructor', '자격증', 'certificate', 'certification', 'edtech'
+    ]
+
+    def score_keywords(keywords):
+        score = 0
+        for keyword in keywords:
+            keyword_lower = keyword.lower()
+            occurrences = combined_text.count(keyword_lower)
+            if occurrences:
+                weight = 3 if len(keyword_lower) >= 6 else 2
+                score += occurrences * weight
+        return score
+
+    blockchain_score = score_keywords(blockchain_keywords)
+    education_score = score_keywords(education_keywords)
+
+    if education_score > blockchain_score:
+        chosen = 'education'
+    else:
+        chosen = 'blockchain'
+
+    print(f"카테고리 점수 - Blockchain: {blockchain_score}, Education: {education_score}, 선택: {chosen}")
+    return chosen
+
+
+def resolve_category_id(category_slug):
+    """Return the numeric WordPress category ID for the provided slug."""
+    if category_slug in category_id_cache:
+        return category_id_cache[category_slug]
+
+    env_map = {
+        'blockchain': wp_category_blockchain_id,
+        'education': wp_category_education_id,
+    }
+
+    env_value = env_map.get(category_slug)
+    if env_value:
+        try:
+            category_id = int(env_value)
+            category_id_cache[category_slug] = category_id
+            return category_id
+        except ValueError:
+            print(f"[WARN] 유효하지 않은 카테고리 ID(.env) - {category_slug}: {env_value}")
+
+    try:
+        response = requests.get(
+            f"{wp_url}/wp-json/wp/v2/categories",
+            params={'slug': category_slug},
+            auth=(wp_user, wp_pass),
+            timeout=15
+        )
+        if response.status_code == 200:
+            payload = response.json()
+            if isinstance(payload, list) and payload:
+                category_id = payload[0].get('id')
+                if category_id:
+                    category_id_cache[category_slug] = category_id
+                    return category_id
+            else:
+                print(f"[WARN] 카테고리 '{category_slug}' 정보가 비어 있습니다.")
+        else:
+            print(f"[WARN] 카테고리 '{category_slug}' 조회 실패 - 상태 코드: {response.status_code}")
+    except Exception as e:
+        print(f"[WARN] 카테고리 '{category_slug}' 조회 중 오류 발생: {e}")
+
+    return None
 
 def optimize_content_structure(content):
     """콘텐츠 구조 SEO 최적화"""
@@ -211,7 +367,7 @@ def upload_image_to_wordpress(image_data, filename="news_image.jpg"):
         print(f"이미지 업로드 중 오류 발생: {e}")
         return None, None
 
-def post_to_wordpress(title, content, lead, status='draft', featured_media_id=None, image_url=None, tags=None):
+def post_to_wordpress(title, content, lead, status='publish', featured_media_id=None, image_url=None, tags=None):
     """WordPress에 포스트를 업로드하는 함수 (SEO 최적화)"""
     api_url = f"{wp_url}/wp-json/wp/v2/posts"
     
@@ -245,14 +401,22 @@ def post_to_wordpress(title, content, lead, status='draft', featured_media_id=No
     
     # SEO 최적화된 메타데이터 생성
     meta_description = generate_meta_description(safe_title, safe_lead)
-    focus_keyword = extract_focus_keyword(safe_title)
+    focus_keyword = extract_focus_keyword(safe_title, safe_lead, safe_content, tags)
+
+    primary_category_slug = determine_primary_category(safe_title, safe_lead, safe_content, tags)
+    primary_category_id = resolve_category_id(primary_category_slug)
+    if primary_category_id:
+        categories_payload = [primary_category_id]
+        print(f"선택된 카테고리: {primary_category_slug} (ID: {primary_category_id})")
+    else:
+        categories_payload = []
+        print(f"[WARN] '{primary_category_slug}' 카테고리 ID를 찾지 못했습니다. WordPress 기본 카테고리를 사용합니다.")
     
     data = {
         'title': safe_title,
         'content': safe_content,
         'excerpt': safe_lead,
         'status': status,
-        'categories': [2],
         'meta_input': {
             '_yoast_wpseo_title': safe_title,
             '_yoast_wpseo_metadesc': meta_description,
@@ -264,6 +428,8 @@ def post_to_wordpress(title, content, lead, status='draft', featured_media_id=No
             '_yoast_wpseo_twitter-description': meta_description,
         }
     }
+    if categories_payload:
+        data['categories'] = categories_payload
     
     # 태그가 있으면 추가
     if tags:
@@ -532,7 +698,7 @@ def process_news():
             print(f"tags: {tags}")
 
             print("\n4. WordPress에 포스팅 중...")
-            result = post_to_wordpress(title, content, lead, 'draft', featured_media_id, image_url, tags)
+            result = post_to_wordpress(title, content, lead, 'publish', featured_media_id, image_url, tags)
             if result:
                 print(f"포스트 ID: {result['id']}")
                 print(f"포스트 링크: {result['link']}")
@@ -573,7 +739,7 @@ def process_news_test():
             print(f"tags: {tags}")
 
             print("\n4. WordPress에 포스팅 중...")
-            result = post_to_wordpress(title, content, lead, 'draft', featured_media_id, image_url, tags)
+            result = post_to_wordpress(title, content, lead, 'publish', featured_media_id, image_url, tags)
             if result:
                 print(f"포스트 ID: {result['id']}")
                 print(f"포스트 링크: {result['link']}")

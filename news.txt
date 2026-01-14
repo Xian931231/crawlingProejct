@@ -1,52 +1,42 @@
 ### 제목
-ETH, BNB, DOGE lead as crypto market cap rebounds to $4T
+US energy sec floats faster grid access for AI and crypto miners
 
 ### 링크
-https://cointelegraph.com/news/eth-bnb-doge-surge-crypto-recovers-flash-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/us-secretary-expedite-grid-access-ai-bitcoin-mining?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 
 ### 본문
-Total crypto market capitalization soared back over $4 trillion on Sunday, with Ether, BNB and Dogecoin posting double-digit gains after Friday’s market crash that wiped out nearly $500 billion in crypto value.
+The US Secretary of Energy has urged the Federal Energy Regulatory Commission (FERC) to write new rules that will make it faster for large electricity consumers, such as AI data centers and Bitcoin mining operations, to directly connect to the power grid.
 
-The three blue-chip coins have surged 10.5%, 13.6% and 12.5% over the last day, while Solana (SOL), Cardano (ADA), and Chainlink (LINK) are also up over 10%, CoinGecko data shows.
+In a letter released on Thursday, US Energy Secretary Chris Wright asked the FERC, the independent agency that regulates the interstate electricity grid, to grant expedited reviews and create standardized procedures for large electricity users to hook directly into the high-voltage transmission system, not just local power lines.
 
-Synthetix (SNX) briefly rose over 100% — eclipsing its pre-crash price level and even setting a new 2025 high — while a few other smaller-cap coins like Mantle (MNT) and Bittensor (TAO) increased over 30%.
+The high-voltage transmission system has a higher voltage capacity than local lines and is typically used by large industrial facilities that consume power at a higher rate.
 
-The market crash, which saw Bitcoin fall from around $121,560 to below $103,000, was triggered by US President Donald Trump’s 100% tariff on China, as part of an attempt to place export restrictions on rare earth minerals, which are crucial for creating computer chips.
+“United States electricity demand is expected to grow at an extraordinary pace, due, in large part, to the rapid growth of large loads,” Wright wrote.
 
-The market turmoil was exacerbated by Binance’s front end briefly showing $0 prices on several altcoins, as well as the USDe synthetic dollar depegging on Binance due to an internal oracle issue.The crypto market started to recover around the time Trump said “not to worry about China,” while adding that it wants to help China, not hurt it.
+“Although there are several drivers to this demand growth, such as home and vehicle electrification, increasing quantities of large commercial and industrial load, most notably data centers, are connecting rapidly to the transmission system.”
 
-While prices haven’t fully rebounded from Friday’s crash, the recovery has many optimistic that Bitcoin (BTC) could still run toward $200,000 before the end of 2025.
+Bitcoin miners and AI centers would benefit
 
-Crypto market analyst Mister Crypto said that Bitcoin is retesting the golden cross —  a bullish technical pattern that has historically preceded rallies, including a 2,200% rise in 2017 and a 1,190% increase in 2020.
+S. Matthew Schultz, the CEO of Bitcoin mining company CleanSpark, said in an X post on Friday, that under the rules, FERC would be required to expedite connections for “flexible loads like Bitcoin mining and data centers.”
 
-“The setup looks incredibly strong,” he wrote, adding that a confirmed breakout could “absolutely explode” Bitcoin’s price in the coming weeks.
+“This is a major signal that DOE recognizes the value of flexible demand in strengthening the grid,” he said.
 
-Crypto trader Alex Becker said there’s a “very high chance” that this is the start of the bull market, while Jan3 founder Samson Mow added: “It’s time for Bitcoin’s next leg up.”
+Bitcoin miners require significant power to operate their mining rigs, which validate transactions and create new blocks. The more miners participate, the higher the hashrate, which helps secure the network.
 
-Another crypto analyst, “Mac,” said that while the risk-to-reward setup looks favorable, he doesn’t expect a major surge in the immediate term, but speculated that “a little more upward chop” may ensue over the next week.
+Reviews could only take 60 days
 
-Bitcoin is currently trading at $115,585, still down 4.9% from the start of the dip and about 8.8% from its $126,080 set last Monday, CoinGecko data shows.
+Under the new rules, Wright suggests that expedited reviews on whether large power users can connect would be completed in 60 days, instead of years, provided the applicant meets criteria such as agreeing to pay for any network upgrades that might be required.
 
-BitMine capitalized on the dip
+Related: Bitcoin mining just got easier — but not for long, as hashrate roars back
 
-Meanwhile, BitMine Immersion Technologies, the largest corporate Ether (ETH) treasury company, snapped up over 128,700 ETH worth $480 million shortly after the crash, crypto analytics platform Lookonchain noted.
+Wright asks that FERC respond to his letter within the next six months, no later than April 30, 2026.
 
-BitMine’s executive chairman, Tom Lee, said the stock market pullback was “overdue to an extent” given the market is up around 36% since April’s lows.
+Bitcoin mining companies and artificial intelligence data centers have been increasingly competing for access to cheap, sustainable energy, which has been suggested could bring in renewed institutional investment over the next decade.
 
-“I think it’s a good flush,” Lee told CNBC, adding that any price fall without a real structural change is a “good buying opportunity.”
-
-Strategy may have bought the dip too
-
-Strategy executive chairman Michael Saylor hinted that his company bought the dip, posting a chart of Strategy’s Bitcoin holdings to X on Saturday with the caption: “Don’t Stop ₿elievin’”
-
-Related: Why did some altcoins on Binance crash to zero?
-
-BitBo’s Bitcoin Treasuries data shows that no other Bitcoin-holding company confirmed a Bitcoin purchase or sale over the weekend.
-
-Magazine: EU’s privacy-killing Chat Control bill delayed — but fight isn’t over
+Magazine: Binance shakes up Korea, Morgan Stanley’s security tokens in Japan: Asia Express
 
 ### 발행일
-2025-10-13T00:02:52+00:00
+2025-10-24T06:10:56+00:00
 
 ### 출처
 CoinTelegraph
@@ -54,52 +44,44 @@ CoinTelegraph
 --------------------------------------------------------------------------------
 
 ### 제목
-ETH readies to reclaim $4.5K as futures markets stabilize from crypto flash crash
+Another ‘Satoshi era’ wallet from 2009 has woken up to move Bitcoin
 
 ### 링크
-https://cointelegraph.com/news/eth-readies-to-reclaim-4-5k-as-futures-markets-stabilize-from-crypto-flash-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/satoshi-era-bitcoin-whale-moves-btc-after-14-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 
 ### 본문
-Key takeaways:
+A “Satoshi-era” Bitcoin wallet with $442 million worth of BTC has become the latest sleeping Bitcoin giant to wake, shifting some of its funds for the first time in 14 years.
 
-ETH’s perpetual contract distortions are fading, with monthly futures signaling neutral conditions and reduced short-term market fear.
+The unknown owner of the wallet made most of its stash mining 4,000 Bitcoin (BTC) between April and June 2009, only a few months after the first blockchain network went live, Whale Alert said in an X post on Thursday.
 
-Options markets show balanced demand between bullish and bearish strategies, reflecting a healthy derivatives market.
+Data from the onchain analytics platform Nansen shows the whale sent 150 Bitcoin, worth over $16 million, in a single transaction on Thursday.
 
-ETH outperformed most altcoins during the crash and the following 48 hours, reinforcing its relative strength and bullish momentum.
+On-chain data from the Bitcoin blockchain explorer and analytics platform memepool space suggests the whale may have once held ‎7,850 Bitcoin, and was last active in June 2011 when it consolidated 4,000 Bitcoin into one wallet.
 
-Ether (ETH) price reclaimed the $4,100 level on Sunday, easing some of the pain from Friday’s sharp 20.7% flash crash. The $3.82 billion in leveraged long liquidations left a lasting mark on ETH derivatives markets, but four factors suggest that Ether’s rebound from the $3,750 support may have ended this short-term correction.
+Bitcoin is trading at roughly $110,604 on Friday, which would make the whales’ entire stash worth over $442 million. It was worth $194 in 2010 when CoinMarketCap started tracking the price of Bitcoin in July of that year.
 
-The funding rate on ETH perpetual futures plunged to -14%, meaning short (bearish) traders are paying to keep their positions open, an unsustainable condition over extended periods. This unusual setup likely reflects growing fears that certain market makers or even exchanges could be facing solvency issues. Whether those concerns have merit or not, traders typically act with greater caution until confidence is fully restored.
+Whale might have had more Bitcoin
 
-ETH derivatives signal return to normalcy despite marketwide uncertainty
+Another X user, Emmett Gallic, a self-employed blockchain analyst, said the whale once held 8,000 Bitcoin across multiple wallets and has been steadily selling off its holdings in another address “for years.”
 
-Uncertainty persists over whether exchanges will reimburse clients for mismanagement tied to cross-collateral margin and oracle pricing. Binance has so far announced $283 million in compensation and indicated that other cases remain under review.
+“A Whale that once held 8,000 BTC activated a new wallet from the Satoshi Era of Bitcoin. He has been steadily selling now down to 3850 BTC after moving 150 BTC today. God Level DCA Strat,” he said.
 
-Traders are likely to remain cautious until a detailed post-mortem has been issued. Wrapped tokens and synthetic stablecoins experienced the steepest parity losses, causing traders’ margins to fall up to 50% within minutes.
+Memepool space shows the whale address has received a total of 7,850 Bitcoin; the  balance shows up as 3,850 BTC after the recent transfer of 150 coins.
 
-ETH monthly futures absorbed the shock in less than two hours, quickly regaining the minimum 5% premium required for a neutral market. Therefore, the lack of demand for leveraged long positions in perpetual contracts likely reflects weak product design rather than strong bearish sentiment.
+OG whales on the move
 
-This distortion in the derivatives market may persist until market makers regain confidence, a process that could take weeks or even months, and should not be viewed as a bearish signal for ETH’s momentum.
+Another Satoshi-era Bitcoin whale with 80,201 tokens started shifting its holdings to Galaxy Digital after being dormant for 14 years in July, making a final transfer on July 16.
 
-Ether options markets on Deribit showed no signs of stress or unusual demand for bearish strategies. Trading volumes over the weekend remained normal, and activity in put (sell) options was slightly lower than in call (buy) options, signaling a balanced and healthy market.
+Related: Bitcoin whale who held for 7 years sells $76M to go long on Ether
 
-This data helps ease concerns about a coordinated cryptocurrency market crash. A sharp rise in options volume would likely have occurred if traders had been anticipating a major price drop. Therefore, whatever triggered the cascading liquidations and instability in ETH derivatives markets has caught traders entirely off guard.
+Crypto analyst Willy Woo stated in June that whales with more than 10,000 Bitcoin have been steadily selling since 2017, responding to an X user’s question about who has been selling amid heightened interest from institutions.
 
-ETH historical performance, spot ETFs and derivatives distance themselves from competitors
+Traders sometimes interpret the awakening of old whales as a sign that early holders are considering selling their holdings but analysts told Cointelegraph in August that OG Bitcoiners selling their holdings is nothing to worry about because new buyers are jumping in, which is a good sign of a maturing market.
 
-More importantly, a handful of major altcoins experienced intraday corrections far deeper than Ether’s 20.7%, including the extreme cases of SUI (SUI) at 84%, Avalanche (AVAX) at 70%, and Cardano (ADA) down 66%. Ether has fallen 5% in the past 48 hours, while most competitors remain roughly 10% below their pre-crash levels.
-
-Related: Explanations of USDe 'depeg' on Binance focus on coordinated attack, oracles
-
-Ether’s decoupling from the broader altcoin market highlights the strength provided by its $23.5 billion in spot exchange-traded funds and $15.5 billion in open interest on options markets. Even if Solana (SOL) and other rivals enter the spot ETF race, Ether’s established network effects and resilience during volatile periods continue to make it the top altcoin choice for institutional capital.
-
-Ether’s outlook remains strong as confidence in derivatives structures gradually returns, supporting a potential recovery toward the $4,500 resistance level.
-
-This article is for general information purposes and is not intended to be and should not be taken as legal or investment advice. The views, thoughts, and opinions expressed here are the author’s alone and do not necessarily reflect or represent the views and opinions of Cointelegraph.
+Magazine: Mysterious Mr Nakamoto author: Finding Satoshi would hurt Bitcoin
 
 ### 발행일
-2025-10-12T23:05:47+00:00
+2025-10-24T05:56:49+00:00
 
 ### 출처
 CoinTelegraph
@@ -107,46 +89,38 @@ CoinTelegraph
 --------------------------------------------------------------------------------
 
 ### 제목
-Here’s what happened in crypto today
+Australians punch above their weight in crypto interest, data shows
 
 ### 링크
-https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+https://cointelegraph.com/news/australians-scores-high-per-capita-crypto-interest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 
 ### 본문
-Today in crypto, US and China representatives signal easing trade tensions, Bitcoin is retesting the golden cross, a bullish pattern that preceded past parabolic rallies. Meanwhile crypto traders’ “typical rationalization” behavior by pointing to Trump’s tariffs as the reason for the market dump.
+Australians have the highest levels of interest in cryptocurrency per capita, based on their web traffic, with most activity relating to trading and speculation, according to new data.
 
-US and China representatives signal easing trade tensions
+Data compiled by venture firm Andreessen Horowitz’s crypto division calculated the percentage of web traffic from each country across the top 30 tokens on CoinGecko, filtering out Bitcoin and stablecoins.
 
-Representatives from the United States and China eased the heated rhetoric around trade policies after tensions between the two countries flared up this week due to China’s export controls on rare earth minerals and US President Donald Trump's announcement of an additional 100% tariff on China.
+Australians had the highest per capita percentage of token-related web traffic at 74.63% per 1 billion people, while South Koreans were a close second with 73.48% of token-related web traffic, while users from the United Kingdom were third with 62.15% per 1 billion people.
 
-China’s Ministry of Commerce signaled a willingness to negotiate on the rare earth export control proposal and other trade issues on Sunday, which came alongside a statement from Trump. In a Sunday Truth Social post, Trump wrote:
+Interestingly, the United States lagged as only 40.73% of web traffic went to token-related activities per 1 billion people.
 
-“Don’t worry about China, it will all be fine! Highly respected President Xi just had a bad moment. He doesn’t want depression for his country, and neither do I. The USA wants to help China, not hurt it!!!”
+The report also found that crypto users from developed nations gravitated toward trading and speculating, while users from developing nations were more likely to participate in on-chain activity, which was indicated by mobile wallet usage.
 
-Market analysts said that signs of de-escalation from Trump could pump financial markets on Monday, reversing the price decline that impacted crypto markets over the weekend.
+Australia’s crypto demand is expected to grow in 2026
 
-Bitcoin retests golden cross, a break above could trigger major rally: Analyst
+The overall Australian crypto market is expected to grow at 19.85% annually, with total revenue reaching 1.2 billion Australian dollars ($780 million) by 2026, according to Statista.
 
-Bitcoin is retesting the “golden cross,” a bullish technical pattern that has historically preceded rallies, according to crypto market analyst Mister Crypto.
+Related: Gemini expands in Australia with wait-and-see approach to pending crypto rules
 
-In a Sunday post on X, the analyst shared a chart noting that Bitcoin’s (BTC) previous golden crosses led to gains of 2,200% in 2017 and 1,190% in 2020. With BTC currently hovering near $110,000, he suggested that holding above the level could ignite another parabolic move.
+Meanwhile, the Australian crypto user base is expected to reach 11.16 million by 2026, with nearly 41% of Australians participating in crypto.
 
-“The setup looks incredibly strong,” he wrote, adding that a confirmed breakout could “absolutely explode” Bitcoin’s price in the coming weeks.
+A survey conducted by Swyftx indicates that 40% of Gen Z and Millennial Australians regret not investing in cryptocurrencies a decade ago.
 
-A golden cross is a bullish trading signal that happens when a short-term moving average, usually the 50-day, crosses above a long-term moving average, often the 200-day. It signals that momentum is shifting from bearish to bullish, meaning prices may start rising.
+“A lot of younger investors want high beta assets in their portfolios, and the data we have indicates they generally understand the asset class pretty well,” a Swyftx spokesperson told Cointelegraph.
 
-Crypto traders blame Trump’s tariffs in search of ‘singular event’: Santiment
-
-Crypto retail traders were quick to blame Friday’s broader crypto market decline on US President Donald Trump announcing a 100% tariff on China, as they often look for something to point the finger at during downturns, according to Santiment.
-
-Analysts, however, say the reason for the market slump runs deeper than the tariffs alone.
-
-“This is typical 'rationalization' behavior from retailers, who need to point to a singular event as the reason for a cataclysmic downturn in crypto,” Santiment said in a report on Saturday.
-
-“After the crash, the crowd quickly jumped to collectively come to a consensus as to what the flush could be attributed to,” Santiment said, referring to the increase in social media discussions related to both the crypto market and US-China tariff concerns.
+Magazine: Most wealthy Hong Kong investors plan to buy crypto, Japan’s Bitcoin plan: Asia Express
 
 ### 발행일
-2025-10-12T22:12:41+00:00
+2025-10-24T05:53:02+00:00
 
 ### 출처
 CoinTelegraph
@@ -154,78 +128,88 @@ CoinTelegraph
 --------------------------------------------------------------------------------
 
 ### 제목
-Tether CEO Paolo Ardoino: ‘Bitcoin and Gold Will Outlast Any Other Currency’
+Bitcoin’s Rally Cools as Traders Hedge the Heat
 
 ### 링크
-https://www.coindesk.com/markets/2025/10/12/tether-ceo-paolo-ardoino-bitcoin-and-gold-will-outlast-any-other-currency
+https://www.coindesk.com/markets/2025/10/24/bitcoin-s-rally-cools-as-traders-hedge-the-heat
 
 ### 본문
-Tether CEO Paolo Ardoino: ‘Bitcoin and Gold Will Outlast Any Other Currency’
+Bitcoin’s Rally Cools as Traders Hedge the Heat
 
-Paolo Ardoino’s latest comment about bitcoin and gold echoes Tether’s policy of buying BTC with profits and building up gold exposure.
+After months of steady gains, BTC is slipping below key cost-basis levels as long-term holders sell into strength and traders retreat to defensive derivatives.
 
 What to know:
 
-Tether CEO Paolo Ardoino said in a post on X on Sunday that "Bitcoin and Gold will outlast any other currency," a minimalist line that aligns with how the stablecoin issuer has positioned parts of its reserves over the past two years.
+After months of steady rise to record high, bitcoin’s BTC$111,286.26 pulse has slowed, with BTC changing hands above $111,000 Friday afternoon, Hong Kong time, up 2% over the last week according to CoinDesk market data.
 
-On May 17, 2023, Tether said it would regularly allocate up to 15% of net realized operating profits to purchase bitcoin for reserves, adding BTC to surplus rather than using it to back circulating USDT one-for-one. The company framed the move as strengthening its balance sheet with a long-term store of value.
+The pullback from the recent peak of over $126,000 is marked by momentum faltering below key cost-basis levels, with capital leaving the spot market and ETFs, alongside defensive options positioning.
 
-BTC and gold as parallel pillars
+In a recent report, Glassnode frames the repeated breakdowns below key quantiles as evidence of market exhaustion. At the same time, CryptoQuant, in a note shared with CoinDesk, finds similar stress in shrinking realized profits and drained exchange inflows.
 
-Gold sits alongside bitcoin in that mix.
+Capital, they both argue, is staying in crypto but rotating from spot to derivatives, with volatility itself now the main traded asset. Until that balance resets, rallies are likely to be faded rather than followed.
 
-Tether issues tether gold (XAUt), a token backed by allocated bars, and said on July 24 that more than 7.66 tons of metal backed outstanding tokens as of June 30, 2025. Separately, as CoinDesk reported on Sept. 5, 2025, citing the Financial Times, Tether has held talks to invest across the gold value chain — from mining and refining to royalties — as part of a broader diversification push.
+Glassnode points to the short-term holders’ cost basis around $113,000 as the dividing line between renewed strength and deeper consolidation. Falling below that threshold, the firm says, signals that recent buyers are now sitting on losses, eroding confidence and forcing weaker hands to capitulate.
 
-Ardoino has grouped the assets rhetorically before. On Sept. 7, he referenced bitcoin, gold and land as hedges and later dismissed suggestions that Tether sold BTC to accumulate gold, saying the firm remained committed to growing its bitcoin position.
+Long-term holders, meanwhile, have been selling into strength at a pace exceeding 22,000 BTC per day since July, a trend that continues to sap momentum and weigh on any sustained recovery. If bitcoin fails to reclaim the $113,000 line, Glassnode warns that losses could deepen toward the $108,000–$97,000 range, where 15%–25% of the supply has historically become unprofitable.
 
-Today's eight-word post is less a policy shift than a restatement — bitcoin as a strategic asset added with profits, and gold as a parallel pillar via tokenization and potential upstream investments — while most reserves remain in liquid instruments such as U.S. Treasurys per attestations. The next reserve report, expected late this month or early next month, will show whether allocations to BTC and gold have changed.
+CryptoQuant’s data reinforces that view from a flow perspective. ETF inflows have cooled after months of accumulation, while exchange reserves are rising again, a sign that traders are preparing to sell into volatility rather than accumulate.
 
-As of Sunday, 8:10 p.m. UTC, the U.S. dollar index (DXY) was down 8.88% year to date, while bitcoin and gold — BTC-USD and XAU-USD — were up 22.79% and 52.91%, respectively, according to MarketWatch.
+The firm characterizes this as a rotation of capital within crypto rather than a full exit, as liquidity migrates toward futures and options markets where volatility premiums have surged. This mirrors structural shifts seen in 2021 and mid-2022, when speculative leverage replaced spot conviction.
+
+Options data echo the broader sense of caution. Glassnode reports record-high open interest as traders increasingly rely on derivatives to hedge rather than bet on upside, with put demand rising across maturities.
+
+Glassnode notes that market makers’ hedging has tended to smooth short-term price action, selling into rallies and buying dips to stay delta (market) neutral. Elevated volatility and heavy put demand are keeping the market pinned, with rallies capped by hedging flows rather than broad conviction.
+
+These dynamics have left the market in a limbo, where price action is more shaped by risk management than by directional conviction.
+
+CryptoQuant interprets these flows as a sign of consolidation rather than collapse, writing that liquidity is staying within crypto’s ecosystem, rotating through different instruments as investors wait for clearer macro or policy signals before committing new capital.
+
+Both firms suggest that a meaningful recovery will require renewed spot demand and calmer derivatives activity, conditions that may hinge on the timing of Fed rate cuts or a revival in ETF inflows.
+
+For now, bitcoin isn’t breaking down so much as catching its breath, trading less like a revolution and more like a rotation. Volatility may still be the market’s favorite asset class, but sooner or later, even traders get tired of trading fear.
 
 More For You
 
-Total Crypto Trading Volume Hits Yearly High of $9.72T
+OwlTing: Stablecoin Infrastructure for the Future
 
-Combined spot and derivatives trading on centralized exchanges surged 7.58% to $9.72 trillion in August, marking the highest monthly volume of 2025
-
-What to know:
+Stablecoin payment volumes have grown to $19.4B year-to-date in 2025. OwlTing aims to capture this market by developing payment infrastructure that processes transactions in seconds for fractions of a cent.
 
 More For You
 
-Altcoins Cratered in Oct. 10 Crypto Flash Crash as Bitcoin Held Up, Wiston Capital Says
+How Much Could Bitcoin, Ether, XRP and Solana Move After the U.S. Inflation Report?
 
-Wiston Capital's Charlie Erith says a leverage cascade drove the Oct. 10 break, with altcoins hit hardest, and lays out the signals he will track before adding risk.
+The release of September's Consumer Price Index (CPI) is expected to show a 3.1% rise in the cost of living from a year earlier, the highest in 18 months, according to FactSet.
 
 What to know:
 
-Altcoins Cratered in Oct. 10 Crypto Flash Crash as Bitcoin Held Up, Wiston Capital Says
+Swiss Bank Sygnum to Launch Bitcoin-Backed Loan Platform With Multi-Sig Wallet Control
 
-Binance to Compensate Users Affected by Crash in wBETH, BNSOL, and Ethena’s USDe
+How Much Could Bitcoin, Ether, XRP and Solana Move After the U.S. Inflation Report?
 
-Green Shoots on China Lifts Crypto in Sunday Action
+DOGE Breaks $0.195 Level on Heavy Trade, Wyckoff Setup Points to Next Leg Higher
 
-Q4 Crypto Surge? Historical Trends, Fed Shift and ETF Demand Align
+XRP Flashes Bullish Signal as Exchange Balances Drop 3%
 
-There Is Too Much Friction in Web3 For Newcomers. Here’s How We Fix it.
+Asia Morning Briefing: After CZ’s Pardon, Odds Rise for Sam Bankman-Fried’s Second Chance
 
-China’s Commerce Ministry to Trump: Rare-Earth Export Curbs Are Not Bans
+Bitcoin Climbs to $111K as Whipsaw Action in Crypto Continues
 
-Green Shoots on China Lifts Crypto in Sunday Action
+How Much Could Bitcoin, Ether, XRP and Solana Move After the U.S. Inflation Report?
 
-‘Largest Ever’ Crypto Liquidation Event Wipes Out 6,300 Wallets on Hyperliquid
+Asia Morning Briefing: After CZ’s Pardon, Odds Rise for Sam Bankman-Fried’s Second Chance
 
-Bitcoin’s Flash Crash Sees $7B Crypto Liquidation as Trump Ramps Up China Trade War
+Binance's CZ Wins Pardon From U.S. President Donald Trump
 
-BTC, ETH, XRP, SOL Face Slow Bottoming Process After $16B Liquidation Shock
+Swiss Bank Sygnum to Launch Bitcoin-Backed Loan Platform With Multi-Sig Wallet Control
 
-Binance to Compensate Users Affected by Crash in wBETH, BNSOL, and Ethena’s USDe
+Polymarket Seeks Investment at Valuation of $12B-$15B: Bloomberg
 
-Friday’s $20B Crypto Market Meltdown: A Bitwise Portfolio Manager’s Postmortem Analysis
+Revolut Secures MiCA License in Cyprus, Expanding Regulated Crypto Services Across EU
 
-Disclosure & Polices: CoinDesk is an award-winning media outlet that covers the cryptocurrency industry. Its journalists abide by a strict set of editorial policies. CoinDesk has adopted a set of principles aimed at ensuring the integrity, editorial independence and freedom from bias of its publications. CoinDesk is part of Bullish (NYSE:BLSH), an institutionally focused global digital asset platform that provides market infrastructure and information services. Bullish owns and invests in digital asset businesses and digital assets and CoinDesk employees, including journalists, may receive Bullish equity-based compensation.
+In this article
 
 ### 발행일
-2025-10-12T20:48:52+00:00
+2025-10-24T06:11:27+00:00
 
 ### 출처
 CoinDesk
@@ -233,84 +217,76 @@ CoinDesk
 --------------------------------------------------------------------------------
 
 ### 제목
-Altcoins Cratered in Oct. 10 Crypto Flash Crash as Bitcoin Held Up, Wiston Capital Says
+Swiss Bank Sygnum to Launch Bitcoin-Backed Loan Platform With Multi-Sig Wallet Control
 
 ### 링크
-https://www.coindesk.com/markets/2025/10/12/altcoins-cratered-in-oct-10-crypto-flash-crash-as-bitcoin-held-up-wiston-capital-says
+https://www.coindesk.com/business/2025/10/24/swiss-bank-sygnum-to-launch-bitcoin-backed-loan-platform-with-multi-sig-wallet-control
 
 ### 본문
-Altcoins Cratered in Oct. 10 Crypto Flash Crash as Bitcoin Held Up, Wiston Capital Says
+Swiss Bank Sygnum to Launch Bitcoin-Backed Loan Platform With Multi-Sig Wallet Control
 
-Wiston Capital's Charlie Erith says a leverage cascade drove the Oct. 10 break, with altcoins hit hardest, and lays out the signals he will track before adding risk.
+The offering, developed with non-custodial BTC lending startup Debifi, targets institutions and high-net worth borrowers who don't want to give up control of their assets.
 
 What to know:
 
-Friday’s crypto sell-off was a fast, leverage-driven cascade that crushed altcoins while bitcoin held up comparatively better — and the next phase hinges on a handful of signals, according to Wiston Capital Founder Charlie Erith.
+In this article
 
-In a Sunday post titled “Crypto Crumble,” Erith said the market excluding bitcoin, ether and stablecoins fell about 33% in roughly 25 minutes on Oct. 10 before bouncing to a loss of around 10.6%. He added that about $560 billion, or 13.1%, has been erased from total crypto market value since Oct. 6 and cited $18.7 billion in liquidations during the episode.
+LUGANO, SWITZERLAND — Swiss digital asset bank Sygnum Bank has teamed up with bitcoin BTC$109,648.68 lending startup Debifi to launch what they say is the first bank-backed loan platform that doesn’t require borrowers to give up full control of their BTC.
 
-He linked the immediate trigger to President Donald Trump’s Truth Social threat of an additional 100% tariff on Chinese imports, but argued the slide was already in motion — equities were still climbing while crypto “felt distinctly frail,” a divergence he took as advance warning.
+The offering, dubbed MultiSYG and set to open in the first half of 2026, will target institutions and high-net-worth individuals who want access to bank-grade loan services but are wary of rehypothecation, a practice common in traditional finance where lenders reuse client collateral to back other deals.
 
-Bitcoin, he said, “behaved largely as expected.” It fell, but less than the long tail, leaving bitcoin near a long-running uptrend from late 2022 and boosting its market share as non-bitcoin tokens absorbed “immense technical damage.” Erith said his fund emerged “largely unscathed” because positioning had already been defensively tilted.
+The move underscores the growing market for digital asset-backed financial products, which has evolved well beyond the early, and failed, crypto lenders like BlockFi and Celsius. Institutional players are increasingly demanding more sophisticated structures, especially those that avoid the single-point-of-failure risks that plagued centralized platforms in the last cycle.
 
-What Erith is watching next
+"Borrowers shouldn’t need to trust a custodian blindly," said Debifi CEO Max Kei in a statement, pointing to years of demand for non-custodial lending options.
 
-Erith said he is tracking bitcoin’s 365-day exponential moving average as a line that separates bullish from corrective regimes. He added that a pullback toward the $100,000 area and a touch of that average would not, by itself, overturn his longer-term view provided the level holds — but a sustained break would raise the risk of a deeper reset.
+Most banks offering bitcoin-backed loans typically require full custody, cutting the borrower off from their assets until repayment. With MultiSYG, would-be borrowers can deposit BTC into a wallet controlled by five parties — Sygnum, the borrower and independent signers — with any collateral movement requiring three signatures. That model helps prevent rehypothecation and allows borrowers to verify the existence of their funds onchain throughout the life of the loan.
 
-He also pointed to market breadth via bitcoin’s share of total crypto value. According to Erith, the sell-off accelerated a rotation toward higher-liquidity assets, lifting bitcoin dominance. He said a continued rise in that share alongside weak breadth would argue for caution in high-beta tokens until non-bitcoin charts rebuild.
+"[This] combines the best of both worlds — the ability to hold your own keys while accessing regulated banking products and white-glove service," said Pascal Eberle, Bitcoin@Sygnum and MultiSYG initiative lead at Sygnum Bank, in a statement. "Borrowers can benefit from bank-grade terms in pricing, drawdown flexibility and loan duration, while keeping cryptographic proof of their holdings and partial control of their BTC."
 
-Beyond bitcoin’s own levels, Erith highlighted Strategy’s equity as a proxy for leverage and sentiment in the ecosystem. He noted that roughly four years ago a decisive move below its 365-day average preceded a major bitcoin drawdown. In his view, holding above that trend line would support the resilience narrative; a break below could foreshadow renewed selling pressure.
-
-Volatility is the other gauge. Erith said the VIX — the equity “fear index” — has started to climb and that historically better entries arrive when volatility spikes rather than during the early rise. That framing implies patience on adding risk while equity-volatility stress plays out.
-
-On positioning, Erith said he remains invested but is avoiding leverage and is carrying cash “waiting for the dust to settle.” He said moves of this sort have, in his experience, sometimes preceded broader downturns, which is why he prefers to see the above signals stabilize before increasing exposure.
-
-Erith said the sell-off inflicted heavy damage on altcoins, while bitcoin’s month-to-date decline is modest and comparable to large-cap tech, which he views as evidence of growing resilience.
+Read more: Arch Aims to Help Bitcoin Holders Slash U.S. Tax Bill With BTC Mining Investments
 
 More For You
 
-Total Crypto Trading Volume Hits Yearly High of $9.72T
+OwlTing: Stablecoin Infrastructure for the Future
 
-Combined spot and derivatives trading on centralized exchanges surged 7.58% to $9.72 trillion in August, marking the highest monthly volume of 2025
-
-What to know:
+Stablecoin payment volumes have grown to $19.4B year-to-date in 2025. OwlTing aims to capture this market by developing payment infrastructure that processes transactions in seconds for fractions of a cent.
 
 More For You
 
-Tether CEO Paolo Ardoino: ‘Bitcoin and Gold Will Outlast Any Other Currency’
+Swiss Crypto Bank AMINA Taps Tokeny to Build Compliant 'Bridge' for Asset Tokenization
 
-Paolo Ardoino’s latest comment about bitcoin and gold echoes Tether’s policy of buying BTC with profits and building up gold exposure.
+The partnership combines AMINA Bank’s Swiss-regulated custody with Tokeny’s blockchain infrastructure to ease tokenisation for financial institutions.
 
 What to know:
 
-Tether CEO Paolo Ardoino: ‘Bitcoin and Gold Will Outlast Any Other Currency’
+Bitcoin’s Rally Cools as Traders Hedge the Heat
 
-Binance to Compensate Users Affected by Crash in wBETH, BNSOL, and Ethena’s USDe
+How Much Could Bitcoin, Ether, XRP and Solana Move After the U.S. Inflation Report?
 
-Green Shoots on China Lifts Crypto in Sunday Action
+DOGE Breaks $0.195 Level on Heavy Trade, Wyckoff Setup Points to Next Leg Higher
 
-Q4 Crypto Surge? Historical Trends, Fed Shift and ETF Demand Align
+XRP Flashes Bullish Signal as Exchange Balances Drop 3%
 
-There Is Too Much Friction in Web3 For Newcomers. Here’s How We Fix it.
+Asia Morning Briefing: After CZ’s Pardon, Odds Rise for Sam Bankman-Fried’s Second Chance
 
-China’s Commerce Ministry to Trump: Rare-Earth Export Curbs Are Not Bans
+Bitcoin Climbs to $111K as Whipsaw Action in Crypto Continues
 
-Green Shoots on China Lifts Crypto in Sunday Action
+How Much Could Bitcoin, Ether, XRP and Solana Move After the U.S. Inflation Report?
 
-‘Largest Ever’ Crypto Liquidation Event Wipes Out 6,300 Wallets on Hyperliquid
+Asia Morning Briefing: After CZ’s Pardon, Odds Rise for Sam Bankman-Fried’s Second Chance
 
-Bitcoin’s Flash Crash Sees $7B Crypto Liquidation as Trump Ramps Up China Trade War
+Binance's CZ Wins Pardon From U.S. President Donald Trump
 
-BTC, ETH, XRP, SOL Face Slow Bottoming Process After $16B Liquidation Shock
+Polymarket Seeks Investment at Valuation of $12B-$15B: Bloomberg
 
-Binance to Compensate Users Affected by Crash in wBETH, BNSOL, and Ethena’s USDe
+Revolut Secures MiCA License in Cyprus, Expanding Regulated Crypto Services Across EU
 
-Friday’s $20B Crypto Market Meltdown: A Bitwise Portfolio Manager’s Postmortem Analysis
+Risk Proxies Challenge Bitcoin's Bounce; HYPE, XMR Shine: Crypto Daybook Americas
 
-Disclosure & Polices: CoinDesk is an award-winning media outlet that covers the cryptocurrency industry. Its journalists abide by a strict set of editorial policies. CoinDesk has adopted a set of principles aimed at ensuring the integrity, editorial independence and freedom from bias of its publications. CoinDesk is part of Bullish (NYSE:BLSH), an institutionally focused global digital asset platform that provides market infrastructure and information services. Bullish owns and invests in digital asset businesses and digital assets and CoinDesk employees, including journalists, may receive Bullish equity-based compensation.
+In this article
 
 ### 발행일
-2025-10-12T17:34:38+00:00
+2025-10-24T06:00:00+00:00
 
 ### 출처
 CoinDesk
@@ -318,92 +294,98 @@ CoinDesk
 --------------------------------------------------------------------------------
 
 ### 제목
-Binance to Compensate Users Affected by Crash in wBETH, BNSOL, and Ethena’s USDe
+How Much Could Bitcoin, Ether, XRP and Solana Move After the U.S. Inflation Report?
 
 ### 링크
-https://www.coindesk.com/markets/2025/10/12/binance-to-compensate-users-affected-by-crash-in-wbeth-bnsol-and-ethena-s-usde
+https://www.coindesk.com/markets/2025/10/24/how-much-could-bitcoin-ether-xrp-and-solana-move-after-the-u-s-inflation-report
 
 ### 본문
-Binance to Compensate Users Affected by Crash in wBETH, BNSOL, and Ethena’s USDe
+How Much Could Bitcoin, Ether, XRP and Solana Move After the U.S. Inflation Report?
 
-Wrapped tokens crashed as Binance's infrastructure buckled, making it harder for market makers to stabilize prices.
+The release of September's Consumer Price Index (CPI) is expected to show a 3.1% rise in the cost of living from a year earlier, the highest in 18 months, according to FactSet.
 
 What to know:
 
-Binance has voluntarily announced compensation for users who incurred losses due to platform's disruptions late Friday that triggered a significant price crash in wrapped beacon ether (wBETH), Binance Staked SOL (BNSOL), and Ethereum's synthetic dollar USDe.
+The crypto market, starved of fresh economic data due to the prolonged U.S. government shutdown, will finally get a key data point with the release of September’s Consumer Price Index (CPI) on Friday.
 
-"Due to significant market fluctuations over the past 16 hours and a substantial influx of users, some users have encountered issues with their transactions. I deeply apologize for this. If you have incurred losses attributable to Binance, please contact our customer service to register your case," Yi He, co-founder and chief customer officer at Binance, said on X.
+The inflation figure could trigger larger price swings in ether ETH$3,970.68 than in bitcoin BTC$109,648.68, a store-of-value asset. Overall, however, the expected market volatility is nothing out of the ordinary.
 
-He added that the exchange will review account activity on a case-by-case basis to determine compensation, emphasizing that losses due to market fluctuations and unrealized profits are not eligible for compensation.
+Inflation ticked higher in September
 
-Binance's wrapped beacon ether (wBETH) price plunged to as low as $430 around 21:40 UTC on Friday, representing a staggering 88% discount compared to the ether-tether (ETH/USDT) spot price, which was trading above $3,800 at the same time.
+The consumer price index for September, due for release at 12:30 UTC, is expected to show the cost of living rose 3.1% from a year earlier, up from 2.9% in August and the highest in 18 months, according to a survey of economists by data provider FactSet. On a monthly basis, inflation likely rose 0.4%, matching August's pace.
 
-The Binance Staked SOL (BNBSOL) also tanked to $34.90, trading at a massive discount to the spot price of solana. Meanwhile, Ethena's synthetic dollar USDe, which uses the delta neutral cash-and-carry, slipped rapidly to 65 cents around the same time as wBETH and BNBSOL crashed.
+Core inflation, which excludes the volatile food and energy categories, is forecast to have increased by 3.1% for the third straight month, with a monthly gain of 0.3%.
 
-Explaining the crash
+The consensus is that the data, whether it beats or misses expectations, is unlikely to deter the Fed from cutting its benchmark interest rate by another quarter-point next week.
 
-Tokens like wBETH and BNBSOL are designed to track the spot price of their underlying assets closely.
+That said, a hotter-than-expected print could bode well for the dollar, according to analysts at ING. A strengthening dollar index may arrest gains in the crypto market.
 
-Binance valued these wrapped assets based on their spot market prices, as noted by AltLayer founder YQ Jia on X. Under normal conditions, arbitrageurs help maintain these prices close to their fundamental values by simultaneously buying the cheaper asset and selling the more expensive one.
+"We don’t think U.S. CPI will offer that opportunity as we expect a consensus 0.3% MoM core print. But surely with 50bp of easing fully priced in by year-end, any hot print could offer good support to the dollar," ING analysts said in a note Thursday.
 
-However, as Binance's infrastructure came under stress due to increased market volatility and massive liquidations, market makers and arbitrageurs couldn't access the primary markets and execute trades efficiently, causing a breakdown in price alignment. It led to a crash in wrapped tokens.
+Meanwhile, a lower CPI could trigger a risk-on reaction in markets, according to digital asset trading firm Zerocap.
 
-"Binance represents perhaps 50% of global spot volume. When they [market makers] can't access Binance—either to hedge positions or even see prices—they're flying blind. Would you provide bids for wBETH at $2,000 when you can't see what's happening on the largest market? Of course not," Jia noted.
+"The U.S. government shutdown has starved keen market analysts of often crucial data, and a drip feed of macro signals in the wake of the crypto pullback two weeks ago means a lower CPI reading could easily stoke bullish sentiment amid an ongoing retail selloff," John Toro, head of trading at Zerocap, said in an email.
 
-Jia added that market makers' inability to participate created a liquidity vacuum, reminiscent of portfolio insurance in 1987 – "mechanisms designed for normal markets that become procyclical accelerants during crashes."
+Ether to swing 2.9%
 
-Corrective measures
+According to data from the Deribit-listed options market, ether, the second-largest token by market value, could move by 2.9% following the CPI release, outpacing bitcoin's volatility.
 
-Within 24 hours of the crash, Binance announced a shift to using conversion-ratio pricing for wrapped assets.
+"The options market is currently pricing in a ±1.4% move for Bitcoin following today’s CPI release, while Ethereum is pricing in a larger ±2.9% move," Markus Thielen, founder of 10x Research, told CoinDesk.
 
-Instead of valuing wBETH based on volatile and distressed spot market trades, the exchange would now price it according to the underlying staking ratio, which represents the actual amount of ETH each wrapped token represents.
+Volmex Finance’s one-day implied volatility indices for Bitcoin and Ether indicate similar expected price fluctuations following the CPI release.
 
-The change means a more stable and accurate valuation during times of market stress by disconnecting wrapped token prices from short-term spot market fluctuations.
+The one-day implied volatility indices for XRP and Solana currently stand at 91% and 76%, respectively, translating to expected price moves of approximately 4.7% for XRP and 4% for Solana within 24 hours.
+
+Bullish volatility?
+
+Importantly, these projected moves are nothing out of the ordinary. They reflect volatility in either direction and do not imply a bullish or bearish market outlook.
+
+That said, Thielen's analysis of key indicators, such as the Stochastic, suggests a potential price bounce in BTC.
+
+"The daily stochastic indicator is showing signs of bullish divergence, even though it has not yet reached its typical 15% lower bound. This suggests that downside momentum may be easing, potentially paving the way for a short-term recovery in bitcoin prices," Thielen said.
 
 More For You
 
-Total Crypto Trading Volume Hits Yearly High of $9.72T
+OwlTing: Stablecoin Infrastructure for the Future
 
-Combined spot and derivatives trading on centralized exchanges surged 7.58% to $9.72 trillion in August, marking the highest monthly volume of 2025
-
-What to know:
+Stablecoin payment volumes have grown to $19.4B year-to-date in 2025. OwlTing aims to capture this market by developing payment infrastructure that processes transactions in seconds for fractions of a cent.
 
 More For You
 
-Tether CEO Paolo Ardoino: ‘Bitcoin and Gold Will Outlast Any Other Currency’
+DOGE Breaks $0.195 Level on Heavy Trade, Wyckoff Setup Points to Next Leg Higher
 
-Paolo Ardoino’s latest comment about bitcoin and gold echoes Tether’s policy of buying BTC with profits and building up gold exposure.
+Analysts see similarities to past Wyckoff accumulation phases, suggesting potential for further price increases if support holds above $0.194.
 
 What to know:
 
-Tether CEO Paolo Ardoino: ‘Bitcoin and Gold Will Outlast Any Other Currency’
+Bitcoin’s Rally Cools as Traders Hedge the Heat
 
-Altcoins Cratered in Oct. 10 Crypto Flash Crash as Bitcoin Held Up, Wiston Capital Says
+Swiss Bank Sygnum to Launch Bitcoin-Backed Loan Platform With Multi-Sig Wallet Control
 
-Green Shoots on China Lifts Crypto in Sunday Action
+DOGE Breaks $0.195 Level on Heavy Trade, Wyckoff Setup Points to Next Leg Higher
 
-Q4 Crypto Surge? Historical Trends, Fed Shift and ETF Demand Align
+XRP Flashes Bullish Signal as Exchange Balances Drop 3%
 
-There Is Too Much Friction in Web3 For Newcomers. Here’s How We Fix it.
+Asia Morning Briefing: After CZ’s Pardon, Odds Rise for Sam Bankman-Fried’s Second Chance
 
-China’s Commerce Ministry to Trump: Rare-Earth Export Curbs Are Not Bans
+Bitcoin Climbs to $111K as Whipsaw Action in Crypto Continues
 
-Green Shoots on China Lifts Crypto in Sunday Action
+Asia Morning Briefing: After CZ’s Pardon, Odds Rise for Sam Bankman-Fried’s Second Chance
 
-‘Largest Ever’ Crypto Liquidation Event Wipes Out 6,300 Wallets on Hyperliquid
+Binance's CZ Wins Pardon From U.S. President Donald Trump
 
-Bitcoin’s Flash Crash Sees $7B Crypto Liquidation as Trump Ramps Up China Trade War
+Swiss Bank Sygnum to Launch Bitcoin-Backed Loan Platform With Multi-Sig Wallet Control
 
-BTC, ETH, XRP, SOL Face Slow Bottoming Process After $16B Liquidation Shock
+Polymarket Seeks Investment at Valuation of $12B-$15B: Bloomberg
 
-Friday’s $20B Crypto Market Meltdown: A Bitwise Portfolio Manager’s Postmortem Analysis
+Revolut Secures MiCA License in Cyprus, Expanding Regulated Crypto Services Across EU
 
-How Auto-Deleveraging on Crypto Perp Trading Platforms Can Shock and Anger Even Advanced Traders
+Risk Proxies Challenge Bitcoin's Bounce; HYPE, XMR Shine: Crypto Daybook Americas
 
-Disclosure & Polices: CoinDesk is an award-winning media outlet that covers the cryptocurrency industry. Its journalists abide by a strict set of editorial policies. CoinDesk has adopted a set of principles aimed at ensuring the integrity, editorial independence and freedom from bias of its publications. CoinDesk is part of Bullish (NYSE:BLSH), an institutionally focused global digital asset platform that provides market infrastructure and information services. Bullish owns and invests in digital asset businesses and digital assets and CoinDesk employees, including journalists, may receive Bullish equity-based compensation.
+In this article
 
 ### 발행일
-2025-10-12T17:12:52+00:00
+2025-10-24T05:24:15+00:00
 
 ### 출처
 CoinDesk
@@ -411,111 +393,99 @@ CoinDesk
 --------------------------------------------------------------------------------
 
 ### 제목
-MIT rejects Trump’s preferential funding offer
+Policy uncertainty emerges as top barrier to student mobility
 
 ### 링크
-https://thepienews.com/mit-rejects-trumps-preferential-funding-offer/
+https://thepienews.com/policy-uncertainty-emerges-as-top-barrier-to-student-mobility/
 
 ### 본문
-<p>MIT president Saly Kornbluth said the agreement went against freedom of expression and the university’s independence, and that it was <a href="https://orgchart.mit.edu/letters/regarding-compact" rel="noreferrer noopener" target="_blank">“fundamentally”</a> inconsistent with MIT’s “core belief that scientific funding should be based on scientific merit alone”. </p>
+<p>While affordability remains the greatest obstacle for students, IDP Education’s new Emerging Futures <a href="https://partners.idp.com/usa/articles/student-insights/usa-media-release-emerging-futures-8-voice-of-the-international-student" rel="noreferrer noopener" target="_blank">survey</a> has revealed the growing impact of sudden and unclear policy changes shaping students’ international study decisions. &nbsp;</p>
 
 
 
-<p>Last week, the Trump administration sent a <a href="https://thepienews.com/us-moots-15-international-student-cap-on-institutions/" rel="noreferrer noopener" target="_blank">compact</a> to nine US colleges laying out sweeping demands including capping international enrolments, banning the use of race or sex in hiring and freezing tuition for five years. In return, schools that signed on would receive competitive advantages from the government.  </p>
+<p>“Students and families are prepared to make sacrifices to afford their international education dreams. They can adjust budgets, seek scholarships and rely on part-time work. But they cannot plan for uncertainty,” said IDP chief partnerships officer Simon Emmett. &nbsp;</p>
 
 
 
-<p>In a letter to US education secretary Linda McMahon, Kornbluth said: “We must hear facts and opinions we don’t like – and engage respectfully with those whom we disagree.”&nbsp;</p>
+<p>“When the rules change, without warning or clarity, trust falls away. Students hesitate, delay, or choose to study elsewhere.”&nbsp;</p>
 
 
 
-<p>Under the terms of the compact, signatories must abolish university units that “punish” or “belittle” conservative ideas, and all college employees “must abstain in their official capacity from actions or speech related to politics”.  </p>
+<p>Drawing on the views of nearly 8,000 international students from 134 countries between July and August 2025, the results highlighted the critical importance of study destinations communicating policy changes to sustain trust among students.  </p>
 
 
 
-<p>If adopted by the institutions, it would set a 15% cap on international undergraduate students including a 5% limit for any given country. It also stipulates that universities must hand over international student information, including discipline records, upon the request of the government.  </p>
+<p>The US and UK were rated the lowest for providing clear guidance on visas and arrivals processes, while New Zealand was identified as the top communicator in this respect. &nbsp;</p>
 
 
 
-<p>MIT is the first of the nine institutions to officially respond to the administration before the October 20 deadline. Stakeholders said the White House is likely aiming to expand the compact if institutions engage.  </p>
+<p>What’s more, the UK saw the steepest rise in students withdrawing from plans to study there, indicating recent policy changes including plans to <a href="https://thepienews.com/shorter-graduate-route-from-january-2027-uk-govt-confirms/" rel="noreferrer noopener" target="_blank">shorten</a> the Graduate Route and increase compliance metrics for universities are creating uncertainty among international students.&nbsp;</p>
 
 
 
-<p>The day after it was sent, the University of Texas swiftly announced it was “honoured” to be a part of Trump&#8217;s proposal, though the remaining institutions were notably quiet on the agreement, which has received strong pushback from faculty leadership and administrators. </p>
+<p>Of the students who said they were pivoting away from major study destinations, over half (51%) indicated tuition fees had become unaffordable and one in five said it was too difficult to obtain a visa. &nbsp;</p>
 
 
 
-<p>Faculty senates at the University of Virginia and the University of Arizona voted to <a href="https://facultysenate.virginia.edu/resolution-opposing-compact-academic-excellence-higher-education" rel="noreferrer noopener" target="_blank">oppose</a> the compact with overwhelming majorities, while Dartmouth College president said in a <a href="https://president.dartmouth.edu/news/2025/10/response-compact-academic-excellence-higher-education" rel="noreferrer noopener" target="_blank">statement</a> she was “deeply committed” to the university’s values and would always defend its “fierce independence”.  </p>
+<p>In markets such as Malaysia, the Philippines and the UAE, students reported delaying or redirecting applications almost immediately after unclear announcements by major destinations, the report said.&nbsp;</p>
 
 
 
-<p>In Tennessee, academic and workers unions have called on Vanderbilt University to reject what they called &#8220;Trump’s Fascist Compact”, with a <a href="https://docs.google.com/forms/d/e/1FAIpQLScwxNE3-WLbD1cDBAmmiINgOsLgfSI89048zhOoU5cFlGH2cg/viewform" rel="noreferrer noopener" target="_blank">petition</a> from Graduate Workers United garnering almost 1,000 signatures as of October 8. &nbsp;</p>
-
-
-
-<p>Elsewhere, California governor Gavin Newsom quickly responded saying: “California universities that bend to the will of Donald Trump and sign this insane ‘compact’ will lose billions in state funding – IMMEDIATELY.”</p>
-
-
-
-<p>“California will not bankroll schools that sign away academic freedom,” he wrote on October 2, sending a clear sign to the University of Southern California (USC), the only Californian college to receive the proposal so far.  </p>
-
-
-
-<p>Alongside MIT, the compact demands were thrust upon: Vanderbilt University, Dartmouth College, the University of Pennsylvania, the University of Southern California, the University of Texas, the University of Arizona, Brown University and the University of Virginia. </p>
+<p>Meanwhile Canada’s share of withdrawals was shown to have eased, indicating messaging is helping to rebuild stability, the authors suggested, though Canadian study permit issuance has fallen dramatically in 2025. </p>
 
 
 
 <blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p>California universities that bend to the will of Donald Trump and sign this insane ‘compact’ will lose billions in state funding – IMMEDIATELY</p>
-<cite>Gavin Newsom, Governor of California</cite></blockquote>
+<p>Without that stability, even the most attractive destinations risk losing trust</p>
+<cite>Simon Emmett, IDP</cite></blockquote>
 
 
 
-<p>While it remains unclear how the recipients were chosen, stakeholders have noted that the list includes high prestige universities as well as public flagships, likely to generate maximum sectoral and media impact. &nbsp;</p>
+<p>Despite policy disruptions in Australia over recent years, the country remained the most popular first-choice destination globally, ranked highly for value for money, graduate employment opportunities and post-study work pathways. &nbsp;</p>
 
 
 
-<p>“The compact forces all nine institutions to reveal their positions; it sets the narrative for media reporting and public discussion of the points in the compact; and starts a public sorting of university responses to these policy priorities,” Boston College professor Chris Glass told <em>The PIE News.</em> </p>
+<p>At the same time, many respondents flagged sensitivities to recent visa and enrolment changes, highlighting the need for consistent and transparent messaging to maintain Australia’s competitiveness, according to IDP. &nbsp;</p>
 
 
 
-<p>Whether MIT’s response emboldens the universities to reject the proposal remains to be seen, but even without the signatures, “the compact creates lasting ripples, as universities, accreditors, and state officials recalibrate for future policy fights,” said Glass.<em>&nbsp;</em>&nbsp;</p>
+<p>The US saw the largest decline in popularity, dropping to third place behind Australia and the UK.&nbsp;</p>
 
 
 
-<p>The compact&#8217;s international student cap is yet another clear sign of Trump’s anti-immigration stance, though experts have noted that none of the nine universities have undergraduate international student populations that exceed the 15% limit.  </p>
+<p>NAFSA CEO Fanta Aw said the findings should serve as a “wake-up call” that policy uncertainty has real human and economic costs, emphasising the need for “clear and consistent” communication from institutions and policymakers. &nbsp;</p>
 
 
 
-<p>While U Penn and USC are both close to the threshold with international undergraduate populations around the 14% mark, the universities of Virginia, Arizona and Texas at Austin all enrol less than 6% international undergraduates, according to <a href="https://www.collegetowns.org/p/no-international-students-are-not" rel="noreferrer noopener" target="_blank">analysis</a> by Soka University of America professor Ryan Allen. </p>
+<p>“Students are paying close attention to how the US administration handles student visas and post-study experiential learning opportunities like Optional Practical Training,” said Aw.&nbsp;</p>
 
 
 
-<p>As such, Glass speculated the cap was intended to signal to universities beyond the nine, especially those above the 15% threshold, that they may face future scrutiny. </p>
+<p>Visa restrictions and policy hostility have rocked the US under Trump’s second presidency, with global visa appointments <a href="https://thepienews.com/us-trump-pauses-new-student-visa-interviews/" rel="noreferrer noopener" target="_blank">suspended</a> for nearly a month this summer, as well as thousands of student <a href="https://thepienews.com/data-trumps-student-visa-revocations-in-numbers/" rel="noreferrer noopener" target="_blank">visa revocations</a> and travel <a href="https://thepienews.com/trump-bans-citizens-of-12-countries-from-entering-us/" rel="noreferrer noopener" target="_blank">restrictions</a> on 12 nations. &nbsp;</p>
 
 
 
-<p>“Just by introducing the cap, the administration sets the terms of debate and sends a strong message – to its base, to all universities in the US, and to prospective international students,” he said. </p>
+<p>Post-study work opportunities are increasingly fragile in the US with government plans to <a href="https://thepienews.com/trump-plans-overhaul-of-h-1b-visa-favouring-high-paid-workers/" rel="noreferrer noopener" target="_blank">overhaul</a> the H-1B skilled worker visa to favour better paid jobs and OPT coming under increased <a href="https://thepienews.com/us-senator-calls-for-end-of-opt/" rel="noreferrer noopener" target="_blank">scrutiny</a> from policymakers.&nbsp;</p>
 
 
 
-<p>As per Allen’s analysis, just 14 of the top 114 US universities have undergraduate international populations that exceed the proposed limit. </p>
+<p>Emmett highlighted the knock-on effect of these policy shocks, with student journeys being disrupted “not by ambition, but by uncertainty”. </p>
 
 
 
-<p>If it is implemented, the impact of the cap by itself might not be significant, &#8220;but this is part of an overall message that the US does not want international students &#8230; It’s tough to grapple with in the classroom because our students are feeling that message,” said Allen. </p>
+<p>“Countries that provide predictability will win the confidence of students and their families. Without that stability, even the most attractive destinations risk losing trust,” he said.&nbsp;</p>
 
 
 
-<p>Typically, international students make up a larger proportion of postgraduate than undergraduate enrolments, though universities rarely disaggregate the two in overall student counts. &nbsp;</p>
+<p>Despite financial and political challenges, demand for global study remained strong, with half of all prospective students intending to apply within six months, and a further 29% within a year. </p>
 
 
 
-<p>And yet: “Undergrad admissions are much more contentious and political than grad school. So, the idea that international students are somehow taking seats from Americans is much more salient in that space,” said Allen. &nbsp;</p>
-<p>The post <a href="https://thepienews.com/mit-rejects-trumps-preferential-funding-offer/">MIT rejects Trump’s preferential funding offer</a> appeared first on <a href="https://thepienews.com">The PIE News</a>.</p>
+<p>South Asia emerged as the main driver of intent, with more than 60% of students surveyed from India, Pakistan and Bangladesh preparing near-term applications, though this region was also the most sensitive to abrupt or confusing policy shifts. &nbsp;</p>
+<p>The post <a href="https://thepienews.com/policy-uncertainty-emerges-as-top-barrier-to-student-mobility/">Policy uncertainty emerges as top barrier to student mobility </a> appeared first on <a href="https://thepienews.com">The PIE News</a>.</p>
 
 ### 발행일
-2025-10-10T19:13:38+00:00
+2025-10-23T16:22:56+00:00
 
 ### 출처
 ThePieNews
@@ -523,139 +493,135 @@ ThePieNews
 --------------------------------------------------------------------------------
 
 ### 제목
-Canada: 47k int’l students flagged for potential visa non-compliance
+How Australia, the US, New Zealand and Canada are navigating change
 
 ### 링크
-https://thepienews.com/canada-47k-intl-students-flagged-for-potential-visa-non-compliance/
+https://thepienews.com/how-australia-the-us-new-zealand-and-canada-are-navigating-change/
 
 ### 본문
-<p>Aiesha Zafar, assistant deputy minister for migration integrity at IRCC, told the House of Commons Standing Committee on Citizenship and Immigration that 8% of international students reviewed were potentially “non-compliant&#8221;, meaning they were not attending classes as required by the terms of their study visa.</p>
+<p>Last week, 1,500 delegates gathered in Australia&#8217;s capital city for the 2025 Australian International Education Conference (<a href="https://aiec.idp.com/home" rel="noreferrer noopener" target="_blank">AIEC</a>) to tackle the theme of &#8216;navigating change&#8217;. Following a period of heavy policy turmoil, delegates heard from assistant minister for international education Julian Hill that Australia is “open for business&#8221; – albeit with a few <a href="https://thepienews.com/australia-open-for-business-but-integrity-comes-first-says-hill/" rel="noreferrer noopener" target="_blank">caveats</a>.</p>
 
 
 
-<p>“In terms of the total number of students we asked for compliance information from, that results in potentially 47,175. We have not yet determined whether they are fully non-compliant, these are initial results provided to us by institutions,” stated Zafar, who was questioned by Conservative MP Michelle Rempel Garner about where these students are currently, if they are not complying with their visa terms.</p>
+<p>But it was a session on competitor market updates that helped put Australia’s own challenges and opportunities into perspective. As Australia settles into a second term under the Albanese government, the Canberra conference heard from the US on just how much elections can shape – and shake – the international education landscape.</p>
 
 
 
-<p>Determining full non-compliance of the international students, however, is not straightforward, as institutions report data at varying intervals, and students may change schools, graduate, or take authorized leaves.</p>
+<p>Since January 2025, when Donald Trump took office following his <a href="https://thepienews.com/international-education-reacts-to-trump-presidency/" rel="noreferrer noopener" target="_blank">re-election</a>, the international education sector has witnessed an &#8220;onslaught of policy directives&#8221;, said Fanta Aw, CEO of <a href="https://www.nafsa.org/" rel="noreferrer noopener" target="_blank">NAFSA</a>, who said the although some of this was to be expected, the &#8220;fast and furious&#8221; nature of Trump&#8217;s directives has been surprising.</p>
 
 
 
-<p>Zafar noted that IRCC shares all the data it continually collects with the Canada Border Services Agency (CBSA), which is responsible for locating and removing non-compliant visa holders.</p>
+<p>Earlier this month, a White House memo sent to nine top-tier universities <a href="https://thepienews.com/us-moots-15-international-student-cap-on-institutions/" rel="noreferrer noopener" target="_blank">proposed</a> a 15% cap on colleges’ international undergraduate enrolments, among other demands, in return for preferential access to federal funding.</p>
 
 
 
-<p>“Any foreign national in Canada would be under the purview of the CBSA, so they have an inland investigation team,” Zafar told the committee when Garner questioned how the IRCC is able to track and remove students who are in violation of their visas. </p>
+<p>Elsewhere, the sector has seen unprecedented political hostility towards international students from the Trump administration, not least thousands of student&nbsp;<a href="https://thepienews.com/data-trumps-student-visa-revocations-in-numbers/" rel="noreferrer noopener" target="_blank">visa revocations</a>&nbsp;and attempts to&nbsp;<a href="https://thepienews.com/trumps-student-deportation-campaign-ruled-unconstitutional/" rel="noreferrer noopener" target="_blank">deport</a>&nbsp;those involved in pro-Palestinian speech, alongside a&nbsp;<a href="https://thepienews.com/trump-bans-citizens-of-12-countries-from-entering-us/" rel="noreferrer noopener" target="_blank">travel ban</a>&nbsp;on 19 nations, among other challenging policies. &nbsp;</p>
+
+
+
+<p>Perhaps most significantly, the administration’s suspension of new visa interviews for nearly a month this summer caused widespread&nbsp;<a href="https://thepienews.com/us-student-visa-scheduling-still-plagued-by-scarcity-and-delays/" rel="noreferrer noopener" target="_blank">global delays</a>, preventing some students from travelling to the US in time for the fall semester.&nbsp;</p>
+
+
+
+<p>For Aw, one of the most fundamental concerns for the US sector as a result of policy shifts is the loss of innovation and research opportunities. </p>
+
+
+
+<p>Unlike the US, where international students make up around 6% of total enrolments, Canada experienced exponential growth in international student numbers in recent years – growth that stretched capacity and ultimately prompted significant government intervention. For the first time in the country’s history, in January 2024, <a href="https://thepienews.com/canada-caps-study-permits/" rel="noreferrer noopener" target="_blank">a cap</a> was placed on study permits.</p>
+
+
+
+<p>&#8220;We didn’t see much of a narrative accompanying that decision – it was sudden, abrupt, followed by 15 or 16 other policy changes,&#8221; said Larissa Bezo, president and CEO of the Canadian Bureau for International Education (<a href="https://cbie.ca/" rel="noreferrer noopener" target="_blank">CBIE</a>).</p>
+
+
+
+<p>In the two years leading up to that policy shift, international student numbers were growing by almost 30% year on year. During the same period, Canada also saw a sharp rise in other temporary resident cohorts, compounding the pressure.</p>
+
+
+
+<p>&#8220;One can hardly describe last 1.5 years as a period of stability,&#8221; said Bezo. &#8220;Students around the world looked and drew a conclusion that Canada really closed its doors to students. That isn&#8217;t, in fact, accurate.&#8221; <br /><br />Yet, the perception had a significant toll on &#8216;Brand Canada&#8217; with a <a href="https://thepienews.com/after-the-cap-the-reality-check-for-canadas-international-education-sector/" rel="noreferrer noopener" target="_blank">decline in student numbers</a> and &#8220;lots of room between between the current number of students and the ceiling of the cap,&#8221; said Bezo.</p>
+
+
+
+<p>&#8220;We’re still at an early stage looking at new student flows,&#8221; she added. The recruitment approach of Canada&#8217;s institutions are evolving, for some that means returning to traditional markets while for others its leaning into new markets.</p>
+
+
+
+<p>&#8220;It&#8217;s varied, driven by the unique context of each institution,&#8221; explained Bezo.</p>
+
+
+
+<p>One positive change that Bezo takes from this period of turmoil is that it &#8220;has opened door to some very good engagement&#8221; with government. Looking ahead, Bezo hopes to see greater policy stability, along with more &#8220;thoughtful and intentional discussion around global talent strategy&#8221;.</p>
+
+
+
+<p>A new global campaign is also in development, bringing together a range of stakeholders, including business associations. One of its key goals is to communicate more clearly the opportunities that exist in Canada. <br /><br />The campaign will also include a domestic component aimed at strengthening social licence – highlighting and sharing the value that international students bring to communities across the country.<br /></p>
+
+
+
+<p><br /></p>
+
+
+
+<figure class="wp-block-image aligncenter size-large is-resized"><img alt="" class="wp-image-260500" height="842" src="https://thepienews.com/wp-content/uploads/2025/10/IMG_4020-1-1024x842.jpg" style="width: 620px; height: auto;" width="1024" /><figcaption class="wp-element-caption">Sector leaders from Australia, the US, New Zealand and Canada came together at AIEC for a panel session hosted by Duolingo&#8217;s Brett Blacker.</figcaption></figure>
+
+
+
+<p>Of all the updates, New Zealand’s was among the most upbeat, with social licence emerging as a central theme. Marie Clark, director of insights at Education New Zealand (<a href="https://www.enz.govt.nz/">ENZ</a>), outlined a sector intent on recovery and renewal, with a strategy built around sustainable growth &#8220;grounded in public support and student success&#8221;.</p>
+
+
+
+<p>In July 2025, the New Zealand government launched the<em>&nbsp;International Education Going for Growth</em>&nbsp;<a href="https://thepienews.com/nz-debuts-growth-plan-as-it-eyes-35k-more-international-students/" rel="noreferrer noopener" target="_blank">plan</a>, as part of its broader<em>&nbsp;Going for Growth</em>&nbsp;strategy. Goals include increasing international student enrolments from 83,700 to 119,000 by 2034 and doubling the sector’s value from NZ$3.6 billion to NZ$7.2 billion.</p>
+
+
+
+<p>&#8220;We&#8217;re cautious about policy shifts in New Zealand,&#8221; said Clark, but there have been a few <a href="https://thepienews.com/nz-debuts-growth-plan-as-it-eyes-35k-more-international-students/" rel="noreferrer noopener" target="_blank">policy changes</a> such as an increase in the permitted work hours for eligible study visa holders from 20 to 25 hours per week, and the introduction of a a short-term post-study work visa for some vocational graduates.</p>
+
+
+
+<p>&#8220;We see that as a clever compromise that supports student aspirations, but aligns with skills needs,&#8221; said Clark. </p>
+
+
+
+<p>Through such changes, New Zealand is sending a &#8220;signal&#8221; to students that the government is offering &#8220;real opportunities and is serious about growing the sector&#8221; but in a way that benefits the communities that students are going to.</p>
 
 
 
 <blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p>The 47,000 non-compliance cases are a backlog, evidence that fraud detection is strengthening, not weakening, Canadian standards<br /><sub><strong><sup>Maria Mathai, M.M Advisory Services</sup></strong></sub></p>
+<p>We’ll never be the biggest destination but we want to be the destination of choice<br /><sub><strong><sup>Marie Clark, Education New Zealand</sup></strong></sub></p>
 </blockquote>
 
 
 
-<p>According to Maria Mathai, founder of <a href="https://www.mdotm.in/" rel="noreferrer noopener" target="_blank">M.M Advisory Services</a>, which supports Canadian universities in the South Asian market, the figure of over 47,000 students who could be non-compliant being portrayed as a “crisis” misses the real story — that Canada’s immigration system is actively adapting.</p>
+<p>&#8220;We’ll never be the biggest destination but we want to be the destination of choice,&#8221; said Clark.<br /><br />In ENZ&#8217;s<a href="https://www.enz.govt.nz/news-and-research/ed-news/annual-survey-shows-continuing-strong-support-for-international-students-in-new-zealand" rel="noreferrer noopener" target="_blank"> latest survey</a>, 72% of New Zealanders said they believe that international education is beneficial to the country, and 77% would like to see at least the same number or more international students welcomed to the country. Clark said ENZ is keeping a close eye on social licence as it is aware that &#8220;rapid growth without public support can backfire&#8221;.<br /><br />The atmosphere at this year’s AIEC conference was noticeably more positive than last year, with Australian providers seeming to have adapted to operating under the government’s <a href="https://thepienews.com/2026-nosc-allocations-rise-for-australian-public-universities/" rel="noreferrer noopener" target="_blank">international student enrolment limits</a>. <br /><br />Yet, according to Phil Honeywood, CEO of the International Education Association of Australia (<a href="https://www.ieaa.org.au/" rel="noreferrer noopener" target="_blank">IEAA</a>), there is still work to be done in the policy space. At the top of Honeywood’s agenda is securing federal support to launch a national social licence campaign.<br /><br />Elsewhere, the sector is still grappling with the fact that Australia has the <a href="https://thepienews.com/cost-of-australian-student-visa-jumps-to-aud2000/" rel="noreferrer noopener" target="_blank">world’s highest</a> student visa application fee but Honeywood remains optimistic that <a href="https://thepienews.com/australias-peak-bodies-urge-visa-fee-reduction-in-letter-to-prime-minister/" rel="noreferrer noopener" target="_blank">lobbying efforts</a> to significantly reduce the fee for certain short-term student cohorts will be successful.</p>
 
 
 
-<p>&#8220;Front-end Provincial Attestation Letter (PAL) screening now blocks thousands who would have entered before, and ongoing oversight is catching legacy issues. The 47,000 non-compliance cases are a backlog, evidence that fraud detection is strengthening, not weakening, Canadian standards,&#8221; Mathai told <em>The PIE News</em>. </p>
+<p>A significant opportunity for Australian providers lies in the government’s current focus on engagement with South East Asia. Providers that demonstrate a shift away from traditional markets, such as China and India, toward Southeast Asian countries may become eligible for an increased allocation of international student places under the government’s National Planning Level (NPL).</p>
 
 
 
-<p>Mathai acknowledged that past PAL allocations contributed to compliance challenges, with regions like Ontario, which hosts the largest share of international students, directing most of its PALs to colleges with higher default rates. </p>
+<p>Similarly, initiatives to expand housing through purpose-built student accommodation can also earn universities additional student places.</p>
 
 
 
-<p>However, the situation is expected to change with IRCC now imposing strict provincial caps on the number of study permits each province can issue.</p>
+<p>Honeywood also addressed Australia’s skills agenda, referencing Jobs and Skills Australia’s <em><a href="https://www.jobsandskills.gov.au/research/studies/international-students-pathways-and-outcomes-study" rel="noreferrer noopener" target="_blank">International Students Pathways and Outcomes Study</a></em>, which tracks international students’ education and labour market outcomes. While the report highlights skills needed for Australia’s economy, Honeywood urged a broader perspective.</p>
 
 
 
-<p>&#8220;By surfacing these imbalances now, the new framework is encouraging provinces and institutions to adapt entry practices based on evidence and learning,&#8221; stated Mathai. </p>
+<p>&#8220;When we internalise the skill needs of our economies, we do our neighbouring countries a disservice,&#8221; he told the Canberra audience.</p>
 
 
 
-<p>Canada’s international student compliance regime, in effect since 2014, was established to identify potentially non-genuine students.</p>
+<p>&#8220;We also have, as advanced economies, a global responsibility to provide skills to countries – particularly in our region –&nbsp;that may be totally different skills needs than what our economy requires,&#8221; said Honeywood.</p>
 
 
 
-<p>It includes twice-yearly compliance reporting conducted in partnership with Designated Learning Institutions (DLIs), Canadian colleges, institutes, and universities authorised to host international students.</p>
-
-
-
-<p>While IRCC’s 2024 report noted no recourse against non-reporting DLIs, new rules now allow such institutions to be <a href="https://www.canada.ca/en/immigration-refugees-citizenship/news/notices/2025-provincial-territorial-allocations-under-international-student-cap.html?utm_source=chatgpt.com" rel="noreferrer noopener" target="_blank">suspended</a> for up to a year.</p>
-
-
-
-<p>Moreover, Canada’s struggle with international students not showing up for classes is not new, with reports earlier this year indicating nearly 50,000 instances of <a href="https://thepienews.com/canadian-institutions-log-almost-50k-no-shows-in-just-two-months/" rel="noreferrer noopener" target="_blank">“no-shows”</a>, international students who failed to enrol at their institutions, in the spring of 2024.</p>
-
-
-
-<p>While the “no-show” cohort included 4,279 Chinese students, 3,902 Nigerian students, and 2,712 Ghanaian students, Indian students accounted for the largest share at 19,582. It highlights a broader issue of immigration fraud originating from India, which Zafar identified as one of the top countries for such cases during her September 23 committee testimony.</p>
-
-
-
-<p>Over a quarter of international students seeking <a href="https://thepienews.com/students-five-countries-represent-over-50-of-asylum-applications-in-canada/" rel="noreferrer noopener" target="_blank">asylum</a> in Canada also came from India and Nigeria. </p>
-
-
-
-<p>According to Pranav Rathi, associate director of international recruitment at<a href="https://www.fanshawec.ca/" rel="noreferrer noopener" target="_blank"> Fanshawe College</a>, which hosts one of the largest numbers of Indian students in Ontario, a “rigorous approach” has led to about 20% of Indian applications being declined to ensure only qualified candidates proceed.</p>
-
-
-
-<p>&#8220;Each application is carefully reviewed, and checked for aggregate scores, backlogs, and authenticity of mark sheets. We keep ourselves updated with the recognised institution list published by UGC,&#8221; stated Rathi. </p>
-
-
-
-<p>&#8220;It is mandatory for a student to provide English language tests approved by IRCC and we also verify English proficiency through IELTS or equivalent test reports to confirm readiness for study in Canada.&#8221;</p>
-
-
-
-<p>Rathi suggested that one reason Indian students often appear among potentially non-compliant or “no-show” cases is a systemic issue that previously allowed them to change institutions after receiving a study permit. </p>
-
-
-
-<p>He added that schools now need to take a more active role, particularly when students apply through education agents.</p>
-
-
-
-<p>&#8220;Institutions should ensure that their representatives are transparent, well-trained, and follow ethical recruitment practices that align with institutional and regulatory standards,&#8221; stated Rathi. </p>
-
-
-
-<p>&#8220;Ongoing collaboration between institutions and government bodies to monitor market trends and share insights can help build a more transparent and sustainable international education system.&#8221;</p>
-
-
-
-<p>Many Canadian institutions are now facing headwinds, with course offerings and research funding being cut as Canada’s study permit refusal rate has <a href="https://thepienews.com/canada-rejects-nearly-two-in-three-study-permit-applicants/" rel="noreferrer noopener" target="_blank">climbed</a> to its highest level in over a decade.</p>
-
-
-
-<p>Canadian politicians have also intensified scrutiny of institutions across the country. </p>
-
-
-
-<p>Just days after the IRCC testimony on non-compliant students, a federal committee hearing led by MP Garner saw Conestoga College president John Tibbits questioned on issues ranging from his $600,000 salary to allegations of “juicing foreign student permits” amid growing concerns that healthcare, housing, and jobs that “don’t have capacity&#8221; in Ontario.</p>
-
-
-
-<p>&#8220;Colleges, including Conestoga, have been subject to scrutiny about the role international [students] play in housing, affordability and community pressures. I welcome the opportunity to reaffirm that Conestoga’s approach has always been about service. Our mission has always been to ensure the communities we serve have access to the skilled labour force they need to survive,&#8221; stated Tibbits,  while addressing the committee on Thursday. </p>
-
-
-
-<p>“Looking ahead, we believe this is the time to stabilize the system to build an international student program that is sustainable, fair, globally competitive and focused on Canada’s economic priorities,&#8221; he added, as <a href="https://www.ctvnews.ca/kitchener/article/conestoga-colleges-president-faces-criticism-at-federal-committee/" rel="noreferrer noopener" target="_blank">reported</a> by <em>CTV News</em>. </p>
-
-
-
-<p><br /></p>
-
-
-
-<p><br /></p>
-<p>The post <a href="https://thepienews.com/canada-47k-intl-students-flagged-for-potential-visa-non-compliance/">Canada: 47k int’l students flagged for potential visa non-compliance</a> appeared first on <a href="https://thepienews.com">The PIE News</a>.</p>
+<p><strong><em>The 2026 AIEC conference will take place in Sydney from 27-30 October where colleagues will gather to tackle the theme &#8216;future thinking&#8217;.</em></strong></p>
+<p>The post <a href="https://thepienews.com/how-australia-the-us-new-zealand-and-canada-are-navigating-change/">How Australia, the US, New Zealand and Canada are navigating change</a> appeared first on <a href="https://thepienews.com">The PIE News</a>.</p>
 
 ### 발행일
-2025-10-10T16:20:46+00:00
+2025-10-23T13:37:22+00:00
 
 ### 출처
 ThePieNews
@@ -663,71 +629,81 @@ ThePieNews
 --------------------------------------------------------------------------------
 
 ### 제목
-UK higher education TNE enrolments close gap with onshore international students
+What universities don’t know about their agents could cost them
 
 ### 링크
-https://thepienews.com/uk-higher-education-tne-enrolments-close-gap-with-onshore-international-students/
+https://thepienews.com/what-universities-dont-know-about-their-agents-could-cost-them/
 
 ### 본문
-<p>A <a href="https://www.universitiesuk.ac.uk/sites/default/files/field/downloads/2025-10/UUKi%20Scale%20of%20TNE%202023-24%20summary%20report.pdf" rel="noreferrer noopener" target="_blank">new report</a> from Universities UK International (UUKi) shows that as of 2023/24, there were 653,570 students studying at UK institutions overseas – just over 50,000 less than the number of onshore international students recruited to the UK (704,405).</p>
+<p>In my recent piece for&nbsp;<a href="https://thepienews.com/the-fragile-future-of-uk-international-student-recruitment/" rel="noreferrer noopener" target="_blank"><em>The PIE</em></a>, I argued that the UK’s reliance on international student fee income has never been greater but that it has also never been more fragile. The same is true of the way we recruit these students.</p>
 
 
 
-<p>With UK international student recruitment dipping by 4.2% between 2022/23 and 2023/24 and UK TNE students in higher education growing by 7.8% in the same period, the number of students educated by UK institutions abroad could soon outnumber onshore international students recruited to the UK.</p>
+<p>At the recent SAMS Global conference, an anonymous survey of the university representatives attending suggested that institutions are, on average, working with far larger agent networks than many might expect. More than seven in 10 (72%) reported working with over 100 agents, while 16% said their university had relationships with more than 300. And that’s before we add aggregators to the mix, where a single partnership can potentially mean exposure to thousands of sub-agents, most of whom the university may never know or directly interact with.</p>
 
 
 
-<figure class="wp-block-image size-large is-resized"><img alt="" class="wp-image-259297" height="576" src="https://thepienews.com/wp-content/uploads/2025/10/UUKi-graph-1024x576.webp" style="width: 1160px; height: auto;" width="1024" /></figure>
+<p>On the face of it, this scale looks like diversification. But in practice, the sector remains highly concentrated. A small number of large agencies dominate the market. Even if a university has 200 agents on its books, a handful typically account for the majority of enrolments.</p>
 
 
 
-<p>Presenting the report at the UUKi TNE conference this week, the organisation&#8217;s head of transnational education Griff Ryan said it could be difficult to predict long-term trends – particularly after a few years of unpredictability in the market.</p>
+<p>And yet, how much do universities really know about these agencies? According to the survey, many institutions use sophisticated CRM systems such as Salesforce, Dynamics or Azorus to manage their own student pipelines. It would be naïve to think the major agents aren’t doing the same. But how many universities actively ask about their agents’ systems, data management, or student-facing processes? Very few. The assumption seems to be that once an agent is signed up, the university’s responsibility largely stops at training and commission payments.</p>
 
 
 
-<p>&#8220;If you just project forward that same reduction rate for international students and growth for TNE students, that would mean that we would see TNE student numbers overtake international student numbers from the 2024/25 academic year,&#8221; Ryan noted. &#8220;Whether that is going to play out or not is potentially a different story. We all know what a rollercoaster it is to predict or forecast the number of international students from year to year, especially over the past few years of volatility&#8221;.</p>
+<p>This lack of curiosity extends to the most important element: communication with students. Universities often say they want their messages to reach students directly, but in reality agents are often the filter. Students hear the agent’s version of the institution – sometimes accurate, sometimes distorted, often shaped to maximise conversion. Reciprocity rarely goes both ways. </p>
 
 
 
-<p>While he stressed that he was not forecasting trends, he noted that student visa numbers were a good indication of interest in studying in the UK. These hit a peak in 2022, plateaued in 2023 and dropped sharply in 2024, he said, suggesting that further dips might be on the horizon.</p>
+<p>Universities don’t see what’s being said on their behalf. But why not? Are institutions simply failing to ask, or are agents deliberately keeping those communications hidden? Either way, the result is the same: universities are blind to how their own reputations are being packaged and sold.</p>
 
 
 
 <blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p>I certainly wouldn&#8217;t be surprised to see an increasing number of TNE students reflected in the 2024/25 [HESA] data<br /><strong><sub><sup>Griff Ryan, UUKi</sup></sub></strong></p>
+<p>A small number of large agencies dominate the market. Even if a university has 200 agents on its books, a handful typically account for the majority of enrolments</p>
 </blockquote>
 
 
 
-<p>&#8220;Trying to predict the TNE numbers is a bit more tricky,&#8221; he warned. &#8220;We don&#8217;t have as helpful as a lead indicator as we do with the student visas.&#8221;</p>
+<p>Several SAMS Global survey respondents acknowledged this tension. Some argued that communications should be a joint responsibility – “agents are our representatives, and we should know what they are saying” – while others admitted that universities lacked the resources to oversee this properly. A few leaned on <a href="https://www.britishcouncil.org/education/agents-counsellors/uk-quality-agent-framework" rel="noreferrer noopener" target="_blank">the AQF</a> as a sign of progress, but the reality is that monitoring remains sporadic, inconsistent, and often symbolic rather than substantive.</p>
 
 
 
-<p>&#8220;However, given the level of sectoral interest and investment in TNE has certainly been building&#8230; I certainly wouldn&#8217;t be surprised to see an increasing number of TNE students reflected in the 2024/25 [HESA] data,&#8221; he added.</p>
+<p>Meanwhile, costs continue to spiral. Universities are paying more not only because a growing share of students come through agents, but also because commission rates themselves are climbing. In competitive markets, institutions are offering higher rates, incentives, and bonuses, effectively bidding against each other for the same students. It has become a race to the top on commissions, without serious reflection on whether this is sustainable or even effective.</p>
 
 
 
-<p>The report also revealed that global demand for UK TNE provision is on the rise – with notable gains in student numbers over the past five years in Saudi Arabia (+142.2%), Sri Lanka (+104.2%) and the UAE (+88.1%).</p>
+<p>This is the crux of the issue. By outsourcing ever more of their student recruitment to agents without adequate oversight of systems or communications, universities are not just outsourcing the task of recruitment. They are outsourcing their compliance, their reputation, and ultimately their financial resilience. The current model of “more agents, higher commissions” may deliver short-term enrolments, but it risks undermining long-term sustainability.</p>
 
 
 
-<p>Meanwhile, demand for UK TNE is surging across Asia, with demand over the past five years growing notably in Vietnam (+233.9%), Nepal (+107.5%), Pakistan (+103%) and India (78.1%).</p>
+<p>So where does this leave us? I’d suggest three questions for universities to grapple with:</p>
 
 
 
-<p>The news comes in the same week as Lancaster University announced it is <a href="https://thepienews.com/lancaster-joins-india-boom-with-new-bengaluru-campus/" rel="noreferrer noopener" target="_blank">set to open</a> new branch campus in India&#8217;s tech epicentre Bengaluru, following in the footsteps of several other high profile Indian TNE ventures from UK universities over the past year. </p>
+<ul class="wp-block-list">
+<li>Should institutions be doing more to understand the systems their agents use and how they interact with prospective students?</li>
 
 
 
-<p>UK Prime Minister Keir Starmer is fresh from a <a href="https://thepienews.com/starmer-rules-out-visa-changes-promotes-uk-unis-during-india-visit/" rel="noreferrer noopener" target="_blank">two-day trip </a>to India to cement a trade deal between the two nations. During the visit, he brought with him a delegation of 13 UK university vice-chancellors in the delegation, with hopes that there will be new opportunities for UK institutions seeking TNE opportunities.</p>
+<li>How far should oversight of agent–student communication go, and what does genuine shared responsibility look like?</li>
+
+
+
+<li>And is the current model of rising commissions sustainable, or are universities pushing themselves into an ever more fragile cycle?</li>
+</ul>
+
+
+
+<p>We can’t afford to ignore these questions. As reliance on agents grows, the gap between what universities&nbsp;<em>think</em>&nbsp;they know about their networks and what is actually happening on the ground could prove costly for students, for universities, and for the UK’s reputation as a study destination.</p>
 
 
 
 <p></p>
-<p>The post <a href="https://thepienews.com/uk-higher-education-tne-enrolments-close-gap-with-onshore-international-students/">UK higher education TNE enrolments close gap with onshore international students</a> appeared first on <a href="https://thepienews.com">The PIE News</a>.</p>
+<p>The post <a href="https://thepienews.com/what-universities-dont-know-about-their-agents-could-cost-them/">What universities don’t know about their agents could cost them</a> appeared first on <a href="https://thepienews.com">The PIE News</a>.</p>
 
 ### 발행일
-2025-10-10T16:20:41+00:00
+2025-10-23T11:25:09+00:00
 
 ### 출처
 ThePieNews
